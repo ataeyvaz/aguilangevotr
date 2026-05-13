@@ -58,7 +58,10 @@
 ## 🔄 AŞAMA 2 — TR İçerik Üretimi
 
 ### TR Kelime Listesi
-- [ ] A1 seviye 66 kelime (TR + EN/ES/PT çevirileri)
+- [x] A1 seviye TR kelime listesi (99 kelime, 10 kategori)
+- [x] TR→EN çeviriler
+- [x] TR→ES çeviriler
+- [x] TR→PT çeviriler
 - [ ] A2 seviye 64 kelime
 - [ ] B1 seviye 56 kelime
 - [ ] B2 seviye 57 kelime

@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1,
+    "tr": "ekmek",
+    "en": "bread",
+    "es": "pan",
+    "pt": "pão",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🍞"
+  },
+  {
+    "id": 2,
+    "tr": "süt",
+    "en": "milk",
+    "es": "leche",
+    "pt": "leite",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🥛"
+  },
+  {
+    "id": 3,
+    "tr": "yumurta",
+    "en": "egg",
+    "es": "huevo",
+    "pt": "ovo",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🥚"
+  },
+  {
+    "id": 4,
+    "tr": "peynir",
+    "en": "cheese",
+    "es": "queso",
+    "pt": "queijo",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🧀"
+  },
+  {
+    "id": 5,
+    "tr": "pirinç",
+    "en": "rice",
+    "es": "arroz",
+    "pt": "arroz",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🍚"
+  },
+  {
+    "id": 6,
+    "tr": "çorba",
+    "en": "soup",
+    "es": "sopa",
+    "pt": "sopa",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🍲"
+  },
+  {
+    "id": 7,
+    "tr": "pasta",
+    "en": "cake",
+    "es": "pastel",
+    "pt": "bolo",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🎂"
+  },
+  {
+    "id": 8,
+    "tr": "kahve",
+    "en": "coffee",
+    "es": "café",
+    "pt": "café",
+    "level": "A1",
+    "category": "food",
+    "emoji": "☕"
+  },
+  {
+    "id": 9,
+    "tr": "çay",
+    "en": "tea",
+    "es": "té",
+    "pt": "chá",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🍵"
+  },
+  {
+    "id": 10,
+    "tr": "tavuk",
+    "en": "chicken",
+    "es": "pollo",
+    "pt": "frango",
+    "level": "A1",
+    "category": "food",
+    "emoji": "🍗"
+  },
+  {
+    "id": 11,
+    "tr": "kedi",
+    "en": "cat",
+    "es": "gato",
+    "pt": "gato",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐱"
+  },
+  {
+    "id": 12,
+    "tr": "köpek",
+    "en": "dog",
+    "es": "perro",
+    "pt": "cachorro",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐶"
+  },
+  {
+    "id": 13,
+    "tr": "balık",
+    "en": "fish",
+    "es": "pez",
+    "pt": "peixe",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐟"
+  },
+  {
+    "id": 14,
+    "tr": "kuş",
+    "en": "bird",
+    "es": "pájaro",
+    "pt": "pássaro",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐦"
+  },
+  {
+    "id": 15,
+    "tr": "tavşan",
+    "en": "rabbit",
+    "es": "conejo",
+    "pt": "coelho",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐰"
+  },
+  {
+    "id": 16,
+    "tr": "at",
+    "en": "horse",
+    "es": "caballo",
+    "pt": "cavalo",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐴"
+  },
+  {
+    "id": 17,
+    "tr": "inek",
+    "en": "cow",
+    "es": "vaca",
+    "pt": "vaca",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐮"
+  },
+  {
+    "id": 18,
+    "tr": "aslan",
+    "en": "lion",
+    "es": "león",
+    "pt": "leão",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🦁"
+  },
+  {
+    "id": 19,
+    "tr": "fil",
+    "en": "elephant",
+    "es": "elefante",
+    "pt": "elefante",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐘"
+  },
+  {
+    "id": 20,
+    "tr": "maymun",
+    "en": "monkey",
+    "es": "mono",
+    "pt": "macaco",
+    "level": "A1",
+    "category": "animals",
+    "emoji": "🐒"
+  },
+  {
+    "id": 21,
+    "tr": "kırmızı",
+    "en": "red",
+    "es": "rojo",
+    "pt": "vermelho",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "🔴"
+  },
+  {
+    "id": 22,
+    "tr": "mavi",
+    "en": "blue",
+    "es": "azul",
+    "pt": "azul",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "🔵"
+  },
+  {
+    "id": 23,
+    "tr": "yeşil",
+    "en": "green",
+    "es": "verde",
+    "pt": "verde",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "🟢"
+  },
+  {
+    "id": 24,
+    "tr": "sarı",
+    "en": "yellow",
+    "es": "amarillo",
+    "pt": "amarelo",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "🟡"
+  },
+  {
+    "id": 25,
+    "tr": "turuncu",
+    "en": "orange",
+    "es": "naranja",
+    "pt": "laranja",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "🟠"
+  },
+  {
+    "id": 26,
+    "tr": "mor",
+    "en": "purple",
+    "es": "morado",
+    "pt": "roxo",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "🟣"
+  },
+  {
+    "id": 27,
+    "tr": "pembe",
+    "en": "pink",
+    "es": "rosa",
+    "pt": "rosa",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "🌸"
+  },
+  {
+    "id": 28,
+    "tr": "beyaz",
+    "en": "white",
+    "es": "blanco",
+    "pt": "branco",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "⬜"
+  },
+  {
+    "id": 29,
+    "tr": "siyah",
+    "en": "black",
+    "es": "negro",
+    "pt": "preto",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "⬛"
+  },
+  {
+    "id": 30,
+    "tr": "kahverengi",
+    "en": "brown",
+    "es": "marrón",
+    "pt": "marrom",
+    "level": "A1",
+    "category": "colors",
+    "emoji": "🟫"
+  },
+  {
+    "id": 31,
+    "tr": "bir",
+    "en": "one",
+    "es": "uno",
+    "pt": "um",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "1️⃣"
+  },
+  {
+    "id": 32,
+    "tr": "iki",
+    "en": "two",
+    "es": "dos",
+    "pt": "dois",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "2️⃣"
+  },
+  {
+    "id": 33,
+    "tr": "üç",
+    "en": "three",
+    "es": "tres",
+    "pt": "três",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "3️⃣"
+  },
+  {
+    "id": 34,
+    "tr": "dört",
+    "en": "four",
+    "es": "cuatro",
+    "pt": "quatro",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "4️⃣"
+  },
+  {
+    "id": 35,
+    "tr": "beş",
+    "en": "five",
+    "es": "cinco",
+    "pt": "cinco",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "5️⃣"
+  },
+  {
+    "id": 36,
+    "tr": "altı",
+    "en": "six",
+    "es": "seis",
+    "pt": "seis",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "6️⃣"
+  },
+  {
+    "id": 37,
+    "tr": "yedi",
+    "en": "seven",
+    "es": "siete",
+    "pt": "sete",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "7️⃣"
+  },
+  {
+    "id": 38,
+    "tr": "sekiz",
+    "en": "eight",
+    "es": "ocho",
+    "pt": "oito",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "8️⃣"
+  },
+  {
+    "id": 39,
+    "tr": "dokuz",
+    "en": "nine",
+    "es": "nueve",
+    "pt": "nove",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "9️⃣"
+  },
+  {
+    "id": 40,
+    "tr": "on",
+    "en": "ten",
+    "es": "diez",
+    "pt": "dez",
+    "level": "A1",
+    "category": "numbers",
+    "emoji": "🔟"
+  },
+  {
+    "id": 41,
+    "tr": "anne",
+    "en": "mother",
+    "es": "madre",
+    "pt": "mãe",
+    "level": "A1",
+    "category": "family",
+    "emoji": "👩"
+  },
+  {
+    "id": 42,
+    "tr": "baba",
+    "en": "father",
+    "es": "padre",
+    "pt": "pai",
+    "level": "A1",
+    "category": "family",
+    "emoji": "👨"
+  },
+  {
+    "id": 43,
+    "tr": "erkek kardeş",
+    "en": "brother",
+    "es": "hermano",
+    "pt": "irmão",
+    "level": "A1",
+    "category": "family",
+    "emoji": "👦"
+  },
+  {
+    "id": 44,
+    "tr": "kız kardeş",
+    "en": "sister",
+    "es": "hermana",
+    "pt": "irmã",
+    "level": "A1",
+    "category": "family",
+    "emoji": "👧"
+  },
+  {
+    "id": 45,
+    "tr": "büyükanne",
+    "en": "grandmother",
+    "es": "abuela",
+    "pt": "avó",
+    "level": "A1",
+    "category": "family",
+    "emoji": "👵"
+  },
+  {
+    "id": 46,
+    "tr": "büyükbaba",
+    "en": "grandfather",
+    "es": "abuelo",
+    "pt": "avô",
+    "level": "A1",
+    "category": "family",
+    "emoji": "👴"
+  },
+  {
+    "id": 47,
+    "tr": "bebek",
+    "en": "baby",
+    "es": "bebé",
+    "pt": "bebê",
+    "level": "A1",
+    "category": "family",
+    "emoji": "👶"
+  },
+  {
+    "id": 48,
+    "tr": "aile",
+    "en": "family",
+    "es": "familia",
+    "pt": "família",
+    "level": "A1",
+    "category": "family",
+    "emoji": "👨‍👩‍👧"
+  },
+  {
+    "id": 49,
+    "tr": "oğul",
+    "en": "son",
+    "es": "hijo",
+    "pt": "filho",
+    "level": "A1",
+    "category": "family",
+    "emoji": "🧒‍♂️"
+  },
+  {
+    "id": 50,
+    "tr": "kız",
+    "en": "daughter",
+    "es": "hija",
+    "pt": "filha",
+    "level": "A1",
+    "category": "family",
+    "emoji": "🧒‍♀️"
+  },
+  {
+    "id": 51,
+    "tr": "baş",
+    "en": "head",
+    "es": "cabeza",
+    "pt": "cabeça",
+    "level": "A1",
+    "category": "body",
+    "emoji": "🧠"
+  },
+  {
+    "id": 52,
+    "tr": "göz",
+    "en": "eye",
+    "es": "ojo",
+    "pt": "olho",
+    "level": "A1",
+    "category": "body",
+    "emoji": "👁️"
+  },
+  {
+    "id": 53,
+    "tr": "kulak",
+    "en": "ear",
+    "es": "oreja",
+    "pt": "orelha",
+    "level": "A1",
+    "category": "body",
+    "emoji": "👂"
+  },
+  {
+    "id": 54,
+    "tr": "burun",
+    "en": "nose",
+    "es": "nariz",
+    "pt": "nariz",
+    "level": "A1",
+    "category": "body",
+    "emoji": "👃"
+  },
+  {
+    "id": 55,
+    "tr": "ağız",
+    "en": "mouth",
+    "es": "boca",
+    "pt": "boca",
+    "level": "A1",
+    "category": "body",
+    "emoji": "👄"
+  },
+  {
+    "id": 56,
+    "tr": "el",
+    "en": "hand",
+    "es": "mano",
+    "pt": "mão",
+    "level": "A1",
+    "category": "body",
+    "emoji": "✋"
+  },
+  {
+    "id": 57,
+    "tr": "ayak",
+    "en": "foot",
+    "es": "pie",
+    "pt": "pé",
+    "level": "A1",
+    "category": "body",
+    "emoji": "🦶"
+  },
+  {
+    "id": 58,
+    "tr": "kol",
+    "en": "arm",
+    "es": "brazo",
+    "pt": "braço",
+    "level": "A1",
+    "category": "body",
+    "emoji": "💪"
+  },
+  {
+    "id": 59,
+    "tr": "bacak",
+    "en": "leg",
+    "es": "pierna",
+    "pt": "perna",
+    "level": "A1",
+    "category": "body",
+    "emoji": "🦵"
+  },
+  {
+    "id": 60,
+    "tr": "saç",
+    "en": "hair",
+    "es": "cabello",
+    "pt": "cabelo",
+    "level": "A1",
+    "category": "body",
+    "emoji": "💇"
+  },
+  {
+    "id": 61,
+    "tr": "yatak odası",
+    "en": "bedroom",
+    "es": "dormitorio",
+    "pt": "quarto",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🛏️"
+  },
+  {
+    "id": 62,
+    "tr": "mutfak",
+    "en": "kitchen",
+    "es": "cocina",
+    "pt": "cozinha",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🍳"
+  },
+  {
+    "id": 63,
+    "tr": "kapı",
+    "en": "door",
+    "es": "puerta",
+    "pt": "porta",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🚪"
+  },
+  {
+    "id": 64,
+    "tr": "pencere",
+    "en": "window",
+    "es": "ventana",
+    "pt": "janela",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🪟"
+  },
+  {
+    "id": 65,
+    "tr": "sandalye",
+    "en": "chair",
+    "es": "silla",
+    "pt": "cadeira",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🪑"
+  },
+  {
+    "id": 66,
+    "tr": "kanepe",
+    "en": "sofa",
+    "es": "sofá",
+    "pt": "sofá",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🛋️"
+  },
+  {
+    "id": 67,
+    "tr": "yatak",
+    "en": "bed",
+    "es": "cama",
+    "pt": "cama",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🛏️"
+  },
+  {
+    "id": 68,
+    "tr": "banyo odası",
+    "en": "bathroom",
+    "es": "baño",
+    "pt": "banheiro",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🚿"
+  },
+  {
+    "id": 69,
+    "tr": "lamba",
+    "en": "lamp",
+    "es": "lámpara",
+    "pt": "lâmpada",
+    "level": "A1",
+    "category": "home",
+    "emoji": "💡"
+  },
+  {
+    "id": 70,
+    "tr": "ayna",
+    "en": "mirror",
+    "es": "espejo",
+    "pt": "espelho",
+    "level": "A1",
+    "category": "home",
+    "emoji": "🪞"
+  },
+  {
+    "id": 71,
+    "tr": "bisiklet",
+    "en": "bicycle",
+    "es": "bicicleta",
+    "pt": "bicicleta",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "🚲"
+  },
+  {
+    "id": 72,
+    "tr": "tekne",
+    "en": "boat",
+    "es": "barca",
+    "pt": "barco",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "⛵"
+  },
+  {
+    "id": 73,
+    "tr": "otobüs",
+    "en": "bus",
+    "es": "autobús",
+    "pt": "ônibus",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "🚌"
+  },
+  {
+    "id": 74,
+    "tr": "araba",
+    "en": "car",
+    "es": "coche",
+    "pt": "carro",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "🚗"
+  },
+  {
+    "id": 75,
+    "tr": "uçak",
+    "en": "plane",
+    "es": "avión",
+    "pt": "avião",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "✈️"
+  },
+  {
+    "id": 76,
+    "tr": "gemi",
+    "en": "ship",
+    "es": "barco",
+    "pt": "navio",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "🚢"
+  },
+  {
+    "id": 77,
+    "tr": "taksi",
+    "en": "taxi",
+    "es": "taxi",
+    "pt": "táxi",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "🚕"
+  },
+  {
+    "id": 78,
+    "tr": "tren",
+    "en": "train",
+    "es": "tren",
+    "pt": "trem",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "🚂"
+  },
+  {
+    "id": 79,
+    "tr": "kamyon",
+    "en": "truck",
+    "es": "camión",
+    "pt": "caminhão",
+    "level": "A1",
+    "category": "transport",
+    "emoji": "🚛"
+  },
+  {
+    "id": 80,
+    "tr": "elma",
+    "en": "apple",
+    "es": "manzana",
+    "pt": "maçã",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍎"
+  },
+  {
+    "id": 81,
+    "tr": "muz",
+    "en": "banana",
+    "es": "plátano",
+    "pt": "banana",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍌"
+  },
+  {
+    "id": 82,
+    "tr": "portakal",
+    "en": "orange",
+    "es": "naranja",
+    "pt": "laranja",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍊"
+  },
+  {
+    "id": 83,
+    "tr": "çilek",
+    "en": "strawberry",
+    "es": "fresa",
+    "pt": "morango",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍓"
+  },
+  {
+    "id": 84,
+    "tr": "üzüm",
+    "en": "grape",
+    "es": "uva",
+    "pt": "uva",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍇"
+  },
+  {
+    "id": 85,
+    "tr": "limon",
+    "en": "lemon",
+    "es": "limón",
+    "pt": "limão",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍋"
+  },
+  {
+    "id": 86,
+    "tr": "karpuz",
+    "en": "watermelon",
+    "es": "sandía",
+    "pt": "melancia",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍉"
+  },
+  {
+    "id": 87,
+    "tr": "ananas",
+    "en": "pineapple",
+    "es": "piña",
+    "pt": "abacaxi",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍍"
+  },
+  {
+    "id": 88,
+    "tr": "mango",
+    "en": "mango",
+    "es": "mango",
+    "pt": "manga",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🥭"
+  },
+  {
+    "id": 89,
+    "tr": "şeftali",
+    "en": "peach",
+    "es": "melocotón",
+    "pt": "pêssego",
+    "level": "A1",
+    "category": "fruits",
+    "emoji": "🍑"
+  },
+  {
+    "id": 90,
+    "tr": "kitap",
+    "en": "book",
+    "es": "libro",
+    "pt": "livro",
+    "level": "A1",
+    "category": "school",
+    "emoji": "📚"
+  },
+  {
+    "id": 91,
+    "tr": "kalem",
+    "en": "pen",
+    "es": "bolígrafo",
+    "pt": "caneta",
+    "level": "A1",
+    "category": "school",
+    "emoji": "🖊️"
+  },
+  {
+    "id": 92,
+    "tr": "kurşun kalem",
+    "en": "pencil",
+    "es": "lápiz",
+    "pt": "lápis",
+    "level": "A1",
+    "category": "school",
+    "emoji": "✏️"
+  },
+  {
+    "id": 93,
+    "tr": "cetvel",
+    "en": "ruler",
+    "es": "regla",
+    "pt": "régua",
+    "level": "A1",
+    "category": "school",
+    "emoji": "📏"
+  },
+  {
+    "id": 94,
+    "tr": "çanta",
+    "en": "bag",
+    "es": "mochila",
+    "pt": "mochila",
+    "level": "A1",
+    "category": "school",
+    "emoji": "🎒"
+  },
+  {
+    "id": 95,
+    "tr": "sıra / masa",
+    "en": "desk",
+    "es": "escritorio",
+    "pt": "carteira",
+    "level": "A1",
+    "category": "school",
+    "emoji": "🪑"
+  },
+  {
+    "id": 96,
+    "tr": "öğretmen",
+    "en": "teacher",
+    "es": "maestro",
+    "pt": "professor",
+    "level": "A1",
+    "category": "school",
+    "emoji": "👨‍🏫"
+  },
+  {
+    "id": 97,
+    "tr": "öğrenci",
+    "en": "student",
+    "es": "estudiante",
+    "pt": "aluno",
+    "level": "A1",
+    "category": "school",
+    "emoji": "🎓"
+  },
+  {
+    "id": 98,
+    "tr": "sınıf",
+    "en": "class",
+    "es": "clase",
+    "pt": "aula",
+    "level": "A1",
+    "category": "school",
+    "emoji": "🏛️"
+  },
+  {
+    "id": 99,
+    "tr": "defter",
+    "en": "notebook",
+    "es": "cuaderno",
+    "pt": "caderno",
+    "level": "A1",
+    "category": "school",
+    "emoji": "📓"
+  }
+]
