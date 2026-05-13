@@ -1,0 +1,58 @@
+{
+  "id": "es-lesson-6",
+  "lang": "es",
+  "lessonNumber": 6,
+  "title": "Geçmişe Yolculuk",
+  "subtitle": "Pretérito Indefinido — Geçmiş Zaman",
+  "formula": "-AR: -é/-aste/-ó/-amos | -ER/-IR: -í/-iste/-ió/-imos",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Ayer jugué al fútbol.", "tr": "Dün futbol oynadım." },
+    { "type": "correct", "sentence": "Ella comió una manzana.", "tr": "O bir elma yedi." },
+    { "type": "correct", "sentence": "Nosotros fuimos al parque.", "tr": "Biz parka gittik." },
+    { "type": "correct", "sentence": "¿Visitaste a tus abuelos?", "tr": "Büyük ebeveynlerini ziyaret ettin mi?" },
+    { "type": "wrong", "sentence": "Ella comé una manzana.", "tr": "", "note": "Geçmiş zaman için -ió eki, geniş zaman değil!" },
+    { "type": "wrong", "sentence": "Nosotros ímos al parque.", "tr": "", "note": "ir geçmiş zamanda düzensiz: fuimos!" }
+  ],
+  "inputSentences": [
+    { "text": "Esta mañana desayuné cereales.", "tr": "Bu sabah kahvaltıda mısır gevreği yedim." },
+    { "text": "Él fue a la escuela ayer.", "tr": "O dün okula gitti." },
+    { "text": "Jugamos a las cartas toda la tarde.", "tr": "Bütün öğleden sonra kart oynadık." },
+    { "text": "¿Terminó él sus deberes?", "tr": "O ödevini bitirdi mi?" },
+    { "text": "Ellos fueron al cine la semana pasada.", "tr": "Onlar geçen hafta sinemaya gittiler." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "Ella ___ (estar) muy contenta ayer.",
+      "answer": "estuvo",
+      "hint": "estar geçmişte düzensiz: estuvo"
+    },
+    {
+      "type": "build",
+      "words": ["desayuno", "Yo", "tomé"],
+      "answer": ["Yo", "tomé", "desayuno"],
+      "tr": "Ben kahvaltı yaptım."
+    },
+    {
+      "type": "fill",
+      "sentence": "Nosotros ___ (ir) a la playa.",
+      "answer": "fuimos",
+      "hint": "ir geçmişte düzensiz: fuimos"
+    },
+    {
+      "type": "build",
+      "words": ["al", "Él", "fue", "parque", "ayer"],
+      "answer": ["Él", "fue", "al", "parque", "ayer"],
+      "tr": "O dün parka gitti."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Hafta sonundan bahsediyorsunuz",
+    "lines": [
+      { "role": "A", "text": "¿Qué hiciste el fin de semana?", "tr": "Hafta sonu ne yaptın?" },
+      { "role": "B", "text": "Visité a mis abuelos.", "tr": "Büyük ebeveynlerimi ziyaret ettim." },
+      { "role": "A", "text": "¿Se alegraron de verte?", "tr": "Seni görünce sevindiler mi?" },
+      { "role": "B", "text": "Sí, jugamos juntos y nos reímos mucho.", "tr": "Evet, birlikte oynadık ve çok güldük." }
+    ]
+  }
+}

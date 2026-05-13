@@ -1,0 +1,350 @@
+{
+  "category": "questions",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "what",
+          "emoji": "❓",
+          "word": "what",
+          "tr": "ne",
+          "pron": "wɒt",
+          "level": "a1"
+        },
+        {
+          "id": "where",
+          "emoji": "📍",
+          "word": "where",
+          "tr": "nerede",
+          "pron": "wɛr",
+          "level": "a1"
+        },
+        {
+          "id": "when",
+          "emoji": "⏰",
+          "word": "when",
+          "tr": "ne zaman",
+          "pron": "wɛn",
+          "level": "a1"
+        },
+        {
+          "id": "who",
+          "emoji": "👤",
+          "word": "who",
+          "tr": "kim",
+          "pron": "huː",
+          "level": "a1"
+        },
+        {
+          "id": "how",
+          "emoji": "🤔",
+          "word": "how",
+          "tr": "nasıl",
+          "pron": "haʊ",
+          "level": "a1"
+        },
+        {
+          "id": "why",
+          "emoji": "💭",
+          "word": "why",
+          "tr": "neden",
+          "pron": "waɪ",
+          "level": "a1"
+        },
+        {
+          "id": "which",
+          "emoji": "🔀",
+          "word": "which",
+          "tr": "hangi",
+          "pron": "wɪtʃ",
+          "level": "a1"
+        },
+        {
+          "id": "howmany",
+          "emoji": "🔢",
+          "word": "how many",
+          "tr": "kaç tane",
+          "pron": "haʊ ˈmɛni",
+          "level": "a1"
+        },
+        {
+          "id": "howmuch",
+          "emoji": "💰",
+          "word": "how much",
+          "tr": "ne kadar",
+          "pron": "haʊ mʌtʃ",
+          "level": "a1"
+        },
+        {
+          "id": "whattime",
+          "emoji": "🕐",
+          "word": "what time",
+          "tr": "saat kaç",
+          "pron": "wɒt taɪm",
+          "level": "a1"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "what",
+          "emoji": "❓",
+          "word": "was",
+          "tr": "ne",
+          "pron": "vas",
+          "level": "a1"
+        },
+        {
+          "id": "where",
+          "emoji": "📍",
+          "word": "wo",
+          "tr": "nerede",
+          "pron": "voː",
+          "level": "a1"
+        },
+        {
+          "id": "when",
+          "emoji": "⏰",
+          "word": "wann",
+          "tr": "ne zaman",
+          "pron": "van",
+          "level": "a1"
+        },
+        {
+          "id": "who",
+          "emoji": "👤",
+          "word": "wer",
+          "tr": "kim",
+          "pron": "veːr",
+          "level": "a1"
+        },
+        {
+          "id": "how",
+          "emoji": "🤔",
+          "word": "wie",
+          "tr": "nasıl",
+          "pron": "viː",
+          "level": "a1"
+        },
+        {
+          "id": "why",
+          "emoji": "💭",
+          "word": "warum",
+          "tr": "neden",
+          "pron": "vaˈrʊm",
+          "level": "a1"
+        },
+        {
+          "id": "which",
+          "emoji": "🔀",
+          "word": "welche",
+          "tr": "hangi",
+          "pron": "ˈvɛlçə",
+          "level": "a1"
+        },
+        {
+          "id": "howmany",
+          "emoji": "🔢",
+          "word": "wie viele",
+          "tr": "kaç tane",
+          "pron": "viː ˈfiːlə",
+          "level": "a1"
+        },
+        {
+          "id": "howmuch",
+          "emoji": "💰",
+          "word": "wie viel",
+          "tr": "ne kadar",
+          "pron": "viː fiːl",
+          "level": "a1"
+        },
+        {
+          "id": "whattime",
+          "emoji": "🕐",
+          "word": "wie spät",
+          "tr": "saat kaç",
+          "pron": "viː ʃpɛːt",
+          "level": "a1"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "what",
+          "emoji": "❓",
+          "word": "qué",
+          "tr": "ne",
+          "pron": "ke",
+          "level": "a1"
+        },
+        {
+          "id": "where",
+          "emoji": "📍",
+          "word": "dónde",
+          "tr": "nerede",
+          "pron": "ˈdonde",
+          "level": "a1"
+        },
+        {
+          "id": "when",
+          "emoji": "⏰",
+          "word": "cuándo",
+          "tr": "ne zaman",
+          "pron": "ˈkwando",
+          "level": "a1"
+        },
+        {
+          "id": "who",
+          "emoji": "👤",
+          "word": "quién",
+          "tr": "kim",
+          "pron": "ˈkjen",
+          "level": "a1"
+        },
+        {
+          "id": "how",
+          "emoji": "🤔",
+          "word": "cómo",
+          "tr": "nasıl",
+          "pron": "ˈkomo",
+          "level": "a1"
+        },
+        {
+          "id": "why",
+          "emoji": "💭",
+          "word": "por qué",
+          "tr": "neden",
+          "pron": "por ˈke",
+          "level": "a1"
+        },
+        {
+          "id": "which",
+          "emoji": "🔀",
+          "word": "cuál",
+          "tr": "hangi",
+          "pron": "ˈkwal",
+          "level": "a1"
+        },
+        {
+          "id": "howmany",
+          "emoji": "🔢",
+          "word": "cuántos",
+          "tr": "kaç tane",
+          "pron": "ˈkwantos",
+          "level": "a1"
+        },
+        {
+          "id": "howmuch",
+          "emoji": "💰",
+          "word": "cuánto",
+          "tr": "ne kadar",
+          "pron": "ˈkwanto",
+          "level": "a1"
+        },
+        {
+          "id": "whattime",
+          "emoji": "🕐",
+          "word": "qué hora",
+          "tr": "saat kaç",
+          "pron": "ke ˈora",
+          "level": "a1"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "what",
+          "emoji": "❓",
+          "word": "o que",
+          "tr": "ne",
+          "pron": "u ˈke",
+          "level": "a1"
+        },
+        {
+          "id": "where",
+          "emoji": "📍",
+          "word": "onde",
+          "tr": "nerede",
+          "pron": "ˈõdʒi",
+          "level": "a1"
+        },
+        {
+          "id": "when",
+          "emoji": "⏰",
+          "word": "quando",
+          "tr": "ne zaman",
+          "pron": "ˈkwɐ̃du",
+          "level": "a1"
+        },
+        {
+          "id": "who",
+          "emoji": "👤",
+          "word": "quem",
+          "tr": "kim",
+          "pron": "ˈkẽj",
+          "level": "a1"
+        },
+        {
+          "id": "how",
+          "emoji": "🤔",
+          "word": "como",
+          "tr": "nasıl",
+          "pron": "ˈkomu",
+          "level": "a1"
+        },
+        {
+          "id": "why",
+          "emoji": "💭",
+          "word": "por que",
+          "tr": "neden",
+          "pron": "poʁ ˈke",
+          "level": "a1"
+        },
+        {
+          "id": "which",
+          "emoji": "🔀",
+          "word": "qual",
+          "tr": "hangi",
+          "pron": "ˈkwaw",
+          "level": "a1"
+        },
+        {
+          "id": "howmany",
+          "emoji": "🔢",
+          "word": "quantos",
+          "tr": "kaç tane",
+          "pron": "ˈkwɐ̃tuʃ",
+          "level": "a1"
+        },
+        {
+          "id": "howmuch",
+          "emoji": "💰",
+          "word": "quanto",
+          "tr": "ne kadar",
+          "pron": "ˈkwɐ̃tu",
+          "level": "a1"
+        },
+        {
+          "id": "whattime",
+          "emoji": "🕐",
+          "word": "que horas",
+          "tr": "saat kaç",
+          "pron": "ke ˈɔɾaʃ",
+          "level": "a1"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "en-lesson-5",
+  "lang": "en",
+  "lessonNumber": 5,
+  "title": "Nerede? Ne Zaman?",
+  "subtitle": "Where / When Soru Kelimeleri",
+  "formula": "Where + is/are + ...? | When + do/does + ...?",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Where is the library?", "tr": "Kütüphane nerede?" },
+    { "type": "correct", "sentence": "Where are my keys?", "tr": "Anahtarlarım nerede?" },
+    { "type": "correct", "sentence": "When does the bus arrive?", "tr": "Otobüs ne zaman gelir?" },
+    { "type": "correct", "sentence": "When do you wake up?", "tr": "Sen ne zaman kalkarsın?" },
+    { "type": "wrong", "sentence": "Where is my keys?", "tr": "", "note": "Çoğul → 'are' kullan!" },
+    { "type": "wrong", "sentence": "When does he wakes up?", "tr": "", "note": "Does sonrası fiil sade kalır!" }
+  ],
+  "inputSentences": [
+    { "text": "Where is the nearest park?", "tr": "En yakın park nerede?" },
+    { "text": "Where are the students?", "tr": "Öğrenciler nerede?" },
+    { "text": "When do you study?", "tr": "Ne zaman ders çalışırsın?" },
+    { "text": "When does the shop open?", "tr": "Dükkan ne zaman açılır?" },
+    { "text": "Where do they live?", "tr": "Onlar nerede yaşar?" }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "___ is the hospital?",
+      "answer": "Where",
+      "hint": "Yer sorusu → Where"
+    },
+    {
+      "type": "build",
+      "words": ["the", "When", "starts", "movie"],
+      "answer": ["When", "does", "the", "movie", "start"],
+      "tr": "Film ne zaman başlar?"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ do you go on weekends?",
+      "answer": "Where",
+      "hint": "Yer sorusu → Where"
+    },
+    {
+      "type": "build",
+      "words": ["you", "When", "do", "sleep"],
+      "answer": ["When", "do", "you", "sleep"],
+      "tr": "Ne zaman uyursun?"
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Birine yol tarifi veriyorsun",
+    "lines": [
+      { "role": "A", "text": "Excuse me, where is the bus station?", "tr": "Affedersiniz, otobüs durağı nerede?" },
+      { "role": "B", "text": "It is near the park, on the left.", "tr": "Parkın yanında, solda." },
+      { "role": "A", "text": "When does the next bus arrive?", "tr": "Bir sonraki otobüs ne zaman gelir?" },
+      { "role": "B", "text": "It arrives at three o'clock.", "tr": "Saat üçte gelir." }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "es-lesson-4",
+  "lang": "es",
+  "lessonNumber": 4,
+  "title": "Hayır, Yapmam! — Olumsuzluk",
+  "subtitle": "no + verbo",
+  "formula": "özne + no + fiil + ...",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "No como carne.", "tr": "Et yemem." },
+    { "type": "correct", "sentence": "Ella no habla alemán.", "tr": "O Almanca konuşmaz." },
+    { "type": "correct", "sentence": "No tenemos coche.", "tr": "Arabamız yok." },
+    { "type": "correct", "sentence": "Él no viene hoy.", "tr": "O bugün gelmiyor." },
+    { "type": "wrong", "sentence": "No ella habla alemán.", "tr": "", "note": "no özne ile fiil arasına girer!" },
+    { "type": "wrong", "sentence": "Ella habla no alemán.", "tr": "", "note": "no daima fiilin önünde gelir!" }
+  ],
+  "inputSentences": [
+    { "text": "No me gusta el frío.", "tr": "Soğuğu sevmiyorum." },
+    { "text": "Él no trabaja los domingos.", "tr": "O Pazar günleri çalışmaz." },
+    { "text": "No tenemos tiempo.", "tr": "Zamanımız yok." },
+    { "text": "Ella no tiene mascotas.", "tr": "Onun evcil hayvanı yok." },
+    { "text": "No hablo francés.", "tr": "Fransızca konuşmam." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "Yo ___ como pescado.",
+      "answer": "no",
+      "hint": "Olumsuzluk → no"
+    },
+    {
+      "type": "build",
+      "words": ["tengo", "no", "Yo", "perro"],
+      "answer": ["Yo", "no", "tengo", "perro"],
+      "tr": "Benim köpeğim yok."
+    },
+    {
+      "type": "fill",
+      "sentence": "Ella ___ habla inglés.",
+      "answer": "no",
+      "hint": "Olumsuzluk → no"
+    },
+    {
+      "type": "build",
+      "words": ["temprano", "no", "Él", "se", "levanta"],
+      "answer": ["Él", "no", "se", "levanta", "temprano"],
+      "tr": "O erken kalkmaz."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Yemek tercihlerini konuşuyorsunuz",
+    "lines": [
+      { "role": "A", "text": "¿Te gusta el pescado?", "tr": "Balığı sever misin?" },
+      { "role": "B", "text": "No, no me gusta el pescado. No lo como.", "tr": "Hayır, balığı sevmiyorum. Onu yemem." },
+      { "role": "A", "text": "¿Y tu hermano?", "tr": "Kardeşin?" },
+      { "role": "B", "text": "Él tampoco come pescado. Preferimos el pollo.", "tr": "O da balık yemez. İkimiz de tavuğu tercih ederiz." }
+    ]
+  }
+}

@@ -1,0 +1,1182 @@
+{
+  "category": "home",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "bath",
+          "emoji": "🛁",
+          "word": "bath",
+          "tr": "banyo / küvet",
+          "pron": "bɑːθ",
+          "level": "a1"
+        },
+        {
+          "id": "bathroom",
+          "emoji": "🚿",
+          "word": "bathroom",
+          "tr": "banyo odası",
+          "pron": "ˈbɑːθruːm",
+          "level": "a1"
+        },
+        {
+          "id": "bedroom",
+          "emoji": "🛏️",
+          "word": "bedroom",
+          "tr": "yatak odası",
+          "pron": "ˈbɛdruːm",
+          "level": "a1"
+        },
+        {
+          "id": "ceiling",
+          "emoji": "🏠",
+          "word": "ceiling",
+          "tr": "tavan",
+          "pron": "ˈsiːlɪŋ",
+          "level": "a1"
+        },
+        {
+          "id": "chair",
+          "emoji": "🪑",
+          "word": "chair",
+          "tr": "sandalye",
+          "pron": "tʃɛər",
+          "level": "a1"
+        },
+        {
+          "id": "door",
+          "emoji": "🚪",
+          "word": "door",
+          "tr": "kapı",
+          "pron": "dɔː",
+          "level": "a1"
+        },
+        {
+          "id": "floor",
+          "emoji": "🪵",
+          "word": "floor",
+          "tr": "zemin / yer",
+          "pron": "flɔː",
+          "level": "a1"
+        },
+        {
+          "id": "garden",
+          "emoji": "🌿",
+          "word": "garden",
+          "tr": "bahçe",
+          "pron": "ˈɡɑːdən",
+          "level": "a1"
+        },
+        {
+          "id": "gate",
+          "emoji": "🏡",
+          "word": "gate",
+          "tr": "bahçe kapısı",
+          "pron": "ɡeɪt",
+          "level": "a1"
+        },
+        {
+          "id": "kitchen",
+          "emoji": "🍳",
+          "word": "kitchen",
+          "tr": "mutfak",
+          "pron": "ˈkɪtʃɪn",
+          "level": "a1"
+        },
+        {
+          "id": "lamp",
+          "emoji": "💡",
+          "word": "lamp",
+          "tr": "lamba",
+          "pron": "læmp",
+          "level": "a1"
+        },
+        {
+          "id": "mirror",
+          "emoji": "🪞",
+          "word": "mirror",
+          "tr": "ayna",
+          "pron": "ˈmɪrər",
+          "level": "a1"
+        },
+        {
+          "id": "oven",
+          "emoji": "🫕",
+          "word": "oven",
+          "tr": "fırın",
+          "pron": "ˈʌvən",
+          "level": "a1"
+        },
+        {
+          "id": "roof",
+          "emoji": "🏠",
+          "word": "roof",
+          "tr": "çatı",
+          "pron": "ruːf",
+          "level": "a1"
+        },
+        {
+          "id": "shelf",
+          "emoji": "📚",
+          "word": "shelf",
+          "tr": "raf",
+          "pron": "ʃɛlf",
+          "level": "a1"
+        },
+        {
+          "id": "shower",
+          "emoji": "🚿",
+          "word": "shower",
+          "tr": "duş",
+          "pron": "ˈʃaʊər",
+          "level": "a1"
+        },
+        {
+          "id": "sofa",
+          "emoji": "🛋️",
+          "word": "sofa",
+          "tr": "kanepe",
+          "pron": "ˈsəʊfə",
+          "level": "a1"
+        },
+        {
+          "id": "stairs",
+          "emoji": "🪜",
+          "word": "stairs",
+          "tr": "merdiven",
+          "pron": "stɛəz",
+          "level": "a1"
+        },
+        {
+          "id": "wall",
+          "emoji": "🧱",
+          "word": "wall",
+          "tr": "duvar",
+          "pron": "wɔːl",
+          "level": "a1"
+        },
+        {
+          "id": "window",
+          "emoji": "🪟",
+          "word": "window",
+          "tr": "pencere",
+          "pron": "ˈwɪndəʊ",
+          "level": "a1"
+        },
+        {
+          "id": "yard",
+          "emoji": "🏡",
+          "word": "yard",
+          "tr": "avlu",
+          "pron": "jɑːd",
+          "level": "a1"
+        },
+        {
+          "id": "bed",
+          "emoji": "🛏️",
+          "word": "bed",
+          "tr": "yatak",
+          "pron": "bɛd",
+          "level": "a1"
+        },
+        {
+          "id": "blanket",
+          "emoji": "🛌",
+          "word": "blanket",
+          "tr": "battaniye",
+          "pron": "ˈblæŋkɪt",
+          "level": "a2"
+        },
+        {
+          "id": "brush",
+          "emoji": "🪥",
+          "word": "brush",
+          "tr": "fırça",
+          "pron": "brʌʃ",
+          "level": "a2"
+        },
+        {
+          "id": "bucket",
+          "emoji": "🪣",
+          "word": "bucket",
+          "tr": "kova",
+          "pron": "ˈbʌkɪt",
+          "level": "a2"
+        },
+        {
+          "id": "carpet",
+          "emoji": "🏠",
+          "word": "carpet",
+          "tr": "halı",
+          "pron": "ˈkɑːpɪt",
+          "level": "a2"
+        },
+        {
+          "id": "curtain",
+          "emoji": "🪟",
+          "word": "curtain",
+          "tr": "perde",
+          "pron": "ˈkɜːtən",
+          "level": "a2"
+        },
+        {
+          "id": "cushion",
+          "emoji": "🛋️",
+          "word": "cushion",
+          "tr": "minder",
+          "pron": "ˈkʊʃən",
+          "level": "a2"
+        },
+        {
+          "id": "drawer",
+          "emoji": "🗃️",
+          "word": "drawer",
+          "tr": "çekmece",
+          "pron": "drɔː",
+          "level": "a2"
+        },
+        {
+          "id": "fridge",
+          "emoji": "❄️",
+          "word": "fridge",
+          "tr": "buzdolabı",
+          "pron": "frɪdʒ",
+          "level": "a2"
+        },
+        {
+          "id": "freezer",
+          "emoji": "🧊",
+          "word": "freezer",
+          "tr": "derin dondurucu",
+          "pron": "ˈfriːzər",
+          "level": "a2"
+        },
+        {
+          "id": "kettle",
+          "emoji": "🫖",
+          "word": "kettle",
+          "tr": "su ısıtıcısı",
+          "pron": "ˈkɛtəl",
+          "level": "a2"
+        },
+        {
+          "id": "pillow",
+          "emoji": "💤",
+          "word": "pillow",
+          "tr": "yastık",
+          "pron": "ˈpɪləʊ",
+          "level": "a2"
+        },
+        {
+          "id": "sink",
+          "emoji": "🚰",
+          "word": "sink",
+          "tr": "lavabo / eviye",
+          "pron": "sɪŋk",
+          "level": "a2"
+        },
+        {
+          "id": "tap",
+          "emoji": "🚰",
+          "word": "tap",
+          "tr": "musluk",
+          "pron": "tæp",
+          "level": "a2"
+        },
+        {
+          "id": "toilet",
+          "emoji": "🚽",
+          "word": "toilet",
+          "tr": "tuvalet",
+          "pron": "ˈtɔɪlɪt",
+          "level": "a2"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "bath",
+          "emoji": "🛁",
+          "word": "Badewanne",
+          "tr": "banyo / küvet",
+          "pron": "ˈbaːdəvanə",
+          "level": "a1"
+        },
+        {
+          "id": "bathroom",
+          "emoji": "🚿",
+          "word": "Badezimmer",
+          "tr": "banyo odası",
+          "pron": "ˈbaːdətsɪmər",
+          "level": "a1"
+        },
+        {
+          "id": "bedroom",
+          "emoji": "🛏️",
+          "word": "Schlafzimmer",
+          "tr": "yatak odası",
+          "pron": "ˈʃlaːftsɪmər",
+          "level": "a1"
+        },
+        {
+          "id": "ceiling",
+          "emoji": "🏠",
+          "word": "Decke",
+          "tr": "tavan",
+          "pron": "ˈdɛkə",
+          "level": "a1"
+        },
+        {
+          "id": "chair",
+          "emoji": "🪑",
+          "word": "Stuhl",
+          "tr": "sandalye",
+          "pron": "ʃtuːl",
+          "level": "a1"
+        },
+        {
+          "id": "door",
+          "emoji": "🚪",
+          "word": "Tür",
+          "tr": "kapı",
+          "pron": "tyːr",
+          "level": "a1"
+        },
+        {
+          "id": "floor",
+          "emoji": "🪵",
+          "word": "Boden",
+          "tr": "zemin / yer",
+          "pron": "ˈboːdən",
+          "level": "a1"
+        },
+        {
+          "id": "garden",
+          "emoji": "🌿",
+          "word": "Garten",
+          "tr": "bahçe",
+          "pron": "ˈɡartən",
+          "level": "a1"
+        },
+        {
+          "id": "gate",
+          "emoji": "🏡",
+          "word": "Tor",
+          "tr": "bahçe kapısı",
+          "pron": "toːr",
+          "level": "a1"
+        },
+        {
+          "id": "kitchen",
+          "emoji": "🍳",
+          "word": "Küche",
+          "tr": "mutfak",
+          "pron": "ˈkʏçə",
+          "level": "a1"
+        },
+        {
+          "id": "lamp",
+          "emoji": "💡",
+          "word": "Lampe",
+          "tr": "lamba",
+          "pron": "ˈlampə",
+          "level": "a1"
+        },
+        {
+          "id": "mirror",
+          "emoji": "🪞",
+          "word": "Spiegel",
+          "tr": "ayna",
+          "pron": "ˈʃpiːɡəl",
+          "level": "a1"
+        },
+        {
+          "id": "oven",
+          "emoji": "🫕",
+          "word": "Ofen",
+          "tr": "fırın",
+          "pron": "ˈoːfən",
+          "level": "a1"
+        },
+        {
+          "id": "roof",
+          "emoji": "🏠",
+          "word": "Dach",
+          "tr": "çatı",
+          "pron": "dax",
+          "level": "a1"
+        },
+        {
+          "id": "shelf",
+          "emoji": "📚",
+          "word": "Regal",
+          "tr": "raf",
+          "pron": "reˈɡaːl",
+          "level": "a1"
+        },
+        {
+          "id": "shower",
+          "emoji": "🚿",
+          "word": "Dusche",
+          "tr": "duş",
+          "pron": "ˈduːʃə",
+          "level": "a1"
+        },
+        {
+          "id": "sofa",
+          "emoji": "🛋️",
+          "word": "Sofa",
+          "tr": "kanepe",
+          "pron": "ˈzoːfa",
+          "level": "a1"
+        },
+        {
+          "id": "stairs",
+          "emoji": "🪜",
+          "word": "Treppe",
+          "tr": "merdiven",
+          "pron": "ˈtrɛpə",
+          "level": "a1"
+        },
+        {
+          "id": "wall",
+          "emoji": "🧱",
+          "word": "Wand",
+          "tr": "duvar",
+          "pron": "vant",
+          "level": "a1"
+        },
+        {
+          "id": "window",
+          "emoji": "🪟",
+          "word": "Fenster",
+          "tr": "pencere",
+          "pron": "ˈfɛnstər",
+          "level": "a1"
+        },
+        {
+          "id": "yard",
+          "emoji": "🏡",
+          "word": "Hof",
+          "tr": "avlu",
+          "pron": "hoːf",
+          "level": "a1"
+        },
+        {
+          "id": "bed",
+          "emoji": "🛏️",
+          "word": "Bett",
+          "tr": "yatak",
+          "pron": "bɛt",
+          "level": "a1"
+        },
+        {
+          "id": "blanket",
+          "emoji": "🛌",
+          "word": "Decke",
+          "tr": "battaniye",
+          "pron": "ˈdɛkə",
+          "level": "a2"
+        },
+        {
+          "id": "brush",
+          "emoji": "🪥",
+          "word": "Bürste",
+          "tr": "fırça",
+          "pron": "ˈbʏrstə",
+          "level": "a2"
+        },
+        {
+          "id": "bucket",
+          "emoji": "🪣",
+          "word": "Eimer",
+          "tr": "kova",
+          "pron": "ˈaɪmər",
+          "level": "a2"
+        },
+        {
+          "id": "carpet",
+          "emoji": "🏠",
+          "word": "Teppich",
+          "tr": "halı",
+          "pron": "ˈtɛpɪç",
+          "level": "a2"
+        },
+        {
+          "id": "curtain",
+          "emoji": "🪟",
+          "word": "Vorhang",
+          "tr": "perde",
+          "pron": "ˈfoːrhang",
+          "level": "a2"
+        },
+        {
+          "id": "cushion",
+          "emoji": "🛋️",
+          "word": "Kissen",
+          "tr": "minder",
+          "pron": "ˈkɪsən",
+          "level": "a2"
+        },
+        {
+          "id": "drawer",
+          "emoji": "🗃️",
+          "word": "Schublade",
+          "tr": "çekmece",
+          "pron": "ˈʃuːplaːdə",
+          "level": "a2"
+        },
+        {
+          "id": "fridge",
+          "emoji": "❄️",
+          "word": "Kühlschrank",
+          "tr": "buzdolabı",
+          "pron": "ˈkyːlʃrank",
+          "level": "a2"
+        },
+        {
+          "id": "freezer",
+          "emoji": "🧊",
+          "word": "Gefrierschrank",
+          "tr": "derin dondurucu",
+          "pron": "ɡəˈfriːrʃrank",
+          "level": "a2"
+        },
+        {
+          "id": "kettle",
+          "emoji": "🫖",
+          "word": "Wasserkocher",
+          "tr": "su ısıtıcısı",
+          "pron": "ˈvasərkɔxər",
+          "level": "a2"
+        },
+        {
+          "id": "pillow",
+          "emoji": "💤",
+          "word": "Kopfkissen",
+          "tr": "yastık",
+          "pron": "ˈkɔpfkɪsən",
+          "level": "a2"
+        },
+        {
+          "id": "sink",
+          "emoji": "🚰",
+          "word": "Spüle",
+          "tr": "lavabo / eviye",
+          "pron": "ˈʃpyːlə",
+          "level": "a2"
+        },
+        {
+          "id": "tap",
+          "emoji": "🚰",
+          "word": "Wasserhahn",
+          "tr": "musluk",
+          "pron": "ˈvasərhaːn",
+          "level": "a2"
+        },
+        {
+          "id": "toilet",
+          "emoji": "🚽",
+          "word": "Toilette",
+          "tr": "tuvalet",
+          "pron": "toaˈlɛtə",
+          "level": "a2"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "bath",
+          "emoji": "🛁",
+          "word": "bañera",
+          "tr": "banyo / küvet",
+          "pron": "baˈɲera",
+          "level": "a1"
+        },
+        {
+          "id": "bathroom",
+          "emoji": "🚿",
+          "word": "baño",
+          "tr": "banyo odası",
+          "pron": "ˈbaɲo",
+          "level": "a1"
+        },
+        {
+          "id": "bedroom",
+          "emoji": "🛏️",
+          "word": "dormitorio",
+          "tr": "yatak odası",
+          "pron": "dormiˈtorjo",
+          "level": "a1"
+        },
+        {
+          "id": "ceiling",
+          "emoji": "🏠",
+          "word": "techo",
+          "tr": "tavan",
+          "pron": "ˈtetʃo",
+          "level": "a1"
+        },
+        {
+          "id": "chair",
+          "emoji": "🪑",
+          "word": "silla",
+          "tr": "sandalye",
+          "pron": "ˈsiʎa",
+          "level": "a1"
+        },
+        {
+          "id": "door",
+          "emoji": "🚪",
+          "word": "puerta",
+          "tr": "kapı",
+          "pron": "ˈpwerta",
+          "level": "a1"
+        },
+        {
+          "id": "floor",
+          "emoji": "🪵",
+          "word": "suelo",
+          "tr": "zemin / yer",
+          "pron": "ˈswelo",
+          "level": "a1"
+        },
+        {
+          "id": "garden",
+          "emoji": "🌿",
+          "word": "jardín",
+          "tr": "bahçe",
+          "pron": "xarˈðin",
+          "level": "a1"
+        },
+        {
+          "id": "gate",
+          "emoji": "🏡",
+          "word": "verja",
+          "tr": "bahçe kapısı",
+          "pron": "ˈberxa",
+          "level": "a1"
+        },
+        {
+          "id": "kitchen",
+          "emoji": "🍳",
+          "word": "cocina",
+          "tr": "mutfak",
+          "pron": "koˈθina",
+          "level": "a1"
+        },
+        {
+          "id": "lamp",
+          "emoji": "💡",
+          "word": "lámpara",
+          "tr": "lamba",
+          "pron": "ˈlampara",
+          "level": "a1"
+        },
+        {
+          "id": "mirror",
+          "emoji": "🪞",
+          "word": "espejo",
+          "tr": "ayna",
+          "pron": "esˈpexo",
+          "level": "a1"
+        },
+        {
+          "id": "oven",
+          "emoji": "🫕",
+          "word": "horno",
+          "tr": "fırın",
+          "pron": "ˈorno",
+          "level": "a1"
+        },
+        {
+          "id": "roof",
+          "emoji": "🏠",
+          "word": "tejado",
+          "tr": "çatı",
+          "pron": "teˈxaðo",
+          "level": "a1"
+        },
+        {
+          "id": "shelf",
+          "emoji": "📚",
+          "word": "estante",
+          "tr": "raf",
+          "pron": "esˈtante",
+          "level": "a1"
+        },
+        {
+          "id": "shower",
+          "emoji": "🚿",
+          "word": "ducha",
+          "tr": "duş",
+          "pron": "ˈdutʃa",
+          "level": "a1"
+        },
+        {
+          "id": "sofa",
+          "emoji": "🛋️",
+          "word": "sofá",
+          "tr": "kanepe",
+          "pron": "soˈfa",
+          "level": "a1"
+        },
+        {
+          "id": "stairs",
+          "emoji": "🪜",
+          "word": "escalera",
+          "tr": "merdiven",
+          "pron": "eskaˈlera",
+          "level": "a1"
+        },
+        {
+          "id": "wall",
+          "emoji": "🧱",
+          "word": "pared",
+          "tr": "duvar",
+          "pron": "paˈreð",
+          "level": "a1"
+        },
+        {
+          "id": "window",
+          "emoji": "🪟",
+          "word": "ventana",
+          "tr": "pencere",
+          "pron": "benˈtana",
+          "level": "a1"
+        },
+        {
+          "id": "yard",
+          "emoji": "🏡",
+          "word": "patio",
+          "tr": "avlu",
+          "pron": "ˈpatjo",
+          "level": "a1"
+        },
+        {
+          "id": "bed",
+          "emoji": "🛏️",
+          "word": "cama",
+          "tr": "yatak",
+          "pron": "ˈkama",
+          "level": "a1"
+        },
+        {
+          "id": "blanket",
+          "emoji": "🛌",
+          "word": "manta",
+          "tr": "battaniye",
+          "pron": "ˈmanta",
+          "level": "a2"
+        },
+        {
+          "id": "brush",
+          "emoji": "🪥",
+          "word": "cepillo",
+          "tr": "fırça",
+          "pron": "θeˈpiʎo",
+          "level": "a2"
+        },
+        {
+          "id": "bucket",
+          "emoji": "🪣",
+          "word": "cubo",
+          "tr": "kova",
+          "pron": "ˈkuβo",
+          "level": "a2"
+        },
+        {
+          "id": "carpet",
+          "emoji": "🏠",
+          "word": "alfombra",
+          "tr": "halı",
+          "pron": "alˈfombra",
+          "level": "a2"
+        },
+        {
+          "id": "curtain",
+          "emoji": "🪟",
+          "word": "cortina",
+          "tr": "perde",
+          "pron": "korˈtina",
+          "level": "a2"
+        },
+        {
+          "id": "cushion",
+          "emoji": "🛋️",
+          "word": "cojín",
+          "tr": "minder",
+          "pron": "koˈxin",
+          "level": "a2"
+        },
+        {
+          "id": "drawer",
+          "emoji": "🗃️",
+          "word": "cajón",
+          "tr": "çekmece",
+          "pron": "kaˈxon",
+          "level": "a2"
+        },
+        {
+          "id": "fridge",
+          "emoji": "❄️",
+          "word": "nevera",
+          "tr": "buzdolabı",
+          "pron": "neˈβera",
+          "level": "a2"
+        },
+        {
+          "id": "freezer",
+          "emoji": "🧊",
+          "word": "congelador",
+          "tr": "derin dondurucu",
+          "pron": "konxelaˈðor",
+          "level": "a2"
+        },
+        {
+          "id": "kettle",
+          "emoji": "🫖",
+          "word": "hervidor",
+          "tr": "su ısıtıcısı",
+          "pron": "erβiˈðor",
+          "level": "a2"
+        },
+        {
+          "id": "pillow",
+          "emoji": "💤",
+          "word": "almohada",
+          "tr": "yastık",
+          "pron": "almoˈaða",
+          "level": "a2"
+        },
+        {
+          "id": "sink",
+          "emoji": "🚰",
+          "word": "fregadero",
+          "tr": "lavabo / eviye",
+          "pron": "freɣaˈðero",
+          "level": "a2"
+        },
+        {
+          "id": "tap",
+          "emoji": "🚰",
+          "word": "grifo",
+          "tr": "musluk",
+          "pron": "ˈɡrifo",
+          "level": "a2"
+        },
+        {
+          "id": "toilet",
+          "emoji": "🚽",
+          "word": "inodoro",
+          "tr": "tuvalet",
+          "pron": "inoˈðoro",
+          "level": "a2"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "bath",
+          "emoji": "🛁",
+          "word": "banho",
+          "tr": "banyo / küvet",
+          "pron": "ˈbɐɲu",
+          "level": "a1"
+        },
+        {
+          "id": "bathroom",
+          "emoji": "🚿",
+          "word": "banheiro",
+          "tr": "banyo odası",
+          "pron": "bɐˈɲejɾu",
+          "level": "a1"
+        },
+        {
+          "id": "bedroom",
+          "emoji": "🛏️",
+          "word": "quarto",
+          "tr": "yatak odası",
+          "pron": "ˈkwaʁtu",
+          "level": "a1"
+        },
+        {
+          "id": "ceiling",
+          "emoji": "🏠",
+          "word": "teto",
+          "tr": "tavan",
+          "pron": "ˈtetu",
+          "level": "a1"
+        },
+        {
+          "id": "chair",
+          "emoji": "🪑",
+          "word": "cadeira",
+          "tr": "sandalye",
+          "pron": "kaˈdejɾa",
+          "level": "a1"
+        },
+        {
+          "id": "door",
+          "emoji": "🚪",
+          "word": "porta",
+          "tr": "kapı",
+          "pron": "ˈpɔʁta",
+          "level": "a1"
+        },
+        {
+          "id": "floor",
+          "emoji": "🪵",
+          "word": "chão",
+          "tr": "zemin / yer",
+          "pron": "ˈʃɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "garden",
+          "emoji": "🌿",
+          "word": "jardim",
+          "tr": "bahçe",
+          "pron": "ʒaʁˈdʒĩ",
+          "level": "a1"
+        },
+        {
+          "id": "gate",
+          "emoji": "🏡",
+          "word": "portão",
+          "tr": "bahçe kapısı",
+          "pron": "poʁˈtɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "kitchen",
+          "emoji": "🍳",
+          "word": "cozinha",
+          "tr": "mutfak",
+          "pron": "koˈziɲa",
+          "level": "a1"
+        },
+        {
+          "id": "lamp",
+          "emoji": "💡",
+          "word": "abajur",
+          "tr": "lamba",
+          "pron": "abaˈʒuʁ",
+          "level": "a1"
+        },
+        {
+          "id": "mirror",
+          "emoji": "🪞",
+          "word": "espelho",
+          "tr": "ayna",
+          "pron": "eʃˈpeʎu",
+          "level": "a1"
+        },
+        {
+          "id": "oven",
+          "emoji": "🫕",
+          "word": "forno",
+          "tr": "fırın",
+          "pron": "ˈfɔʁnu",
+          "level": "a1"
+        },
+        {
+          "id": "roof",
+          "emoji": "🏠",
+          "word": "telhado",
+          "tr": "çatı",
+          "pron": "teˈʎadu",
+          "level": "a1"
+        },
+        {
+          "id": "shelf",
+          "emoji": "📚",
+          "word": "prateleira",
+          "tr": "raf",
+          "pron": "pɾateˈlejɾa",
+          "level": "a1"
+        },
+        {
+          "id": "shower",
+          "emoji": "🚿",
+          "word": "chuveiro",
+          "tr": "duş",
+          "pron": "ʃuˈvejɾu",
+          "level": "a1"
+        },
+        {
+          "id": "sofa",
+          "emoji": "🛋️",
+          "word": "sofá",
+          "tr": "kanepe",
+          "pron": "soˈfa",
+          "level": "a1"
+        },
+        {
+          "id": "stairs",
+          "emoji": "🪜",
+          "word": "escada",
+          "tr": "merdiven",
+          "pron": "eʃˈkada",
+          "level": "a1"
+        },
+        {
+          "id": "wall",
+          "emoji": "🧱",
+          "word": "parede",
+          "tr": "duvar",
+          "pron": "paˈɾedʒi",
+          "level": "a1"
+        },
+        {
+          "id": "window",
+          "emoji": "🪟",
+          "word": "janela",
+          "tr": "pencere",
+          "pron": "ʒaˈnɛla",
+          "level": "a1"
+        },
+        {
+          "id": "yard",
+          "emoji": "🏡",
+          "word": "quintal",
+          "tr": "avlu",
+          "pron": "kĩˈtaw",
+          "level": "a1"
+        },
+        {
+          "id": "bed",
+          "emoji": "🛏️",
+          "word": "cama",
+          "tr": "yatak",
+          "pron": "ˈkama",
+          "level": "a1"
+        },
+        {
+          "id": "blanket",
+          "emoji": "🛌",
+          "word": "cobertor",
+          "tr": "battaniye",
+          "pron": "kobeʁˈtoʁ",
+          "level": "a2"
+        },
+        {
+          "id": "brush",
+          "emoji": "🪥",
+          "word": "escova",
+          "tr": "fırça",
+          "pron": "eʃˈkɔva",
+          "level": "a2"
+        },
+        {
+          "id": "bucket",
+          "emoji": "🪣",
+          "word": "balde",
+          "tr": "kova",
+          "pron": "ˈbawdʒi",
+          "level": "a2"
+        },
+        {
+          "id": "carpet",
+          "emoji": "🏠",
+          "word": "tapete",
+          "tr": "halı",
+          "pron": "taˈpeti",
+          "level": "a2"
+        },
+        {
+          "id": "curtain",
+          "emoji": "🪟",
+          "word": "cortina",
+          "tr": "perde",
+          "pron": "koʁˈtʃina",
+          "level": "a2"
+        },
+        {
+          "id": "cushion",
+          "emoji": "🛋️",
+          "word": "almofada",
+          "tr": "minder",
+          "pron": "awmoˈfada",
+          "level": "a2"
+        },
+        {
+          "id": "drawer",
+          "emoji": "🗃️",
+          "word": "gaveta",
+          "tr": "çekmece",
+          "pron": "ɡaˈveta",
+          "level": "a2"
+        },
+        {
+          "id": "fridge",
+          "emoji": "❄️",
+          "word": "geladeira",
+          "tr": "buzdolabı",
+          "pron": "ʒelaˈdejɾa",
+          "level": "a2"
+        },
+        {
+          "id": "freezer",
+          "emoji": "🧊",
+          "word": "freezer",
+          "tr": "derin dondurucu",
+          "pron": "ˈfɾizeʁ",
+          "level": "a2"
+        },
+        {
+          "id": "kettle",
+          "emoji": "🫖",
+          "word": "chaleira",
+          "tr": "su ısıtıcısı",
+          "pron": "ʃaˈlejɾa",
+          "level": "a2"
+        },
+        {
+          "id": "pillow",
+          "emoji": "💤",
+          "word": "travesseiro",
+          "tr": "yastık",
+          "pron": "tɾaveˈsejɾu",
+          "level": "a2"
+        },
+        {
+          "id": "sink",
+          "emoji": "🚰",
+          "word": "pia",
+          "tr": "lavabo / eviye",
+          "pron": "ˈpia",
+          "level": "a2"
+        },
+        {
+          "id": "tap",
+          "emoji": "🚰",
+          "word": "torneira",
+          "tr": "musluk",
+          "pron": "toʁˈnejɾa",
+          "level": "a2"
+        },
+        {
+          "id": "toilet",
+          "emoji": "🚽",
+          "word": "vaso",
+          "tr": "tuvalet",
+          "pron": "ˈvazu",
+          "level": "a2"
+        }
+      ]
+    }
+  }
+}

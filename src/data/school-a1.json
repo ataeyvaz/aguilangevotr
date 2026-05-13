@@ -1,0 +1,871 @@
+{
+  "category": "school",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "book",
+          "emoji": "📚",
+          "word": "book",
+          "tr": "kitap",
+          "pron": "bʊk",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I read a book.",
+              "tr": "Bir kitap okuyorum.",
+              "words": [
+                "I",
+                "read",
+                "a",
+                "book"
+              ]
+            },
+            {
+              "en": "The book is big.",
+              "tr": "Kitap büyük.",
+              "words": [
+                "The",
+                "book",
+                "is",
+                "big"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pen",
+          "emoji": "🖊️",
+          "word": "pen",
+          "tr": "kalem",
+          "pron": "pɛn",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I write with a pen.",
+              "tr": "Kalemle yazıyorum.",
+              "words": [
+                "I",
+                "write",
+                "with",
+                "a",
+                "pen"
+              ]
+            },
+            {
+              "en": "The pen is blue.",
+              "tr": "Kalem mavi.",
+              "words": [
+                "The",
+                "pen",
+                "is",
+                "blue"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pencil",
+          "emoji": "✏️",
+          "word": "pencil",
+          "tr": "kurşun kalem",
+          "pron": "ˈpɛnsəl",
+          "level": "a1"
+        },
+        {
+          "id": "ruler",
+          "emoji": "📏",
+          "word": "ruler",
+          "tr": "cetvel",
+          "pron": "ˈruːlər",
+          "level": "a1"
+        },
+        {
+          "id": "bag",
+          "emoji": "🎒",
+          "word": "bag",
+          "tr": "çanta",
+          "pron": "bæɡ",
+          "level": "a1"
+        },
+        {
+          "id": "desk",
+          "emoji": "🪑",
+          "word": "desk",
+          "tr": "sıra / masa",
+          "pron": "dɛsk",
+          "level": "a1"
+        },
+        {
+          "id": "teacher",
+          "emoji": "👨‍🏫",
+          "word": "teacher",
+          "tr": "öğretmen",
+          "pron": "ˈtiːtʃər",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "My teacher is kind.",
+              "tr": "Öğretmenim nazik.",
+              "words": [
+                "My",
+                "teacher",
+                "is",
+                "kind"
+              ]
+            },
+            {
+              "en": "I like my teacher.",
+              "tr": "Öğretmenimden hoşlanıyorum.",
+              "words": [
+                "I",
+                "like",
+                "my",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "friend",
+          "emoji": "👫",
+          "word": "friend",
+          "tr": "arkadaş",
+          "pron": "frɛnd",
+          "level": "a1"
+        },
+        {
+          "id": "school",
+          "emoji": "🏫",
+          "word": "school",
+          "tr": "okul",
+          "pron": "skuːl",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I go to school.",
+              "tr": "Okula gidiyorum.",
+              "words": [
+                "I",
+                "go",
+                "to",
+                "school"
+              ]
+            },
+            {
+              "en": "School is fun.",
+              "tr": "Okul eğlenceli.",
+              "words": [
+                "School",
+                "is",
+                "fun"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "class",
+          "emoji": "🏛️",
+          "word": "class",
+          "tr": "sınıf",
+          "pron": "klæs",
+          "level": "a1"
+        },
+        {
+          "id": "notebook",
+          "emoji": "📓",
+          "word": "notebook",
+          "tr": "defter",
+          "pron": "ˈnoʊtbʊk",
+          "level": "a1"
+        },
+        {
+          "id": "board",
+          "emoji": "📋",
+          "word": "board",
+          "tr": "tahta",
+          "pron": "bɔːrd",
+          "level": "a1"
+        },
+        {
+          "id": "classroom",
+          "emoji": "📐",
+          "word": "classroom",
+          "tr": "sınıf odası",
+          "pron": "ˈklɑːsruːm",
+          "level": "a1"
+        },
+        {
+          "id": "exam",
+          "emoji": "📝",
+          "word": "exam",
+          "tr": "sınav",
+          "pron": "ɪɡˈzæm",
+          "level": "a1"
+        },
+        {
+          "id": "homework",
+          "emoji": "📁",
+          "word": "homework",
+          "tr": "ödev",
+          "pron": "ˈhoʊmwɜːk",
+          "level": "a1"
+        },
+        {
+          "id": "lesson",
+          "emoji": "📖",
+          "word": "lesson",
+          "tr": "ders",
+          "pron": "ˈlɛsən",
+          "level": "a1"
+        },
+        {
+          "id": "library",
+          "emoji": "📚",
+          "word": "library",
+          "tr": "kütüphane",
+          "pron": "ˈlaɪbrəri",
+          "level": "a1"
+        },
+        {
+          "id": "student",
+          "emoji": "🎓",
+          "word": "student",
+          "tr": "öğrenci",
+          "pron": "ˈstjuːdənt",
+          "level": "a1"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "book",
+          "emoji": "📚",
+          "word": "Buch",
+          "tr": "kitap",
+          "pron": "buːx",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Ich lese ein Buch.",
+              "tr": "Bir kitap okuyorum.",
+              "words": [
+                "Ich",
+                "lese",
+                "ein",
+                "Buch"
+              ]
+            },
+            {
+              "text": "Das Buch ist groß.",
+              "tr": "Kitap büyük.",
+              "words": [
+                "Das",
+                "Buch",
+                "ist",
+                "groß"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pen",
+          "emoji": "🖊️",
+          "word": "Stift",
+          "tr": "kalem",
+          "pron": "ʃtɪft",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I write with a pen.",
+              "tr": "Kalemle yazıyorum.",
+              "words": [
+                "I",
+                "write",
+                "with",
+                "a",
+                "pen"
+              ]
+            },
+            {
+              "en": "The pen is blue.",
+              "tr": "Kalem mavi.",
+              "words": [
+                "The",
+                "pen",
+                "is",
+                "blue"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pencil",
+          "emoji": "✏️",
+          "word": "Bleistift",
+          "tr": "kurşun kalem",
+          "pron": "ˈblaɪʃtɪft",
+          "level": "a1"
+        },
+        {
+          "id": "ruler",
+          "emoji": "📏",
+          "word": "Lineal",
+          "tr": "cetvel",
+          "pron": "liˈneːal",
+          "level": "a1"
+        },
+        {
+          "id": "bag",
+          "emoji": "🎒",
+          "word": "Tasche",
+          "tr": "çanta",
+          "pron": "ˈtaʃə",
+          "level": "a1"
+        },
+        {
+          "id": "desk",
+          "emoji": "🪑",
+          "word": "Tisch",
+          "tr": "masa",
+          "pron": "tɪʃ",
+          "level": "a1"
+        },
+        {
+          "id": "teacher",
+          "emoji": "👨‍🏫",
+          "word": "Lehrer",
+          "tr": "öğretmen",
+          "pron": "ˈleːrər",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "My teacher is kind.",
+              "tr": "Öğretmenim nazik.",
+              "words": [
+                "My",
+                "teacher",
+                "is",
+                "kind"
+              ]
+            },
+            {
+              "en": "I like my teacher.",
+              "tr": "Öğretmenimden hoşlanıyorum.",
+              "words": [
+                "I",
+                "like",
+                "my",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "friend",
+          "emoji": "👫",
+          "word": "Freund",
+          "tr": "arkadaş",
+          "pron": "frɔʏnt",
+          "level": "a1"
+        },
+        {
+          "id": "school",
+          "emoji": "🏫",
+          "word": "Schule",
+          "tr": "okul",
+          "pron": "ˈʃuːlə",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Ich gehe zur Schule.",
+              "tr": "Okula gidiyorum.",
+              "words": [
+                "Ich",
+                "gehe",
+                "zur",
+                "Schule"
+              ]
+            },
+            {
+              "text": "Die Schule macht Spaß.",
+              "tr": "Okul eğlenceli.",
+              "words": [
+                "Die",
+                "Schule",
+                "macht",
+                "Spaß"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "class",
+          "emoji": "🏛️",
+          "word": "Klasse",
+          "tr": "sınıf",
+          "pron": "ˈklasə",
+          "level": "a1"
+        },
+        {
+          "id": "notebook",
+          "emoji": "📓",
+          "word": "Heft",
+          "tr": "defter",
+          "pron": "hɛft",
+          "level": "a1"
+        },
+        {
+          "id": "board",
+          "emoji": "📋",
+          "word": "Tafel",
+          "tr": "tahta",
+          "pron": "ˈtaːfəl",
+          "level": "a1"
+        },
+        {
+          "id": "classroom",
+          "emoji": "📐",
+          "word": "Klassenzimmer",
+          "tr": "sınıf odası",
+          "pron": "ˈklasəntsɪmər",
+          "level": "a1"
+        },
+        {
+          "id": "exam",
+          "emoji": "📝",
+          "word": "Prüfung",
+          "tr": "sınav",
+          "pron": "ˈpryːfʊŋ",
+          "level": "a1"
+        },
+        {
+          "id": "homework",
+          "emoji": "📁",
+          "word": "Hausaufgaben",
+          "tr": "ödev",
+          "pron": "ˈhaʊsaʊfɡaːbən",
+          "level": "a1"
+        },
+        {
+          "id": "lesson",
+          "emoji": "📖",
+          "word": "Stunde",
+          "tr": "ders",
+          "pron": "ˈʃtʊndə",
+          "level": "a1"
+        },
+        {
+          "id": "library",
+          "emoji": "📚",
+          "word": "Bibliothek",
+          "tr": "kütüphane",
+          "pron": "bɪblioˈteːk",
+          "level": "a1"
+        },
+        {
+          "id": "student",
+          "emoji": "🎓",
+          "word": "Schüler",
+          "tr": "öğrenci",
+          "pron": "ˈʃyːlər",
+          "level": "a1"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "book",
+          "emoji": "📚",
+          "word": "libro",
+          "tr": "kitap",
+          "pron": "ˈlibro",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Leo un libro.",
+              "tr": "Bir kitap okuyorum.",
+              "words": [
+                "Leo",
+                "un",
+                "libro"
+              ]
+            },
+            {
+              "text": "El libro es grande.",
+              "tr": "Kitap büyük.",
+              "words": [
+                "El",
+                "libro",
+                "es",
+                "grande"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pen",
+          "emoji": "🖊️",
+          "word": "bolígrafo",
+          "tr": "kalem",
+          "pron": "boˈliɣrafo",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I write with a pen.",
+              "tr": "Kalemle yazıyorum.",
+              "words": [
+                "I",
+                "write",
+                "with",
+                "a",
+                "pen"
+              ]
+            },
+            {
+              "en": "The pen is blue.",
+              "tr": "Kalem mavi.",
+              "words": [
+                "The",
+                "pen",
+                "is",
+                "blue"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pencil",
+          "emoji": "✏️",
+          "word": "lápiz",
+          "tr": "kurşun kalem",
+          "pron": "ˈlapiθ",
+          "level": "a1"
+        },
+        {
+          "id": "ruler",
+          "emoji": "📏",
+          "word": "regla",
+          "tr": "cetvel",
+          "pron": "ˈreɣla",
+          "level": "a1"
+        },
+        {
+          "id": "bag",
+          "emoji": "🎒",
+          "word": "mochila",
+          "tr": "çanta",
+          "pron": "moˈtʃila",
+          "level": "a1"
+        },
+        {
+          "id": "desk",
+          "emoji": "🪑",
+          "word": "escritorio",
+          "tr": "masa",
+          "pron": "eskriˈtorjo",
+          "level": "a1"
+        },
+        {
+          "id": "teacher",
+          "emoji": "👨‍🏫",
+          "word": "maestro",
+          "tr": "öğretmen",
+          "pron": "maˈestro",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "My teacher is kind.",
+              "tr": "Öğretmenim nazik.",
+              "words": [
+                "My",
+                "teacher",
+                "is",
+                "kind"
+              ]
+            },
+            {
+              "en": "I like my teacher.",
+              "tr": "Öğretmenimden hoşlanıyorum.",
+              "words": [
+                "I",
+                "like",
+                "my",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "friend",
+          "emoji": "👫",
+          "word": "amigo",
+          "tr": "arkadaş",
+          "pron": "aˈmiɣo",
+          "level": "a1"
+        },
+        {
+          "id": "school",
+          "emoji": "🏫",
+          "word": "escuela",
+          "tr": "okul",
+          "pron": "esˈkwela",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Voy a la escuela.",
+              "tr": "Okula gidiyorum.",
+              "words": [
+                "Voy",
+                "a",
+                "la",
+                "escuela"
+              ]
+            },
+            {
+              "text": "La escuela es divertida.",
+              "tr": "Okul eğlenceli.",
+              "words": [
+                "La",
+                "escuela",
+                "es",
+                "divertida"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "class",
+          "emoji": "🏛️",
+          "word": "clase",
+          "tr": "sınıf",
+          "pron": "ˈklase",
+          "level": "a1"
+        },
+        {
+          "id": "notebook",
+          "emoji": "📓",
+          "word": "cuaderno",
+          "tr": "defter",
+          "pron": "kwaˈðerno",
+          "level": "a1"
+        },
+        {
+          "id": "board",
+          "emoji": "📋",
+          "word": "pizarra",
+          "tr": "tahta",
+          "pron": "piˈθara",
+          "level": "a1"
+        },
+        {
+          "id": "classroom",
+          "emoji": "📐",
+          "word": "aula",
+          "tr": "sınıf odası",
+          "pron": "ˈaula",
+          "level": "a1"
+        },
+        {
+          "id": "exam",
+          "emoji": "📝",
+          "word": "examen",
+          "tr": "sınav",
+          "pron": "ekˈsamen",
+          "level": "a1"
+        },
+        {
+          "id": "homework",
+          "emoji": "📁",
+          "word": "deberes",
+          "tr": "ödev",
+          "pron": "deˈβeres",
+          "level": "a1"
+        },
+        {
+          "id": "lesson",
+          "emoji": "📖",
+          "word": "lección",
+          "tr": "ders",
+          "pron": "lekˈθjon",
+          "level": "a1"
+        },
+        {
+          "id": "library",
+          "emoji": "📚",
+          "word": "biblioteca",
+          "tr": "kütüphane",
+          "pron": "biblio̯ˈteka",
+          "level": "a1"
+        },
+        {
+          "id": "student",
+          "emoji": "🎓",
+          "word": "estudiante",
+          "tr": "öğrenci",
+          "pron": "estuˈðjante",
+          "level": "a1"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "book",
+          "emoji": "📚",
+          "word": "livro",
+          "tr": "kitap",
+          "pron": "ˈlivɾu",
+          "level": "a1"
+        },
+        {
+          "id": "pen",
+          "emoji": "🖊️",
+          "word": "caneta",
+          "tr": "kalem",
+          "pron": "kaˈneta",
+          "level": "a1"
+        },
+        {
+          "id": "pencil",
+          "emoji": "✏️",
+          "word": "lápis",
+          "tr": "kurşun kalem",
+          "pron": "ˈlapiʃ",
+          "level": "a1"
+        },
+        {
+          "id": "ruler",
+          "emoji": "📏",
+          "word": "régua",
+          "tr": "cetvel",
+          "pron": "ˈʁɛɡwa",
+          "level": "a1"
+        },
+        {
+          "id": "bag",
+          "emoji": "🎒",
+          "word": "mochila",
+          "tr": "çanta",
+          "pron": "moˈʃila",
+          "level": "a1"
+        },
+        {
+          "id": "desk",
+          "emoji": "🪑",
+          "word": "mesa",
+          "tr": "sıra / masa",
+          "pron": "ˈmeza",
+          "level": "a1"
+        },
+        {
+          "id": "teacher",
+          "emoji": "👨‍🏫",
+          "word": "professor",
+          "tr": "öğretmen",
+          "pron": "pɾofeˈsoʁ",
+          "level": "a1"
+        },
+        {
+          "id": "friend",
+          "emoji": "👫",
+          "word": "amigo",
+          "tr": "arkadaş",
+          "pron": "aˈmiɡu",
+          "level": "a1"
+        },
+        {
+          "id": "school",
+          "emoji": "🏫",
+          "word": "escola",
+          "tr": "okul",
+          "pron": "eʃˈkɔla",
+          "level": "a1"
+        },
+        {
+          "id": "class",
+          "emoji": "🏛️",
+          "word": "aula",
+          "tr": "sınıf",
+          "pron": "ˈawla",
+          "level": "a1"
+        },
+        {
+          "id": "notebook",
+          "emoji": "📓",
+          "word": "caderno",
+          "tr": "defter",
+          "pron": "kaˈdɛʁnu",
+          "level": "a1"
+        },
+        {
+          "id": "board",
+          "emoji": "📋",
+          "word": "lousa",
+          "tr": "tahta",
+          "pron": "ˈlowza",
+          "level": "a1"
+        },
+        {
+          "id": "classroom",
+          "emoji": "📐",
+          "word": "sala de aula",
+          "tr": "sınıf odası",
+          "pron": "ˈsala dʒi ˈawla",
+          "level": "a1"
+        },
+        {
+          "id": "exam",
+          "emoji": "📝",
+          "word": "prova",
+          "tr": "sınav",
+          "pron": "ˈpɾɔva",
+          "level": "a1"
+        },
+        {
+          "id": "homework",
+          "emoji": "📁",
+          "word": "dever",
+          "tr": "ödev",
+          "pron": "deˈveʁ",
+          "level": "a1"
+        },
+        {
+          "id": "lesson",
+          "emoji": "📖",
+          "word": "lição",
+          "tr": "ders",
+          "pron": "liˈsɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "library",
+          "emoji": "📚",
+          "word": "biblioteca",
+          "tr": "kütüphane",
+          "pron": "biblijoˈtɛka",
+          "level": "a1"
+        },
+        {
+          "id": "student",
+          "emoji": "🎓",
+          "word": "aluno",
+          "tr": "öğrenci",
+          "pron": "aˈlunu",
+          "level": "a1"
+        }
+      ]
+    }
+  }
+}

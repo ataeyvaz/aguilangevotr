@@ -1,0 +1,58 @@
+{
+  "id": "es-lesson-3",
+  "lang": "es",
+  "lessonNumber": 3,
+  "title": "Soru Soralım!",
+  "subtitle": "Preguntas con ¿Qué / Quién / Dónde?",
+  "formula": "¿Palabra interrogativa + verbo + sujeto + ...?",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "¿Qué comes tú?", "tr": "Sen ne yiyorsun?" },
+    { "type": "correct", "sentence": "¿Quién es ella?", "tr": "O kim?" },
+    { "type": "correct", "sentence": "¿Dónde vives?", "tr": "Nerede yaşıyorsun?" },
+    { "type": "correct", "sentence": "¿Cuándo llegas?", "tr": "Ne zaman geliyorsun?" },
+    { "type": "wrong", "sentence": "¿Qué tú comes?", "tr": "", "note": "Soru sözcüğünden sonra fiil gelir!" },
+    { "type": "wrong", "sentence": "¿Quien es ella?", "tr": "", "note": "Soru sözcükleri aksan alır: ¿Quién?" }
+  ],
+  "inputSentences": [
+    { "text": "¿Qué haces los fines de semana?", "tr": "Hafta sonları ne yapıyorsun?" },
+    { "text": "¿Quién es tu profesor favorito?", "tr": "Favori öğretmenin kim?" },
+    { "text": "¿Dónde está la biblioteca?", "tr": "Kütüphane nerede?" },
+    { "text": "¿Cuándo empieza la clase?", "tr": "Ders ne zaman başlıyor?" },
+    { "text": "¿Cómo se llama tu amigo?", "tr": "Arkadaşının adı ne?" }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "¿___ vives tú? — En Madrid.",
+      "answer": "Dónde",
+      "hint": "Yer sorusu → ¿Dónde?"
+    },
+    {
+      "type": "build",
+      "words": ["comes", "Qué", "tú", "¿"],
+      "answer": ["¿Qué", "comes", "tú"],
+      "tr": "Sen ne yiyorsun?"
+    },
+    {
+      "type": "fill",
+      "sentence": "¿___ llega el tren? — A las tres.",
+      "answer": "Cuándo",
+      "hint": "Zaman sorusu → ¿Cuándo?"
+    },
+    {
+      "type": "build",
+      "words": ["tu", "es", "¿Quién", "amigo"],
+      "answer": ["¿Quién", "es", "tu", "amigo"],
+      "tr": "Arkadaşın kim?"
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Yeni bir arkadaşı tanıyorsun",
+    "lines": [
+      { "role": "A", "text": "¿Cómo te llamas?", "tr": "Adın ne?" },
+      { "role": "B", "text": "Me llamo Diego. ¿Y tú?", "tr": "Adım Diego. Ya senin?" },
+      { "role": "A", "text": "Soy Ana. ¿Dónde vives?", "tr": "Ben Ana'yım. Nerede yaşıyorsun?" },
+      { "role": "B", "text": "Vivo en Barcelona. ¿Cuándo vienes a visitarme?", "tr": "Barselona'da yaşıyorum. Beni ziyarete ne zaman geleceksin?" }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "es-lesson-1",
+  "lang": "es",
+  "lessonNumber": 1,
+  "title": "Şimdiki Zamanda Eylemler",
+  "subtitle": "Presente de Indicativo",
+  "formula": "-AR: yo -o, tú -as, él -a, nosotros -amos | -ER/-IR farklı çekim",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Yo hablo español.", "tr": "Ben İspanyolca konuşurum." },
+    { "type": "correct", "sentence": "Tú hablas inglés.", "tr": "Sen İngilizce konuşursun." },
+    { "type": "correct", "sentence": "Él come mucho.", "tr": "O çok yer." },
+    { "type": "correct", "sentence": "Nosotros bebemos agua.", "tr": "Biz su içeriz." },
+    { "type": "wrong", "sentence": "Él hablo español.", "tr": "", "note": "él/ella → -a eki alır: habla!" },
+    { "type": "wrong", "sentence": "Yo hablas español.", "tr": "", "note": "yo → -o eki alır: hablo!" }
+  ],
+  "inputSentences": [
+    { "text": "Yo como desayuno cada día.", "tr": "Her gün kahvaltı yaparım." },
+    { "text": "Él trabaja en una escuela.", "tr": "O bir okulda çalışır." },
+    { "text": "Ellos juegan juntos.", "tr": "Onlar birlikte oynar." },
+    { "text": "Tú bebes agua después del deporte.", "tr": "Sen spordan sonra su içersin." },
+    { "text": "Nosotros aprendemos español.", "tr": "Biz İspanyolca öğreniyoruz." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "Ella ___ (hablar) muy rápido.",
+      "answer": "habla",
+      "hint": "ella → -ar fiil → -a eki"
+    },
+    {
+      "type": "build",
+      "words": ["español", "Yo", "aprendo"],
+      "answer": ["Yo", "aprendo", "español"],
+      "tr": "Ben İspanyolca öğreniyorum."
+    },
+    {
+      "type": "fill",
+      "sentence": "Nosotros ___ (beber) leche.",
+      "answer": "bebemos",
+      "hint": "nosotros → -er fiil → -emos eki"
+    },
+    {
+      "type": "build",
+      "words": ["Tú", "bien", "cantas"],
+      "answer": ["Tú", "cantas", "bien"],
+      "tr": "Sen güzel şarkı söylüyorsun."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Bir arkadaşınla konuşuyorsun",
+    "lines": [
+      { "role": "A", "text": "¿Qué haces cada día?", "tr": "Her gün ne yapıyorsun?" },
+      { "role": "B", "text": "Estudio español y luego juego al fútbol.", "tr": "İspanyolca çalışıyorum, sonra futbol oynuyorum." },
+      { "role": "A", "text": "¿Tu hermana también juega al fútbol?", "tr": "Kız kardeşin de futbol oynuyor mu?" },
+      { "role": "B", "text": "No, ella prefiere leer libros.", "tr": "Hayır, o kitap okumayı tercih ediyor." }
+    ]
+  }
+}

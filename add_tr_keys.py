@@ -1,0 +1,156 @@
+﻿import json, sys, io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+
+BASE_TR = {
+    "learn": "Öğren",
+    "words": "Kelimeler",
+    "grammar": "Dilbilgisi",
+    "dialogues": "Diyaloglar",
+    "quiz": "Test",
+    "games": "Oyunlar",
+    "dictionary": "Sözlük",
+    "searchWord": "Kelime ara...",
+    "search": "Ara",
+    "levels": "Seviyeler",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "dashboard": "Gösterge Paneli",
+    "statistics": "İstatistikler",
+    "my words": "Kelimelerim",
+    "login": "Giriş Yap",
+    "logout": "Çıkış Yap",
+    "start": "Başla",
+    "continue": "Devam Et",
+    "next": "Sonraki",
+    "back": "Geri",
+    "finish": "Bitir",
+    "correct": "Doğru",
+    "wrong": "Yanlış",
+    "skip": "Atla",
+    "easy": "Kolay",
+    "hard": "Zor",
+    "study now": "Şimdi Çalış",
+    "show answer": "Cevabı Göster",
+    "start learning": "Öğrenmeye Başla",
+    "start test": "Testi Başlat",
+    "well done": "Aferin!",
+    "keep going": "Devam Et!",
+    "daily goal": "Günlük Hedef",
+    "streak": "Seri",
+    "points": "Puan",
+    "level": "Seviye",
+    "progress": "İlerleme",
+    "mastered": "Ustalaşıldı",
+    "learning": "Öğreniliyor",
+    "review": "Tekrar",
+    "new": "Yeni",
+    "what do you want to study": "Ne çalışmak istiyorsun?",
+    "daily word cards and quiz": "Günlük kelime kartları ve test",
+    "grammar lessons and exercises": "Dilbilgisi dersleri ve alıştırmalar",
+    "conversation scenarios": "Konuşma senaryoları",
+    "test your knowledge": "Bilgini test et",
+    "select language": "Dil Seç",
+    "select age": "Yaş Seç",
+    "child": "Çocuk",
+    "adult": "Yetişkin",
+    "english": "İngilizce",
+    "spanish": "İspanyolca",
+    "portuguese": "Portekizce",
+    "parent panel": "Ebeveyn Paneli",
+    "pin code": "PIN Kodu",
+    "default pin": "Varsayılan PIN",
+    "a1 beginner": "A1 Başlangıç",
+    "a2 elementary": "A2 Temel",
+    "your level is": "Seviyeniz:",
+    "words learned": "Öğrenilen Kelimeler",
+    "days streak": "Günlük Seri",
+    "correct answers": "Doğru Cevaplar",
+    "placement test": "Seviye Testi",
+    "question of": "Soru",
+    "choose the correct answer": "Doğru cevabı seçin",
+    "goal completed": "Hedef Tamamlandı!",
+    "continue learning": "Öğrenmeye Devam Et →",
+    "categories": "Kategoriler",
+    "see all": "Tümünü Gör →",
+    "select category": "Kategori Seç",
+    "search categories": "Kategorilerde ara...",
+    "complete n flash cards": "{n} kart tamamla",
+    "listen": "Dinle",
+    "tap to see meaning": "Anlamı görmek için dokun",
+    "say it": "Söyle",
+    "view visited words": "Gezilen kelimeleri gör",
+    "i got it": "Anladım ✓",
+    "previous": "← Önceki",
+    "last 7 days": "Son 7 Gün",
+    "great job": "Harika iş!",
+    "due today": "bekliyor",
+    "words need review": "kelime tekrar bekliyor — hadi pratik yapalım! 💪",
+    "come back tomorrow": "Seriyi sürdürmek için yarın geri gel! 🚀",
+}
+
+PROFILE_TR = {
+    "i speak": "Konuştuğum dil",
+    "i want to learn": "Öğrenmek istediğim dil",
+    "select your language": "Dilini seç",
+    "select your native language": "Ana dilini seç",
+    "native language": "Ana dil",
+    "learning language": "Öğrenilen dil",
+    "interface language": "Arayüz dili",
+    "change interface language": "Arayüz dilini değiştir",
+    "language settings": "Dil ayarları",
+    "how old are you": "Kaç yaşındasın?",
+    "i am a child": "Ben bir çocuğum",
+    "i am an adult": "Ben bir yetişkinim",
+    "welcome to aguilangevo": "AguiLangEvoTR'ye hoş geldiniz",
+    "lets get started": "Hadi başlayalım",
+    "choose your mode": "Modunu seç",
+    "learning mode": "Öğrenme modu",
+    "child mode": "Çocuk modu",
+    "adult mode": "Yetişkin modu",
+    "your journey begins": "Yolculuğun başlıyor",
+    "ready to learn": "Öğrenmeye hazır",
+    "what is your name": "Adın ne?",
+    "enter your name": "Adını gir",
+    "hello": "Merhaba",
+    "good morning": "Günaydın",
+    "good afternoon": "İyi öğleden sonralar",
+    "good evening": "İyi akşamlar",
+    "lets go": "Hadi gidelim",
+    "continue setup": "Kuruluma devam et",
+    "almost done": "Neredeyse bitti",
+    "your profile is ready": "Profilin hazır",
+    "start learning now": "Şimdi öğrenmeye başla",
+    "i speak spanish": "İspanyolca konuşuyorum",
+    "i speak portuguese": "Portekizce konuşuyorum",
+    "i want to learn english": "İngilizce öğrenmek istiyorum",
+    "español": "İspanyolca",
+    "português": "Portekizce",
+    "english": "İngilizce",
+    "change language": "Dili değiştir",
+    "interface set to": "Arayüz dili:",
+    "language changed successfully": "Dil başarıyla değiştirildi",
+    "save": "Kaydet",
+    "saved": "Kaydedildi!",
+}
+
+def add_tr(filepath, tr_map):
+    with open(filepath, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    added = 0
+    for key, val in data.items():
+        if key in tr_map:
+            if "tr" not in val:
+                val["tr"] = tr_map[key]
+                added += 1
+        else:
+            if "tr" not in val:
+                val["tr"] = val.get("en", key)
+                added += 1
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"{filepath}: {added} TR anahtarı eklendi")
+
+base = r"C:\Users\Ata\Desktop\aguilangevotr\_source_data"
+add_tr(f"{base}\\ui_translations.json", BASE_TR)
+add_tr(f"{base}\\ui_translations_profile.json", PROFILE_TR)
+print("Tamamlandi.")

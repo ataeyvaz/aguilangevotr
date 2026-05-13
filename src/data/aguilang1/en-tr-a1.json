@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Hi.",
+    "tr": "Selam.",
+    "level": "A1"
+  },
+  {
+    "en": "Run!",
+    "tr": "Kaç!",
+    "level": "A1"
+  },
+  {
+    "en": "Run.",
+    "tr": "Kaç!",
+    "level": "A1"
+  },
+  {
+    "en": "Who?",
+    "tr": "Kim?",
+    "level": "A1"
+  },
+  {
+    "en": "Help!",
+    "tr": "Yardım et!",
+    "level": "A1"
+  },
+  {
+    "en": "Do it.",
+    "tr": "Onu yap.",
+    "level": "A1"
+  },
+  {
+    "en": "Go on.",
+    "tr": "Devam et.",
+    "level": "A1"
+  },
+  {
+    "en": "Hello!",
+    "tr": "Selam.",
+    "level": "A1"
+  },
+  {
+    "en": "Hello.",
+    "tr": "Merhaba.",
+    "level": "A1"
+  },
+  {
+    "en": "I see.",
+    "tr": "Anlıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "Eat it.",
+    "tr": "Bunu ye.",
+    "level": "A1"
+  },
+  {
+    "en": "Go now.",
+    "tr": "Şimdi git.",
+    "level": "A1"
+  },
+  {
+    "en": "I know.",
+    "tr": "Biliyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "No way!",
+    "tr": "Mümkün değil!",
+    "level": "A1"
+  },
+  {
+    "en": "Why me?",
+    "tr": "Neden ben?",
+    "level": "A1"
+  },
+  {
+    "en": "Be nice.",
+    "tr": "Kibar ol.",
+    "level": "A1"
+  },
+  {
+    "en": "Come in.",
+    "tr": "Gelin.",
+    "level": "A1"
+  },
+  {
+    "en": "Go home.",
+    "tr": "Eve git.",
+    "level": "A1"
+  },
+  {
+    "en": "Goodbye!",
+    "tr": "Hoşça kalın.",
+    "level": "A1"
+  },
+  {
+    "en": "Help me.",
+    "tr": "Bana yardım et.",
+    "level": "A1"
+  },
+  {
+    "en": "Help us.",
+    "tr": "Bize yardım et.",
+    "level": "A1"
+  },
+  {
+    "en": "How sad!",
+    "tr": "Ne kadar üzücü!",
+    "level": "A1"
+  },
+  {
+    "en": "It's me!",
+    "tr": "Benim!",
+    "level": "A1"
+  },
+  {
+    "en": "Me, too.",
+    "tr": "Ben de.",
+    "level": "A1"
+  },
+  {
+    "en": "See you!",
+    "tr": "Görüşürüz.",
+    "level": "A1"
+  },
+  {
+    "en": "See you.",
+    "tr": "Görüşürüz.",
+    "level": "A1"
+  },
+  {
+    "en": "Take it.",
+    "tr": "Al senin olsun.",
+    "level": "A1"
+  },
+  {
+    "en": "We know.",
+    "tr": "Biliyoruz.",
+    "level": "A1"
+  },
+  {
+    "en": "Why not?",
+    "tr": "Neden olmasın?",
+    "level": "A1"
+  },
+  {
+    "en": "You run.",
+    "tr": "Sen koşarsın.",
+    "level": "A1"
+  },
+  {
+    "en": "Am I fat?",
+    "tr": "Kilolu muyum?",
+    "level": "A1"
+  },
+  {
+    "en": "Be a man.",
+    "tr": "Adam ol.",
+    "level": "A1"
+  },
+  {
+    "en": "Can I go?",
+    "tr": "Gidebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Go on in.",
+    "tr": "İçeri gir.",
+    "level": "A1"
+  },
+  {
+    "en": "How nice!",
+    "tr": "Ne kadar güzel!",
+    "level": "A1"
+  },
+  {
+    "en": "I am Tom.",
+    "tr": "Ben Tom'um.",
+    "level": "A1"
+  },
+  {
+    "en": "I can go.",
+    "tr": "Ben gidebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I did OK.",
+    "tr": "Fena değildi.",
+    "level": "A1"
+  },
+  {
+    "en": "I did it.",
+    "tr": "Onu ben yaptım.",
+    "level": "A1"
+  },
+  {
+    "en": "I get it.",
+    "tr": "Anlıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I got it.",
+    "tr": "Anladım.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw it.",
+    "tr": "Onu gördüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I use it.",
+    "tr": "Ben onu kullanırım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was OK.",
+    "tr": "İyiydim.",
+    "level": "A1"
+  },
+  {
+    "en": "It's his.",
+    "tr": "Bu onunki.",
+    "level": "A1"
+  },
+  {
+    "en": "It's new.",
+    "tr": "O yenidir.",
+    "level": "A1"
+  },
+  {
+    "en": "It's old.",
+    "tr": "Bu eski.",
+    "level": "A1"
+  },
+  {
+    "en": "It's red.",
+    "tr": "Bu kırmızı.",
+    "level": "A1"
+  },
+  {
+    "en": "It's sad.",
+    "tr": "Bu üzücü.",
+    "level": "A1"
+  },
+  {
+    "en": "May I go?",
+    "tr": "Gidebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Sit here.",
+    "tr": "Buraya otur.",
+    "level": "A1"
+  },
+  {
+    "en": "We're OK.",
+    "tr": "Biz iyiyiz.",
+    "level": "A1"
+  },
+  {
+    "en": "What for?",
+    "tr": "Ne için?",
+    "level": "A1"
+  },
+  {
+    "en": "Who am I?",
+    "tr": "Ben kimim?",
+    "level": "A1"
+  },
+  {
+    "en": "Write me.",
+    "tr": "Bana yaz.",
+    "level": "A1"
+  },
+  {
+    "en": "Am I cute?",
+    "tr": "Ben sevimli miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I dead?",
+    "tr": "Öldüm mü?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I late?",
+    "tr": "Geç kaldım mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I eat?",
+    "tr": "Yiyebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we go?",
+    "tr": "Gidebilir miyiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Come here.",
+    "tr": "Buraya gel!",
+    "level": "A1"
+  },
+  {
+    "en": "Come home.",
+    "tr": "Eve gel.",
+    "level": "A1"
+  },
+  {
+    "en": "Did I win?",
+    "tr": "Ben kazandım mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Do it now.",
+    "tr": "Onu şimdi yap.",
+    "level": "A1"
+  },
+  {
+    "en": "Film this.",
+    "tr": "Bunu çek.",
+    "level": "A1"
+  },
+  {
+    "en": "Go for it.",
+    "tr": "Onun için git.",
+    "level": "A1"
+  },
+  {
+    "en": "Go get it.",
+    "tr": "Onu almaya git.",
+    "level": "A1"
+  },
+  {
+    "en": "Go to bed.",
+    "tr": "Uyu.",
+    "level": "A1"
+  },
+  {
+    "en": "He is ill.",
+    "tr": "O, hasta.",
+    "level": "A1"
+  },
+  {
+    "en": "He is old.",
+    "tr": "O yaşlıdır.",
+    "level": "A1"
+  },
+  {
+    "en": "Here I am.",
+    "tr": "Ben buradayım.",
+    "level": "A1"
+  },
+  {
+    "en": "How is it?",
+    "tr": "Bu nasıl?",
+    "level": "A1"
+  },
+  {
+    "en": "I am full.",
+    "tr": "Ben tokum.",
+    "level": "A1"
+  },
+  {
+    "en": "I am here.",
+    "tr": "Ben buradayım.",
+    "level": "A1"
+  },
+  {
+    "en": "I am okay.",
+    "tr": "Ben iyiyim.",
+    "level": "A1"
+  },
+  {
+    "en": "I am sick.",
+    "tr": "Ben hastayım.",
+    "level": "A1"
+  },
+  {
+    "en": "I am sure.",
+    "tr": "Eminim.",
+    "level": "A1"
+  },
+  {
+    "en": "I am tall.",
+    "tr": "Ben uzun boyluyum.",
+    "level": "A1"
+  },
+  {
+    "en": "I am weak.",
+    "tr": "Ben güçsüzüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I beg you.",
+    "tr": "Yalvarırım.",
+    "level": "A1"
+  },
+  {
+    "en": "I can fly.",
+    "tr": "Uçabilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can run.",
+    "tr": "Koşabilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can ski.",
+    "tr": "Ben kayak yapabilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can win.",
+    "tr": "Ben kazanabilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I do that.",
+    "tr": "Ben bunu yaparım.",
+    "level": "A1"
+  },
+  {
+    "en": "I felt it.",
+    "tr": "Onu hissettim.",
+    "level": "A1"
+  },
+  {
+    "en": "I get you.",
+    "tr": "Seni anlıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I give in.",
+    "tr": "Yenilgiyi kabulleniyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I give up.",
+    "tr": "Vazgeçerim.",
+    "level": "A1"
+  },
+  {
+    "en": "I got hot.",
+    "tr": "Sıcakladım.",
+    "level": "A1"
+  },
+  {
+    "en": "I had fun.",
+    "tr": "Eğlendim.",
+    "level": "A1"
+  },
+  {
+    "en": "I hate it.",
+    "tr": "Ondan nefret ediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I knew it.",
+    "tr": "Onu biliyordum.",
+    "level": "A1"
+  },
+  {
+    "en": "I like it.",
+    "tr": "Onu seviyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I lost it.",
+    "tr": "Onu kaybettim.",
+    "level": "A1"
+  },
+  {
+    "en": "I love it!",
+    "tr": "Onu seviyorum!",
+    "level": "A1"
+  },
+  {
+    "en": "I made it.",
+    "tr": "Bunu ben yaptım.",
+    "level": "A1"
+  },
+  {
+    "en": "I mean it.",
+    "tr": "Onu demek istiyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I met him.",
+    "tr": "Onunla karşılaştım.",
+    "level": "A1"
+  },
+  {
+    "en": "I miss it.",
+    "tr": "Onu özlüyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I need it.",
+    "tr": "Buna ihtiyacım var.",
+    "level": "A1"
+  },
+  {
+    "en": "I said no.",
+    "tr": "Hayır dedim.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw him.",
+    "tr": "Onu gördüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw one.",
+    "tr": "Ben birini gördüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw you.",
+    "tr": "Seni gördüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I see Tom.",
+    "tr": "Tom'u görürüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I took it.",
+    "tr": "Onu aldım.",
+    "level": "A1"
+  },
+  {
+    "en": "I want it.",
+    "tr": "Onu istiyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I was fat.",
+    "tr": "Ben şişmandım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was ill.",
+    "tr": "Hastaydım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was mad.",
+    "tr": "Deliydim.",
+    "level": "A1"
+  },
+  {
+    "en": "I was new.",
+    "tr": "Ben yeniydim.",
+    "level": "A1"
+  },
+  {
+    "en": "I was out.",
+    "tr": "Dışarıdaydım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was sad.",
+    "tr": "Üzgündüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I was shy.",
+    "tr": "Ben utangaçtım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was wet.",
+    "tr": "Islaktım.",
+    "level": "A1"
+  },
+  {
+    "en": "I will go.",
+    "tr": "Gideceğim.",
+    "level": "A1"
+  },
+  {
+    "en": "I'd do it.",
+    "tr": "Ben yapardım.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm a man.",
+    "tr": "Ben bir erkeğim.",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom OK?",
+    "tr": "Tom iyi mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom in?",
+    "tr": "Tom içerde mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is he Tom?",
+    "tr": "O Tom mu?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it bad?",
+    "tr": "Kötü mü?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it big?",
+    "tr": "Bu büyük mü?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it far?",
+    "tr": "O uzak mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it hot?",
+    "tr": "Sıcak mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it new?",
+    "tr": "Bu yeni mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it red?",
+    "tr": "Kırmızı mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it you?",
+    "tr": "O sen misin?",
+    "level": "A1"
+  },
+  {
+    "en": "It was OK.",
+    "tr": "Tamamdı.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a TV.",
+    "tr": "O bir TV'dir.",
+    "level": "A1"
+  },
+  {
+    "en": "It's cold.",
+    "tr": "Hava soğuk.",
+    "level": "A1"
+  },
+  {
+    "en": "It's food.",
+    "tr": "Bu yemek.",
+    "level": "A1"
+  },
+  {
+    "en": "It's good.",
+    "tr": "İyidir.",
+    "level": "A1"
+  },
+  {
+    "en": "It's here.",
+    "tr": "O burada.",
+    "level": "A1"
+  },
+  {
+    "en": "It's nice.",
+    "tr": "Hava güzeldir.",
+    "level": "A1"
+  },
+  {
+    "en": "It's time.",
+    "tr": "Vakit geldi.",
+    "level": "A1"
+  },
+  {
+    "en": "Let it be.",
+    "tr": "Varsın öyle olsun.",
+    "level": "A1"
+  },
+  {
+    "en": "Let it go.",
+    "tr": "Gitmesine izin verin.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me be.",
+    "tr": "Beni yalnız bırakın.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me go!",
+    "tr": "Gitmeme izin ver.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me go.",
+    "tr": "Bırak gideyim.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me in.",
+    "tr": "İçeri girmeme izin ver.",
+    "level": "A1"
+  },
+  {
+    "en": "Let us go.",
+    "tr": "Gitmemize izin ver.",
+    "level": "A1"
+  },
+  {
+    "en": "Let us in.",
+    "tr": "İçeri girmemize izin ver.",
+    "level": "A1"
+  },
+  {
+    "en": "Look here.",
+    "tr": "Buraya bak.",
+    "level": "A1"
+  },
+  {
+    "en": "May I eat?",
+    "tr": "Yemek yiyebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Please go.",
+    "tr": "Lütfen git.",
+    "level": "A1"
+  },
+  {
+    "en": "Put it on.",
+    "tr": "Onu giy.",
+    "level": "A1"
+  },
+  {
+    "en": "Read this.",
+    "tr": "Bunu oku.",
+    "level": "A1"
+  },
+  {
+    "en": "Sit by me.",
+    "tr": "Yanıma otur.",
+    "level": "A1"
+  },
+  {
+    "en": "Take this.",
+    "tr": "Al bunu.",
+    "level": "A1"
+  },
+  {
+    "en": "Thank you.",
+    "tr": "Teşekkürler.",
+    "level": "A1"
+  },
+  {
+    "en": "Then what?",
+    "tr": "Sonra ne olacak?",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is OK.",
+    "tr": "Tom iyi.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is in.",
+    "tr": "Tom içeride.",
+    "level": "A1"
+  },
+  {
+    "en": "Try it on.",
+    "tr": "Onu dene.",
+    "level": "A1"
+  },
+  {
+    "en": "Way to go!",
+    "tr": "Bravo!",
+    "level": "A1"
+  },
+  {
+    "en": "We can go.",
+    "tr": "Gidebiliriz.",
+    "level": "A1"
+  },
+  {
+    "en": "We did it.",
+    "tr": "Başardık.",
+    "level": "A1"
+  },
+  {
+    "en": "We saw it.",
+    "tr": "Onu gördük.",
+    "level": "A1"
+  },
+  {
+    "en": "We're hot.",
+    "tr": "Süperiz.",
+    "level": "A1"
+  },
+  {
+    "en": "We're sad.",
+    "tr": "Biz üzgünüz.",
+    "level": "A1"
+  },
+  {
+    "en": "Who is he?",
+    "tr": "O kim?",
+    "level": "A1"
+  },
+  {
+    "en": "Who is it?",
+    "tr": "O kim?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I clear?",
+    "tr": "Ben açık mıyım?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I dying?",
+    "tr": "Ölüyor muyum?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I early?",
+    "tr": "Erken mi geldim?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I fired?",
+    "tr": "Ben kovuldum mu?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I first?",
+    "tr": "Ben birinci miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I hired?",
+    "tr": "İşe alındım mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I ready?",
+    "tr": "Hazır mıyım?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I right?",
+    "tr": "Ben haklı mıyım?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I wrong?",
+    "tr": "Yanılıyor muyum?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you 18?",
+    "tr": "18 yaşında mısın?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you OK?",
+    "tr": "İyi misin?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you in?",
+    "tr": "Evde misin?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you up?",
+    "tr": "Uyanık mısın?",
+    "level": "A1"
+  },
+  {
+    "en": "Be on time.",
+    "tr": "Zamanında gelin.",
+    "level": "A1"
+  },
+  {
+    "en": "Can I come?",
+    "tr": "Gelebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I help?",
+    "tr": "Yardım edebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I sing?",
+    "tr": "Şarkı söyleyebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I stay?",
+    "tr": "Kalabilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Come again.",
+    "tr": "Tekrar gel.",
+    "level": "A1"
+  },
+  {
+    "en": "Come on in.",
+    "tr": "Girin.",
+    "level": "A1"
+  },
+  {
+    "en": "Come to me.",
+    "tr": "Bana gel.",
+    "level": "A1"
+  },
+  {
+    "en": "Come to us.",
+    "tr": "Bize gel.",
+    "level": "A1"
+  },
+  {
+    "en": "Deal me in.",
+    "tr": "Benimle ticaret yap.",
+    "level": "A1"
+  },
+  {
+    "en": "Did Tom go?",
+    "tr": "Tom gitti mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Did we win?",
+    "tr": "Kazandık mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Do I stink?",
+    "tr": "Kötü kokuyor muyum?",
+    "level": "A1"
+  },
+  {
+    "en": "Do come in.",
+    "tr": "İçeriye gel.",
+    "level": "A1"
+  },
+  {
+    "en": "Do you ski?",
+    "tr": "Kayar mısın?",
+    "level": "A1"
+  },
+  {
+    "en": "Fill me in.",
+    "tr": "Beni bilgilendir.",
+    "level": "A1"
+  },
+  {
+    "en": "Get to bed.",
+    "tr": "Yatmaya git.",
+    "level": "A1"
+  },
+  {
+    "en": "Give it up.",
+    "tr": "Onu boş ver.",
+    "level": "A1"
+  },
+  {
+    "en": "Go on home.",
+    "tr": "Eve git.",
+    "level": "A1"
+  },
+  {
+    "en": "Go on, Tom.",
+    "tr": "Devam et Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "Go see Tom.",
+    "tr": "Tom'u görmeye git.",
+    "level": "A1"
+  },
+  {
+    "en": "Go to work.",
+    "tr": "İşe git.",
+    "level": "A1"
+  },
+  {
+    "en": "Good night.",
+    "tr": "İyi geceler.",
+    "level": "A1"
+  },
+  {
+    "en": "He gave in.",
+    "tr": "O pes etti.",
+    "level": "A1"
+  },
+  {
+    "en": "He is a DJ.",
+    "tr": "O bir DJ.",
+    "level": "A1"
+  },
+  {
+    "en": "He is busy.",
+    "tr": "O meşgul.",
+    "level": "A1"
+  },
+  {
+    "en": "He is here!",
+    "tr": "O burada!",
+    "level": "A1"
+  },
+  {
+    "en": "He is kind.",
+    "tr": "O naziktir.",
+    "level": "A1"
+  },
+  {
+    "en": "He is late.",
+    "tr": "O geç kaldı.",
+    "level": "A1"
+  },
+  {
+    "en": "He is lazy.",
+    "tr": "O tembeldir.",
+    "level": "A1"
+  },
+  {
+    "en": "He is mean.",
+    "tr": "O kaba.",
+    "level": "A1"
+  },
+  {
+    "en": "He is nice.",
+    "tr": "O sevimlidir.",
+    "level": "A1"
+  },
+  {
+    "en": "He is poor.",
+    "tr": "O fakirdir.",
+    "level": "A1"
+  },
+  {
+    "en": "He is sick.",
+    "tr": "O, hastadır.",
+    "level": "A1"
+  },
+  {
+    "en": "He made it.",
+    "tr": "O onu yaptı.",
+    "level": "A1"
+  },
+  {
+    "en": "Help me up.",
+    "tr": "Bana yardım et.",
+    "level": "A1"
+  },
+  {
+    "en": "Here he is!",
+    "tr": "İşte o!",
+    "level": "A1"
+  },
+  {
+    "en": "Here it is.",
+    "tr": "İşte burada.",
+    "level": "A1"
+  },
+  {
+    "en": "Here we go.",
+    "tr": "Pekala, gidelim.",
+    "level": "A1"
+  },
+  {
+    "en": "I admit it.",
+    "tr": "Onu itiraf ediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a boy.",
+    "tr": "Ben bir erkek çocuğuyum.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a man.",
+    "tr": "Ben bir erkeğim.",
+    "level": "A1"
+  },
+  {
+    "en": "I am great.",
+    "tr": "Ben harikayım.",
+    "level": "A1"
+  },
+  {
+    "en": "I am human.",
+    "tr": "Ben insanım.",
+    "level": "A1"
+  },
+  {
+    "en": "I am ready.",
+    "tr": "Ben hazırım.",
+    "level": "A1"
+  },
+  {
+    "en": "I am right.",
+    "tr": "Ben haklıyım.",
+    "level": "A1"
+  },
+  {
+    "en": "I am smart.",
+    "tr": "Ben zekiyim.",
+    "level": "A1"
+  },
+  {
+    "en": "I broke it.",
+    "tr": "Onu kırdım.",
+    "level": "A1"
+  },
+  {
+    "en": "I built it.",
+    "tr": "Onu ben inşa ettim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can come.",
+    "tr": "Gelebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can cook.",
+    "tr": "Yemek pişirebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can help.",
+    "tr": "Yardım edebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can jump.",
+    "tr": "Zıplayabilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can read.",
+    "tr": "Okuyabilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can sing.",
+    "tr": "Şarkı söyleyebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can stay.",
+    "tr": "Kalabilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can swim.",
+    "tr": "Yüzebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can wait.",
+    "tr": "Bekleyebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can walk.",
+    "tr": "Yürüyebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I can't go.",
+    "tr": "Ben gidemiyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I did that.",
+    "tr": "Onu ben yaptım.",
+    "level": "A1"
+  },
+  {
+    "en": "I did this.",
+    "tr": "Bunu ben yaptım.",
+    "level": "A1"
+  },
+  {
+    "en": "I did well.",
+    "tr": "İyi yaptım.",
+    "level": "A1"
+  },
+  {
+    "en": "I do worry.",
+    "tr": "Endişe ediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I doubt it.",
+    "tr": "Şüpheliyim.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat here.",
+    "tr": "Burada yiyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat meat.",
+    "tr": "Et yerim.",
+    "level": "A1"
+  },
+  {
+    "en": "I envy her.",
+    "tr": "Ona gıpta ediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I envy him.",
+    "tr": "Ona gıpta ediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I envy you.",
+    "tr": "Seni kıskanıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I feel bad.",
+    "tr": "Kendimi kötü hissediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I feel sad.",
+    "tr": "Üzgün ​​hissediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I felt bad.",
+    "tr": "Kötü hissettim.",
+    "level": "A1"
+  },
+  {
+    "en": "I felt sad.",
+    "tr": "Üzgün hissettim.",
+    "level": "A1"
+  },
+  {
+    "en": "I fixed it.",
+    "tr": "Onu tamir ettim.",
+    "level": "A1"
+  },
+  {
+    "en": "I got an A.",
+    "tr": "Bir A aldım.",
+    "level": "A1"
+  },
+  {
+    "en": "I had help.",
+    "tr": "Yardım aldım.",
+    "level": "A1"
+  },
+  {
+    "en": "I hate you.",
+    "tr": "Senden nefret ediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I hated it.",
+    "tr": "Ondan nefret ettim.",
+    "level": "A1"
+  },
+  {
+    "en": "I have OCD.",
+    "tr": "Bende OKB var.",
+    "level": "A1"
+  },
+  {
+    "en": "I have one.",
+    "tr": "Bir tanem var.",
+    "level": "A1"
+  },
+  {
+    "en": "I have won.",
+    "tr": "Kazandım.",
+    "level": "A1"
+  },
+  {
+    "en": "I hear you.",
+    "tr": "Ne demek istediğini anladım.",
+    "level": "A1"
+  },
+  {
+    "en": "I heard it.",
+    "tr": "Onu duydum.",
+    "level": "A1"
+  },
+  {
+    "en": "I help Tom.",
+    "tr": "Tom'a yardım ediyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I help him.",
+    "tr": "Ona yardım ederim.",
+    "level": "A1"
+  },
+  {
+    "en": "I hope not.",
+    "tr": "Umarım değildir.",
+    "level": "A1"
+  },
+  {
+    "en": "I know CPR.",
+    "tr": "Kalp masajını biliyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I know Tom.",
+    "tr": "Tom'u tanıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I know her.",
+    "tr": "Onu biliyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I know him.",
+    "tr": "Onu tanıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I know now.",
+    "tr": "Artık biliyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I know you.",
+    "tr": "Ben seni tanıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I like R&B.",
+    "tr": "Ben R & B'yi seviyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I like Tom.",
+    "tr": "Tom'u seviyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I like art.",
+    "tr": "Sanatı seviyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I like ham.",
+    "tr": "Ben jambon severim.",
+    "level": "A1"
+  },
+  {
+    "en": "I like him.",
+    "tr": "Onu severim.",
+    "level": "A1"
+  },
+  {
+    "en": "I like tea.",
+    "tr": "Çayı severim.",
+    "level": "A1"
+  },
+  {
+    "en": "I like you.",
+    "tr": "Senden hoşlanıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I liked it.",
+    "tr": "Onu sevdim.",
+    "level": "A1"
+  },
+  {
+    "en": "I love Tom.",
+    "tr": "Ben Tom'u severim.",
+    "level": "A1"
+  },
+  {
+    "en": "I love her.",
+    "tr": "Onu seviyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I love him.",
+    "tr": "Onu seviyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I love tea.",
+    "tr": "Çayı seviyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I love you.",
+    "tr": "Seni seviyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I loved it.",
+    "tr": "Ben onu sevdim.",
+    "level": "A1"
+  },
+  {
+    "en": "I made two.",
+    "tr": "İki tane yaptım.",
+    "level": "A1"
+  },
+  {
+    "en": "I may come.",
+    "tr": "Ben gelebilirim.",
+    "level": "A1"
+  },
+  {
+    "en": "I meant it.",
+    "tr": "Ben bunu kastettim.",
+    "level": "A1"
+  },
+  {
+    "en": "I met them.",
+    "tr": "Onlarla buluştum.",
+    "level": "A1"
+  },
+  {
+    "en": "I miss him.",
+    "tr": "Onu özlüyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I miss you.",
+    "tr": "Seni özledim.",
+    "level": "A1"
+  },
+  {
+    "en": "I must run.",
+    "tr": "Koşmalıyım.",
+    "level": "A1"
+  },
+  {
+    "en": "I need you.",
+    "tr": "Sana ihtiyacım var.",
+    "level": "A1"
+  },
+  {
+    "en": "I ran home.",
+    "tr": "Eve koştum.",
+    "level": "A1"
+  },
+  {
+    "en": "I said yes.",
+    "tr": "Evet dedim.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw that.",
+    "tr": "Onu gördüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw them.",
+    "tr": "Onları gördüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I see that.",
+    "tr": "Onu görüyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I see them.",
+    "tr": "Onları görüyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I think so.",
+    "tr": "Ben öyle düşünüyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I tried it.",
+    "tr": "Onu denedim.",
+    "level": "A1"
+  },
+  {
+    "en": "I use this.",
+    "tr": "Ben bunu kullanıyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I want Tom.",
+    "tr": "Tom'u istiyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I want one!",
+    "tr": "Ondan bir tane istiyorum!",
+    "level": "A1"
+  },
+  {
+    "en": "I want one.",
+    "tr": "Bir tane istiyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I want you.",
+    "tr": "Seni istiyorum.",
+    "level": "A1"
+  },
+  {
+    "en": "I was away.",
+    "tr": "Uzaktaydım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was busy.",
+    "tr": "Meşguldüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I was cold.",
+    "tr": "Üşümüştüm.",
+    "level": "A1"
+  },
+  {
+    "en": "I was fair.",
+    "tr": "Ben adildim.",
+    "level": "A1"
+  },
+  {
+    "en": "I was fine.",
+    "tr": "Ben iyiydim.",
+    "level": "A1"
+  },
+  {
+    "en": "I was full.",
+    "tr": "Ben doluydum.",
+    "level": "A1"
+  },
+  {
+    "en": "I was good.",
+    "tr": "İyiydim.",
+    "level": "A1"
+  },
+  {
+    "en": "I was here.",
+    "tr": "Ben buradaydım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was home.",
+    "tr": "Ben evdeydim.",
+    "level": "A1"
+  },
+  {
+    "en": "I was hurt.",
+    "tr": "Canım yanmıştı.",
+    "level": "A1"
+  },
+  {
+    "en": "I was late.",
+    "tr": "Geç kaldım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was next.",
+    "tr": "Ben bir sonrakiydim.",
+    "level": "A1"
+  },
+  {
+    "en": "I was rude.",
+    "tr": "Kabaydım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was shot.",
+    "tr": "Vuruldum.",
+    "level": "A1"
+  },
+  {
+    "en": "I was sick.",
+    "tr": "Ben hastaydım.",
+    "level": "A1"
+  },
+  {
+    "en": "I was weak.",
+    "tr": "Cılızdım.",
+    "level": "A1"
+  },
+  {
+    "en": "I won't go.",
+    "tr": "Gitmeyeceğim.",
+    "level": "A1"
+  },
+  {
+    "en": "I wrote it.",
+    "tr": "Onu ben yazdım.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll be OK.",
+    "tr": "İyi olacağım.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll do it.",
+    "tr": "Ben onu yapacağım.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll go in.",
+    "tr": "İçeri gideceğim.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm OK now.",
+    "tr": "Şimdi iyiyim.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm a girl.",
+    "tr": "Ben bir kızım.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm for it.",
+    "tr": "Onun lehindeyim.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm in bed.",
+    "tr": "Ben yataktayım.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm not in.",
+    "tr": "Ben yokum.",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom big?",
+    "tr": "Tom büyük mü?",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom hot?",
+    "tr": "Tom ateşli mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is he busy?",
+    "tr": "O meşgul mü?",
+    "level": "A1"
+  },
+  {
+    "en": "Is he tall?",
+    "tr": "O uzun mu?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it blue?",
+    "tr": "Mavi mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it done?",
+    "tr": "Yapıldı mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it free?",
+    "tr": "O ücretsiz mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it good?",
+    "tr": "İyi mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it hard?",
+    "tr": "Zor mu?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it here?",
+    "tr": "O burada mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it love?",
+    "tr": "Bu aşk mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it nice?",
+    "tr": "Güzel mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it over?",
+    "tr": "Bitti mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it real?",
+    "tr": "Bu gerçek mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it safe?",
+    "tr": "O güvenli mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it time?",
+    "tr": "Zamanı mıdır?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it true?",
+    "tr": "O, doğru mudur?",
+    "level": "A1"
+  },
+  {
+    "en": "Is that OK?",
+    "tr": "Tamam mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Is that it?",
+    "tr": "O, o mudur?",
+    "level": "A1"
+  },
+  {
+    "en": "Is that so?",
+    "tr": "Öyle mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is this OK?",
+    "tr": "Bu iyi mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Is this it?",
+    "tr": "Bu o mu?",
+    "level": "A1"
+  },
+  {
+    "en": "It is warm.",
+    "tr": "Hava sıcak.",
+    "level": "A1"
+  },
+  {
+    "en": "It was Tom.",
+    "tr": "O, Tom'du.",
+    "level": "A1"
+  },
+  {
+    "en": "It was bad.",
+    "tr": "Kötüydü.",
+    "level": "A1"
+  },
+  {
+    "en": "It was big.",
+    "tr": "O büyüktü.",
+    "level": "A1"
+  },
+  {
+    "en": "It was fun.",
+    "tr": "Eğlenceliydi.",
+    "level": "A1"
+  },
+  {
+    "en": "It was hot.",
+    "tr": "Sıcaktı.",
+    "level": "A1"
+  },
+  {
+    "en": "It was sad.",
+    "tr": "Üzücüydü.",
+    "level": "A1"
+  },
+  {
+    "en": "It was wet.",
+    "tr": "O ıslaktı.",
+    "level": "A1"
+  },
+  {
+    "en": "It went OK.",
+    "tr": "Bu iyi gitti.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a bet.",
+    "tr": "Bu bir iddia.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a boy.",
+    "tr": "Bu bir erkek çocuğu.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a fad.",
+    "tr": "Bu geçici bir heves.",
+    "level": "A1"
+  },
+  {
+    "en": "It's funny.",
+    "tr": "Bu komik.",
+    "level": "A1"
+  },
+  {
+    "en": "It's green.",
+    "tr": "Bu, yeşil.",
+    "level": "A1"
+  },
+  {
+    "en": "It's my CD.",
+    "tr": "O benim CD'im.",
+    "level": "A1"
+  },
+  {
+    "en": "It's night.",
+    "tr": "Gece oldu.",
+    "level": "A1"
+  },
+  {
+    "en": "It's on me.",
+    "tr": "Ben ödeyeceğim.",
+    "level": "A1"
+  },
+  {
+    "en": "It's small.",
+    "tr": "Küçük.",
+    "level": "A1"
+  },
+  {
+    "en": "It's water.",
+    "tr": "Bu sudur.",
+    "level": "A1"
+  },
+  {
+    "en": "It's white.",
+    "tr": "O beyazdır.",
+    "level": "A1"
+  },
+  {
+    "en": "Just do it.",
+    "tr": "Yap onu.",
+    "level": "A1"
+  },
+  {
+    "en": "Lean on me.",
+    "tr": "Bana güven.",
+    "level": "A1"
+  },
+  {
+    "en": "Let him go!",
+    "tr": "Bırak gitsin!",
+    "level": "A1"
+  },
+  {
+    "en": "Let him in.",
+    "tr": "İçeri girsin.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me see.",
+    "tr": "Bir bakayım.",
+    "level": "A1"
+  },
+  {
+    "en": "Look again.",
+    "tr": "Tekrar bak.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at it.",
+    "tr": "Ona bak.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at me.",
+    "tr": "Bana bak.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at us.",
+    "tr": "Bize bak.",
+    "level": "A1"
+  },
+  {
+    "en": "Look it up.",
+    "tr": "Ona bak.",
+    "level": "A1"
+  },
+  {
+    "en": "Look there.",
+    "tr": "Oraya bak.",
+    "level": "A1"
+  },
+  {
+    "en": "Now get in.",
+    "tr": "Şimdi içeri gir.",
+    "level": "A1"
+  },
+  {
+    "en": "Now let go.",
+    "tr": "Şimdi bırak.",
+    "level": "A1"
+  },
+  {
+    "en": "Now try it.",
+    "tr": "Şimdi onu dene.",
+    "level": "A1"
+  },
+  {
+    "en": "Please eat.",
+    "tr": "Lütfen ye.",
+    "level": "A1"
+  },
+  {
+    "en": "Please sit.",
+    "tr": "Lütfen otur.",
+    "level": "A1"
+  },
+  {
+    "en": "Pull it in.",
+    "tr": "Onu içeri çek.",
+    "level": "A1"
+  },
+  {
+    "en": "Pull me in.",
+    "tr": "Beni hapse at.",
+    "level": "A1"
+  },
+  {
+    "en": "Run for it!",
+    "tr": "Kaçın!",
+    "level": "A1"
+  },
+  {
+    "en": "She is old.",
+    "tr": "O yaşlı.",
+    "level": "A1"
+  },
+  {
+    "en": "Step on it!",
+    "tr": "Acele et.",
+    "level": "A1"
+  },
+  {
+    "en": "Take a bus.",
+    "tr": "Bir otobüse bin.",
+    "level": "A1"
+  },
+  {
+    "en": "Take a nap.",
+    "tr": "Şekerleme yap.",
+    "level": "A1"
+  },
+  {
+    "en": "Talk to me!",
+    "tr": "Benimle konuş!",
+    "level": "A1"
+  },
+  {
+    "en": "Talk to me.",
+    "tr": "Konuş benimle.",
+    "level": "A1"
+  },
+  {
+    "en": "Talk to us.",
+    "tr": "Bizimle konuş.",
+    "level": "A1"
+  },
+  {
+    "en": "That a boy!",
+    "tr": "O bir çocuk.",
+    "level": "A1"
+  },
+  {
+    "en": "This is OK.",
+    "tr": "Bu tamam.",
+    "level": "A1"
+  },
+  {
+    "en": "This is it.",
+    "tr": "İşte bu.",
+    "level": "A1"
+  },
+  {
+    "en": "This is me.",
+    "tr": "Ben buyum.",
+    "level": "A1"
+  },
+  {
+    "en": "Time is up.",
+    "tr": "Zaman doldu.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom did it.",
+    "tr": "Tom onu yaptı.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is bad.",
+    "tr": "Tom kötüdür.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is big.",
+    "tr": "Tom büyüktür.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is hot.",
+    "tr": "Tom ateşli.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is new.",
+    "tr": "Tom yeni.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is old.",
+    "tr": "Tom yaşlı.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is sad.",
+    "tr": "Tom üzgün.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom was OK.",
+    "tr": "Tom iyiydi.",
+    "level": "A1"
+  },
+  {
+    "en": "Try it now.",
+    "tr": "Onu şimdi dene.",
+    "level": "A1"
+  },
+  {
+    "en": "Turn it on.",
+    "tr": "Onu açın.",
+    "level": "A1"
+  },
+  {
+    "en": "War is bad.",
+    "tr": "Savaş kötüdür.",
+    "level": "A1"
+  },
+  {
+    "en": "Was he Tom?",
+    "tr": "O, Tom muydu?",
+    "level": "A1"
+  },
+  {
+    "en": "Was it fun?",
+    "tr": "O eğlenceli miydi?",
+    "level": "A1"
+  },
+  {
+    "en": "We are men.",
+    "tr": "Biz erkeğiz.",
+    "level": "A1"
+  },
+  {
+    "en": "We can pay.",
+    "tr": "Ödeyebiliriz.",
+    "level": "A1"
+  },
+  {
+    "en": "We can try.",
+    "tr": "Deneyebiliriz.",
+    "level": "A1"
+  },
+  {
+    "en": "We can win.",
+    "tr": "Biz kazanabiliriz.",
+    "level": "A1"
+  },
+  {
+    "en": "We did win.",
+    "tr": "Kazandık.",
+    "level": "A1"
+  },
+  {
+    "en": "We had fun.",
+    "tr": "Eğlendik.",
+    "level": "A1"
+  },
+  {
+    "en": "We like it.",
+    "tr": "Onu seviyoruz.",
+    "level": "A1"
+  },
+  {
+    "en": "We lost it.",
+    "tr": "Onu kaybettik.",
+    "level": "A1"
+  },
+  {
+    "en": "We love it.",
+    "tr": "Onu seviyoruz.",
+    "level": "A1"
+  },
+  {
+    "en": "We made it.",
+    "tr": "Başardık.",
+    "level": "A1"
+  },
+  {
+    "en": "We must go.",
+    "tr": "Gitmeliyiz.",
+    "level": "A1"
+  },
+  {
+    "en": "We need it.",
+    "tr": "Buna ihtiyacımız var.",
+    "level": "A1"
+  },
+  {
+    "en": "We saw you.",
+    "tr": "Sizi gördük.",
+    "level": "A1"
+  },
+  {
+    "en": "We want it.",
+    "tr": "Onu istiyoruz.",
+    "level": "A1"
+  },
+  {
+    "en": "We're cold.",
+    "tr": "Biz üşüyoruz.",
+    "level": "A1"
+  },
+  {
+    "en": "We're here.",
+    "tr": "Biz buradayız.",
+    "level": "A1"
+  },
+  {
+    "en": "We're home.",
+    "tr": "Evdeyiz.",
+    "level": "A1"
+  },
+  {
+    "en": "What a day!",
+    "tr": "Ne güzel bir gün!",
+    "level": "A1"
+  },
+  {
+    "en": "What is it?",
+    "tr": "O nedir?",
+    "level": "A1"
+  },
+  {
+    "en": "Where am I?",
+    "tr": "Ben neredeyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Who are we?",
+    "tr": "Biz kimiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Who did it?",
+    "tr": "Onu kim yaptı?",
+    "level": "A1"
+  },
+  {
+    "en": "Who has it?",
+    "tr": "Kim ona sahip?",
+    "level": "A1"
+  },
+  {
+    "en": "Who is Tom?",
+    "tr": "Tom kim?",
+    "level": "A1"
+  },
+  {
+    "en": "Who is she?",
+    "tr": "O kim?",
+    "level": "A1"
+  },
+  {
+    "en": "Who saw me?",
+    "tr": "Beni kim gördü.",
+    "level": "A1"
+  },
+  {
+    "en": "Who was he?",
+    "tr": "O kimdi?",
+    "level": "A1"
+  },
+  {
+    "en": "Who was it?",
+    "tr": "O kimdi?",
+    "level": "A1"
+  },
+  {
+    "en": "You can go.",
+    "tr": "Gidebilirsin.",
+    "level": "A1"
+  },
+  {
+    "en": "You did it!",
+    "tr": "Başardın.",
+    "level": "A1"
+  },
+  {
+    "en": "You did it.",
+    "tr": "Onu yaptın.",
+    "level": "A1"
+  },
+  {
+    "en": "You got it.",
+    "tr": "Sen anladın.",
+    "level": "A1"
+  },
+  {
+    "en": "You got me.",
+    "tr": "Beni aldın.",
+    "level": "A1"
+  },
+  {
+    "en": "You may go.",
+    "tr": "Gidebilirsin.",
+    "level": "A1"
+  },
+  {
+    "en": "You owe me.",
+    "tr": "Bana borçlusun.",
+    "level": "A1"
+  },
+  {
+    "en": "Am I normal?",
+    "tr": "Ben normal miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I pretty?",
+    "tr": "Ben güzel miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I stupid?",
+    "tr": "Ben aptal mıyım?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we done?",
+    "tr": "Hazır mıyız?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we lost?",
+    "tr": "Kayıp mı olduk?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we safe?",
+    "tr": "Güvende miyiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you Tom?",
+    "tr": "Sen Tom musun?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you cut?",
+    "tr": "Kestin mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you fat?",
+    "tr": "Sen kilolu musun?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you fit?",
+    "tr": "Sen uygun musun?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you hot?",
+    "tr": "Sıcakladın mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you mad?",
+    "tr": "Deli misin?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you new?",
+    "tr": "Yeni misin?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you sad?",
+    "tr": "Üzgün müsün?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you shy?",
+    "tr": "Utangaç mısın?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I begin?",
+    "tr": "Başlayabilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I leave?",
+    "tr": "Gidebilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I start?",
+    "tr": "Başlayabilir miyim?",
+    "level": "A1"
+  },
+  {
+    "en": "Can it wait?",
+    "tr": "O bekleyebilir mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we come?",
+    "tr": "Gelebilir miyiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we help?",
+    "tr": "Yardım edebilir miyiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we sing?",
+    "tr": "Şarkı söyleyebilir miyiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we stop?",
+    "tr": "Durabilir miyiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we swim?",
+    "tr": "Yüzebilir miyiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we talk?",
+    "tr": "Konuşabilir miyiz?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you see?",
+    "tr": "Görebiliyor musun?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you ski?",
+    "tr": "Kayak yapabilir misin?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you try?",
+    "tr": "Dener misiniz?",
+    "level": "A1"
+  },
+  {
+    "en": "Come get it.",
+    "tr": "Gel onu al.",
+    "level": "A1"
+  },
+  {
+    "en": "Come get me.",
+    "tr": "Beni almaya gel.",
+    "level": "A1"
+  },
+  {
+    "en": "Come get us.",
+    "tr": "Bizi almaya gel.",
+    "level": "A1"
+  },
+  {
+    "en": "Come off it.",
+    "tr": "Geç bunları.",
+    "level": "A1"
+  },
+  {
+    "en": "Come see me.",
+    "tr": "Beni görmeye gel.",
+    "level": "A1"
+  },
+  {
+    "en": "Cook for me.",
+    "tr": "Benim için yemek pişir.",
+    "level": "A1"
+  },
+  {
+    "en": "Count me in.",
+    "tr": "Beni dahil et.",
+    "level": "A1"
+  },
+  {
+    "en": "Count on it.",
+    "tr": "Buna güven.",
+    "level": "A1"
+  },
+  {
+    "en": "Count on me.",
+    "tr": "Bana güven.",
+    "level": "A1"
+  },
+  {
+    "en": "Did Tom eat?",
+    "tr": "Tom yemek yedi mi?",
+    "level": "A1"
+  },
+  {
+    "en": "Did Tom run?",
+    "tr": "Tom kaçtı mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Did it hurt?",
+    "tr": "O ağrıdı mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Did it work?",
+    "tr": "Bu, işe yaradı mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Did you run?",
+    "tr": "Kaçtın mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Did you win?",
+    "tr": "Kazandın mı?",
+    "level": "A1"
+  },
+  {
+    "en": "Do it again!",
+    "tr": "Tekrar yap!",
+    "level": "A1"
+  },
+  {
+    "en": "Do it again.",
+    "tr": "Onu tekrar yap.",
+    "level": "A1"
+  },
+  {
+    "en": "Do it later.",
+    "tr": "Onu daha sonra yap.",
+    "level": "A1"
+  },
+  {
+    "en": "Do it right.",
+    "tr": "Onu doğru yap.",
+    "level": "A1"
+  }
+]

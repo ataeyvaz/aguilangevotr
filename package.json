@@ -2,7 +2,7 @@
   "name": "aguilangevotr",
   "private": true,
   "version": "0.0.0",
-  "description": "AguiLangEvoTR - Learn Languages from Turkish",
+  "description": "AguiLangEvoTR - Türkçe Dil Öğrenme Uygulaması",
   "type": "module",
   "scripts": {
     "dev": "vite",

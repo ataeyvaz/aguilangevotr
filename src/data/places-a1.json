@@ -1,0 +1,1023 @@
+{
+  "category": "places",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "airport",
+          "emoji": "✈️",
+          "word": "airport",
+          "tr": "havalimanı",
+          "pron": "ˈɛərpɔːt",
+          "level": "a1"
+        },
+        {
+          "id": "bank",
+          "emoji": "🏦",
+          "word": "bank",
+          "tr": "banka",
+          "pron": "bæŋk",
+          "level": "a1"
+        },
+        {
+          "id": "cafe",
+          "emoji": "☕",
+          "word": "café",
+          "tr": "kafe",
+          "pron": "ˈkæfeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "castle",
+          "emoji": "🏰",
+          "word": "castle",
+          "tr": "şato / kale",
+          "pron": "ˈkɑːsəl",
+          "level": "a1"
+        },
+        {
+          "id": "church",
+          "emoji": "⛪",
+          "word": "church",
+          "tr": "kilise",
+          "pron": "tʃɜːtʃ",
+          "level": "a1"
+        },
+        {
+          "id": "cinema",
+          "emoji": "🎬",
+          "word": "cinema",
+          "tr": "sinema",
+          "pron": "ˈsɪnəmə",
+          "level": "a1"
+        },
+        {
+          "id": "city",
+          "emoji": "🏙️",
+          "word": "city",
+          "tr": "şehir",
+          "pron": "ˈsɪti",
+          "level": "a1"
+        },
+        {
+          "id": "farm",
+          "emoji": "🌾",
+          "word": "farm",
+          "tr": "çiftlik",
+          "pron": "fɑːm",
+          "level": "a1"
+        },
+        {
+          "id": "hospital",
+          "emoji": "🏥",
+          "word": "hospital",
+          "tr": "hastane",
+          "pron": "ˈhɒspɪtəl",
+          "level": "a1"
+        },
+        {
+          "id": "hotel",
+          "emoji": "🏨",
+          "word": "hotel",
+          "tr": "otel",
+          "pron": "həʊˈtɛl",
+          "level": "a1"
+        },
+        {
+          "id": "library",
+          "emoji": "📚",
+          "word": "library",
+          "tr": "kütüphane",
+          "pron": "ˈlaɪbrəri",
+          "level": "a1"
+        },
+        {
+          "id": "market",
+          "emoji": "🛒",
+          "word": "market",
+          "tr": "pazar / market",
+          "pron": "ˈmɑːkɪt",
+          "level": "a1"
+        },
+        {
+          "id": "museum",
+          "emoji": "🏛️",
+          "word": "museum",
+          "tr": "müze",
+          "pron": "mjuˈziːəm",
+          "level": "a1"
+        },
+        {
+          "id": "park",
+          "emoji": "🌳",
+          "word": "park",
+          "tr": "park",
+          "pron": "pɑːk",
+          "level": "a1"
+        },
+        {
+          "id": "restaurant",
+          "emoji": "🍽️",
+          "word": "restaurant",
+          "tr": "restoran",
+          "pron": "ˈrɛstrɒnt",
+          "level": "a1"
+        },
+        {
+          "id": "school",
+          "emoji": "🏫",
+          "word": "school",
+          "tr": "okul",
+          "pron": "skuːl",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I go to school.",
+              "tr": "Okula gidiyorum.",
+              "words": [
+                "I",
+                "go",
+                "to",
+                "school"
+              ]
+            },
+            {
+              "en": "School is fun.",
+              "tr": "Okul eğlenceli.",
+              "words": [
+                "School",
+                "is",
+                "fun"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "shop",
+          "emoji": "🛍️",
+          "word": "shop",
+          "tr": "dükkan",
+          "pron": "ʃɒp",
+          "level": "a1"
+        },
+        {
+          "id": "station",
+          "emoji": "🚉",
+          "word": "station",
+          "tr": "istasyon",
+          "pron": "ˈsteɪʃən",
+          "level": "a1"
+        },
+        {
+          "id": "zoo",
+          "emoji": "🦁",
+          "word": "zoo",
+          "tr": "hayvanat bahçesi",
+          "pron": "zuː",
+          "level": "a1"
+        },
+        {
+          "id": "gallery",
+          "emoji": "🖼️",
+          "word": "gallery",
+          "tr": "sanat galerisi",
+          "pron": "ˈɡæləri",
+          "level": "a2"
+        },
+        {
+          "id": "gym",
+          "emoji": "🏋️",
+          "word": "gym",
+          "tr": "spor salonu",
+          "pron": "dʒɪm",
+          "level": "a2"
+        },
+        {
+          "id": "harbour",
+          "emoji": "⚓",
+          "word": "harbour",
+          "tr": "liman",
+          "pron": "ˈhɑːbər",
+          "level": "a2"
+        },
+        {
+          "id": "laboratory",
+          "emoji": "🔬",
+          "word": "laboratory",
+          "tr": "laboratuvar",
+          "pron": "ləˈbɒrətri",
+          "level": "a2"
+        },
+        {
+          "id": "pharmacy",
+          "emoji": "💊",
+          "word": "pharmacy",
+          "tr": "eczane",
+          "pron": "ˈfɑːməsi",
+          "level": "a2"
+        },
+        {
+          "id": "playground",
+          "emoji": "🛝",
+          "word": "playground",
+          "tr": "oyun alanı",
+          "pron": "ˈpleɪɡraʊnd",
+          "level": "a2"
+        },
+        {
+          "id": "prison",
+          "emoji": "🔒",
+          "word": "prison",
+          "tr": "hapishane",
+          "pron": "ˈprɪzən",
+          "level": "a2"
+        },
+        {
+          "id": "stadium",
+          "emoji": "🏟️",
+          "word": "stadium",
+          "tr": "stadyum",
+          "pron": "ˈsteɪdiəm",
+          "level": "a2"
+        },
+        {
+          "id": "temple",
+          "emoji": "🛕",
+          "word": "temple",
+          "tr": "tapınak",
+          "pron": "ˈtɛmpəl",
+          "level": "a2"
+        },
+        {
+          "id": "theatre",
+          "emoji": "🎭",
+          "word": "theatre",
+          "tr": "tiyatro",
+          "pron": "ˈθɪətər",
+          "level": "a2"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "airport",
+          "emoji": "✈️",
+          "word": "Flughafen",
+          "tr": "havalimanı",
+          "pron": "ˈfluːkhaːfən",
+          "level": "a1"
+        },
+        {
+          "id": "bank",
+          "emoji": "🏦",
+          "word": "Bank",
+          "tr": "banka",
+          "pron": "baŋk",
+          "level": "a1"
+        },
+        {
+          "id": "cafe",
+          "emoji": "☕",
+          "word": "Café",
+          "tr": "kafe",
+          "pron": "kaˈfeː",
+          "level": "a1"
+        },
+        {
+          "id": "castle",
+          "emoji": "🏰",
+          "word": "Schloss",
+          "tr": "şato / kale",
+          "pron": "ʃlɔs",
+          "level": "a1"
+        },
+        {
+          "id": "church",
+          "emoji": "⛪",
+          "word": "Kirche",
+          "tr": "kilise",
+          "pron": "ˈkɪrçə",
+          "level": "a1"
+        },
+        {
+          "id": "cinema",
+          "emoji": "🎬",
+          "word": "Kino",
+          "tr": "sinema",
+          "pron": "ˈkiːno",
+          "level": "a1"
+        },
+        {
+          "id": "city",
+          "emoji": "🏙️",
+          "word": "Stadt",
+          "tr": "şehir",
+          "pron": "ʃtat",
+          "level": "a1"
+        },
+        {
+          "id": "farm",
+          "emoji": "🌾",
+          "word": "Bauernhof",
+          "tr": "çiftlik",
+          "pron": "ˈbaʊərnhoːf",
+          "level": "a1"
+        },
+        {
+          "id": "hospital",
+          "emoji": "🏥",
+          "word": "Krankenhaus",
+          "tr": "hastane",
+          "pron": "ˈkraŋkənhaʊs",
+          "level": "a1"
+        },
+        {
+          "id": "hotel",
+          "emoji": "🏨",
+          "word": "Hotel",
+          "tr": "otel",
+          "pron": "hoˈtɛl",
+          "level": "a1"
+        },
+        {
+          "id": "library",
+          "emoji": "📚",
+          "word": "Bibliothek",
+          "tr": "kütüphane",
+          "pron": "biblijoˈteːk",
+          "level": "a1"
+        },
+        {
+          "id": "market",
+          "emoji": "🛒",
+          "word": "Markt",
+          "tr": "pazar / market",
+          "pron": "markt",
+          "level": "a1"
+        },
+        {
+          "id": "museum",
+          "emoji": "🏛️",
+          "word": "Museum",
+          "tr": "müze",
+          "pron": "muˈzeːum",
+          "level": "a1"
+        },
+        {
+          "id": "park",
+          "emoji": "🌳",
+          "word": "Park",
+          "tr": "park",
+          "pron": "park",
+          "level": "a1"
+        },
+        {
+          "id": "restaurant",
+          "emoji": "🍽️",
+          "word": "Restaurant",
+          "tr": "restoran",
+          "pron": "rɛstoˈrɑ̃",
+          "level": "a1"
+        },
+        {
+          "id": "school",
+          "emoji": "🏫",
+          "word": "Schule",
+          "tr": "okul",
+          "pron": "ˈʃuːlə",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Ich gehe zur Schule.",
+              "tr": "Okula gidiyorum.",
+              "words": [
+                "Ich",
+                "gehe",
+                "zur",
+                "Schule"
+              ]
+            },
+            {
+              "text": "Die Schule macht Spaß.",
+              "tr": "Okul eğlenceli.",
+              "words": [
+                "Die",
+                "Schule",
+                "macht",
+                "Spaß"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "shop",
+          "emoji": "🛍️",
+          "word": "Geschäft",
+          "tr": "dükkan",
+          "pron": "ɡəˈʃɛft",
+          "level": "a1"
+        },
+        {
+          "id": "station",
+          "emoji": "🚉",
+          "word": "Bahnhof",
+          "tr": "istasyon",
+          "pron": "ˈbaːnhoːf",
+          "level": "a1"
+        },
+        {
+          "id": "zoo",
+          "emoji": "🦁",
+          "word": "Zoo",
+          "tr": "hayvanat bahçesi",
+          "pron": "tsoː",
+          "level": "a1"
+        },
+        {
+          "id": "gallery",
+          "emoji": "🖼️",
+          "word": "Galerie",
+          "tr": "sanat galerisi",
+          "pron": "ɡaləˈriː",
+          "level": "a2"
+        },
+        {
+          "id": "gym",
+          "emoji": "🏋️",
+          "word": "Fitnessstudio",
+          "tr": "spor salonu",
+          "pron": "ˈfɪtnɛsʃtuːdjo",
+          "level": "a2"
+        },
+        {
+          "id": "harbour",
+          "emoji": "⚓",
+          "word": "Hafen",
+          "tr": "liman",
+          "pron": "ˈhaːfən",
+          "level": "a2"
+        },
+        {
+          "id": "laboratory",
+          "emoji": "🔬",
+          "word": "Labor",
+          "tr": "laboratuvar",
+          "pron": "laˈboːr",
+          "level": "a2"
+        },
+        {
+          "id": "pharmacy",
+          "emoji": "💊",
+          "word": "Apotheke",
+          "tr": "eczane",
+          "pron": "apoˈteːkə",
+          "level": "a2"
+        },
+        {
+          "id": "playground",
+          "emoji": "🛝",
+          "word": "Spielplatz",
+          "tr": "oyun alanı",
+          "pron": "ˈʃpiːlplats",
+          "level": "a2"
+        },
+        {
+          "id": "prison",
+          "emoji": "🔒",
+          "word": "Gefängnis",
+          "tr": "hapishane",
+          "pron": "ɡəˈfɛŋnɪs",
+          "level": "a2"
+        },
+        {
+          "id": "stadium",
+          "emoji": "🏟️",
+          "word": "Stadion",
+          "tr": "stadyum",
+          "pron": "ˈʃtaːdjon",
+          "level": "a2"
+        },
+        {
+          "id": "temple",
+          "emoji": "🛕",
+          "word": "Tempel",
+          "tr": "tapınak",
+          "pron": "ˈtɛmpəl",
+          "level": "a2"
+        },
+        {
+          "id": "theatre",
+          "emoji": "🎭",
+          "word": "Theater",
+          "tr": "tiyatro",
+          "pron": "teˈaːtər",
+          "level": "a2"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "airport",
+          "emoji": "✈️",
+          "word": "aeropuerto",
+          "tr": "havalimanı",
+          "pron": "aeropˈwerto",
+          "level": "a1"
+        },
+        {
+          "id": "bank",
+          "emoji": "🏦",
+          "word": "banco",
+          "tr": "banka",
+          "pron": "ˈbaŋko",
+          "level": "a1"
+        },
+        {
+          "id": "cafe",
+          "emoji": "☕",
+          "word": "café",
+          "tr": "kafe",
+          "pron": "kaˈfe",
+          "level": "a1"
+        },
+        {
+          "id": "castle",
+          "emoji": "🏰",
+          "word": "castillo",
+          "tr": "şato / kale",
+          "pron": "kasˈtiʎo",
+          "level": "a1"
+        },
+        {
+          "id": "church",
+          "emoji": "⛪",
+          "word": "iglesia",
+          "tr": "kilise",
+          "pron": "iˈɣlesja",
+          "level": "a1"
+        },
+        {
+          "id": "cinema",
+          "emoji": "🎬",
+          "word": "cine",
+          "tr": "sinema",
+          "pron": "ˈθine",
+          "level": "a1"
+        },
+        {
+          "id": "city",
+          "emoji": "🏙️",
+          "word": "ciudad",
+          "tr": "şehir",
+          "pron": "θjuˈðað",
+          "level": "a1"
+        },
+        {
+          "id": "farm",
+          "emoji": "🌾",
+          "word": "granja",
+          "tr": "çiftlik",
+          "pron": "ˈɡranxa",
+          "level": "a1"
+        },
+        {
+          "id": "hospital",
+          "emoji": "🏥",
+          "word": "hospital",
+          "tr": "hastane",
+          "pron": "ospiˈtal",
+          "level": "a1"
+        },
+        {
+          "id": "hotel",
+          "emoji": "🏨",
+          "word": "hotel",
+          "tr": "otel",
+          "pron": "oˈtel",
+          "level": "a1"
+        },
+        {
+          "id": "library",
+          "emoji": "📚",
+          "word": "biblioteca",
+          "tr": "kütüphane",
+          "pron": "bibljoˈteka",
+          "level": "a1"
+        },
+        {
+          "id": "market",
+          "emoji": "🛒",
+          "word": "mercado",
+          "tr": "pazar / market",
+          "pron": "merˈkaðo",
+          "level": "a1"
+        },
+        {
+          "id": "museum",
+          "emoji": "🏛️",
+          "word": "museo",
+          "tr": "müze",
+          "pron": "muˈseo",
+          "level": "a1"
+        },
+        {
+          "id": "park",
+          "emoji": "🌳",
+          "word": "parque",
+          "tr": "park",
+          "pron": "ˈparke",
+          "level": "a1"
+        },
+        {
+          "id": "restaurant",
+          "emoji": "🍽️",
+          "word": "restaurante",
+          "tr": "restoran",
+          "pron": "restawˈrante",
+          "level": "a1"
+        },
+        {
+          "id": "school",
+          "emoji": "🏫",
+          "word": "escuela",
+          "tr": "okul",
+          "pron": "esˈkwela",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Voy a la escuela.",
+              "tr": "Okula gidiyorum.",
+              "words": [
+                "Voy",
+                "a",
+                "la",
+                "escuela"
+              ]
+            },
+            {
+              "text": "La escuela es divertida.",
+              "tr": "Okul eğlenceli.",
+              "words": [
+                "La",
+                "escuela",
+                "es",
+                "divertida"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "shop",
+          "emoji": "🛍️",
+          "word": "tienda",
+          "tr": "dükkan",
+          "pron": "ˈtjenda",
+          "level": "a1"
+        },
+        {
+          "id": "station",
+          "emoji": "🚉",
+          "word": "estación",
+          "tr": "istasyon",
+          "pron": "estaˈθjon",
+          "level": "a1"
+        },
+        {
+          "id": "zoo",
+          "emoji": "🦁",
+          "word": "zoo",
+          "tr": "hayvanat bahçesi",
+          "pron": "ˈθoo",
+          "level": "a1"
+        },
+        {
+          "id": "gallery",
+          "emoji": "🖼️",
+          "word": "galería",
+          "tr": "sanat galerisi",
+          "pron": "ɡaleˈria",
+          "level": "a2"
+        },
+        {
+          "id": "gym",
+          "emoji": "🏋️",
+          "word": "gimnasio",
+          "tr": "spor salonu",
+          "pron": "xiˈmnasjo",
+          "level": "a2"
+        },
+        {
+          "id": "harbour",
+          "emoji": "⚓",
+          "word": "puerto",
+          "tr": "liman",
+          "pron": "ˈpwerto",
+          "level": "a2"
+        },
+        {
+          "id": "laboratory",
+          "emoji": "🔬",
+          "word": "laboratorio",
+          "tr": "laboratuvar",
+          "pron": "laβoraˈtorjo",
+          "level": "a2"
+        },
+        {
+          "id": "pharmacy",
+          "emoji": "💊",
+          "word": "farmacia",
+          "tr": "eczane",
+          "pron": "farˈmaθja",
+          "level": "a2"
+        },
+        {
+          "id": "playground",
+          "emoji": "🛝",
+          "word": "parque infantil",
+          "tr": "oyun alanı",
+          "pron": "ˈparke inˈfantil",
+          "level": "a2"
+        },
+        {
+          "id": "prison",
+          "emoji": "🔒",
+          "word": "prisión",
+          "tr": "hapishane",
+          "pron": "priˈsjon",
+          "level": "a2"
+        },
+        {
+          "id": "stadium",
+          "emoji": "🏟️",
+          "word": "estadio",
+          "tr": "stadyum",
+          "pron": "esˈtaðjo",
+          "level": "a2"
+        },
+        {
+          "id": "temple",
+          "emoji": "🛕",
+          "word": "templo",
+          "tr": "tapınak",
+          "pron": "ˈtemplo",
+          "level": "a2"
+        },
+        {
+          "id": "theatre",
+          "emoji": "🎭",
+          "word": "teatro",
+          "tr": "tiyatro",
+          "pron": "teˈatro",
+          "level": "a2"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "airport",
+          "emoji": "✈️",
+          "word": "aeroporto",
+          "tr": "havalimanı",
+          "pron": "aɛɾoˈpoʁtu",
+          "level": "a1"
+        },
+        {
+          "id": "bank",
+          "emoji": "🏦",
+          "word": "banco",
+          "tr": "banka",
+          "pron": "ˈbɐ̃ku",
+          "level": "a1"
+        },
+        {
+          "id": "cafe",
+          "emoji": "☕",
+          "word": "café",
+          "tr": "kafe",
+          "pron": "kaˈfɛ",
+          "level": "a1"
+        },
+        {
+          "id": "castle",
+          "emoji": "🏰",
+          "word": "castelo",
+          "tr": "şato / kale",
+          "pron": "kaʃˈtɛlu",
+          "level": "a1"
+        },
+        {
+          "id": "church",
+          "emoji": "⛪",
+          "word": "igreja",
+          "tr": "kilise",
+          "pron": "iˈɡɾeʒa",
+          "level": "a1"
+        },
+        {
+          "id": "cinema",
+          "emoji": "🎬",
+          "word": "cinema",
+          "tr": "sinema",
+          "pron": "siˈnema",
+          "level": "a1"
+        },
+        {
+          "id": "city",
+          "emoji": "🏙️",
+          "word": "cidade",
+          "tr": "şehir",
+          "pron": "siˈdadʒi",
+          "level": "a1"
+        },
+        {
+          "id": "farm",
+          "emoji": "🌾",
+          "word": "fazenda",
+          "tr": "çiftlik",
+          "pron": "faˈzẽda",
+          "level": "a1"
+        },
+        {
+          "id": "hospital",
+          "emoji": "🏥",
+          "word": "hospital",
+          "tr": "hastane",
+          "pron": "oʃpiˈtaw",
+          "level": "a1"
+        },
+        {
+          "id": "hotel",
+          "emoji": "🏨",
+          "word": "hotel",
+          "tr": "otel",
+          "pron": "oˈtɛw",
+          "level": "a1"
+        },
+        {
+          "id": "library",
+          "emoji": "📚",
+          "word": "biblioteca",
+          "tr": "kütüphane",
+          "pron": "biblijoˈtɛka",
+          "level": "a1"
+        },
+        {
+          "id": "market",
+          "emoji": "🛒",
+          "word": "mercado",
+          "tr": "pazar / market",
+          "pron": "meʁˈkadu",
+          "level": "a1"
+        },
+        {
+          "id": "museum",
+          "emoji": "🏛️",
+          "word": "museu",
+          "tr": "müze",
+          "pron": "muˈzew",
+          "level": "a1"
+        },
+        {
+          "id": "park",
+          "emoji": "🌳",
+          "word": "parque",
+          "tr": "park",
+          "pron": "ˈpaʁki",
+          "level": "a1"
+        },
+        {
+          "id": "restaurant",
+          "emoji": "🍽️",
+          "word": "restaurante",
+          "tr": "restoran",
+          "pron": "ʁestawˈɾɐ̃tʃi",
+          "level": "a1"
+        },
+        {
+          "id": "school",
+          "emoji": "🏫",
+          "word": "escola",
+          "tr": "okul",
+          "pron": "eʃˈkɔla",
+          "level": "a1"
+        },
+        {
+          "id": "shop",
+          "emoji": "🛍️",
+          "word": "loja",
+          "tr": "dükkan",
+          "pron": "ˈlɔʒa",
+          "level": "a1"
+        },
+        {
+          "id": "station",
+          "emoji": "🚉",
+          "word": "estação",
+          "tr": "istasyon",
+          "pron": "eʃtaˈsɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "zoo",
+          "emoji": "🦁",
+          "word": "zoológico",
+          "tr": "hayvanat bahçesi",
+          "pron": "zooˈlɔʒiku",
+          "level": "a1"
+        },
+        {
+          "id": "gallery",
+          "emoji": "🖼️",
+          "word": "galeria",
+          "tr": "sanat galerisi",
+          "pron": "ɡaleˈɾia",
+          "level": "a2"
+        },
+        {
+          "id": "gym",
+          "emoji": "🏋️",
+          "word": "academia",
+          "tr": "spor salonu",
+          "pron": "akademˈia",
+          "level": "a2"
+        },
+        {
+          "id": "harbour",
+          "emoji": "⚓",
+          "word": "porto",
+          "tr": "liman",
+          "pron": "ˈpoʁtu",
+          "level": "a2"
+        },
+        {
+          "id": "laboratory",
+          "emoji": "🔬",
+          "word": "laboratório",
+          "tr": "laboratuvar",
+          "pron": "laboɾaˈtɔɾiu",
+          "level": "a2"
+        },
+        {
+          "id": "pharmacy",
+          "emoji": "💊",
+          "word": "farmácia",
+          "tr": "eczane",
+          "pron": "faʁˈmasja",
+          "level": "a2"
+        },
+        {
+          "id": "playground",
+          "emoji": "🛝",
+          "word": "parquinho",
+          "tr": "oyun alanı",
+          "pron": "paʁˈkĩɲu",
+          "level": "a2"
+        },
+        {
+          "id": "prison",
+          "emoji": "🔒",
+          "word": "prisão",
+          "tr": "hapishane",
+          "pron": "pɾiˈzɐ̃w",
+          "level": "a2"
+        },
+        {
+          "id": "stadium",
+          "emoji": "🏟️",
+          "word": "estádio",
+          "tr": "stadyum",
+          "pron": "eʃˈtadʒiu",
+          "level": "a2"
+        },
+        {
+          "id": "temple",
+          "emoji": "🛕",
+          "word": "templo",
+          "tr": "tapınak",
+          "pron": "ˈtẽplu",
+          "level": "a2"
+        },
+        {
+          "id": "theatre",
+          "emoji": "🎭",
+          "word": "teatro",
+          "tr": "tiyatro",
+          "pron": "tʃiˈatɾu",
+          "level": "a2"
+        }
+      ]
+    }
+  }
+}

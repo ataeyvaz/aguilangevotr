@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Wow!",
+    "tr": "Vay canına!",
+    "level": "B2"
+  },
+  {
+    "en": "Duck!",
+    "tr": "Ördek!",
+    "level": "B2"
+  },
+  {
+    "en": "Fire!",
+    "tr": "Ateş!",
+    "level": "B2"
+  },
+  {
+    "en": "Jump!",
+    "tr": "Atla!",
+    "level": "B2"
+  },
+  {
+    "en": "Jump.",
+    "tr": "Defol.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay.",
+    "tr": "Kal.",
+    "level": "B2"
+  },
+  {
+    "en": "Wait.",
+    "tr": "Bekle.",
+    "level": "B2"
+  },
+  {
+    "en": "Hurry!",
+    "tr": "Acele et!",
+    "level": "B2"
+  },
+  {
+    "en": "Relax.",
+    "tr": "Rahatla.",
+    "level": "B2"
+  },
+  {
+    "en": "Shoot!",
+    "tr": "Ateş!",
+    "level": "B2"
+  },
+  {
+    "en": "Smile.",
+    "tr": "Gülümse.",
+    "level": "B2"
+  },
+  {
+    "en": "Attack!",
+    "tr": "Saldır!",
+    "level": "B2"
+  },
+  {
+    "en": "Cheers!",
+    "tr": "Yarasın!",
+    "level": "B2"
+  },
+  {
+    "en": "Exhale.",
+    "tr": "Soluk ver.",
+    "level": "B2"
+  },
+  {
+    "en": "Freeze!",
+    "tr": "Kımıldama!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm 19.",
+    "tr": "Ben 19 yaşındayım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm up.",
+    "tr": "Ben uyanığım.",
+    "level": "B2"
+  },
+  {
+    "en": "Inhale.",
+    "tr": "Soluk al.",
+    "level": "B2"
+  },
+  {
+    "en": "Really?",
+    "tr": "Gerçekten mi?",
+    "level": "B2"
+  },
+  {
+    "en": "Thanks!",
+    "tr": "Teşekkür ederim!",
+    "level": "B2"
+  },
+  {
+    "en": "Thanks.",
+    "tr": "Teşekkürler.",
+    "level": "B2"
+  },
+  {
+    "en": "Get Tom.",
+    "tr": "Tom'u alın.",
+    "level": "B2"
+  },
+  {
+    "en": "Get out!",
+    "tr": "Çık dışarı!",
+    "level": "B2"
+  },
+  {
+    "en": "Get out.",
+    "tr": "Defol.",
+    "level": "B2"
+  },
+  {
+    "en": "Hit Tom.",
+    "tr": "Tom'a vur.",
+    "level": "B2"
+  },
+  {
+    "en": "Hug Tom.",
+    "tr": "Tom'a sarıl.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm Tom.",
+    "tr": "Ben Tom'um.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm fat.",
+    "tr": "Ben şişmanım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm fit.",
+    "tr": "Ben formdayım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hit!",
+    "tr": "Vuruldum!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ill.",
+    "tr": "Ben hastayım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm mad.",
+    "tr": "Ben çılgınım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm shy.",
+    "tr": "Ben utangacım.",
+    "level": "B2"
+  },
+  {
+    "en": "Shut up!",
+    "tr": "Kapa çeneni!",
+    "level": "B2"
+  },
+  {
+    "en": "So long.",
+    "tr": "Şimdilik hoşça kal.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom ate.",
+    "tr": "Tom yemek yedi.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom ran.",
+    "tr": "Tom koştu.",
+    "level": "B2"
+  },
+  {
+    "en": "Wait up.",
+    "tr": "Bekleyin.",
+    "level": "B2"
+  },
+  {
+    "en": "Wake up!",
+    "tr": "Kalk!",
+    "level": "B2"
+  },
+  {
+    "en": "Wash up.",
+    "tr": "Yıkayın.",
+    "level": "B2"
+  },
+  {
+    "en": "All rise.",
+    "tr": "Herkes ayağa kalksın.",
+    "level": "B2"
+  },
+  {
+    "en": "Back off!",
+    "tr": "Geri çekil!",
+    "level": "B2"
+  },
+  {
+    "en": "Buzz off.",
+    "tr": "Defol.",
+    "level": "B2"
+  },
+  {
+    "en": "Cheer up!",
+    "tr": "Neşelen!",
+    "level": "B2"
+  },
+  {
+    "en": "Cheer up.",
+    "tr": "Neşelen!",
+    "level": "B2"
+  },
+  {
+    "en": "Cool off!",
+    "tr": "Sakin ol!",
+    "level": "B2"
+  },
+  {
+    "en": "Find Tom.",
+    "tr": "Tom'u bul.",
+    "level": "B2"
+  },
+  {
+    "en": "Get away!",
+    "tr": "Defol.",
+    "level": "B2"
+  },
+  {
+    "en": "Get down!",
+    "tr": "Yavaşla!",
+    "level": "B2"
+  },
+  {
+    "en": "Get lost.",
+    "tr": "Defol.",
+    "level": "B2"
+  },
+  {
+    "en": "Get real.",
+    "tr": "Gerçekçi ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Grab Tom.",
+    "tr": "Tom'u alın.",
+    "level": "B2"
+  },
+  {
+    "en": "He's wet.",
+    "tr": "O ıslak.",
+    "level": "B2"
+  },
+  {
+    "en": "Hurry up.",
+    "tr": "Acele et!",
+    "level": "B2"
+  },
+  {
+    "en": "I get by.",
+    "tr": "Geçimimi kıt kanaat sağlıyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll die.",
+    "tr": "Öleceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll win.",
+    "tr": "Ben kazanacağım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a DJ.",
+    "tr": "Ben bir DJ'im.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm back.",
+    "tr": "Geri döndüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm bald.",
+    "tr": "Ben kelim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm busy.",
+    "tr": "Meşgulüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm calm.",
+    "tr": "Ben sakinim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm cool.",
+    "tr": "Ben sakinim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm deaf.",
+    "tr": "Ben sağırım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm done.",
+    "tr": "Bitirdim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm fair.",
+    "tr": "Ben adilim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm free!",
+    "tr": "Ben özgürüm!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm free.",
+    "tr": "Ben boşum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm full.",
+    "tr": "Tokum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm glad.",
+    "tr": "Ben memnunum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm high.",
+    "tr": "Ben sarhoşum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hurt.",
+    "tr": "Ben yaralıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm last.",
+    "tr": "Ben sonuncuyum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm lazy.",
+    "tr": "Ben tembelim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm mean.",
+    "tr": "Ben cimriyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm neat.",
+    "tr": "Ben temizim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm next.",
+    "tr": "Bir sonraki benim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm numb.",
+    "tr": "Ben uyuşmuşum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm okay.",
+    "tr": "İyiyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm poor.",
+    "tr": "Ben fakirim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm rich.",
+    "tr": "Ben zenginim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm safe.",
+    "tr": "Ben güvendeyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sick.",
+    "tr": "Ben hastayım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sure.",
+    "tr": "Eminim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm tidy.",
+    "tr": "Ben düzenliyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ugly.",
+    "tr": "Çirkinim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm warm.",
+    "tr": "Ben sıcakladım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm weak.",
+    "tr": "Ben güçsüzüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm well.",
+    "tr": "Ben iyiyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm wise.",
+    "tr": "Ben akıllıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I've won.",
+    "tr": "Kazandım.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep out!",
+    "tr": "Yaklaşmayın!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep out.",
+    "tr": "Dışarıda durun.",
+    "level": "B2"
+  },
+  {
+    "en": "Kiss Tom.",
+    "tr": "Tom'u öp.",
+    "level": "B2"
+  },
+  {
+    "en": "Save Tom.",
+    "tr": "Tom'u kurtar.",
+    "level": "B2"
+  },
+  {
+    "en": "Speak up!",
+    "tr": "Yüksek sesle konuş!",
+    "level": "B2"
+  },
+  {
+    "en": "Stay put.",
+    "tr": "Kımıldama.",
+    "level": "B2"
+  },
+  {
+    "en": "Terrific!",
+    "tr": "Müthiş!",
+    "level": "B2"
+  },
+  {
+    "en": "Tom came.",
+    "tr": "Tom geldi.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom died.",
+    "tr": "Tom öldü.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom fell.",
+    "tr": "Tom düştü.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom fled.",
+    "tr": "Tom kaçtı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom knew.",
+    "tr": "Tom bildi.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom lied.",
+    "tr": "Tom yalan söyledi.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom lies.",
+    "tr": "Tom yalan söylüyor.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom lost.",
+    "tr": "Tom kayboldu.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom paid.",
+    "tr": "Tom ödedi.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom quit.",
+    "tr": "Tom gitti.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom spit.",
+    "tr": "Tom tükürdü.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom swam.",
+    "tr": "Tom yüzdü.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom wept.",
+    "tr": "Tom ağladı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's up.",
+    "tr": "Tom uyanık.",
+    "level": "B2"
+  },
+  {
+    "en": "Warn Tom.",
+    "tr": "Tom'u uyar.",
+    "level": "B2"
+  },
+  {
+    "en": "Aim. Fire!",
+    "tr": "Nişan al. Ateş!",
+    "level": "B2"
+  },
+  {
+    "en": "Birds fly.",
+    "tr": "Kuşlar uçar.",
+    "level": "B2"
+  },
+  {
+    "en": "Calm down!",
+    "tr": "Sakin ol artık!",
+    "level": "B2"
+  },
+  {
+    "en": "Calm down.",
+    "tr": "Sakin ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Catch Tom.",
+    "tr": "Tom'u yakala.",
+    "level": "B2"
+  },
+  {
+    "en": "Chill out.",
+    "tr": "Sakin ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Cool down.",
+    "tr": "Sakin ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Dogs bark.",
+    "tr": "Köpekler havlar.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't cry.",
+    "tr": "Ağlama.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't die.",
+    "tr": "Ölme.",
+    "level": "B2"
+  },
+  {
+    "en": "Fantastic!",
+    "tr": "Muhteşem!",
+    "level": "B2"
+  },
+  {
+    "en": "Get ready.",
+    "tr": "Hazır olun.",
+    "level": "B2"
+  },
+  {
+    "en": "Goodnight.",
+    "tr": "İyi geceler.",
+    "level": "B2"
+  },
+  {
+    "en": "Hands off.",
+    "tr": "Ona dokunma.",
+    "level": "B2"
+  },
+  {
+    "en": "He's a DJ.",
+    "tr": "O bir DJ'dir.",
+    "level": "B2"
+  },
+  {
+    "en": "He's busy.",
+    "tr": "O meşgul.",
+    "level": "B2"
+  },
+  {
+    "en": "He's lazy.",
+    "tr": "O tembeldir.",
+    "level": "B2"
+  },
+  {
+    "en": "He's sexy.",
+    "tr": "O, seksidir.",
+    "level": "B2"
+  },
+  {
+    "en": "Here's $5.",
+    "tr": "İşte 5 dolar.",
+    "level": "B2"
+  },
+  {
+    "en": "Hold fire.",
+    "tr": "Ateş etme.",
+    "level": "B2"
+  },
+  {
+    "en": "How's Tom?",
+    "tr": "Tom nasıl?",
+    "level": "B2"
+  },
+  {
+    "en": "Humor Tom.",
+    "tr": "Tom'u eğlendir.",
+    "level": "B2"
+  },
+  {
+    "en": "I ate out.",
+    "tr": "Ben dışarıda yedim.",
+    "level": "B2"
+  },
+  {
+    "en": "I bit Tom.",
+    "tr": "Ben Tom'u ısırdım.",
+    "level": "B2"
+  },
+  {
+    "en": "I fear so.",
+    "tr": "Korkarım ki öyle.",
+    "level": "B2"
+  },
+  {
+    "en": "I gave up.",
+    "tr": "İstifa ettim.",
+    "level": "B2"
+  },
+  {
+    "en": "I got cut.",
+    "tr": "Ben kesildim.",
+    "level": "B2"
+  },
+  {
+    "en": "I got fat.",
+    "tr": "Ben şişmanladım.",
+    "level": "B2"
+  },
+  {
+    "en": "I got hit.",
+    "tr": "Ben vuruldum.",
+    "level": "B2"
+  },
+  {
+    "en": "I got mad.",
+    "tr": "Delirdim.",
+    "level": "B2"
+  },
+  {
+    "en": "I hate TV.",
+    "tr": "TV'den nefret ediyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I hit Tom.",
+    "tr": "Tom'a vurdum.",
+    "level": "B2"
+  },
+  {
+    "en": "I hope so.",
+    "tr": "Öyle olduğunu umuyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I hung up.",
+    "tr": "Telefonu kapadım.",
+    "level": "B2"
+  },
+  {
+    "en": "I may win.",
+    "tr": "Kazanabilirim.",
+    "level": "B2"
+  },
+  {
+    "en": "I met Tom.",
+    "tr": "Tom'la tanıştım.",
+    "level": "B2"
+  },
+  {
+    "en": "I said so.",
+    "tr": "Öyle söyledim.",
+    "level": "B2"
+  },
+  {
+    "en": "I saw Tom.",
+    "tr": "Tom'u gördüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I woke up.",
+    "tr": "Uyandım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'd leave.",
+    "tr": "Terk edeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll fail.",
+    "tr": "Başarısız olacağım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll live.",
+    "tr": "Ben yaşayacağım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll lose.",
+    "tr": "Kaybedeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll obey.",
+    "tr": "İtaat edeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll pack.",
+    "tr": "Toplanacağım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll pass.",
+    "tr": "Geçeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll quit.",
+    "tr": "İstifa edeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll sing.",
+    "tr": "Şarkı söyleyeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll stay.",
+    "tr": "Kalacağım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll swim.",
+    "tr": "Yüzeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll talk.",
+    "tr": "Konuşacağım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll wait.",
+    "tr": "Bekleyeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a CPA.",
+    "tr": "Ben bir CPA'yim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a Leo.",
+    "tr": "Aslan burcuyum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a cop.",
+    "tr": "Ben bir polisim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a fan.",
+    "tr": "Ben bir hayranım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a kid.",
+    "tr": "Ben bir çocuğum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a pro.",
+    "tr": "Ben bir profesyonelim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm alive.",
+    "tr": "Hayattayım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm alone.",
+    "tr": "Yalnızım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm armed.",
+    "tr": "Silahlıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm awake.",
+    "tr": "Uyanığım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm blind.",
+    "tr": "Ben körüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm bossy.",
+    "tr": "Ben buyurganım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm brave.",
+    "tr": "Ben cesurum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm broke.",
+    "tr": "Hiç param yok.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm clean.",
+    "tr": "Ben temizim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm crazy.",
+    "tr": "Ben çılgınım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm cured.",
+    "tr": "Tedavi edildim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm dizzy.",
+    "tr": "Başım dönüyor.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm drunk.",
+    "tr": "Ben sarhoşum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm first.",
+    "tr": "Ben birinciyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm fussy.",
+    "tr": "Ben kılı kırk yaranım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm going.",
+    "tr": "Ben gidiyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm loved.",
+    "tr": "Ben seviliyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm loyal.",
+    "tr": "Ben sadığım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm lucky.",
+    "tr": "Ben şanslıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm lying.",
+    "tr": "Ben yalan söylüyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm naive.",
+    "tr": "Ben safım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm naked.",
+    "tr": "Çıplağım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm needy.",
+    "tr": "Ben muhtacım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm obese.",
+    "tr": "Ben şişmanım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm picky.",
+    "tr": "Ben seçiciyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm quiet.",
+    "tr": "Ben sessizim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ready!",
+    "tr": "Hazırım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ready.",
+    "tr": "Ben hazırım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sharp.",
+    "tr": "Zekiyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm silly.",
+    "tr": "Ben aptalım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm smart.",
+    "tr": "Ben zekiyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sober.",
+    "tr": "Ben ağır başlıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm stuck.",
+    "tr": "Sıkıştım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm tense.",
+    "tr": "Gerginim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm timid.",
+    "tr": "Ben çekingenim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm tipsy.",
+    "tr": "Ben içkiliyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm tough.",
+    "tr": "Ben sert kimseyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm upset.",
+    "tr": "Ben üzgünüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm wrong.",
+    "tr": "Hatalıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm yours.",
+    "tr": "Ben seninim.",
+    "level": "B2"
+  },
+  {
+    "en": "Jump down.",
+    "tr": "Aşağıya atla.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep away.",
+    "tr": "Uzak dur.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep back.",
+    "tr": "Uzak dur.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep calm.",
+    "tr": "Sakin ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep cool.",
+    "tr": "Sakin ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep down.",
+    "tr": "Engelleme.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep warm.",
+    "tr": "Sıcak tut.",
+    "level": "B2"
+  },
+  {
+    "en": "Leave Tom.",
+    "tr": "Tom'u bırak.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's ski.",
+    "tr": "Kayak yapalım.",
+    "level": "B2"
+  },
+  {
+    "en": "Listen up.",
+    "tr": "Beni dinle.",
+    "level": "B2"
+  },
+  {
+    "en": "Loosen up.",
+    "tr": "Rahatla.",
+    "level": "B2"
+  },
+  {
+    "en": "Move back.",
+    "tr": "Çekilin.",
+    "level": "B2"
+  },
+  {
+    "en": "Move over.",
+    "tr": "Kenara çekil!",
+    "level": "B2"
+  },
+  {
+    "en": "Say \"aah.\"",
+    "tr": "\"Aah\" deyin.",
+    "level": "B2"
+  },
+  {
+    "en": "Seriously?",
+    "tr": "Sahi mi?",
+    "level": "B2"
+  },
+  {
+    "en": "Stay away.",
+    "tr": "Uzak dur.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay back.",
+    "tr": "Geride durun.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay cool.",
+    "tr": "Sakin olun.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay down!",
+    "tr": "Yerde kal!",
+    "level": "B2"
+  },
+  {
+    "en": "Step back.",
+    "tr": "Geri adım at.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom bowed.",
+    "tr": "Tom başıyla selamladı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cared.",
+    "tr": "Tom umursadı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cares.",
+    "tr": "Tom umursar.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cooks.",
+    "tr": "Tom yemek pişiriyor.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cried.",
+    "tr": "Tom ağladı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom dozed.",
+    "tr": "Tom uyukladı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom drank.",
+    "tr": "Tom içki içti.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom drove.",
+    "tr": "Tom araba sürdü.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom froze.",
+    "tr": "Tom dondu kaldı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is up.",
+    "tr": "Tom ayakta.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom knits.",
+    "tr": "Tom örgü örer.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom knows.",
+    "tr": "Tom biliyor.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom moved.",
+    "tr": "Tom taşındı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom rocks.",
+    "tr": "Tom süper.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom slept.",
+    "tr": "Tom uyudu.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom spoke.",
+    "tr": "Tom konuştu.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom stood.",
+    "tr": "Tom ayakta durdu.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom swims.",
+    "tr": "Tom yüzüyor.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom swore.",
+    "tr": "Tom küfretti.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom tried.",
+    "tr": "Tom çalıştı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom tries.",
+    "tr": "Tom çalışır.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom voted.",
+    "tr": "Tom oy verdi.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom walks.",
+    "tr": "Tom yürür.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom waved.",
+    "tr": "Tom el salladı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom works.",
+    "tr": "Tom çalışır.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's fat.",
+    "tr": "Tom şişman.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's mad.",
+    "tr": "Tom çılgın.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's shy.",
+    "tr": "Tom utangaç.",
+    "level": "B2"
+  },
+  {
+    "en": "Trust Tom.",
+    "tr": "Tom'a güven.",
+    "level": "B2"
+  },
+  {
+    "en": "Watch Tom.",
+    "tr": "Tom'u izle.",
+    "level": "B2"
+  },
+  {
+    "en": "We'll win.",
+    "tr": "Biz kazanacağız.",
+    "level": "B2"
+  },
+  {
+    "en": "We've won!",
+    "tr": "Biz kazandık!",
+    "level": "B2"
+  },
+  {
+    "en": "Well done!",
+    "tr": "Aferin!",
+    "level": "B2"
+  },
+  {
+    "en": "Well done.",
+    "tr": "Aferin.",
+    "level": "B2"
+  },
+  {
+    "en": "What's up?",
+    "tr": "Ne var?",
+    "level": "B2"
+  },
+  {
+    "en": "Who's Tom?",
+    "tr": "Tom kim?",
+    "level": "B2"
+  },
+  {
+    "en": "Who's ill?",
+    "tr": "Kim hasta?",
+    "level": "B2"
+  },
+  {
+    "en": "Wonderful!",
+    "tr": "Harika!",
+    "level": "B2"
+  },
+  {
+    "en": "Aim higher.",
+    "tr": "Daha yükseği hedefle.",
+    "level": "B2"
+  },
+  {
+    "en": "All aboard!",
+    "tr": "Aşağıda yolcu kalmasın!",
+    "level": "B2"
+  },
+  {
+    "en": "Birds sing.",
+    "tr": "Kuşlar öter.",
+    "level": "B2"
+  },
+  {
+    "en": "Bottoms up!",
+    "tr": "Yarasın!",
+    "level": "B2"
+  },
+  {
+    "en": "Bring wine.",
+    "tr": "Şarap getir.",
+    "level": "B2"
+  },
+  {
+    "en": "Cut it out!",
+    "tr": "Kes artık!",
+    "level": "B2"
+  },
+  {
+    "en": "Cut it out.",
+    "tr": "Kes şunu!",
+    "level": "B2"
+  },
+  {
+    "en": "Definitely!",
+    "tr": "Kesinlikle!",
+    "level": "B2"
+  },
+  {
+    "en": "Do men cry?",
+    "tr": "Erkekler ağlar mı?",
+    "level": "B2"
+  },
+  {
+    "en": "Don't brag.",
+    "tr": "Böbürlenme.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't jump!",
+    "tr": "Atlama!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't kick.",
+    "tr": "Tekme atma.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't move.",
+    "tr": "Kımıldama.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't peek.",
+    "tr": "Dikizlemeyin.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't push.",
+    "tr": "İtme.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't quit.",
+    "tr": "Bırakma.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't rush.",
+    "tr": "Acele etme.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't sing.",
+    "tr": "Şarkı söyleme.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't slip.",
+    "tr": "Kayma.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't swim.",
+    "tr": "Yüzme.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't talk!",
+    "tr": "Konuşma!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't wait.",
+    "tr": "Bekleme.",
+    "level": "B2"
+  },
+  {
+    "en": "Duty calls.",
+    "tr": "Görev bekler.",
+    "level": "B2"
+  },
+  {
+    "en": "Fill it up.",
+    "tr": "Onu tam doldurun.",
+    "level": "B2"
+  },
+  {
+    "en": "Fire burns.",
+    "tr": "Ateş yanar.",
+    "level": "B2"
+  },
+  {
+    "en": "Follow Tom.",
+    "tr": "Tom'u izle.",
+    "level": "B2"
+  },
+  {
+    "en": "Get a life!",
+    "tr": "Düş yakamdan.",
+    "level": "B2"
+  },
+  {
+    "en": "Get a life.",
+    "tr": "Beni rahatsız etme.",
+    "level": "B2"
+  },
+  {
+    "en": "Get moving.",
+    "tr": "Harekete geç.",
+    "level": "B2"
+  },
+  {
+    "en": "Get off me.",
+    "tr": "Beni yalnız bırak.",
+    "level": "B2"
+  },
+  {
+    "en": "Go get Tom.",
+    "tr": "Tom'u almaya git.",
+    "level": "B2"
+  },
+  {
+    "en": "Go warm up.",
+    "tr": "Isınmaya git.",
+    "level": "B2"
+  },
+  {
+    "en": "Go wash up.",
+    "tr": "Bulaşıkları yıkamaya git.",
+    "level": "B2"
+  },
+  {
+    "en": "God exists.",
+    "tr": "Allah vardır.",
+    "level": "B2"
+  },
+  {
+    "en": "He ate out.",
+    "tr": "O dışarıda yemek yedi.",
+    "level": "B2"
+  },
+  {
+    "en": "He gave up.",
+    "tr": "O vazgeçti.",
+    "level": "B2"
+  },
+  {
+    "en": "He hung up.",
+    "tr": "O, telefonu kapattı.",
+    "level": "B2"
+  },
+  {
+    "en": "He's broke.",
+    "tr": "O, beş parasızdır.",
+    "level": "B2"
+  },
+  {
+    "en": "He's cruel.",
+    "tr": "O acımasız.",
+    "level": "B2"
+  },
+  {
+    "en": "He's lying.",
+    "tr": "O, yalan söylüyor.",
+    "level": "B2"
+  },
+  {
+    "en": "He's smart.",
+    "tr": "O akıllı.",
+    "level": "B2"
+  },
+  {
+    "en": "Heat it up.",
+    "tr": "Onu ısıt.",
+    "level": "B2"
+  },
+  {
+    "en": "Here's Tom.",
+    "tr": "İşte, Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Hey, relax.",
+    "tr": "Hey, rahatla.",
+    "level": "B2"
+  },
+  {
+    "en": "Hold tight.",
+    "tr": "Sıkı tut.",
+    "level": "B2"
+  },
+  {
+    "en": "Hurry back.",
+    "tr": "Hemen dön.",
+    "level": "B2"
+  },
+  {
+    "en": "I beat Tom.",
+    "tr": "Tom'u yendim.",
+    "level": "B2"
+  },
+  {
+    "en": "I chew gum.",
+    "tr": "Sakız çiğniyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I envy Tom.",
+    "tr": "Tom'u kıskanıyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I feel fit.",
+    "tr": "Ben formda hissediyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I feel shy.",
+    "tr": "Utangaç hissediyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I felt ill.",
+    "tr": "Hasta hissettim.",
+    "level": "B2"
+  },
+  {
+    "en": "I got away.",
+    "tr": "Ben kaçtım.",
+    "level": "B2"
+  },
+  {
+    "en": "I got beat.",
+    "tr": "Ben yenildim.",
+    "level": "B2"
+  },
+  {
+    "en": "I got busy.",
+    "tr": "Faaliyet gösterdim.",
+    "level": "B2"
+  },
+  {
+    "en": "I got hurt.",
+    "tr": "Ben incindim.",
+    "level": "B2"
+  },
+  {
+    "en": "I got shot.",
+    "tr": "Ben vuruldum.",
+    "level": "B2"
+  },
+  {
+    "en": "I got sick.",
+    "tr": "Hastalandım.",
+    "level": "B2"
+  },
+  {
+    "en": "I guess so.",
+    "tr": "Sanırım öyle.",
+    "level": "B2"
+  },
+  {
+    "en": "I hate Tom.",
+    "tr": "Ben Tom'dan nefret ediyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I hate rap.",
+    "tr": "Rap yapmaktan nefret ediyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I knew Tom.",
+    "tr": "Tom'u bilirim.",
+    "level": "B2"
+  },
+  {
+    "en": "I made tea.",
+    "tr": "Çay yaptım.",
+    "level": "B2"
+  },
+  {
+    "en": "I may quit.",
+    "tr": "Ben bırakabilirim.",
+    "level": "B2"
+  },
+  {
+    "en": "I may sing.",
+    "tr": "Şarkı söyleyebilirim",
+    "level": "B2"
+  },
+  {
+    "en": "I miss Tom.",
+    "tr": "Tom'u özledim.",
+    "level": "B2"
+  },
+  {
+    "en": "I need Tom.",
+    "tr": "Tom'a ihtiyacım var.",
+    "level": "B2"
+  },
+  {
+    "en": "I need air.",
+    "tr": "Havaya ihtiyacım var.",
+    "level": "B2"
+  },
+  {
+    "en": "I need ice.",
+    "tr": "Buza ihtiyacım var.",
+    "level": "B2"
+  },
+  {
+    "en": "I paid Tom.",
+    "tr": "Tom'a ödeme yaptım.",
+    "level": "B2"
+  },
+  {
+    "en": "I ran away.",
+    "tr": "Kaçtım.",
+    "level": "B2"
+  },
+  {
+    "en": "I sat down.",
+    "tr": "Oturdum.",
+    "level": "B2"
+  },
+  {
+    "en": "I shot Tom.",
+    "tr": "Tom'u vurdum.",
+    "level": "B2"
+  },
+  {
+    "en": "I spoke up.",
+    "tr": "Ben açıkça konuştum.",
+    "level": "B2"
+  },
+  {
+    "en": "I stood by.",
+    "tr": "Ben seyirci kaldım.",
+    "level": "B2"
+  },
+  {
+    "en": "I stood up.",
+    "tr": "Ben ayağa kalktım.",
+    "level": "B2"
+  },
+  {
+    "en": "I threw up.",
+    "tr": "Ben istifra ettim.",
+    "level": "B2"
+  },
+  {
+    "en": "I told Tom.",
+    "tr": "Tom'a söyledim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'd accept.",
+    "tr": "Ben kabul ediyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll check.",
+    "tr": "Kontrol edeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll drive.",
+    "tr": "Araba süreceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll hurry.",
+    "tr": "Acele edeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll leave.",
+    "tr": "Ben gideceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll shoot.",
+    "tr": "Ateş edeceğim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm 30 now.",
+    "tr": "Ben şimdi 30 yaşındayım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a hero.",
+    "tr": "Ben bir kahramanım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a liar.",
+    "tr": "Ben bir yalancıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a monk.",
+    "tr": "Ben bir keşişim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a poet.",
+    "tr": "Ben bir şairim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a twin.",
+    "tr": "Ben bir ikizim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a wimp.",
+    "tr": "Ben bir pısırığım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm amazed.",
+    "tr": "Şaşırdım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm amused.",
+    "tr": "Ben neşeliyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm anemic.",
+    "tr": "Ben kansızım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm baking!",
+    "tr": "Bu sıcaklığa dayanamıyorum!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm biased.",
+    "tr": "Ben önyargılıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm bushed.",
+    "tr": "Ben çok yorgunum",
+    "level": "B2"
+  },
+  {
+    "en": "I'm buying.",
+    "tr": "Satın alıyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm chubby.",
+    "tr": "Ben tombulum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm clever.",
+    "tr": "Ben zekiyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm clumsy.",
+    "tr": "Ben sakarım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm coming.",
+    "tr": "Geliyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm crafty.",
+    "tr": "Ben kurnazım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm direct.",
+    "tr": "Ben direktim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm eating.",
+    "tr": "Yemek yiyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm famous.",
+    "tr": "Ben ünlüyüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm faster.",
+    "tr": "Ben daha hızlıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm filthy.",
+    "tr": "Ben pisim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm flabby.",
+    "tr": "Fazla kilolarım var.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm frugal.",
+    "tr": "Tutumluyum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm greedy.",
+    "tr": "Ben açgözlüyüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm groggy.",
+    "tr": "Ben halsizim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm guilty.",
+    "tr": "Ben suçluyum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hiding.",
+    "tr": "Ben saklanıyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm honest.",
+    "tr": "Ben dürüstüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm humble.",
+    "tr": "Ben mütevazıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hungry!",
+    "tr": "Ben açım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hungry.",
+    "tr": "Ben açım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm immune.",
+    "tr": "Ben bağışığım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm insane.",
+    "tr": "Ben deliyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm joking.",
+    "tr": "Şaka yapıyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm loaded.",
+    "tr": "Yüklüyüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm lonely.",
+    "tr": "Ben yalnızım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm losing.",
+    "tr": "Ben kaybediyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm mature.",
+    "tr": "Ben olgunum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm moving.",
+    "tr": "Ben hareket ediyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm normal.",
+    "tr": "Ben normalim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm paying.",
+    "tr": "Ben ödeme yapıyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm pooped.",
+    "tr": "Yorgunum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm rested.",
+    "tr": "Ben dinlendim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ruined.",
+    "tr": "Ben harap oldum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm scared.",
+    "tr": "Korktum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm shaken.",
+    "tr": "Ben sarsıldım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm skinny.",
+    "tr": "Ben sıskayım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sleepy!",
+    "tr": "Uykum var!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sneaky.",
+    "tr": "Ben sinsiyim.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm so fat.",
+    "tr": "Çok şişmanım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm so mad.",
+    "tr": "Çok çılgınım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm stable.",
+    "tr": "Aklım başımda.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm strict.",
+    "tr": "Ben katıyım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm strong.",
+    "tr": "Ben güçlüyüm.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm stupid.",
+    "tr": "Ben aptalım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm thirty.",
+    "tr": "Otuz yaşındayım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm trying.",
+    "tr": "Deniyorum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm untidy.",
+    "tr": "Ben dağınığım.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm wasted.",
+    "tr": "Ben heba oldum.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm winded.",
+    "tr": "Nefes nefese kaldım.",
+    "level": "B2"
+  },
+  {
+    "en": "I've eaten.",
+    "tr": "Ben yedim.",
+    "level": "B2"
+  },
+  {
+    "en": "I've tried.",
+    "tr": "Ben denedim.",
+    "level": "B2"
+  },
+  {
+    "en": "Ignore Tom.",
+    "tr": "Tom'u görmezden gel.",
+    "level": "B2"
+  },
+  {
+    "en": "Is Tom fat?",
+    "tr": "Tom şişman mı?",
+    "level": "B2"
+  },
+  {
+    "en": "Is Tom fun?",
+    "tr": "Tom eğlenceli mi?",
+    "level": "B2"
+  },
+  {
+    "en": "Is Tom ill?",
+    "tr": "Tom hasta mı?",
+    "level": "B2"
+  },
+  {
+    "en": "Is Tom mad?",
+    "tr": "Tom deli mi?",
+    "level": "B2"
+  },
+  {
+    "en": "Is Tom out?",
+    "tr": "Tom dışarıda mı?",
+    "level": "B2"
+  },
+  {
+    "en": "Is Tom shy?",
+    "tr": "Tom utangaç mı?",
+    "level": "B2"
+  },
+  {
+    "en": "It'll burn.",
+    "tr": "O yanacak.",
+    "level": "B2"
+  },
+  {
+    "en": "It'll heal.",
+    "tr": "O iyileşecek.",
+    "level": "B2"
+  },
+  {
+    "en": "Jesus wept.",
+    "tr": "İsa ağladı.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep going.",
+    "tr": "Devam et.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep it up!",
+    "tr": "Devam et!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep it up.",
+    "tr": "Devam et.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep notes.",
+    "tr": "Not tutun.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep quiet!",
+    "tr": "Sessiz ol!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep quiet.",
+    "tr": "Sakin ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Leave town.",
+    "tr": "Şehri terk et.",
+    "level": "B2"
+  },
+  {
+    "en": "Let Tom go.",
+    "tr": "Tom'un gitmesine izin ver.",
+    "level": "B2"
+  },
+  {
+    "en": "Let Tom in.",
+    "tr": "Tom'un içeri girmesine izin ver.",
+    "level": "B2"
+  },
+  {
+    "en": "Let it dry.",
+    "tr": "Bırak kurusun.",
+    "level": "B2"
+  },
+  {
+    "en": "Let me die.",
+    "tr": "Bırak öleyim.",
+    "level": "B2"
+  },
+  {
+    "en": "Let me out!",
+    "tr": "Çıkarın beni!",
+    "level": "B2"
+  },
+  {
+    "en": "Let me out.",
+    "tr": "Dışarı çıkmama izin verin.",
+    "level": "B2"
+  },
+  {
+    "en": "Let us out.",
+    "tr": "Çıkmamıza izin ver.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's chat.",
+    "tr": "Sohbet edelim.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's kiss.",
+    "tr": "Öpüşelim.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's move.",
+    "tr": "Hareket edelim.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's pray.",
+    "tr": "Hadi dua edelim.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's quit.",
+    "tr": "Hadi çıkalım.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's race.",
+    "tr": "Hadi yarışalım.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's rest.",
+    "tr": "Dinlenelim.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's sing.",
+    "tr": "Şarkı söyleyelim.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's swim.",
+    "tr": "Hadi yüzelim.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's talk.",
+    "tr": "Hadi konuşalım.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's vote.",
+    "tr": "Oylayalım.",
+    "level": "B2"
+  },
+  {
+    "en": "Lift it up.",
+    "tr": "Onu yukarı kaldır.",
+    "level": "B2"
+  },
+  {
+    "en": "Lighten up.",
+    "tr": "Rahatla.",
+    "level": "B2"
+  },
+  {
+    "en": "Mama cried.",
+    "tr": "Anne bağırdı.",
+    "level": "B2"
+  },
+  {
+    "en": "May I sing?",
+    "tr": "Şarkı söyleyebilir miyim?",
+    "level": "B2"
+  },
+  {
+    "en": "May I swim?",
+    "tr": "Yüzebilir miyim?",
+    "level": "B2"
+  },
+  {
+    "en": "Nobody ran.",
+    "tr": "Kimse koşmadı.",
+    "level": "B2"
+  },
+  {
+    "en": "Oh, really?",
+    "tr": "Gerçekten mi?",
+    "level": "B2"
+  },
+  {
+    "en": "Pick it up.",
+    "tr": "Onu al.",
+    "level": "B2"
+  },
+  {
+    "en": "Pull me up.",
+    "tr": "Beni yukarı çek.",
+    "level": "B2"
+  },
+  {
+    "en": "Quiet down.",
+    "tr": "Sakin ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Ridiculous!",
+    "tr": "Gülünç!",
+    "level": "B2"
+  },
+  {
+    "en": "Say cheese.",
+    "tr": "Gülümseyin.",
+    "level": "B2"
+  },
+  {
+    "en": "Scoot over.",
+    "tr": "Kenara kay.",
+    "level": "B2"
+  },
+  {
+    "en": "She's busy.",
+    "tr": "O meşgul.",
+    "level": "B2"
+  },
+  {
+    "en": "Shove over.",
+    "tr": "Öteye it.",
+    "level": "B2"
+  },
+  {
+    "en": "Sing along.",
+    "tr": "Şarkıya eşlik et.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay alert.",
+    "tr": "Ayık kal.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay awake.",
+    "tr": "Uyanık kal.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay quiet.",
+    "tr": "Sessiz kal.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay sharp.",
+    "tr": "Tetikte ol.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay tuned.",
+    "tr": "Bizi izlemeye devam edin.",
+    "level": "B2"
+  },
+  {
+    "en": "Step aside.",
+    "tr": "Kenara çekilin.",
+    "level": "B2"
+  },
+  {
+    "en": "Study hard.",
+    "tr": "Sıkı çalış.",
+    "level": "B2"
+  },
+  {
+    "en": "That's Tom.",
+    "tr": "O Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "That's all.",
+    "tr": "Hepsi bu.",
+    "level": "B2"
+  },
+  {
+    "en": "That's fun.",
+    "tr": "O eğlenceli.",
+    "level": "B2"
+  },
+  {
+    "en": "That's odd.",
+    "tr": "Bu garip.",
+    "level": "B2"
+  },
+  {
+    "en": "That's wet.",
+    "tr": "O ıslak.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom agreed.",
+    "tr": "Tom kabul etti.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom agrees.",
+    "tr": "Tom kabul eder.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom ate it.",
+    "tr": "Bunu Tom yedi.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom bit me.",
+    "tr": "Tom beni ısırdı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom burped.",
+    "tr": "Tom geğirdi.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom called.",
+    "tr": "Tom aradı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cheats.",
+    "tr": "Tom kopya çeker.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cursed.",
+    "tr": "Tom küfür etti.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom danced.",
+    "tr": "Tom dans etti.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom dances.",
+    "tr": "Tom dans ediyor.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom drinks.",
+    "tr": "Tom içer.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom drives.",
+    "tr": "Tom araba sürer.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom failed.",
+    "tr": "Tom başarısız oldu.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom fasted.",
+    "tr": "Tom oruç tuttu.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom forgot.",
+    "tr": "Tom unuttu.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom fought.",
+    "tr": "Tom dövüştü.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom gasped.",
+    "tr": "Tom nefes nefese kaldı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom goofed.",
+    "tr": "Tom gaf yaptı.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom got up.",
+    "tr": "Tom kalktı.",
+    "level": "B2"
+  }
+]

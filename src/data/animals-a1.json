@@ -1,0 +1,1167 @@
+{
+  "category": "animals",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "cat",
+          "emoji": "🐱",
+          "word": "cat",
+          "tr": "kedi",
+          "pron": "kæt",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The cat is small.",
+              "tr": "Kedi küçük.",
+              "words": [
+                "The",
+                "cat",
+                "is",
+                "small"
+              ]
+            },
+            {
+              "en": "I love my cat.",
+              "tr": "Kedimi seviyorum.",
+              "words": [
+                "I",
+                "love",
+                "my",
+                "cat"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dog",
+          "emoji": "🐶",
+          "word": "dog",
+          "tr": "köpek",
+          "pron": "dɒɡ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have a dog.",
+              "tr": "Bir köpeğim var.",
+              "words": [
+                "I",
+                "have",
+                "a",
+                "dog"
+              ]
+            },
+            {
+              "en": "The dog is big.",
+              "tr": "Köpek büyük.",
+              "words": [
+                "The",
+                "dog",
+                "is",
+                "big"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fish",
+          "emoji": "🐟",
+          "word": "fish",
+          "tr": "balık",
+          "pron": "fɪʃ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The fish is in water.",
+              "tr": "Balık suda.",
+              "words": [
+                "The",
+                "fish",
+                "is",
+                "in",
+                "water"
+              ]
+            },
+            {
+              "en": "I have a fish.",
+              "tr": "Bir balığım var.",
+              "words": [
+                "I",
+                "have",
+                "a",
+                "fish"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bird",
+          "emoji": "🐦",
+          "word": "bird",
+          "tr": "kuş",
+          "pron": "bɜːd",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The bird can fly.",
+              "tr": "Kuş uçabilir.",
+              "words": [
+                "The",
+                "bird",
+                "can",
+                "fly"
+              ]
+            },
+            {
+              "en": "I see a bird.",
+              "tr": "Bir kuş görüyorum.",
+              "words": [
+                "I",
+                "see",
+                "a",
+                "bird"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rabbit",
+          "emoji": "🐰",
+          "word": "rabbit",
+          "tr": "tavşan",
+          "pron": "ˈræbɪt",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The rabbit is white.",
+              "tr": "Tavşan beyaz.",
+              "words": [
+                "The",
+                "rabbit",
+                "is",
+                "white"
+              ]
+            },
+            {
+              "en": "I have a rabbit.",
+              "tr": "Bir tavşanım var.",
+              "words": [
+                "I",
+                "have",
+                "a",
+                "rabbit"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "horse",
+          "emoji": "🐴",
+          "word": "horse",
+          "tr": "at",
+          "pron": "hɔːs",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The horse runs fast.",
+              "tr": "At hızlı koşar.",
+              "words": [
+                "The",
+                "horse",
+                "runs",
+                "fast"
+              ]
+            },
+            {
+              "en": "I ride a horse.",
+              "tr": "Ata biniyorum.",
+              "words": [
+                "I",
+                "ride",
+                "a",
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cow",
+          "emoji": "🐮",
+          "word": "cow",
+          "tr": "inek",
+          "pron": "kaʊ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The cow gives milk.",
+              "tr": "İnek süt verir.",
+              "words": [
+                "The",
+                "cow",
+                "gives",
+                "milk"
+              ]
+            },
+            {
+              "en": "I see a cow.",
+              "tr": "Bir inek görüyorum.",
+              "words": [
+                "I",
+                "see",
+                "a",
+                "cow"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sheep",
+          "emoji": "🐑",
+          "word": "sheep",
+          "tr": "koyun",
+          "pron": "ʃiːp",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The sheep is white.",
+              "tr": "Koyun beyaz.",
+              "words": [
+                "The",
+                "sheep",
+                "is",
+                "white"
+              ]
+            },
+            {
+              "en": "I see a sheep.",
+              "tr": "Bir koyun görüyorum.",
+              "words": [
+                "I",
+                "see",
+                "a",
+                "sheep"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pig",
+          "emoji": "🐷",
+          "word": "pig",
+          "tr": "domuz",
+          "pron": "pɪɡ",
+          "level": "a1"
+        },
+        {
+          "id": "duck",
+          "emoji": "🦆",
+          "word": "duck",
+          "tr": "ördek",
+          "pron": "dʌk",
+          "level": "a1"
+        },
+        {
+          "id": "frog",
+          "emoji": "🐸",
+          "word": "frog",
+          "tr": "kurbağa",
+          "pron": "frɒɡ",
+          "level": "a1"
+        },
+        {
+          "id": "lion",
+          "emoji": "🦁",
+          "word": "lion",
+          "tr": "aslan",
+          "pron": "ˈlaɪən",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The lion is strong.",
+              "tr": "Aslan güçlü.",
+              "words": [
+                "The",
+                "lion",
+                "is",
+                "strong"
+              ]
+            },
+            {
+              "en": "I see a lion.",
+              "tr": "Bir aslan görüyorum.",
+              "words": [
+                "I",
+                "see",
+                "a",
+                "lion"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "elephant",
+          "emoji": "🐘",
+          "word": "elephant",
+          "tr": "fil",
+          "pron": "ˈelɪfənt",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The elephant is big.",
+              "tr": "Fil büyük.",
+              "words": [
+                "The",
+                "elephant",
+                "is",
+                "big"
+              ]
+            },
+            {
+              "en": "I love elephants.",
+              "tr": "Filleri seviyorum.",
+              "words": [
+                "I",
+                "love",
+                "elephants"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monkey",
+          "emoji": "🐒",
+          "word": "monkey",
+          "tr": "maymun",
+          "pron": "ˈmʌŋki",
+          "level": "a1"
+        },
+        {
+          "id": "snake",
+          "emoji": "🐍",
+          "word": "snake",
+          "tr": "yılan",
+          "pron": "sneɪk",
+          "level": "a1"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "cat",
+          "emoji": "🐱",
+          "word": "Katze",
+          "tr": "kedi",
+          "pron": "ˈkatsə",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Die Katze ist klein.",
+              "tr": "Kedi küçük.",
+              "words": [
+                "Die",
+                "Katze",
+                "ist",
+                "klein"
+              ]
+            },
+            {
+              "text": "Ich liebe meine Katze.",
+              "tr": "Kedimi seviyorum.",
+              "words": [
+                "Ich",
+                "liebe",
+                "meine",
+                "Katze"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dog",
+          "emoji": "🐶",
+          "word": "Hund",
+          "tr": "köpek",
+          "pron": "hʊnt",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Ich habe einen Hund.",
+              "tr": "Bir köpeğim var.",
+              "words": [
+                "Ich",
+                "habe",
+                "einen",
+                "Hund"
+              ]
+            },
+            {
+              "text": "Der Hund ist groß.",
+              "tr": "Köpek büyük.",
+              "words": [
+                "Der",
+                "Hund",
+                "ist",
+                "groß"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fish",
+          "emoji": "🐟",
+          "word": "Fisch",
+          "tr": "balık",
+          "pron": "fɪʃ",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Fisch ist im Wasser.",
+              "tr": "Balık suda.",
+              "words": [
+                "Der",
+                "Fisch",
+                "ist",
+                "im",
+                "Wasser"
+              ]
+            },
+            {
+              "text": "Ich habe einen Fisch.",
+              "tr": "Bir balığım var.",
+              "words": [
+                "Ich",
+                "habe",
+                "einen",
+                "Fisch"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bird",
+          "emoji": "🐦",
+          "word": "Vogel",
+          "tr": "kuş",
+          "pron": "ˈfoːɡəl",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Vogel kann fliegen.",
+              "tr": "Kuş uçabilir.",
+              "words": [
+                "Der",
+                "Vogel",
+                "kann",
+                "fliegen"
+              ]
+            },
+            {
+              "text": "Ich sehe einen Vogel.",
+              "tr": "Bir kuş görüyorum.",
+              "words": [
+                "Ich",
+                "sehe",
+                "einen",
+                "Vogel"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rabbit",
+          "emoji": "🐰",
+          "word": "Hase",
+          "tr": "tavşan",
+          "pron": "ˈhaːzə",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Hase ist weiß.",
+              "tr": "Tavşan beyaz.",
+              "words": [
+                "Der",
+                "Hase",
+                "ist",
+                "weiß"
+              ]
+            },
+            {
+              "text": "Ich habe einen Hasen.",
+              "tr": "Bir tavşanım var.",
+              "words": [
+                "Ich",
+                "habe",
+                "einen",
+                "Hasen"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "horse",
+          "emoji": "🐴",
+          "word": "Pferd",
+          "tr": "at",
+          "pron": "pfeːɐt",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The horse runs fast.",
+              "tr": "At hızlı koşar.",
+              "words": [
+                "The",
+                "horse",
+                "runs",
+                "fast"
+              ]
+            },
+            {
+              "en": "I ride a horse.",
+              "tr": "Ata biniyorum.",
+              "words": [
+                "I",
+                "ride",
+                "a",
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cow",
+          "emoji": "🐮",
+          "word": "Kuh",
+          "tr": "inek",
+          "pron": "kuː",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The cow gives milk.",
+              "tr": "İnek süt verir.",
+              "words": [
+                "The",
+                "cow",
+                "gives",
+                "milk"
+              ]
+            },
+            {
+              "en": "I see a cow.",
+              "tr": "Bir inek görüyorum.",
+              "words": [
+                "I",
+                "see",
+                "a",
+                "cow"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sheep",
+          "emoji": "🐑",
+          "word": "Schaf",
+          "tr": "koyun",
+          "pron": "ʃaːf",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The sheep is white.",
+              "tr": "Koyun beyaz.",
+              "words": [
+                "The",
+                "sheep",
+                "is",
+                "white"
+              ]
+            },
+            {
+              "en": "I see a sheep.",
+              "tr": "Bir koyun görüyorum.",
+              "words": [
+                "I",
+                "see",
+                "a",
+                "sheep"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pig",
+          "emoji": "🐷",
+          "word": "Schwein",
+          "tr": "domuz",
+          "pron": "ʃvaɪn",
+          "level": "a1"
+        },
+        {
+          "id": "duck",
+          "emoji": "🦆",
+          "word": "Ente",
+          "tr": "ördek",
+          "pron": "ˈɛntə",
+          "level": "a1"
+        },
+        {
+          "id": "frog",
+          "emoji": "🐸",
+          "word": "Frosch",
+          "tr": "kurbağa",
+          "pron": "frɔʃ",
+          "level": "a1"
+        },
+        {
+          "id": "lion",
+          "emoji": "🦁",
+          "word": "Löwe",
+          "tr": "aslan",
+          "pron": "ˈløːvə",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Löwe ist stark.",
+              "tr": "Aslan güçlü.",
+              "words": [
+                "Der",
+                "Löwe",
+                "ist",
+                "stark"
+              ]
+            },
+            {
+              "text": "Ich sehe einen Löwen.",
+              "tr": "Bir aslan görüyorum.",
+              "words": [
+                "Ich",
+                "sehe",
+                "einen",
+                "Löwen"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "elephant",
+          "emoji": "🐘",
+          "word": "Elefant",
+          "tr": "fil",
+          "pron": "ˌeləˈfant",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Elefant ist groß.",
+              "tr": "Fil büyük.",
+              "words": [
+                "Der",
+                "Elefant",
+                "ist",
+                "groß"
+              ]
+            },
+            {
+              "text": "Ich liebe Elefanten.",
+              "tr": "Filleri seviyorum.",
+              "words": [
+                "Ich",
+                "liebe",
+                "Elefanten"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monkey",
+          "emoji": "🐒",
+          "word": "Affe",
+          "tr": "maymun",
+          "pron": "ˈafə",
+          "level": "a1"
+        },
+        {
+          "id": "snake",
+          "emoji": "🐍",
+          "word": "Schlange",
+          "tr": "yılan",
+          "pron": "ˈʃlaŋə",
+          "level": "a1"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "cat",
+          "emoji": "🐱",
+          "word": "gato",
+          "tr": "kedi",
+          "pron": "ˈɡato",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "El gato es pequeño.",
+              "tr": "Kedi küçük.",
+              "words": [
+                "El",
+                "gato",
+                "es",
+                "pequeño"
+              ]
+            },
+            {
+              "text": "Amo a mi gato.",
+              "tr": "Kedimi seviyorum.",
+              "words": [
+                "Amo",
+                "a",
+                "mi",
+                "gato"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dog",
+          "emoji": "🐶",
+          "word": "perro",
+          "tr": "köpek",
+          "pron": "ˈpero",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Tengo un perro.",
+              "tr": "Bir köpeğim var.",
+              "words": [
+                "Tengo",
+                "un",
+                "perro"
+              ]
+            },
+            {
+              "text": "El perro es grande.",
+              "tr": "Köpek büyük.",
+              "words": [
+                "El",
+                "perro",
+                "es",
+                "grande"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "fish",
+          "emoji": "🐟",
+          "word": "pez",
+          "tr": "balık",
+          "pron": "peθ",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "El pez está en el agua.",
+              "tr": "Balık suda.",
+              "words": [
+                "El",
+                "pez",
+                "está",
+                "en",
+                "el",
+                "agua"
+              ]
+            },
+            {
+              "text": "Tengo un pez.",
+              "tr": "Bir balığım var.",
+              "words": [
+                "Tengo",
+                "un",
+                "pez"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bird",
+          "emoji": "🐦",
+          "word": "pájaro",
+          "tr": "kuş",
+          "pron": "ˈpaxaro",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "El pájaro puede volar.",
+              "tr": "Kuş uçabilir.",
+              "words": [
+                "El",
+                "pájaro",
+                "puede",
+                "volar"
+              ]
+            },
+            {
+              "text": "Veo un pájaro.",
+              "tr": "Bir kuş görüyorum.",
+              "words": [
+                "Veo",
+                "un",
+                "pájaro"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "rabbit",
+          "emoji": "🐰",
+          "word": "conejo",
+          "tr": "tavşan",
+          "pron": "koˈnexo",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "El conejo es blanco.",
+              "tr": "Tavşan beyaz.",
+              "words": [
+                "El",
+                "conejo",
+                "es",
+                "blanco"
+              ]
+            },
+            {
+              "text": "Tengo un conejo.",
+              "tr": "Bir tavşanım var.",
+              "words": [
+                "Tengo",
+                "un",
+                "conejo"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "horse",
+          "emoji": "🐴",
+          "word": "caballo",
+          "tr": "at",
+          "pron": "kaˈβaʎo",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The horse runs fast.",
+              "tr": "At hızlı koşar.",
+              "words": [
+                "The",
+                "horse",
+                "runs",
+                "fast"
+              ]
+            },
+            {
+              "en": "I ride a horse.",
+              "tr": "Ata biniyorum.",
+              "words": [
+                "I",
+                "ride",
+                "a",
+                "horse"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cow",
+          "emoji": "🐮",
+          "word": "vaca",
+          "tr": "inek",
+          "pron": "ˈbaka",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The cow gives milk.",
+              "tr": "İnek süt verir.",
+              "words": [
+                "The",
+                "cow",
+                "gives",
+                "milk"
+              ]
+            },
+            {
+              "en": "I see a cow.",
+              "tr": "Bir inek görüyorum.",
+              "words": [
+                "I",
+                "see",
+                "a",
+                "cow"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sheep",
+          "emoji": "🐑",
+          "word": "oveja",
+          "tr": "koyun",
+          "pron": "oˈβexa",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The sheep is white.",
+              "tr": "Koyun beyaz.",
+              "words": [
+                "The",
+                "sheep",
+                "is",
+                "white"
+              ]
+            },
+            {
+              "en": "I see a sheep.",
+              "tr": "Bir koyun görüyorum.",
+              "words": [
+                "I",
+                "see",
+                "a",
+                "sheep"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "pig",
+          "emoji": "🐷",
+          "word": "cerdo",
+          "tr": "domuz",
+          "pron": "ˈθerðo",
+          "level": "a1"
+        },
+        {
+          "id": "duck",
+          "emoji": "🦆",
+          "word": "pato",
+          "tr": "ördek",
+          "pron": "ˈpato",
+          "level": "a1"
+        },
+        {
+          "id": "frog",
+          "emoji": "🐸",
+          "word": "rana",
+          "tr": "kurbağa",
+          "pron": "ˈrana",
+          "level": "a1"
+        },
+        {
+          "id": "lion",
+          "emoji": "🦁",
+          "word": "león",
+          "tr": "aslan",
+          "pron": "leˈon",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "El león es fuerte.",
+              "tr": "Aslan güçlü.",
+              "words": [
+                "El",
+                "león",
+                "es",
+                "fuerte"
+              ]
+            },
+            {
+              "text": "Veo un león.",
+              "tr": "Bir aslan görüyorum.",
+              "words": [
+                "Veo",
+                "un",
+                "león"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "elephant",
+          "emoji": "🐘",
+          "word": "elefante",
+          "tr": "fil",
+          "pron": "eleˈfante",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "El elefante es grande.",
+              "tr": "Fil büyük.",
+              "words": [
+                "El",
+                "elefante",
+                "es",
+                "grande"
+              ]
+            },
+            {
+              "text": "Me encantan los elefantes.",
+              "tr": "Filleri seviyorum.",
+              "words": [
+                "Me",
+                "encantan",
+                "los",
+                "elefantes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "monkey",
+          "emoji": "🐒",
+          "word": "mono",
+          "tr": "maymun",
+          "pron": "ˈmono",
+          "level": "a1"
+        },
+        {
+          "id": "snake",
+          "emoji": "🐍",
+          "word": "serpiente",
+          "tr": "yılan",
+          "pron": "serˈpjente",
+          "level": "a1"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "cat",
+          "emoji": "🐱",
+          "word": "gato",
+          "tr": "kedi",
+          "pron": "ˈɡatu",
+          "level": "a1"
+        },
+        {
+          "id": "dog",
+          "emoji": "🐶",
+          "word": "cachorro",
+          "tr": "köpek",
+          "pron": "kaˈʃoʁu",
+          "level": "a1"
+        },
+        {
+          "id": "fish",
+          "emoji": "🐟",
+          "word": "peixe",
+          "tr": "balık",
+          "pron": "ˈpejʃi",
+          "level": "a1"
+        },
+        {
+          "id": "bird",
+          "emoji": "🐦",
+          "word": "pássaro",
+          "tr": "kuş",
+          "pron": "ˈpasaɾu",
+          "level": "a1"
+        },
+        {
+          "id": "rabbit",
+          "emoji": "🐰",
+          "word": "coelho",
+          "tr": "tavşan",
+          "pron": "kuˈeʎu",
+          "level": "a1"
+        },
+        {
+          "id": "horse",
+          "emoji": "🐴",
+          "word": "cavalo",
+          "tr": "at",
+          "pron": "kaˈvalu",
+          "level": "a1"
+        },
+        {
+          "id": "cow",
+          "emoji": "🐮",
+          "word": "vaca",
+          "tr": "inek",
+          "pron": "ˈvaka",
+          "level": "a1"
+        },
+        {
+          "id": "sheep",
+          "emoji": "🐑",
+          "word": "ovelha",
+          "tr": "koyun",
+          "pron": "oˈveʎa",
+          "level": "a1"
+        },
+        {
+          "id": "pig",
+          "emoji": "🐷",
+          "word": "porco",
+          "tr": "domuz",
+          "pron": "ˈpoʁku",
+          "level": "a1"
+        },
+        {
+          "id": "duck",
+          "emoji": "🦆",
+          "word": "pato",
+          "tr": "ördek",
+          "pron": "ˈpatu",
+          "level": "a1"
+        },
+        {
+          "id": "frog",
+          "emoji": "🐸",
+          "word": "sapo",
+          "tr": "kurbağa",
+          "pron": "ˈsapu",
+          "level": "a1"
+        },
+        {
+          "id": "lion",
+          "emoji": "🦁",
+          "word": "leão",
+          "tr": "aslan",
+          "pron": "leˈɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "elephant",
+          "emoji": "🐘",
+          "word": "elefante",
+          "tr": "fil",
+          "pron": "eleˈfɐ̃ti",
+          "level": "a1"
+        },
+        {
+          "id": "monkey",
+          "emoji": "🐒",
+          "word": "macaco",
+          "tr": "maymun",
+          "pron": "maˈkaku",
+          "level": "a1"
+        },
+        {
+          "id": "snake",
+          "emoji": "🐍",
+          "word": "cobra",
+          "tr": "yılan",
+          "pron": "ˈkɔbɾa",
+          "level": "a1"
+        }
+      ]
+    }
+  }
+}

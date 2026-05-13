@@ -1,0 +1,57 @@
+{
+  "id": "en-lesson-4",
+  "lang": "en",
+  "lessonNumber": 4,
+  "title": "Hayır, Yapmam!",
+  "subtitle": "Don't / Doesn't ile Olumsuz",
+  "formula": "I/You/We/They + don't + fiil | He/She/It + doesn't + fiil",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "I don't like spiders.", "tr": "Örümcekleri sevmem." },
+    { "type": "correct", "sentence": "She doesn't eat meat.", "tr": "O et yemez." },
+    { "type": "correct", "sentence": "They don't play chess.", "tr": "Onlar satranç oynamaz." },
+    { "type": "wrong", "sentence": "She don't eat meat.", "tr": "", "note": "She için don't değil doesn't!" },
+    { "type": "wrong", "sentence": "He doesn't eats fish.", "tr": "", "note": "Doesn't sonrası fiil sade kalır!" }
+  ],
+  "inputSentences": [
+    { "text": "I don't watch TV at night.", "tr": "Geceleri TV izlemem." },
+    { "text": "He doesn't like cold weather.", "tr": "O soğuk havayı sevmez." },
+    { "text": "They don't eat breakfast.", "tr": "Onlar kahvaltı yapmaz." },
+    { "text": "She doesn't have a pet.", "tr": "Onun evcil hayvanı yok." },
+    { "text": "We don't play outside when it rains.", "tr": "Yağmur yağınca dışarıda oynamayız." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "He ___ (not like) vegetables.",
+      "answer": "doesn't like",
+      "hint": "He → doesn't + sade fiil"
+    },
+    {
+      "type": "build",
+      "words": ["coffee", "drink", "don't", "I"],
+      "answer": ["I", "don't", "drink", "coffee"],
+      "tr": "Ben kahve içmem."
+    },
+    {
+      "type": "fill",
+      "sentence": "They ___ (not have) a car.",
+      "answer": "don't have",
+      "hint": "They → don't + sade fiil"
+    },
+    {
+      "type": "build",
+      "words": ["doesn't", "She", "early", "wake", "up"],
+      "answer": ["She", "doesn't", "wake", "up", "early"],
+      "tr": "O erken kalkmaz."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Yemek tercihlerini konuşuyorsunuz",
+    "lines": [
+      { "role": "A", "text": "Do you like fish?", "tr": "Balığı sever misin?" },
+      { "role": "B", "text": "No, I don't like fish. I don't eat it.", "tr": "Hayır, balığı sevmem. Yemem." },
+      { "role": "A", "text": "What about your brother?", "tr": "Kardeşin ne der?" },
+      { "role": "B", "text": "He doesn't eat fish either. We prefer chicken.", "tr": "O da balık yemez. İkimiz de tavuğu tercih ederiz." }
+    ]
+  }
+}

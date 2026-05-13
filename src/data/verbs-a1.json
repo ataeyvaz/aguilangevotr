@@ -1,0 +1,1176 @@
+{
+  "category": "verbs",
+  "level": "a1",
+  "words": [
+    {
+      "id": "be",
+      "emoji": "💫",
+      "level": "a1",
+      "en": "be",
+      "es": "ser / estar",
+      "pt": "ser",
+      "pron": "biː"
+    },
+    {
+      "id": "have",
+      "emoji": "🤲",
+      "level": "a1",
+      "en": "have",
+      "es": "tener",
+      "pt": "ter",
+      "pron": "hæv"
+    },
+    {
+      "id": "do",
+      "emoji": "⚙️",
+      "level": "a1",
+      "en": "do",
+      "es": "hacer",
+      "pt": "fazer",
+      "pron": "duː"
+    },
+    {
+      "id": "go",
+      "emoji": "🚶",
+      "level": "a1",
+      "en": "go",
+      "es": "ir",
+      "pt": "ir",
+      "pron": "ɡəʊ"
+    },
+    {
+      "id": "come",
+      "emoji": "🏃",
+      "level": "a1",
+      "en": "come",
+      "es": "venir",
+      "pt": "vir",
+      "pron": "kʌm"
+    },
+    {
+      "id": "see",
+      "emoji": "👀",
+      "level": "a1",
+      "en": "see",
+      "es": "ver",
+      "pt": "ver",
+      "pron": "siː"
+    },
+    {
+      "id": "know",
+      "emoji": "🧠",
+      "level": "a1",
+      "en": "know",
+      "es": "saber",
+      "pt": "saber",
+      "pron": "nəʊ"
+    },
+    {
+      "id": "get",
+      "emoji": "📦",
+      "level": "a1",
+      "en": "get",
+      "es": "obtener",
+      "pt": "conseguir",
+      "pron": "ɡɛt"
+    },
+    {
+      "id": "give",
+      "emoji": "🎁",
+      "level": "a1",
+      "en": "give",
+      "es": "dar",
+      "pt": "dar",
+      "pron": "ɡɪv"
+    },
+    {
+      "id": "take",
+      "emoji": "✋",
+      "level": "a1",
+      "en": "take",
+      "es": "tomar",
+      "pt": "tomar",
+      "pron": "teɪk"
+    },
+    {
+      "id": "make",
+      "emoji": "🛠️",
+      "level": "a1",
+      "en": "make",
+      "es": "hacer",
+      "pt": "fazer",
+      "pron": "meɪk"
+    },
+    {
+      "id": "say",
+      "emoji": "💬",
+      "level": "a1",
+      "en": "say",
+      "es": "decir",
+      "pt": "dizer",
+      "pron": "seɪ"
+    },
+    {
+      "id": "think",
+      "emoji": "💭",
+      "level": "a1",
+      "en": "think",
+      "es": "pensar",
+      "pt": "pensar",
+      "pron": "θɪŋk"
+    },
+    {
+      "id": "look",
+      "emoji": "👁️",
+      "level": "a1",
+      "en": "look",
+      "es": "mirar",
+      "pt": "olhar",
+      "pron": "lʊk"
+    },
+    {
+      "id": "want",
+      "emoji": "🙏",
+      "level": "a1",
+      "en": "want",
+      "es": "querer",
+      "pt": "querer",
+      "pron": "wɒnt"
+    },
+    {
+      "id": "use",
+      "emoji": "🔧",
+      "level": "a1",
+      "en": "use",
+      "es": "usar",
+      "pt": "usar",
+      "pron": "juːz"
+    },
+    {
+      "id": "find",
+      "emoji": "🔍",
+      "level": "a1",
+      "en": "find",
+      "es": "encontrar",
+      "pt": "encontrar",
+      "pron": "faɪnd"
+    },
+    {
+      "id": "tell",
+      "emoji": "📢",
+      "level": "a1",
+      "en": "tell",
+      "es": "contar",
+      "pt": "dizer",
+      "pron": "tɛl"
+    },
+    {
+      "id": "ask",
+      "emoji": "❓",
+      "level": "a1",
+      "en": "ask",
+      "es": "preguntar",
+      "pt": "perguntar",
+      "pron": "ɑːsk"
+    },
+    {
+      "id": "work",
+      "emoji": "💼",
+      "level": "a1",
+      "en": "work",
+      "es": "trabajar",
+      "pt": "trabalhar",
+      "pron": "wɜːk"
+    },
+    {
+      "id": "feel",
+      "emoji": "💝",
+      "level": "a1",
+      "en": "feel",
+      "es": "sentir",
+      "pt": "sentir",
+      "pron": "fiːl"
+    },
+    {
+      "id": "try",
+      "emoji": "💪",
+      "level": "a1",
+      "en": "try",
+      "es": "intentar",
+      "pt": "tentar",
+      "pron": "traɪ"
+    },
+    {
+      "id": "leave",
+      "emoji": "🚪",
+      "level": "a1",
+      "en": "leave",
+      "es": "dejar",
+      "pt": "sair",
+      "pron": "liːv"
+    },
+    {
+      "id": "call",
+      "emoji": "📞",
+      "level": "a1",
+      "en": "call",
+      "es": "llamar",
+      "pt": "ligar",
+      "pron": "kɔːl"
+    },
+    {
+      "id": "keep",
+      "emoji": "📌",
+      "level": "a1",
+      "en": "keep",
+      "es": "guardar",
+      "pt": "manter",
+      "pron": "kiːp"
+    },
+    {
+      "id": "let",
+      "emoji": "🔓",
+      "level": "a1",
+      "en": "let",
+      "es": "dejar",
+      "pt": "deixar",
+      "pron": "lɛt"
+    },
+    {
+      "id": "run",
+      "emoji": "🏃",
+      "level": "a1",
+      "en": "run",
+      "es": "correr",
+      "pt": "correr",
+      "pron": "rʌn"
+    },
+    {
+      "id": "put",
+      "emoji": "📥",
+      "level": "a1",
+      "en": "put",
+      "es": "poner",
+      "pt": "colocar",
+      "pron": "pʊt"
+    },
+    {
+      "id": "mean",
+      "emoji": "💡",
+      "level": "a1",
+      "en": "mean",
+      "es": "significar",
+      "pt": "significar",
+      "pron": "miːn"
+    },
+    {
+      "id": "become",
+      "emoji": "🌟",
+      "level": "a1",
+      "en": "become",
+      "es": "convertirse",
+      "pt": "tornar-se",
+      "pron": "bɪˈkʌm"
+    },
+    {
+      "id": "show",
+      "emoji": "📺",
+      "level": "a1",
+      "en": "show",
+      "es": "mostrar",
+      "pt": "mostrar",
+      "pron": "ʃəʊ"
+    },
+    {
+      "id": "play",
+      "emoji": "🎮",
+      "level": "a1",
+      "en": "play",
+      "es": "jugar",
+      "pt": "jogar",
+      "pron": "pleɪ"
+    },
+    {
+      "id": "move",
+      "emoji": "🔄",
+      "level": "a1",
+      "en": "move",
+      "es": "mover",
+      "pt": "mover",
+      "pron": "muːv"
+    },
+    {
+      "id": "live",
+      "emoji": "🏠",
+      "level": "a1",
+      "en": "live",
+      "es": "vivir",
+      "pt": "viver",
+      "pron": "lɪv"
+    },
+    {
+      "id": "pay",
+      "emoji": "💳",
+      "level": "a1",
+      "en": "pay",
+      "es": "pagar",
+      "pt": "pagar",
+      "pron": "peɪ"
+    },
+    {
+      "id": "hear",
+      "emoji": "👂",
+      "level": "a1",
+      "en": "hear",
+      "es": "escuchar",
+      "pt": "ouvir",
+      "pron": "hɪər"
+    },
+    {
+      "id": "sit",
+      "emoji": "🪑",
+      "level": "a1",
+      "en": "sit",
+      "es": "sentarse",
+      "pt": "sentar-se",
+      "pron": "sɪt"
+    },
+    {
+      "id": "stand",
+      "emoji": "🧍",
+      "level": "a1",
+      "en": "stand",
+      "es": "estar de pie",
+      "pt": "ficar de pé",
+      "pron": "stænd"
+    },
+    {
+      "id": "lose",
+      "emoji": "😔",
+      "level": "a1",
+      "en": "lose",
+      "es": "perder",
+      "pt": "perder",
+      "pron": "luːz"
+    },
+    {
+      "id": "bring",
+      "emoji": "🎒",
+      "level": "a1",
+      "en": "bring",
+      "es": "traer",
+      "pt": "trazer",
+      "pron": "brɪŋ"
+    },
+    {
+      "id": "begin",
+      "emoji": "🚀",
+      "level": "a1",
+      "en": "begin",
+      "es": "empezar",
+      "pt": "começar",
+      "pron": "bɪˈɡɪn"
+    },
+    {
+      "id": "walk",
+      "emoji": "🚶",
+      "level": "a1",
+      "en": "walk",
+      "es": "caminar",
+      "pt": "caminhar",
+      "pron": "wɔːk"
+    },
+    {
+      "id": "write",
+      "emoji": "✍️",
+      "level": "a1",
+      "en": "write",
+      "es": "escribir",
+      "pt": "escrever",
+      "pron": "raɪt"
+    },
+    {
+      "id": "read",
+      "emoji": "📖",
+      "level": "a1",
+      "en": "read",
+      "es": "leer",
+      "pt": "ler",
+      "pron": "riːd"
+    },
+    {
+      "id": "eat",
+      "emoji": "🍽️",
+      "level": "a1",
+      "en": "eat",
+      "es": "comer",
+      "pt": "comer",
+      "pron": "iːt"
+    },
+    {
+      "id": "drink",
+      "emoji": "🥤",
+      "level": "a1",
+      "en": "drink",
+      "es": "beber",
+      "pt": "beber",
+      "pron": "drɪŋk"
+    },
+    {
+      "id": "sleep",
+      "emoji": "😴",
+      "level": "a1",
+      "en": "sleep",
+      "es": "dormir",
+      "pt": "dormir",
+      "pron": "sliːp"
+    },
+    {
+      "id": "swim",
+      "emoji": "🏊",
+      "level": "a1",
+      "en": "swim",
+      "es": "nadar",
+      "pt": "nadar",
+      "pron": "swɪm"
+    },
+    {
+      "id": "jump",
+      "emoji": "🦘",
+      "level": "a1",
+      "en": "jump",
+      "es": "saltar",
+      "pt": "pular",
+      "pron": "dʒʌmp"
+    },
+    {
+      "id": "fly",
+      "emoji": "✈️",
+      "level": "a1",
+      "en": "fly",
+      "es": "volar",
+      "pt": "voar",
+      "pron": "flaɪ"
+    },
+    {
+      "id": "sing",
+      "emoji": "🎤",
+      "level": "a1",
+      "en": "sing",
+      "es": "cantar",
+      "pt": "cantar",
+      "pron": "sɪŋ"
+    },
+    {
+      "id": "dance",
+      "emoji": "💃",
+      "level": "a1",
+      "en": "dance",
+      "es": "bailar",
+      "pt": "dançar",
+      "pron": "dɑːns"
+    },
+    {
+      "id": "buy",
+      "emoji": "🛒",
+      "level": "a1",
+      "en": "buy",
+      "es": "comprar",
+      "pt": "comprar",
+      "pron": "baɪ"
+    },
+    {
+      "id": "sell",
+      "emoji": "💰",
+      "level": "a1",
+      "en": "sell",
+      "es": "vender",
+      "pt": "vender",
+      "pron": "sɛl"
+    },
+    {
+      "id": "open",
+      "emoji": "🚪",
+      "level": "a1",
+      "en": "open",
+      "es": "abrir",
+      "pt": "abrir",
+      "pron": "ˈəʊpən"
+    },
+    {
+      "id": "close",
+      "emoji": "🔒",
+      "level": "a1",
+      "en": "close",
+      "es": "cerrar",
+      "pt": "fechar",
+      "pron": "kləʊz"
+    },
+    {
+      "id": "help",
+      "emoji": "🤝",
+      "level": "a1",
+      "en": "help",
+      "es": "ayudar",
+      "pt": "ajudar",
+      "pron": "hɛlp"
+    },
+    {
+      "id": "learn",
+      "emoji": "📚",
+      "level": "a1",
+      "en": "learn",
+      "es": "aprender",
+      "pt": "aprender",
+      "pron": "lɜːn"
+    },
+    {
+      "id": "teach",
+      "emoji": "🏫",
+      "level": "a1",
+      "en": "teach",
+      "es": "enseñar",
+      "pt": "ensinar",
+      "pron": "tiːtʃ"
+    },
+    {
+      "id": "turn",
+      "emoji": "🔄",
+      "level": "a1",
+      "en": "turn",
+      "es": "girar",
+      "pt": "girar",
+      "pron": "tɜːn"
+    },
+    {
+      "id": "start",
+      "emoji": "🚀",
+      "level": "a1",
+      "en": "start",
+      "es": "empezar",
+      "pt": "começar",
+      "pron": "stɑːt"
+    },
+    {
+      "id": "stop",
+      "emoji": "🛑",
+      "level": "a1",
+      "en": "stop",
+      "es": "parar",
+      "pt": "parar",
+      "pron": "stɒp"
+    },
+    {
+      "id": "finish",
+      "emoji": "🏁",
+      "level": "a1",
+      "en": "finish",
+      "es": "terminar",
+      "pt": "terminar",
+      "pron": "ˈfɪnɪʃ"
+    },
+    {
+      "id": "love",
+      "emoji": "❤️",
+      "level": "a1",
+      "en": "love",
+      "es": "amar",
+      "pt": "amar",
+      "pron": "lʌv"
+    },
+    {
+      "id": "like",
+      "emoji": "👍",
+      "level": "a1",
+      "en": "like",
+      "es": "gustar",
+      "pt": "gostar",
+      "pron": "laɪk"
+    },
+    {
+      "id": "hate",
+      "emoji": "😡",
+      "level": "a1",
+      "en": "hate",
+      "es": "odiar",
+      "pt": "odiar",
+      "pron": "heɪt"
+    },
+    {
+      "id": "achieve",
+      "emoji": "🏆",
+      "level": "a2",
+      "en": "achieve",
+      "es": "lograr",
+      "pt": "alcançar",
+      "pron": "əˈtʃiːv"
+    },
+    {
+      "id": "agree",
+      "emoji": "🤝",
+      "level": "a2",
+      "en": "agree",
+      "es": "estar de acuerdo",
+      "pt": "concordar",
+      "pron": "əˈɡriː"
+    },
+    {
+      "id": "allow",
+      "emoji": "✅",
+      "level": "a2",
+      "en": "allow",
+      "es": "permitir",
+      "pt": "permitir",
+      "pron": "əˈlaʊ"
+    },
+    {
+      "id": "appear",
+      "emoji": "👁️",
+      "level": "a2",
+      "en": "appear",
+      "es": "aparecer",
+      "pt": "aparecer",
+      "pron": "əˈpɪər"
+    },
+    {
+      "id": "arrange",
+      "emoji": "📋",
+      "level": "a2",
+      "en": "arrange",
+      "es": "organizar",
+      "pt": "organizar",
+      "pron": "əˈreɪndʒ"
+    },
+    {
+      "id": "arrive",
+      "emoji": "🛬",
+      "level": "a2",
+      "en": "arrive",
+      "es": "llegar",
+      "pt": "chegar",
+      "pron": "əˈraɪv"
+    },
+    {
+      "id": "borrow",
+      "emoji": "📚",
+      "level": "a2",
+      "en": "borrow",
+      "es": "pedir prestado",
+      "pt": "pedir emprestado",
+      "pron": "ˈbɒrəʊ"
+    },
+    {
+      "id": "break",
+      "emoji": "💔",
+      "level": "a2",
+      "en": "break",
+      "es": "romper",
+      "pt": "quebrar",
+      "pron": "breɪk"
+    },
+    {
+      "id": "build",
+      "emoji": "🏗️",
+      "level": "a2",
+      "en": "build",
+      "es": "construir",
+      "pt": "construir",
+      "pron": "bɪld"
+    },
+    {
+      "id": "carry",
+      "emoji": "🎒",
+      "level": "a2",
+      "en": "carry",
+      "es": "llevar",
+      "pt": "carregar",
+      "pron": "ˈkæri"
+    },
+    {
+      "id": "catch",
+      "emoji": "🎣",
+      "level": "a2",
+      "en": "catch",
+      "es": "atrapar",
+      "pt": "pegar",
+      "pron": "kætʃ"
+    },
+    {
+      "id": "change",
+      "emoji": "🔄",
+      "level": "a2",
+      "en": "change",
+      "es": "cambiar",
+      "pt": "mudar",
+      "pron": "tʃeɪndʒ"
+    },
+    {
+      "id": "check",
+      "emoji": "✔️",
+      "level": "a2",
+      "en": "check",
+      "es": "revisar",
+      "pt": "verificar",
+      "pron": "tʃɛk"
+    },
+    {
+      "id": "choose",
+      "emoji": "🎯",
+      "level": "a2",
+      "en": "choose",
+      "es": "elegir",
+      "pt": "escolher",
+      "pron": "tʃuːz"
+    },
+    {
+      "id": "collect",
+      "emoji": "🗂️",
+      "level": "a2",
+      "en": "collect",
+      "es": "coleccionar",
+      "pt": "coletar",
+      "pron": "kəˈlɛkt"
+    },
+    {
+      "id": "contain",
+      "emoji": "📦",
+      "level": "a2",
+      "en": "contain",
+      "es": "contener",
+      "pt": "conter",
+      "pron": "kənˈteɪn"
+    },
+    {
+      "id": "continue",
+      "emoji": "▶️",
+      "level": "a2",
+      "en": "continue",
+      "es": "continuar",
+      "pt": "continuar",
+      "pron": "kənˈtɪnjuː"
+    },
+    {
+      "id": "cook",
+      "emoji": "🍳",
+      "level": "a2",
+      "en": "cook",
+      "es": "cocinar",
+      "pt": "cozinhar",
+      "pron": "kʊk"
+    },
+    {
+      "id": "count",
+      "emoji": "🔢",
+      "level": "a2",
+      "en": "count",
+      "es": "contar",
+      "pt": "contar",
+      "pron": "kaʊnt"
+    },
+    {
+      "id": "decide",
+      "emoji": "🤔",
+      "level": "a2",
+      "en": "decide",
+      "es": "decidir",
+      "pt": "decidir",
+      "pron": "dɪˈsaɪd"
+    },
+    {
+      "id": "describe",
+      "emoji": "📝",
+      "level": "a2",
+      "en": "describe",
+      "es": "describir",
+      "pt": "descrever",
+      "pron": "dɪˈskraɪb"
+    },
+    {
+      "id": "discover",
+      "emoji": "🔭",
+      "level": "a2",
+      "en": "discover",
+      "es": "descubrir",
+      "pt": "descobrir",
+      "pron": "dɪˈskʌvər"
+    },
+    {
+      "id": "draw",
+      "emoji": "🎨",
+      "level": "a2",
+      "en": "draw",
+      "es": "dibujar",
+      "pt": "desenhar",
+      "pron": "drɔː"
+    },
+    {
+      "id": "dream",
+      "emoji": "💭",
+      "level": "a2",
+      "en": "dream",
+      "es": "soñar",
+      "pt": "sonhar",
+      "pron": "driːm"
+    },
+    {
+      "id": "drive",
+      "emoji": "🚗",
+      "level": "a2",
+      "en": "drive",
+      "es": "conducir",
+      "pt": "dirigir",
+      "pron": "draɪv"
+    },
+    {
+      "id": "drop",
+      "emoji": "⬇️",
+      "level": "a2",
+      "en": "drop",
+      "es": "dejar caer",
+      "pt": "soltar",
+      "pron": "drɒp"
+    },
+    {
+      "id": "enjoy",
+      "emoji": "😊",
+      "level": "a2",
+      "en": "enjoy",
+      "es": "disfrutar",
+      "pt": "desfrutar",
+      "pron": "ɪnˈdʒɔɪ"
+    },
+    {
+      "id": "exist",
+      "emoji": "🌍",
+      "level": "a2",
+      "en": "exist",
+      "es": "existir",
+      "pt": "existir",
+      "pron": "ɪɡˈzɪst"
+    },
+    {
+      "id": "explain",
+      "emoji": "💡",
+      "level": "a2",
+      "en": "explain",
+      "es": "explicar",
+      "pt": "explicar",
+      "pron": "ɪkˈspleɪn"
+    },
+    {
+      "id": "fall",
+      "emoji": "🍂",
+      "level": "a2",
+      "en": "fall",
+      "es": "caer",
+      "pt": "cair",
+      "pron": "fɔːl"
+    },
+    {
+      "id": "follow",
+      "emoji": "👣",
+      "level": "a2",
+      "en": "follow",
+      "es": "seguir",
+      "pt": "seguir",
+      "pron": "ˈfɒləʊ"
+    },
+    {
+      "id": "forget",
+      "emoji": "🧠",
+      "level": "a2",
+      "en": "forget",
+      "es": "olvidar",
+      "pt": "esquecer",
+      "pron": "fəˈɡɛt"
+    },
+    {
+      "id": "grow",
+      "emoji": "🌱",
+      "level": "a2",
+      "en": "grow",
+      "es": "crecer",
+      "pt": "crescer",
+      "pron": "ɡrəʊ"
+    },
+    {
+      "id": "happen",
+      "emoji": "❓",
+      "level": "a2",
+      "en": "happen",
+      "es": "suceder",
+      "pt": "acontecer",
+      "pron": "ˈhæpən"
+    },
+    {
+      "id": "hope",
+      "emoji": "🌟",
+      "level": "a2",
+      "en": "hope",
+      "es": "esperar",
+      "pt": "esperar",
+      "pron": "həʊp"
+    },
+    {
+      "id": "join",
+      "emoji": "🤝",
+      "level": "a2",
+      "en": "join",
+      "es": "unirse",
+      "pt": "juntar-se",
+      "pron": "dʒɔɪn"
+    },
+    {
+      "id": "laugh",
+      "emoji": "😄",
+      "level": "a2",
+      "en": "laugh",
+      "es": "reír",
+      "pt": "rir",
+      "pron": "lɑːf"
+    },
+    {
+      "id": "listen",
+      "emoji": "👂",
+      "level": "a2",
+      "en": "listen",
+      "es": "escuchar",
+      "pt": "ouvir",
+      "pron": "ˈlɪsən"
+    },
+    {
+      "id": "mention",
+      "emoji": "💬",
+      "level": "a2",
+      "en": "mention",
+      "es": "mencionar",
+      "pt": "mencionar",
+      "pron": "ˈmɛnʃən"
+    },
+    {
+      "id": "miss",
+      "emoji": "😢",
+      "level": "a2",
+      "en": "miss",
+      "es": "extrañar",
+      "pt": "sentir saudades",
+      "pron": "mɪs"
+    },
+    {
+      "id": "need",
+      "emoji": "📌",
+      "level": "a2",
+      "en": "need",
+      "es": "necesitar",
+      "pt": "precisar",
+      "pron": "niːd"
+    },
+    {
+      "id": "offer",
+      "emoji": "🎁",
+      "level": "a2",
+      "en": "offer",
+      "es": "ofrecer",
+      "pt": "oferecer",
+      "pron": "ˈɒfər"
+    },
+    {
+      "id": "order",
+      "emoji": "📋",
+      "level": "a2",
+      "en": "order",
+      "es": "ordenar",
+      "pt": "pedir",
+      "pron": "ˈɔːdər"
+    },
+    {
+      "id": "prefer",
+      "emoji": "🌟",
+      "level": "a2",
+      "en": "prefer",
+      "es": "preferir",
+      "pt": "preferir",
+      "pron": "prɪˈfɜː"
+    },
+    {
+      "id": "prepare",
+      "emoji": "🍳",
+      "level": "a2",
+      "en": "prepare",
+      "es": "preparar",
+      "pt": "preparar",
+      "pron": "prɪˈpɛər"
+    },
+    {
+      "id": "produce",
+      "emoji": "🏭",
+      "level": "a2",
+      "en": "produce",
+      "es": "producir",
+      "pt": "produzir",
+      "pron": "prəˈdjuːs"
+    },
+    {
+      "id": "promise",
+      "emoji": "🤞",
+      "level": "a2",
+      "en": "promise",
+      "es": "prometer",
+      "pt": "prometer",
+      "pron": "ˈprɒmɪs"
+    },
+    {
+      "id": "prove",
+      "emoji": "🔬",
+      "level": "a2",
+      "en": "prove",
+      "es": "probar",
+      "pt": "provar",
+      "pron": "pruːv"
+    },
+    {
+      "id": "receive",
+      "emoji": "📬",
+      "level": "a2",
+      "en": "receive",
+      "es": "recibir",
+      "pt": "receber",
+      "pron": "rɪˈsiːv"
+    },
+    {
+      "id": "remember",
+      "emoji": "💭",
+      "level": "a2",
+      "en": "remember",
+      "es": "recordar",
+      "pt": "lembrar",
+      "pron": "rɪˈmɛmbər"
+    },
+    {
+      "id": "repeat",
+      "emoji": "🔄",
+      "level": "a2",
+      "en": "repeat",
+      "es": "repetir",
+      "pt": "repetir",
+      "pron": "rɪˈpiːt"
+    },
+    {
+      "id": "return",
+      "emoji": "↩️",
+      "level": "a2",
+      "en": "return",
+      "es": "regresar",
+      "pt": "voltar",
+      "pron": "rɪˈtɜːn"
+    },
+    {
+      "id": "send",
+      "emoji": "📤",
+      "level": "a2",
+      "en": "send",
+      "es": "enviar",
+      "pt": "enviar",
+      "pron": "sɛnd"
+    },
+    {
+      "id": "share",
+      "emoji": "🤝",
+      "level": "a2",
+      "en": "share",
+      "es": "compartir",
+      "pt": "compartilhar",
+      "pron": "ʃɛər"
+    },
+    {
+      "id": "smell",
+      "emoji": "👃",
+      "level": "a2",
+      "en": "smell",
+      "es": "oler",
+      "pt": "cheirar",
+      "pron": "smɛl"
+    },
+    {
+      "id": "spend",
+      "emoji": "💸",
+      "level": "a2",
+      "en": "spend",
+      "es": "gastar",
+      "pt": "gastar",
+      "pron": "spɛnd"
+    },
+    {
+      "id": "suggest",
+      "emoji": "💡",
+      "level": "a2",
+      "en": "suggest",
+      "es": "sugerir",
+      "pt": "sugerir",
+      "pron": "səˈdʒɛst"
+    },
+    {
+      "id": "taste",
+      "emoji": "👅",
+      "level": "a2",
+      "en": "taste",
+      "es": "probar",
+      "pt": "provar",
+      "pron": "teɪst"
+    },
+    {
+      "id": "throw",
+      "emoji": "⚾",
+      "level": "a2",
+      "en": "throw",
+      "es": "lanzar",
+      "pt": "jogar",
+      "pron": "θrəʊ"
+    },
+    {
+      "id": "travel",
+      "emoji": "✈️",
+      "level": "a2",
+      "en": "travel",
+      "es": "viajar",
+      "pt": "viajar",
+      "pron": "ˈtrævəl"
+    },
+    {
+      "id": "understand",
+      "emoji": "🧠",
+      "level": "a2",
+      "en": "understand",
+      "es": "entender",
+      "pt": "entender",
+      "pron": "ˌʌndəˈstænd"
+    },
+    {
+      "id": "visit",
+      "emoji": "🗺️",
+      "level": "a2",
+      "en": "visit",
+      "es": "visitar",
+      "pt": "visitar",
+      "pron": "ˈvɪzɪt"
+    },
+    {
+      "id": "wait",
+      "emoji": "⏳",
+      "level": "a2",
+      "en": "wait",
+      "es": "esperar",
+      "pt": "esperar",
+      "pron": "weɪt"
+    },
+    {
+      "id": "win",
+      "emoji": "🏆",
+      "level": "a2",
+      "en": "win",
+      "es": "ganar",
+      "pt": "ganhar",
+      "pron": "wɪn"
+    }
+  ]
+}

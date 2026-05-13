@@ -1,0 +1,606 @@
+{
+  "category": "body",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "head",
+          "emoji": "🧠",
+          "word": "head",
+          "tr": "baş",
+          "pron": "hɛd",
+          "level": "a1"
+        },
+        {
+          "id": "eye",
+          "emoji": "👁️",
+          "word": "eye",
+          "tr": "göz",
+          "pron": "aɪ",
+          "level": "a1"
+        },
+        {
+          "id": "ear",
+          "emoji": "👂",
+          "word": "ear",
+          "tr": "kulak",
+          "pron": "ɪər",
+          "level": "a1"
+        },
+        {
+          "id": "nose",
+          "emoji": "👃",
+          "word": "nose",
+          "tr": "burun",
+          "pron": "noʊz",
+          "level": "a1"
+        },
+        {
+          "id": "mouth",
+          "emoji": "👄",
+          "word": "mouth",
+          "tr": "ağız",
+          "pron": "maʊθ",
+          "level": "a1"
+        },
+        {
+          "id": "hand",
+          "emoji": "✋",
+          "word": "hand",
+          "tr": "el",
+          "pron": "hænd",
+          "level": "a1"
+        },
+        {
+          "id": "foot",
+          "emoji": "🦶",
+          "word": "foot",
+          "tr": "ayak",
+          "pron": "fʊt",
+          "level": "a1"
+        },
+        {
+          "id": "arm",
+          "emoji": "💪",
+          "word": "arm",
+          "tr": "kol",
+          "pron": "ɑːrm",
+          "level": "a1"
+        },
+        {
+          "id": "leg",
+          "emoji": "🦵",
+          "word": "leg",
+          "tr": "bacak",
+          "pron": "lɛɡ",
+          "level": "a1"
+        },
+        {
+          "id": "hair",
+          "emoji": "💇",
+          "word": "hair",
+          "tr": "saç",
+          "pron": "hɛr",
+          "level": "a1"
+        },
+        {
+          "id": "teeth",
+          "emoji": "🦷",
+          "word": "teeth",
+          "tr": "diş",
+          "pron": "tiːθ",
+          "level": "a1"
+        },
+        {
+          "id": "shoulder",
+          "emoji": "🤷",
+          "word": "shoulder",
+          "tr": "omuz",
+          "pron": "ˈʃoʊldər",
+          "level": "a1"
+        },
+        {
+          "id": "face",
+          "emoji": "🙂",
+          "word": "face",
+          "tr": "yüz",
+          "pron": "feɪs",
+          "level": "a1"
+        },
+        {
+          "id": "finger",
+          "emoji": "👆",
+          "word": "finger",
+          "tr": "parmak",
+          "pron": "ˈfɪŋɡər",
+          "level": "a1"
+        },
+        {
+          "id": "heart",
+          "emoji": "❤️",
+          "word": "heart",
+          "tr": "kalp",
+          "pron": "hɑːt",
+          "level": "a1"
+        },
+        {
+          "id": "neck",
+          "emoji": "🧣",
+          "word": "neck",
+          "tr": "boyun",
+          "pron": "nɛk",
+          "level": "a1"
+        },
+        {
+          "id": "knee",
+          "emoji": "🩹",
+          "word": "knee",
+          "tr": "diz",
+          "pron": "niː",
+          "level": "a1"
+        },
+        {
+          "id": "stomach",
+          "emoji": "🫃",
+          "word": "stomach",
+          "tr": "mide",
+          "pron": "ˈstʌmək",
+          "level": "a1"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "head",
+          "emoji": "🧠",
+          "word": "Kopf",
+          "tr": "baş",
+          "pron": "kɔpf",
+          "level": "a1"
+        },
+        {
+          "id": "eye",
+          "emoji": "👁️",
+          "word": "Auge",
+          "tr": "göz",
+          "pron": "ˈaʊɡə",
+          "level": "a1"
+        },
+        {
+          "id": "ear",
+          "emoji": "👂",
+          "word": "Ohr",
+          "tr": "kulak",
+          "pron": "oːr",
+          "level": "a1"
+        },
+        {
+          "id": "nose",
+          "emoji": "👃",
+          "word": "Nase",
+          "tr": "burun",
+          "pron": "ˈnaːzə",
+          "level": "a1"
+        },
+        {
+          "id": "mouth",
+          "emoji": "👄",
+          "word": "Mund",
+          "tr": "ağız",
+          "pron": "mʊnt",
+          "level": "a1"
+        },
+        {
+          "id": "hand",
+          "emoji": "✋",
+          "word": "Hand",
+          "tr": "el",
+          "pron": "hant",
+          "level": "a1"
+        },
+        {
+          "id": "foot",
+          "emoji": "🦶",
+          "word": "Fuß",
+          "tr": "ayak",
+          "pron": "fuːs",
+          "level": "a1"
+        },
+        {
+          "id": "arm",
+          "emoji": "💪",
+          "word": "Arm",
+          "tr": "kol",
+          "pron": "arm",
+          "level": "a1"
+        },
+        {
+          "id": "leg",
+          "emoji": "🦵",
+          "word": "Bein",
+          "tr": "bacak",
+          "pron": "baɪn",
+          "level": "a1"
+        },
+        {
+          "id": "hair",
+          "emoji": "💇",
+          "word": "Haar",
+          "tr": "saç",
+          "pron": "haːr",
+          "level": "a1"
+        },
+        {
+          "id": "teeth",
+          "emoji": "🦷",
+          "word": "Zähne",
+          "tr": "diş",
+          "pron": "ˈtsɛːnə",
+          "level": "a1"
+        },
+        {
+          "id": "shoulder",
+          "emoji": "🤷",
+          "word": "Schulter",
+          "tr": "omuz",
+          "pron": "ˈʃʊltər",
+          "level": "a1"
+        },
+        {
+          "id": "face",
+          "emoji": "🙂",
+          "word": "Gesicht",
+          "tr": "yüz",
+          "pron": "ɡəˈzɪçt",
+          "level": "a1"
+        },
+        {
+          "id": "finger",
+          "emoji": "👆",
+          "word": "Finger",
+          "tr": "parmak",
+          "pron": "ˈfɪŋɐ",
+          "level": "a1"
+        },
+        {
+          "id": "heart",
+          "emoji": "❤️",
+          "word": "Herz",
+          "tr": "kalp",
+          "pron": "hɛrts",
+          "level": "a1"
+        },
+        {
+          "id": "neck",
+          "emoji": "🧣",
+          "word": "Hals",
+          "tr": "boyun",
+          "pron": "hals",
+          "level": "a1"
+        },
+        {
+          "id": "knee",
+          "emoji": "🩹",
+          "word": "Knie",
+          "tr": "diz",
+          "pron": "kniː",
+          "level": "a1"
+        },
+        {
+          "id": "stomach",
+          "emoji": "🫃",
+          "word": "Magen",
+          "tr": "mide",
+          "pron": "ˈmaːɡən",
+          "level": "a1"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "head",
+          "emoji": "🧠",
+          "word": "cabeza",
+          "tr": "baş",
+          "pron": "kaˈbeθa",
+          "level": "a1"
+        },
+        {
+          "id": "eye",
+          "emoji": "👁️",
+          "word": "ojo",
+          "tr": "göz",
+          "pron": "ˈoxo",
+          "level": "a1"
+        },
+        {
+          "id": "ear",
+          "emoji": "👂",
+          "word": "oreja",
+          "tr": "kulak",
+          "pron": "oˈrexa",
+          "level": "a1"
+        },
+        {
+          "id": "nose",
+          "emoji": "👃",
+          "word": "nariz",
+          "tr": "burun",
+          "pron": "naˈriθ",
+          "level": "a1"
+        },
+        {
+          "id": "mouth",
+          "emoji": "👄",
+          "word": "boca",
+          "tr": "ağız",
+          "pron": "ˈboka",
+          "level": "a1"
+        },
+        {
+          "id": "hand",
+          "emoji": "✋",
+          "word": "mano",
+          "tr": "el",
+          "pron": "ˈmano",
+          "level": "a1"
+        },
+        {
+          "id": "foot",
+          "emoji": "🦶",
+          "word": "pie",
+          "tr": "ayak",
+          "pron": "ˈpje",
+          "level": "a1"
+        },
+        {
+          "id": "arm",
+          "emoji": "💪",
+          "word": "brazo",
+          "tr": "kol",
+          "pron": "ˈbraθo",
+          "level": "a1"
+        },
+        {
+          "id": "leg",
+          "emoji": "🦵",
+          "word": "pierna",
+          "tr": "bacak",
+          "pron": "ˈpjerna",
+          "level": "a1"
+        },
+        {
+          "id": "hair",
+          "emoji": "💇",
+          "word": "cabello",
+          "tr": "saç",
+          "pron": "kaˈbeʎo",
+          "level": "a1"
+        },
+        {
+          "id": "teeth",
+          "emoji": "🦷",
+          "word": "dientes",
+          "tr": "diş",
+          "pron": "ˈdjentes",
+          "level": "a1"
+        },
+        {
+          "id": "shoulder",
+          "emoji": "🤷",
+          "word": "hombro",
+          "tr": "omuz",
+          "pron": "ˈombro",
+          "level": "a1"
+        },
+        {
+          "id": "face",
+          "emoji": "🙂",
+          "word": "cara",
+          "tr": "yüz",
+          "pron": "ˈkara",
+          "level": "a1"
+        },
+        {
+          "id": "finger",
+          "emoji": "👆",
+          "word": "dedo",
+          "tr": "parmak",
+          "pron": "ˈdeðo",
+          "level": "a1"
+        },
+        {
+          "id": "heart",
+          "emoji": "❤️",
+          "word": "corazón",
+          "tr": "kalp",
+          "pron": "koraˈθon",
+          "level": "a1"
+        },
+        {
+          "id": "neck",
+          "emoji": "🧣",
+          "word": "cuello",
+          "tr": "boyun",
+          "pron": "ˈkweʎo",
+          "level": "a1"
+        },
+        {
+          "id": "knee",
+          "emoji": "🩹",
+          "word": "rodilla",
+          "tr": "diz",
+          "pron": "roˈðiʎa",
+          "level": "a1"
+        },
+        {
+          "id": "stomach",
+          "emoji": "🫃",
+          "word": "estómago",
+          "tr": "mide",
+          "pron": "esˈtomaɡo",
+          "level": "a1"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "head",
+          "emoji": "🧠",
+          "word": "cabeça",
+          "tr": "baş",
+          "pron": "kaˈbesa",
+          "level": "a1"
+        },
+        {
+          "id": "eye",
+          "emoji": "👁️",
+          "word": "olho",
+          "tr": "göz",
+          "pron": "ˈoʎu",
+          "level": "a1"
+        },
+        {
+          "id": "ear",
+          "emoji": "👂",
+          "word": "orelha",
+          "tr": "kulak",
+          "pron": "oˈɾeʎa",
+          "level": "a1"
+        },
+        {
+          "id": "nose",
+          "emoji": "👃",
+          "word": "nariz",
+          "tr": "burun",
+          "pron": "naˈɾiʃ",
+          "level": "a1"
+        },
+        {
+          "id": "mouth",
+          "emoji": "👄",
+          "word": "boca",
+          "tr": "ağız",
+          "pron": "ˈbɔka",
+          "level": "a1"
+        },
+        {
+          "id": "hand",
+          "emoji": "✋",
+          "word": "mão",
+          "tr": "el",
+          "pron": "ˈmɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "foot",
+          "emoji": "🦶",
+          "word": "pé",
+          "tr": "ayak",
+          "pron": "ˈpɛ",
+          "level": "a1"
+        },
+        {
+          "id": "arm",
+          "emoji": "💪",
+          "word": "braço",
+          "tr": "kol",
+          "pron": "ˈbɾasu",
+          "level": "a1"
+        },
+        {
+          "id": "leg",
+          "emoji": "🦵",
+          "word": "perna",
+          "tr": "bacak",
+          "pron": "ˈpɛʁna",
+          "level": "a1"
+        },
+        {
+          "id": "hair",
+          "emoji": "💇",
+          "word": "cabelo",
+          "tr": "saç",
+          "pron": "kaˈbɛlu",
+          "level": "a1"
+        },
+        {
+          "id": "teeth",
+          "emoji": "🦷",
+          "word": "dentes",
+          "tr": "diş",
+          "pron": "ˈdẽtiʃ",
+          "level": "a1"
+        },
+        {
+          "id": "shoulder",
+          "emoji": "🤷",
+          "word": "ombro",
+          "tr": "omuz",
+          "pron": "ˈõbɾu",
+          "level": "a1"
+        },
+        {
+          "id": "face",
+          "emoji": "🙂",
+          "word": "rosto",
+          "tr": "yüz",
+          "pron": "ˈʁostu",
+          "level": "a1"
+        },
+        {
+          "id": "finger",
+          "emoji": "👆",
+          "word": "dedo",
+          "tr": "parmak",
+          "pron": "ˈdedu",
+          "level": "a1"
+        },
+        {
+          "id": "heart",
+          "emoji": "❤️",
+          "word": "coração",
+          "tr": "kalp",
+          "pron": "koɾaˈsɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "neck",
+          "emoji": "🧣",
+          "word": "pescoço",
+          "tr": "boyun",
+          "pron": "pɛʃˈkosu",
+          "level": "a1"
+        },
+        {
+          "id": "knee",
+          "emoji": "🩹",
+          "word": "joelho",
+          "tr": "diz",
+          "pron": "ʒuˈeʎu",
+          "level": "a1"
+        },
+        {
+          "id": "stomach",
+          "emoji": "🫃",
+          "word": "estômago",
+          "tr": "mide",
+          "pron": "eʃˈtomaɡu",
+          "level": "a1"
+        }
+      ]
+    }
+  }
+}

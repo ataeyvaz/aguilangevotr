@@ -1,0 +1,90 @@
+{
+  "id": "school-a1",
+  "title": "Okulda Tanışma",
+  "emoji": "🏫",
+  "level": "A1",
+  "category": "school",
+  "roles": ["Kartal", "Emir"],
+  "lines": [
+    {
+      "speaker": "Kartal",
+      "en": "Hi! My name is Kartal. What is your name?",
+      "tr": "Merhaba! Benim adım Kartal. Senin adın ne?",
+      "de": "Hallo! Ich heiße Kartal. Wie heißt du?",
+      "es": "¡Hola! Me llamo Kartal. ¿Cómo te llamas?",
+      "hint": "Kendini tanıt ve sor"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Hi! My name is Emir. Nice to meet you!",
+      "tr": "Merhaba! Benim adım Emir. Tanıştığımıza memnun oldum!",
+      "de": "Hallo! Ich heiße Emir. Schön, dich kennenzulernen!",
+      "es": "¡Hola! Me llamo Emir. ¡Encantado de conocerte!",
+      "hint": "Adını söyle ve memnuniyetini belirt"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "How old are you, Emir?",
+      "tr": "Kaç yaşındasın, Emir?",
+      "de": "Wie alt bist du, Emir?",
+      "es": "¿Cuántos años tienes, Emir?",
+      "hint": "Yaşı sor"
+    },
+    {
+      "speaker": "Emir",
+      "en": "I am nine years old. And you?",
+      "tr": "Ben dokuz yaşındayım. Ya sen?",
+      "de": "Ich bin neun Jahre alt. Und du?",
+      "es": "Tengo nueve años. ¿Y tú?",
+      "hint": "Yaşını söyle ve geri sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I am nine too! Which class are you in?",
+      "tr": "Ben de dokuzundayım! Hangi sınıftasın?",
+      "de": "Ich auch! In welche Klasse gehst du?",
+      "es": "¡Yo también tengo nueve! ¿En qué clase estás?",
+      "hint": "Ortak noktayı vurgula ve sor"
+    },
+    {
+      "speaker": "Emir",
+      "en": "I am in class three B. And you?",
+      "tr": "3B sınıfındayım. Ya sen?",
+      "de": "Ich bin in Klasse drei B. Und du?",
+      "es": "Estoy en la clase tres B. ¿Y tú?",
+      "hint": "Sınıfını söyle ve sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I am in class three A. Do you like school?",
+      "tr": "Ben 3A sınıfındayım. Okulu seviyor musun?",
+      "de": "Ich bin in Klasse drei A. Magst du die Schule?",
+      "es": "Estoy en la clase tres A. ¿Te gusta la escuela?",
+      "hint": "Sınıfını söyle ve fikir sor"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Yes, I like school! My favourite lesson is art.",
+      "tr": "Evet, okulu seviyorum! Favori dersim resim.",
+      "de": "Ja, ich mag die Schule! Mein Lieblingsfach ist Kunst.",
+      "es": "¡Sí, me gusta la escuela! Mi asignatura favorita es arte.",
+      "hint": "Evet de ve favori dersini söyle"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Cool! My favourite lesson is maths.",
+      "tr": "Harika! Benim favori dersim matematik.",
+      "de": "Cool! Mein Lieblingsfach ist Mathematik.",
+      "es": "¡Genial! Mi asignatura favorita es matemáticas.",
+      "hint": "Tepki ver ve favori dersini söyle"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Let us be friends! Shall we sit together?",
+      "tr": "Arkadaş olalım! Birlikte oturalım mı?",
+      "de": "Lass uns Freunde sein! Wollen wir zusammen sitzen?",
+      "es": "¡Seamos amigos! ¿Nos sentamos juntos?",
+      "hint": "Arkadaşlık teklif et"
+    }
+  ]
+}

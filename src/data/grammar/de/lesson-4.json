@@ -1,0 +1,58 @@
+{
+  "id": "de-lesson-4",
+  "lang": "de",
+  "lessonNumber": 4,
+  "title": "Hayır, Değil! — Olumsuzluk",
+  "subtitle": "nicht / kein ile Olumsuz Cümle",
+  "formula": "Eylem olumsuzu: nicht | İsim olumsuzu: kein/keine/kein",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Ich spiele nicht Fußball.", "tr": "Ben futbol oynamıyorum." },
+    { "type": "correct", "sentence": "Er kommt heute nicht.", "tr": "O bugün gelmiyor." },
+    { "type": "correct", "sentence": "Ich habe kein Buch.", "tr": "Benim kitabım yok." },
+    { "type": "correct", "sentence": "Sie hat keine Zeit.", "tr": "Onun zamanı yok." },
+    { "type": "wrong", "sentence": "Ich nicht spiele Fußball.", "tr": "", "note": "nicht genellikle fiilin sonuna gelir!" },
+    { "type": "wrong", "sentence": "Ich habe nicht Buch.", "tr": "", "note": "İsim olumsuzunda nicht değil kein kullan!" }
+  ],
+  "inputSentences": [
+    { "text": "Ich esse nicht gerne Fleisch.", "tr": "Et yemeyi sevmiyorum." },
+    { "text": "Er kommt morgen nicht.", "tr": "O yarın gelmiyor." },
+    { "text": "Wir haben kein Auto.", "tr": "Bizim arabamız yok." },
+    { "text": "Sie spricht nicht Englisch.", "tr": "O İngilizce konuşmuyor." },
+    { "text": "Das Kind hat keine Geschwister.", "tr": "Çocuğun kardeşi yok." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "Ich spiele ___ Gitarre.",
+      "answer": "nicht",
+      "hint": "Eylem olumsuzu → nicht"
+    },
+    {
+      "type": "build",
+      "words": ["habe", "kein", "Ich", "Haustier"],
+      "answer": ["Ich", "habe", "kein", "Haustier"],
+      "tr": "Benim evcil hayvanım yok."
+    },
+    {
+      "type": "fill",
+      "sentence": "Er hat ___ Schwester.",
+      "answer": "keine",
+      "hint": "Schwester → die (dişil) → keine"
+    },
+    {
+      "type": "build",
+      "words": ["kommt", "Er", "nicht", "heute"],
+      "answer": ["Er", "kommt", "heute", "nicht"],
+      "tr": "O bugün gelmiyor."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Yemek tercihlerini konuşuyorsunuz",
+    "lines": [
+      { "role": "A", "text": "Isst du gerne Fisch?", "tr": "Balığı sever misin?" },
+      { "role": "B", "text": "Nein, ich esse keinen Fisch. Ich mag ihn nicht.", "tr": "Hayır, balık yemiyorum. Onu sevmiyorum." },
+      { "role": "A", "text": "Und dein Bruder?", "tr": "Kardeşin?" },
+      { "role": "B", "text": "Er isst auch keinen Fisch. Wir essen lieber Hähnchen.", "tr": "O da balık yemiyor. İkimiz de tavuğu tercih ederiz." }
+    ]
+  }
+}

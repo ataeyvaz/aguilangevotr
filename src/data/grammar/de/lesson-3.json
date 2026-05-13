@@ -1,0 +1,58 @@
+{
+  "id": "de-lesson-3",
+  "lang": "de",
+  "lessonNumber": 3,
+  "title": "Soru Sözcükleri — W-Fragen",
+  "subtitle": "Wer / Was / Wo / Wann / Wie",
+  "formula": "W-Wort + fiil + özne + ...?",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Wer ist das?", "tr": "Bu kim?" },
+    { "type": "correct", "sentence": "Was machst du?", "tr": "Sen ne yapıyorsun?" },
+    { "type": "correct", "sentence": "Wo wohnst du?", "tr": "Sen nerede yaşıyorsun?" },
+    { "type": "correct", "sentence": "Wann kommst du?", "tr": "Sen ne zaman geliyorsun?" },
+    { "type": "wrong", "sentence": "Wo du wohnst?", "tr": "", "note": "W-soru → fiil öznedan önce gelir!" },
+    { "type": "wrong", "sentence": "Was du machst?", "tr": "", "note": "Fiil ikinci sıraya geçer: Was machst du?" }
+  ],
+  "inputSentences": [
+    { "text": "Wer ist dein Lehrer?", "tr": "Öğretmenin kim?" },
+    { "text": "Was liest du gerade?", "tr": "Şu an ne okuyorsun?" },
+    { "text": "Wo ist die Schule?", "tr": "Okul nerede?" },
+    { "text": "Wann beginnt der Unterricht?", "tr": "Ders ne zaman başlıyor?" },
+    { "text": "Wie heißt du?", "tr": "Adın ne?" }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "___ wohnst du? — In Berlin.",
+      "answer": "Wo",
+      "hint": "Yer sorusu → Wo"
+    },
+    {
+      "type": "build",
+      "words": ["machst", "Was", "du"],
+      "answer": ["Was", "machst", "du"],
+      "tr": "Sen ne yapıyorsun?"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ ist das Buch? — Auf dem Tisch.",
+      "answer": "Wo",
+      "hint": "Yer sorusu → Wo"
+    },
+    {
+      "type": "build",
+      "words": ["du", "Wann", "schläfst"],
+      "answer": ["Wann", "schläfst", "du"],
+      "tr": "Sen ne zaman uyuyorsun?"
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Yeni bir arkadaşı tanıyorsun",
+    "lines": [
+      { "role": "A", "text": "Wie heißt du?", "tr": "Adın ne?" },
+      { "role": "B", "text": "Ich heiße Lena. Und du?", "tr": "Adım Lena. Ya senin?" },
+      { "role": "A", "text": "Ich bin Jonas. Wo wohnst du?", "tr": "Ben Jonas'ım. Sen nerede yaşıyorsun?" },
+      { "role": "B", "text": "Ich wohne in München. Wann kommst du dorthin?", "tr": "Münih'te yaşıyorum. Oraya ne zaman geliyorsun?" }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "en-lesson-1",
+  "lang": "en",
+  "lessonNumber": 1,
+  "title": "Kim Ne Yapar?",
+  "subtitle": "Simple Present Tense",
+  "formula": "I/You/We/They + [fiil] | He/She/It + [fiil]+s",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "I play football.", "tr": "Ben futbol oynarım." },
+    { "type": "correct", "sentence": "They drink water.", "tr": "Onlar su içer." },
+    { "type": "correct", "sentence": "She plays football.", "tr": "O futbol oynar." },
+    { "type": "correct", "sentence": "He works at school.", "tr": "O okulda çalışır." },
+    { "type": "wrong", "sentence": "She play football.", "tr": "", "note": "He/She/It için +s unutma!" },
+    { "type": "wrong", "sentence": "They plays games.", "tr": "", "note": "They/We/I/You için +s yok!" }
+  ],
+  "inputSentences": [
+    { "text": "I eat breakfast every day.", "tr": "Her gün kahvaltı yaparım." },
+    { "text": "He works in a school.", "tr": "O bir okulda çalışır." },
+    { "text": "They play games together.", "tr": "Onlar birlikte oyun oynar." },
+    { "text": "She reads books every night.", "tr": "O her gece kitap okur." },
+    { "text": "We drink water after sports.", "tr": "Biz spordan sonra su içeriz." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "She ___ (play) tennis.",
+      "answer": "plays",
+      "hint": "He/She/It → fiile +s ekle"
+    },
+    {
+      "type": "build",
+      "words": ["every", "I", "day", "run"],
+      "answer": ["I", "run", "every", "day"],
+      "tr": "Her gün koşarım."
+    },
+    {
+      "type": "fill",
+      "sentence": "They ___ (drink) milk.",
+      "answer": "drink",
+      "hint": "They → +s yok"
+    },
+    {
+      "type": "build",
+      "words": ["books", "reads", "He"],
+      "answer": ["He", "reads", "books"],
+      "tr": "O kitap okur."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Bir arkadaşınla konuşuyorsun",
+    "lines": [
+      { "role": "A", "text": "What do you do every day?", "tr": "Her gün ne yaparsın?" },
+      { "role": "B", "text": "I wake up, eat breakfast and go to school.", "tr": "Uyanırım, kahvaltı yaparım ve okula giderim." },
+      { "role": "A", "text": "What does your sister do?", "tr": "Kız kardeşin ne yapar?" },
+      { "role": "B", "text": "She reads books and plays piano.", "tr": "O kitap okur ve piyano çalar." }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "i speak": {
+    "en": "I speak",
+    "es": "Hablo",
+    "pt": "Eu falo",
+    "tr": "Konuştuğum dil"
+  },
+  "i want to learn": {
+    "en": "I want to learn",
+    "es": "Quiero aprender",
+    "pt": "Quero aprender",
+    "tr": "Öğrenmek istediğim dil"
+  },
+  "select your language": {
+    "en": "Select your language",
+    "es": "Selecciona tu idioma",
+    "pt": "Selecione seu idioma",
+    "tr": "Dilini sec"
+  },
+  "select your native language": {
+    "en": "Select your native language",
+    "es": "Selecciona tu lengua materna",
+    "pt": "Selecione sua língua nativa",
+    "tr": "Ana dilini sec"
+  },
+  "native language": {
+    "en": "Native language",
+    "es": "Lengua materna",
+    "pt": "Língua nativa",
+    "tr": "Ana dil"
+  },
+  "learning language": {
+    "en": "Learning language",
+    "es": "Idioma de aprendizaje",
+    "pt": "Idioma de aprendizagem",
+    "tr": "Oğrenilen dil"
+  },
+  "interface language": {
+    "en": "Interface language",
+    "es": "Idioma de la interfaz",
+    "pt": "Idioma da interface",
+    "tr": "Arayuz dili"
+  },
+  "change interface language": {
+    "en": "Change interface language",
+    "es": "Cambiar idioma de la interfaz",
+    "pt": "Alterar idioma da interface",
+    "tr": "Arayüz dilini değiştir"
+  },
+  "language settings": {
+    "en": "Language settings",
+    "es": "Configuración de idioma",
+    "pt": "Configurações de idioma",
+    "tr": "Dil ayarları"
+  },
+  "how old are you": {
+    "en": "How old are you?",
+    "es": "¿Cuántos años tienes?",
+    "pt": "Quantos anos você tem?",
+    "tr": "Kac yasındasın?"
+  },
+  "i am a child": {
+    "en": "I am a child",
+    "es": "Soy un niño",
+    "pt": "Sou uma criança",
+    "tr": "Ben bir cocuğum"
+  },
+  "i am an adult": {
+    "en": "I am an adult",
+    "es": "Soy un adulto",
+    "pt": "Sou um adulto",
+    "tr": "Ben bir yetiskinim"
+  },
+  "welcome to aguilangevo": {
+    "en": "Welcome to Aguilangevo",
+    "es": "Bienvenido a Aguilangevo",
+    "pt": "Bem-vindo ao Aguilangevo",
+    "tr": "AguiLangEvoTR'ye hoş geldiniz"
+  },
+  "lets get started": {
+    "en": "Let's get started",
+    "es": "Comencemos",
+    "pt": "Vamos começar",
+    "tr": "Başlayalım"
+  },
+  "choose your mode": {
+    "en": "Choose your mode",
+    "es": "Elige tu modo",
+    "pt": "Escolha seu modo",
+    "tr": "Mod seç"
+  },
+  "learning mode": {
+    "en": "Learning mode",
+    "es": "Modo de aprendizaje",
+    "pt": "Modo de aprendizagem",
+    "tr": "Ogrenme modu"
+  },
+  "child mode": {
+    "en": "Child mode",
+    "es": "Modo niño",
+    "pt": "Modo criança",
+    "tr": "Çocuk modu"
+  },
+  "adult mode": {
+    "en": "Adult mode",
+    "es": "Modo adulto",
+    "pt": "Modo adulto",
+    "tr": "Yetişkin modu"
+  },
+  "your journey begins": {
+    "en": "Your journey begins",
+    "es": "Tu viaje comienza",
+    "pt": "Sua jornada começa",
+    "tr": "Yolculuğun başlıyor"
+  },
+  "ready to learn": {
+    "en": "Ready to learn",
+    "es": "Listo para aprender",
+    "pt": "Pronto para aprender",
+    "tr": "Öğrenmeye hazır"
+  },
+  "what is your name": {
+    "en": "What is your name?",
+    "es": "¿Cómo te llamas?",
+    "pt": "Qual é o seu nome?",
+    "tr": "Adin ne?"
+  },
+  "enter your name": {
+    "en": "Enter your name",
+    "es": "Ingresa tu nombre",
+    "pt": "Digite seu nome",
+    "tr": "Adini gir"
+  },
+  "hello": {
+    "en": "Hello",
+    "es": "Hola",
+    "pt": "Olá",
+    "tr": "Merhaba"
+  },
+  "good morning": {
+    "en": "Good morning",
+    "es": "Buenos días",
+    "pt": "Bom dia",
+    "tr": "Gunaydin"
+  },
+  "good afternoon": {
+    "en": "Good afternoon",
+    "es": "Buenas tardes",
+    "pt": "Boa tarde",
+    "tr": "Iyi ogleden sonralar"
+  },
+  "good evening": {
+    "en": "Good evening",
+    "es": "Buenas noches",
+    "pt": "Boa noite",
+    "tr": "Iyi aksamlar"
+  },
+  "lets go": {
+    "en": "Let's go",
+    "es": "¡Vamos!",
+    "pt": "Vamos!",
+    "tr": "Başla"
+  },
+  "continue setup": {
+    "en": "Continue setup",
+    "es": "Continuar configuración",
+    "pt": "Continuar configuração",
+    "tr": "Kuruluma devam et"
+  },
+  "almost done": {
+    "en": "Almost done",
+    "es": "Casi terminado",
+    "pt": "Quase pronto",
+    "tr": "Neredeyse bitti"
+  },
+  "your profile is ready": {
+    "en": "Your profile is ready",
+    "es": "Tu perfil está listo",
+    "pt": "Seu perfil está pronto",
+    "tr": "Profilin hazır"
+  },
+  "start learning now": {
+    "en": "Start learning now",
+    "es": "Empieza a aprender ahora",
+    "pt": "Comece a aprender agora",
+    "tr": "Şimdi öğrenmeye başla"
+  },
+  "i speak spanish": {
+    "en": "I speak Spanish",
+    "es": "Hablo español",
+    "pt": "Falo espanhol",
+    "tr": "İspanyolca konuşuyorum"
+  },
+  "i speak portuguese": {
+    "en": "I speak Portuguese",
+    "es": "Hablo portugués",
+    "pt": "Falo português",
+    "tr": "Portekizce konuşuyorum"
+  },
+  "i want to learn english": {
+    "en": "I want to learn English",
+    "es": "Quiero aprender inglés",
+    "pt": "Quero aprender inglês",
+    "tr": "İngilizce öğrenmek istiyorum"
+  },
+  "español": {
+    "en": "Spanish",
+    "es": "Español",
+    "pt": "Espanhol",
+    "tr": "Spanish"
+  },
+  "português": {
+    "en": "Portuguese",
+    "es": "Portugués",
+    "pt": "Português",
+    "tr": "Portuguese"
+  },
+  "english": {
+    "en": "English",
+    "es": "Inglés",
+    "pt": "Inglês",
+    "tr": "Ingilizce"
+  },
+  "change language": {
+    "en": "Change language",
+    "es": "Cambiar idioma",
+    "pt": "Alterar idioma",
+    "tr": "Dili değiştir"
+  },
+  "interface set to": {
+    "en": "Interface set to",
+    "es": "Interfaz configurada a",
+    "pt": "Interface configurada para",
+    "tr": "Arayuz dili:"
+  },
+  "language changed successfully": {
+    "en": "Language changed successfully",
+    "es": "Idioma cambiado con éxito",
+    "pt": "Idioma alterado com sucesso",
+    "tr": "Dil başarıyla değiştirildi"
+  },
+  "save": {
+    "en": "Save",
+    "es": "Guardar",
+    "pt": "Salvar",
+    "tr": "Kaydet"
+  },
+  "saved": {
+    "en": "Saved!",
+    "es": "¡Guardado!",
+    "pt": "Salvo!",
+    "tr": "Kaydedildi!"
+  }
+}

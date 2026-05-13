@@ -1,0 +1,382 @@
+{
+  "category": "vegetables",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "carrot",
+          "emoji": "🥕",
+          "word": "carrot",
+          "tr": "havuç",
+          "pron": "ˈkærət",
+          "level": "a1"
+        },
+        {
+          "id": "onion",
+          "emoji": "🧅",
+          "word": "onion",
+          "tr": "soğan",
+          "pron": "ˈʌnjən",
+          "level": "a1"
+        },
+        {
+          "id": "potato",
+          "emoji": "🥔",
+          "word": "potato",
+          "tr": "patates",
+          "pron": "pəˈteɪtəʊ",
+          "level": "a1"
+        },
+        {
+          "id": "tomato",
+          "emoji": "🍅",
+          "word": "tomato",
+          "tr": "domates",
+          "pron": "təˈmɑːtəʊ",
+          "level": "a1"
+        },
+        {
+          "id": "pepper",
+          "emoji": "🫑",
+          "word": "pepper",
+          "tr": "biber",
+          "pron": "ˈpɛpər",
+          "level": "a1"
+        },
+        {
+          "id": "bean",
+          "emoji": "🫘",
+          "word": "bean",
+          "tr": "fasulye",
+          "pron": "biːn",
+          "level": "a1"
+        },
+        {
+          "id": "cucumber",
+          "emoji": "🥒",
+          "word": "cucumber",
+          "tr": "salatalık",
+          "pron": "ˈkjuːkʌmbər",
+          "level": "a2"
+        },
+        {
+          "id": "garlic",
+          "emoji": "🧄",
+          "word": "garlic",
+          "tr": "sarımsak",
+          "pron": "ˈɡɑːlɪk",
+          "level": "a2"
+        },
+        {
+          "id": "mushroom",
+          "emoji": "🍄",
+          "word": "mushroom",
+          "tr": "mantar",
+          "pron": "ˈmʌʃruːm",
+          "level": "a2"
+        },
+        {
+          "id": "pea",
+          "emoji": "🫛",
+          "word": "pea",
+          "tr": "bezelye",
+          "pron": "piː",
+          "level": "a2"
+        },
+        {
+          "id": "salad",
+          "emoji": "🥗",
+          "word": "salad",
+          "tr": "salata",
+          "pron": "ˈsæləd",
+          "level": "a2"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "carrot",
+          "emoji": "🥕",
+          "word": "Karotte",
+          "tr": "havuç",
+          "pron": "kaˈrɔtə",
+          "level": "a1"
+        },
+        {
+          "id": "onion",
+          "emoji": "🧅",
+          "word": "Zwiebel",
+          "tr": "soğan",
+          "pron": "ˈtsvɪbəl",
+          "level": "a1"
+        },
+        {
+          "id": "potato",
+          "emoji": "🥔",
+          "word": "Kartoffel",
+          "tr": "patates",
+          "pron": "karˈtɔfəl",
+          "level": "a1"
+        },
+        {
+          "id": "tomato",
+          "emoji": "🍅",
+          "word": "Tomate",
+          "tr": "domates",
+          "pron": "toˈmaːtə",
+          "level": "a1"
+        },
+        {
+          "id": "pepper",
+          "emoji": "🫑",
+          "word": "Paprika",
+          "tr": "biber",
+          "pron": "ˈpaprika",
+          "level": "a1"
+        },
+        {
+          "id": "bean",
+          "emoji": "🫘",
+          "word": "Bohne",
+          "tr": "fasulye",
+          "pron": "ˈboːnə",
+          "level": "a1"
+        },
+        {
+          "id": "cucumber",
+          "emoji": "🥒",
+          "word": "Gurke",
+          "tr": "salatalık",
+          "pron": "ˈɡʊrkə",
+          "level": "a2"
+        },
+        {
+          "id": "garlic",
+          "emoji": "🧄",
+          "word": "Knoblauch",
+          "tr": "sarımsak",
+          "pron": "ˈknoːblaʊx",
+          "level": "a2"
+        },
+        {
+          "id": "mushroom",
+          "emoji": "🍄",
+          "word": "Pilz",
+          "tr": "mantar",
+          "pron": "pɪlts",
+          "level": "a2"
+        },
+        {
+          "id": "pea",
+          "emoji": "🫛",
+          "word": "Erbse",
+          "tr": "bezelye",
+          "pron": "ˈɛrpsə",
+          "level": "a2"
+        },
+        {
+          "id": "salad",
+          "emoji": "🥗",
+          "word": "Salat",
+          "tr": "salata",
+          "pron": "zaˈlaːt",
+          "level": "a2"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "carrot",
+          "emoji": "🥕",
+          "word": "zanahoria",
+          "tr": "havuç",
+          "pron": "θanaˈorja",
+          "level": "a1"
+        },
+        {
+          "id": "onion",
+          "emoji": "🧅",
+          "word": "cebolla",
+          "tr": "soğan",
+          "pron": "θeˈβoʎa",
+          "level": "a1"
+        },
+        {
+          "id": "potato",
+          "emoji": "🥔",
+          "word": "patata",
+          "tr": "patates",
+          "pron": "paˈtata",
+          "level": "a1"
+        },
+        {
+          "id": "tomato",
+          "emoji": "🍅",
+          "word": "tomate",
+          "tr": "domates",
+          "pron": "toˈmate",
+          "level": "a1"
+        },
+        {
+          "id": "pepper",
+          "emoji": "🫑",
+          "word": "pimiento",
+          "tr": "biber",
+          "pron": "piˈmjento",
+          "level": "a1"
+        },
+        {
+          "id": "bean",
+          "emoji": "🫘",
+          "word": "judía",
+          "tr": "fasulye",
+          "pron": "xuˈðia",
+          "level": "a1"
+        },
+        {
+          "id": "cucumber",
+          "emoji": "🥒",
+          "word": "pepino",
+          "tr": "salatalık",
+          "pron": "peˈpino",
+          "level": "a2"
+        },
+        {
+          "id": "garlic",
+          "emoji": "🧄",
+          "word": "ajo",
+          "tr": "sarımsak",
+          "pron": "ˈaxo",
+          "level": "a2"
+        },
+        {
+          "id": "mushroom",
+          "emoji": "🍄",
+          "word": "seta",
+          "tr": "mantar",
+          "pron": "ˈseta",
+          "level": "a2"
+        },
+        {
+          "id": "pea",
+          "emoji": "🫛",
+          "word": "guisante",
+          "tr": "bezelye",
+          "pron": "ɡiˈsante",
+          "level": "a2"
+        },
+        {
+          "id": "salad",
+          "emoji": "🥗",
+          "word": "ensalada",
+          "tr": "salata",
+          "pron": "ensaˈlaða",
+          "level": "a2"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "carrot",
+          "emoji": "🥕",
+          "word": "cenoura",
+          "tr": "havuç",
+          "pron": "seˈnoɾa",
+          "level": "a1"
+        },
+        {
+          "id": "onion",
+          "emoji": "🧅",
+          "word": "cebola",
+          "tr": "soğan",
+          "pron": "seˈbɔla",
+          "level": "a1"
+        },
+        {
+          "id": "potato",
+          "emoji": "🥔",
+          "word": "batata",
+          "tr": "patates",
+          "pron": "baˈtata",
+          "level": "a1"
+        },
+        {
+          "id": "tomato",
+          "emoji": "🍅",
+          "word": "tomate",
+          "tr": "domates",
+          "pron": "toˈmati",
+          "level": "a1"
+        },
+        {
+          "id": "pepper",
+          "emoji": "🫑",
+          "word": "pimentão",
+          "tr": "biber",
+          "pron": "pimẽˈtɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "bean",
+          "emoji": "🫘",
+          "word": "feijão",
+          "tr": "fasulye",
+          "pron": "fejˈʒɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "cucumber",
+          "emoji": "🥒",
+          "word": "pepino",
+          "tr": "salatalık",
+          "pron": "peˈpinu",
+          "level": "a2"
+        },
+        {
+          "id": "garlic",
+          "emoji": "🧄",
+          "word": "alho",
+          "tr": "sarımsak",
+          "pron": "ˈaʎu",
+          "level": "a2"
+        },
+        {
+          "id": "mushroom",
+          "emoji": "🍄",
+          "word": "cogumelo",
+          "tr": "mantar",
+          "pron": "koɡuˈmɛlu",
+          "level": "a2"
+        },
+        {
+          "id": "pea",
+          "emoji": "🫛",
+          "word": "ervilha",
+          "tr": "bezelye",
+          "pron": "eʁˈviʎa",
+          "level": "a2"
+        },
+        {
+          "id": "salad",
+          "emoji": "🥗",
+          "word": "alface",
+          "tr": "salata",
+          "pron": "awˈfasi",
+          "level": "a2"
+        }
+      ]
+    }
+  }
+}

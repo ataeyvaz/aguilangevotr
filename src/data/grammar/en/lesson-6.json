@@ -1,0 +1,58 @@
+{
+  "id": "en-lesson-6",
+  "lang": "en",
+  "lessonNumber": 6,
+  "title": "Geçmişe Yolculuk",
+  "subtitle": "Did / Was / Were — Geçmiş Zaman",
+  "formula": "Did + özne + fiil? (eylem) | Was/Were + özne? (durum)",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "I played football yesterday.", "tr": "Dün futbol oynadım." },
+    { "type": "correct", "sentence": "She was tired last night.", "tr": "O dün gece yorgundu." },
+    { "type": "correct", "sentence": "They were at the park.", "tr": "Onlar parkтаydılar." },
+    { "type": "correct", "sentence": "Did you eat lunch?", "tr": "Öğle yemeği yedin mi?" },
+    { "type": "wrong", "sentence": "She did played football.", "tr": "", "note": "Did sonrası fiil sade kalır!" },
+    { "type": "wrong", "sentence": "They was at school.", "tr": "", "note": "They → was değil were!" }
+  ],
+  "inputSentences": [
+    { "text": "I walked to school this morning.", "tr": "Bu sabah okula yürüdüm." },
+    { "text": "She was happy at the party.", "tr": "O partide mutluydu." },
+    { "text": "They played games all day.", "tr": "Onlar bütün gün oyun oynadı." },
+    { "text": "Did he finish his homework?", "tr": "O ödevini bitirdi mi?" },
+    { "text": "We were at the cinema last week.", "tr": "Geçen hafta sinemadaydık." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "She ___ (be) very happy yesterday.",
+      "answer": "was",
+      "hint": "She + geçmiş durum → was"
+    },
+    {
+      "type": "build",
+      "words": ["you", "Did", "breakfast", "eat"],
+      "answer": ["Did", "you", "eat", "breakfast"],
+      "tr": "Kahvaltı ettin mi?"
+    },
+    {
+      "type": "fill",
+      "sentence": "They ___ (be) at school this morning.",
+      "answer": "were",
+      "hint": "They + geçmiş durum → were"
+    },
+    {
+      "type": "build",
+      "words": ["yesterday", "walked", "I", "park", "to", "the"],
+      "answer": ["I", "walked", "to", "the", "park", "yesterday"],
+      "tr": "Dün parka yürüdüm."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Hafta sonundan bahsediyorsunuz",
+    "lines": [
+      { "role": "A", "text": "Did you have a good weekend?", "tr": "Hafta sonun güzel geçti mi?" },
+      { "role": "B", "text": "Yes! I visited my grandparents.", "tr": "Evet! Büyük anne ve dedem'i ziyaret ettim." },
+      { "role": "A", "text": "Were they happy to see you?", "tr": "Seni görünce mutlu oldular mı?" },
+      { "role": "B", "text": "Yes, they were very happy. We played games together.", "tr": "Evet, çok mutlu oldular. Birlikte oyun oynadık." }
+    ]
+  }
+}

@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Go.",
+    "de": "Geh.",
+    "level": "A1"
+  },
+  {
+    "en": "Hi.",
+    "de": "Hallo!",
+    "level": "A1"
+  },
+  {
+    "en": "Run!",
+    "de": "Lauf!",
+    "level": "A1"
+  },
+  {
+    "en": "Run.",
+    "de": "Lauf!",
+    "level": "A1"
+  },
+  {
+    "en": "Help!",
+    "de": "Hilfe!",
+    "level": "A1"
+  },
+  {
+    "en": "Do it.",
+    "de": "Mache es!",
+    "level": "A1"
+  },
+  {
+    "en": "Go on.",
+    "de": "Mach weiter.",
+    "level": "A1"
+  },
+  {
+    "en": "Hello!",
+    "de": "Hallo!",
+    "level": "A1"
+  },
+  {
+    "en": "Hello.",
+    "de": "Hallo!",
+    "level": "A1"
+  },
+  {
+    "en": "I see.",
+    "de": "Ich verstehe.",
+    "level": "A1"
+  },
+  {
+    "en": "Sorry?",
+    "de": "Entschuldigung?",
+    "level": "A1"
+  },
+  {
+    "en": "Eat it.",
+    "de": "Iss es.",
+    "level": "A1"
+  },
+  {
+    "en": "Go now.",
+    "de": "Geh jetzt!",
+    "level": "A1"
+  },
+  {
+    "en": "I know.",
+    "de": "Ich weiß.",
+    "level": "A1"
+  },
+  {
+    "en": "No way!",
+    "de": "Unmöglich!",
+    "level": "A1"
+  },
+  {
+    "en": "Why me?",
+    "de": "Warum ich?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I OK?",
+    "de": "Ist mit mir alles in Ordnung?",
+    "level": "A1"
+  },
+  {
+    "en": "Be nice.",
+    "de": "Sei nett!",
+    "level": "A1"
+  },
+  {
+    "en": "Come in.",
+    "de": "Komm herein.",
+    "level": "A1"
+  },
+  {
+    "en": "Come on!",
+    "de": "Komm!",
+    "level": "A1"
+  },
+  {
+    "en": "Come on.",
+    "de": "Komm schon!",
+    "level": "A1"
+  },
+  {
+    "en": "Go home.",
+    "de": "Geh nach Hause.",
+    "level": "A1"
+  },
+  {
+    "en": "Goodbye!",
+    "de": "Auf Wiedersehen!",
+    "level": "A1"
+  },
+  {
+    "en": "Goodbye.",
+    "de": "Auf Wiedersehen.",
+    "level": "A1"
+  },
+  {
+    "en": "Help me.",
+    "de": "Hilf mir.",
+    "level": "A1"
+  },
+  {
+    "en": "Help us.",
+    "de": "Hilf uns!",
+    "level": "A1"
+  },
+  {
+    "en": "How sad!",
+    "de": "Das ist aber schade!",
+    "level": "A1"
+  },
+  {
+    "en": "It's OK.",
+    "de": "Es ist in Ordnung.",
+    "level": "A1"
+  },
+  {
+    "en": "It's me!",
+    "de": "Ich bin’s.",
+    "level": "A1"
+  },
+  {
+    "en": "It's me.",
+    "de": "Ich bin’s.",
+    "level": "A1"
+  },
+  {
+    "en": "Me, too.",
+    "de": "Ich auch.",
+    "level": "A1"
+  },
+  {
+    "en": "See you!",
+    "de": "Tschüss!",
+    "level": "A1"
+  },
+  {
+    "en": "See you.",
+    "de": "Wir sehen uns.",
+    "level": "A1"
+  },
+  {
+    "en": "Take it.",
+    "de": "Nimm es.",
+    "level": "A1"
+  },
+  {
+    "en": "You run.",
+    "de": "Du läufst.",
+    "level": "A1"
+  },
+  {
+    "en": "Am I fat?",
+    "de": "Bin ich dick?",
+    "level": "A1"
+  },
+  {
+    "en": "Be a man.",
+    "de": "Sei ein Mann!",
+    "level": "A1"
+  },
+  {
+    "en": "Can I go?",
+    "de": "Kann ich gehen?",
+    "level": "A1"
+  },
+  {
+    "en": "Go there.",
+    "de": "Geh da hin!",
+    "level": "A1"
+  },
+  {
+    "en": "How nice!",
+    "de": "Wie schön!",
+    "level": "A1"
+  },
+  {
+    "en": "I can go.",
+    "de": "Ich kann gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I did it.",
+    "de": "Ich habe es geschafft.",
+    "level": "A1"
+  },
+  {
+    "en": "I get it.",
+    "de": "Ich verstehe.",
+    "level": "A1"
+  },
+  {
+    "en": "I got in.",
+    "de": "Ich bin reingekommen.",
+    "level": "A1"
+  },
+  {
+    "en": "I got it.",
+    "de": "Ich habe es verstanden.",
+    "level": "A1"
+  },
+  {
+    "en": "I had it.",
+    "de": "Ich hatte es.",
+    "level": "A1"
+  },
+  {
+    "en": "I use it.",
+    "de": "Ich benutze es.",
+    "level": "A1"
+  },
+  {
+    "en": "It's bad.",
+    "de": "Das ist mies.",
+    "level": "A1"
+  },
+  {
+    "en": "It's big.",
+    "de": "Sie ist groß.",
+    "level": "A1"
+  },
+  {
+    "en": "It's his.",
+    "de": "Es ist seins.",
+    "level": "A1"
+  },
+  {
+    "en": "It's hot.",
+    "de": "Es ist heiß.",
+    "level": "A1"
+  },
+  {
+    "en": "It's new.",
+    "de": "Es ist neu.",
+    "level": "A1"
+  },
+  {
+    "en": "It's red.",
+    "de": "Das ist rot.",
+    "level": "A1"
+  },
+  {
+    "en": "It's sad.",
+    "de": "Es ist traurig.",
+    "level": "A1"
+  },
+  {
+    "en": "May I go?",
+    "de": "Darf ich gehen?",
+    "level": "A1"
+  },
+  {
+    "en": "We're OK.",
+    "de": "Wir sind in Ordnung.",
+    "level": "A1"
+  },
+  {
+    "en": "What for?",
+    "de": "Wozu?",
+    "level": "A1"
+  },
+  {
+    "en": "What now?",
+    "de": "Was jetzt?",
+    "level": "A1"
+  },
+  {
+    "en": "Who am I?",
+    "de": "Wer bin ich?",
+    "level": "A1"
+  },
+  {
+    "en": "Write me.",
+    "de": "Schreib mir!",
+    "level": "A1"
+  },
+  {
+    "en": "Am I dead?",
+    "de": "Bin ich tot?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I late?",
+    "de": "Bin ich zu spät?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I next?",
+    "de": "Bin ich als nächstes dran?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I nuts?",
+    "de": "Spinne ich?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I eat?",
+    "de": "Kann ich essen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we go?",
+    "de": "Können wir gehen?",
+    "level": "A1"
+  },
+  {
+    "en": "Come here.",
+    "de": "Komm hierher.",
+    "level": "A1"
+  },
+  {
+    "en": "Come home.",
+    "de": "Kommt heim!",
+    "level": "A1"
+  },
+  {
+    "en": "Did I win?",
+    "de": "Habe ich gewonnen?",
+    "level": "A1"
+  },
+  {
+    "en": "Do it now.",
+    "de": "Mach es jetzt!",
+    "level": "A1"
+  },
+  {
+    "en": "Go for it.",
+    "de": "Nur zu!",
+    "level": "A1"
+  },
+  {
+    "en": "Go get it.",
+    "de": "Hol's dir!",
+    "level": "A1"
+  },
+  {
+    "en": "Go to bed.",
+    "de": "Geh schlafen.",
+    "level": "A1"
+  },
+  {
+    "en": "He is ill.",
+    "de": "Er ist krank.",
+    "level": "A1"
+  },
+  {
+    "en": "He is old.",
+    "de": "Er ist alt.",
+    "level": "A1"
+  },
+  {
+    "en": "Here I am.",
+    "de": "Hier bin ich.",
+    "level": "A1"
+  },
+  {
+    "en": "How is it?",
+    "de": "Wie ist die Lage?",
+    "level": "A1"
+  },
+  {
+    "en": "I am good.",
+    "de": "Mir geht's gut.",
+    "level": "A1"
+  },
+  {
+    "en": "I am here.",
+    "de": "Ich bin hier.",
+    "level": "A1"
+  },
+  {
+    "en": "I am okay.",
+    "de": "Es geht mir gut.",
+    "level": "A1"
+  },
+  {
+    "en": "I am sure.",
+    "de": "Ich bin sicher.",
+    "level": "A1"
+  },
+  {
+    "en": "I am tall.",
+    "de": "Ich bin groß.",
+    "level": "A1"
+  },
+  {
+    "en": "I am weak.",
+    "de": "Ich bin schwach.",
+    "level": "A1"
+  },
+  {
+    "en": "I am well.",
+    "de": "Mir geht es gut.",
+    "level": "A1"
+  },
+  {
+    "en": "I can fly.",
+    "de": "Ich kann fliegen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can run.",
+    "de": "Ich kann laufen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can ski.",
+    "de": "Ich kann Ski fahren.",
+    "level": "A1"
+  },
+  {
+    "en": "I can win.",
+    "de": "Ich kann gewinnen.",
+    "level": "A1"
+  },
+  {
+    "en": "I do mind.",
+    "de": "Es macht mir in der Tat etwas aus.",
+    "level": "A1"
+  },
+  {
+    "en": "I get you.",
+    "de": "Ich verstehe, was du meinst.",
+    "level": "A1"
+  },
+  {
+    "en": "I give in.",
+    "de": "Ich gebe auf.",
+    "level": "A1"
+  },
+  {
+    "en": "I give up.",
+    "de": "Ich gebe auf.",
+    "level": "A1"
+  },
+  {
+    "en": "I got hot.",
+    "de": "Mir wurde heiß.",
+    "level": "A1"
+  },
+  {
+    "en": "I got you.",
+    "de": "Ich habe dich.",
+    "level": "A1"
+  },
+  {
+    "en": "I had fun.",
+    "de": "Ich hatte Spaß.",
+    "level": "A1"
+  },
+  {
+    "en": "I hate it.",
+    "de": "Ich hasse es.",
+    "level": "A1"
+  },
+  {
+    "en": "I have it.",
+    "de": "Ich habe es.",
+    "level": "A1"
+  },
+  {
+    "en": "I knew it.",
+    "de": "Ich wusste es.",
+    "level": "A1"
+  },
+  {
+    "en": "I like it.",
+    "de": "Das gefällt mir.",
+    "level": "A1"
+  },
+  {
+    "en": "I lost it.",
+    "de": "Ich habe ihn verloren.",
+    "level": "A1"
+  },
+  {
+    "en": "I love it!",
+    "de": "Ich liebe es!",
+    "level": "A1"
+  },
+  {
+    "en": "I love it.",
+    "de": "Ich liebe es.",
+    "level": "A1"
+  },
+  {
+    "en": "I made it.",
+    "de": "Ich habe es gemacht.",
+    "level": "A1"
+  },
+  {
+    "en": "I mean it!",
+    "de": "Ich meine es so!",
+    "level": "A1"
+  },
+  {
+    "en": "I mean it.",
+    "de": "Ich meine es ernst.",
+    "level": "A1"
+  },
+  {
+    "en": "I met him.",
+    "de": "Ich habe ihn getroffen.",
+    "level": "A1"
+  },
+  {
+    "en": "I miss it.",
+    "de": "Ich vermisse es.",
+    "level": "A1"
+  },
+  {
+    "en": "I said no.",
+    "de": "Ich sagte nein.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw him.",
+    "de": "Ich habe ihn gesehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw one.",
+    "de": "Ich habe einen gesehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw you.",
+    "de": "Ich habe dich gesehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I see Tom.",
+    "de": "Ich sehe Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I took it.",
+    "de": "Ich nahm es.",
+    "level": "A1"
+  },
+  {
+    "en": "I want it.",
+    "de": "Ich möchte es.",
+    "level": "A1"
+  },
+  {
+    "en": "I was ill.",
+    "de": "Ich war krank.",
+    "level": "A1"
+  },
+  {
+    "en": "I was mad.",
+    "de": "Ich war verrückt.",
+    "level": "A1"
+  },
+  {
+    "en": "I was new.",
+    "de": "Ich war neu.",
+    "level": "A1"
+  },
+  {
+    "en": "I was sad.",
+    "de": "Ich war traurig.",
+    "level": "A1"
+  },
+  {
+    "en": "I was shy.",
+    "de": "Ich war schüchtern.",
+    "level": "A1"
+  },
+  {
+    "en": "I will go.",
+    "de": "Ich gehe.",
+    "level": "A1"
+  },
+  {
+    "en": "I'd do it.",
+    "de": "Ich würde es tun.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm a man.",
+    "de": "Ich bin ein Mann.",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom OK?",
+    "de": "Ist Tom okay?",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom in?",
+    "de": "Ist Tom da?",
+    "level": "A1"
+  },
+  {
+    "en": "Is he Tom?",
+    "de": "Ist das Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it Tom?",
+    "de": "Ist das Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it bad?",
+    "de": "Ist es schlimm?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it far?",
+    "de": "Ist das weit?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it hot?",
+    "de": "Ist es heiß?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it new?",
+    "de": "Ist es neu?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it red?",
+    "de": "Ist es rot?",
+    "level": "A1"
+  },
+  {
+    "en": "It bit me.",
+    "de": "Sie hat mich gebissen.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a TV.",
+    "de": "Das ist ein Fernseher.",
+    "level": "A1"
+  },
+  {
+    "en": "It's cold.",
+    "de": "Es ist kalt.",
+    "level": "A1"
+  },
+  {
+    "en": "It's here.",
+    "de": "Es ist hier.",
+    "level": "A1"
+  },
+  {
+    "en": "Let it be.",
+    "de": "Lass es sein.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me be.",
+    "de": "Lass mich in Ruhe.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me go!",
+    "de": "Lassen Sie mich gehen!",
+    "level": "A1"
+  },
+  {
+    "en": "Let me in.",
+    "de": "Lass mich herein.",
+    "level": "A1"
+  },
+  {
+    "en": "Let us go.",
+    "de": "Lass uns gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "Let us in.",
+    "de": "Lassen Sie uns rein.",
+    "level": "A1"
+  },
+  {
+    "en": "Look here.",
+    "de": "Schau hier.",
+    "level": "A1"
+  },
+  {
+    "en": "Make room!",
+    "de": "Mach Platz!",
+    "level": "A1"
+  },
+  {
+    "en": "Please go.",
+    "de": "Bitte geh.",
+    "level": "A1"
+  },
+  {
+    "en": "Put it on.",
+    "de": "Setz es auf.",
+    "level": "A1"
+  },
+  {
+    "en": "Read this.",
+    "de": "Lies das hier.",
+    "level": "A1"
+  },
+  {
+    "en": "Sit by me.",
+    "de": "Setz dich zu mir!",
+    "level": "A1"
+  },
+  {
+    "en": "Sit there.",
+    "de": "Setz dich dorthin.",
+    "level": "A1"
+  },
+  {
+    "en": "Take this.",
+    "de": "Nimm das.",
+    "level": "A1"
+  },
+  {
+    "en": "Thank you.",
+    "de": "Danke!",
+    "level": "A1"
+  },
+  {
+    "en": "Then what?",
+    "de": "Na und?",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is OK.",
+    "de": "Tom ist in Ordnung.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is in.",
+    "de": "Tom ist hier.",
+    "level": "A1"
+  },
+  {
+    "en": "Try it on.",
+    "de": "Probier es an!",
+    "level": "A1"
+  },
+  {
+    "en": "We can go.",
+    "de": "Wir können gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "We did it!",
+    "de": "Wir haben es geschafft!",
+    "level": "A1"
+  },
+  {
+    "en": "We did it.",
+    "de": "Wir haben es geschafft!",
+    "level": "A1"
+  },
+  {
+    "en": "We saw it.",
+    "de": "Wir sahen es.",
+    "level": "A1"
+  },
+  {
+    "en": "We're hot.",
+    "de": "Uns ist heiß.",
+    "level": "A1"
+  },
+  {
+    "en": "We're old.",
+    "de": "Wir sind alt.",
+    "level": "A1"
+  },
+  {
+    "en": "We're sad.",
+    "de": "Wir sind traurig.",
+    "level": "A1"
+  },
+  {
+    "en": "Who is he?",
+    "de": "Wer ist er?",
+    "level": "A1"
+  },
+  {
+    "en": "Who is it?",
+    "de": "Wer ist da?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I alone?",
+    "de": "Bin ich allein?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I dying?",
+    "de": "Sterbe ich?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I early?",
+    "de": "Bin ich früh dran?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I fired?",
+    "de": "Bin ich gefeuert?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I hated?",
+    "de": "Werde ich gehaßt?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I hired?",
+    "de": "Bin ich eingestellt?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I ready?",
+    "de": "Bin ich bereit?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I right?",
+    "de": "Habe ich recht?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I weird?",
+    "de": "Bin ich komisch?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I wrong?",
+    "de": "Hab ich nicht Recht?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you 18?",
+    "de": "Bist du 18?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you OK?",
+    "de": "Geht es dir gut?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you in?",
+    "de": "Bist du dabei?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you up?",
+    "de": "Bist du auf?",
+    "level": "A1"
+  },
+  {
+    "en": "Be on time.",
+    "de": "Sei pünktlich.",
+    "level": "A1"
+  },
+  {
+    "en": "Can I come?",
+    "de": "Kann ich kommen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I help?",
+    "de": "Kann ich helfen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I sing?",
+    "de": "Kann ich singen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I stay?",
+    "de": "Kann ich bleiben?",
+    "level": "A1"
+  },
+  {
+    "en": "Come again.",
+    "de": "Komm wieder.",
+    "level": "A1"
+  },
+  {
+    "en": "Come on in!",
+    "de": "Komm rein!",
+    "level": "A1"
+  },
+  {
+    "en": "Come on in.",
+    "de": "Komm herein.",
+    "level": "A1"
+  },
+  {
+    "en": "Come to me.",
+    "de": "Komm zu mir.",
+    "level": "A1"
+  },
+  {
+    "en": "Come to us.",
+    "de": "Komm zu uns.",
+    "level": "A1"
+  },
+  {
+    "en": "Did Tom go?",
+    "de": "Ist Tom hingegangen?",
+    "level": "A1"
+  },
+  {
+    "en": "Did we win?",
+    "de": "Haben wir gewonnen?",
+    "level": "A1"
+  },
+  {
+    "en": "Do I snore?",
+    "de": "Schnarche ich?",
+    "level": "A1"
+  },
+  {
+    "en": "Do come in.",
+    "de": "Komm doch herein.",
+    "level": "A1"
+  },
+  {
+    "en": "Do you box?",
+    "de": "Boxt du?",
+    "level": "A1"
+  },
+  {
+    "en": "Drink this.",
+    "de": "Trink das!",
+    "level": "A1"
+  },
+  {
+    "en": "Get to bed.",
+    "de": "Geh schlafen.",
+    "level": "A1"
+  },
+  {
+    "en": "Give it up.",
+    "de": "Gib es auf!",
+    "level": "A1"
+  },
+  {
+    "en": "Go on home.",
+    "de": "Geh nach Hause.",
+    "level": "A1"
+  },
+  {
+    "en": "Go see Tom.",
+    "de": "Geh zu Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "Go to work.",
+    "de": "Geh arbeiten!",
+    "level": "A1"
+  },
+  {
+    "en": "Good night.",
+    "de": "Gute Nacht!",
+    "level": "A1"
+  },
+  {
+    "en": "He gave in.",
+    "de": "Er gab auf.",
+    "level": "A1"
+  },
+  {
+    "en": "He is a DJ.",
+    "de": "Er ist ein DJ.",
+    "level": "A1"
+  },
+  {
+    "en": "He is busy.",
+    "de": "Er hat zu tun.",
+    "level": "A1"
+  },
+  {
+    "en": "He is here!",
+    "de": "Er ist hier!",
+    "level": "A1"
+  },
+  {
+    "en": "He is kind.",
+    "de": "Er ist freundlich.",
+    "level": "A1"
+  },
+  {
+    "en": "He is late.",
+    "de": "Er kommt zu spät.",
+    "level": "A1"
+  },
+  {
+    "en": "He is mean.",
+    "de": "Er ist gemein.",
+    "level": "A1"
+  },
+  {
+    "en": "He is poor.",
+    "de": "Er ist arm.",
+    "level": "A1"
+  },
+  {
+    "en": "He is sick.",
+    "de": "Er ist krank.",
+    "level": "A1"
+  },
+  {
+    "en": "He is tall.",
+    "de": "Er ist groß.",
+    "level": "A1"
+  },
+  {
+    "en": "He made it.",
+    "de": "Er schaffte es.",
+    "level": "A1"
+  },
+  {
+    "en": "Here he is!",
+    "de": "Er ist hier!",
+    "level": "A1"
+  },
+  {
+    "en": "Here it is.",
+    "de": "Hier ist es.",
+    "level": "A1"
+  },
+  {
+    "en": "Here we go.",
+    "de": "Los geht's.",
+    "level": "A1"
+  },
+  {
+    "en": "How was it?",
+    "de": "Wie war es?",
+    "level": "A1"
+  },
+  {
+    "en": "I admit it.",
+    "de": "Ich geb es zu.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a boy.",
+    "de": "Ich bin ein Junge.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a man.",
+    "de": "Ich bin ein Mann.",
+    "level": "A1"
+  },
+  {
+    "en": "I am happy.",
+    "de": "Ich bin glücklich.",
+    "level": "A1"
+  },
+  {
+    "en": "I am human.",
+    "de": "Ich bin menschlich.",
+    "level": "A1"
+  },
+  {
+    "en": "I am ready.",
+    "de": "Ich bin bereit.",
+    "level": "A1"
+  },
+  {
+    "en": "I am right.",
+    "de": "Ich habe recht.",
+    "level": "A1"
+  },
+  {
+    "en": "I broke it.",
+    "de": "Ich habe es kaputtgemacht.",
+    "level": "A1"
+  },
+  {
+    "en": "I built it.",
+    "de": "Ich habe es gebaut.",
+    "level": "A1"
+  },
+  {
+    "en": "I can come.",
+    "de": "Ich kann kommen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can cook.",
+    "de": "Ich kann kochen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can help.",
+    "de": "Ich kann helfen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can jump.",
+    "de": "Ich kann springen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can sing.",
+    "de": "Ich kann singen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can stay.",
+    "de": "Ich kann bleiben.",
+    "level": "A1"
+  },
+  {
+    "en": "I can swim.",
+    "de": "Ich kann schwimmen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can wait.",
+    "de": "Ich kann warten.",
+    "level": "A1"
+  },
+  {
+    "en": "I can walk.",
+    "de": "Ich kann gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I can't go.",
+    "de": "Ich kann nicht gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I drank it.",
+    "de": "Ich habe es getrunken.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat here.",
+    "de": "Ich esse hier.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat meat.",
+    "de": "Ich esse Fleisch.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat rice.",
+    "de": "Ich esse Reis.",
+    "level": "A1"
+  },
+  {
+    "en": "I enjoy it.",
+    "de": "Das gefällt mir.",
+    "level": "A1"
+  },
+  {
+    "en": "I envy her.",
+    "de": "Ich beneide sie.",
+    "level": "A1"
+  },
+  {
+    "en": "I envy him.",
+    "de": "Ich beneide ihn.",
+    "level": "A1"
+  },
+  {
+    "en": "I feel bad.",
+    "de": "Ich fühle mich schlecht.",
+    "level": "A1"
+  },
+  {
+    "en": "I feel old.",
+    "de": "Ich fühle mich alt.",
+    "level": "A1"
+  },
+  {
+    "en": "I fixed it.",
+    "de": "Ich habe es repariert.",
+    "level": "A1"
+  },
+  {
+    "en": "I found it.",
+    "de": "Ich habe es gefunden.",
+    "level": "A1"
+  },
+  {
+    "en": "I got an A.",
+    "de": "Ich habe eine Eins bekommen.",
+    "level": "A1"
+  },
+  {
+    "en": "I got cold.",
+    "de": "Mir wurde kalt.",
+    "level": "A1"
+  },
+  {
+    "en": "I had help.",
+    "de": "Ich hatte Hilfe.",
+    "level": "A1"
+  },
+  {
+    "en": "I have one.",
+    "de": "Ich habe eine.",
+    "level": "A1"
+  },
+  {
+    "en": "I have won.",
+    "de": "Ich habe gewonnen.",
+    "level": "A1"
+  },
+  {
+    "en": "I hear you.",
+    "de": "Ich höre dich.",
+    "level": "A1"
+  },
+  {
+    "en": "I heard it.",
+    "de": "Ich habe es gehört.",
+    "level": "A1"
+  },
+  {
+    "en": "I help him.",
+    "de": "Ich helfe ihm.",
+    "level": "A1"
+  },
+  {
+    "en": "I hope not.",
+    "de": "Ich hoffe nicht.",
+    "level": "A1"
+  },
+  {
+    "en": "I know Tom.",
+    "de": "Ich kenne Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I know her.",
+    "de": "Ich kenne sie.",
+    "level": "A1"
+  },
+  {
+    "en": "I know now.",
+    "de": "Ich weiß es jetzt.",
+    "level": "A1"
+  },
+  {
+    "en": "I know you.",
+    "de": "Ich kenne dich.",
+    "level": "A1"
+  },
+  {
+    "en": "I like Tom.",
+    "de": "Ich mag Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I like art.",
+    "de": "Ich mag Kunst.",
+    "level": "A1"
+  },
+  {
+    "en": "I like him.",
+    "de": "Ich mag ihn.",
+    "level": "A1"
+  },
+  {
+    "en": "I like tea.",
+    "de": "Ich mag Tee.",
+    "level": "A1"
+  },
+  {
+    "en": "I like you.",
+    "de": "Du gefällst mir.",
+    "level": "A1"
+  },
+  {
+    "en": "I love Tom.",
+    "de": "Ich liebe Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I love her.",
+    "de": "Ich liebe sie.",
+    "level": "A1"
+  },
+  {
+    "en": "I love him.",
+    "de": "Ich liebe ihn.",
+    "level": "A1"
+  },
+  {
+    "en": "I love tea.",
+    "de": "Ich liebe Tee.",
+    "level": "A1"
+  },
+  {
+    "en": "I love you.",
+    "de": "Ich liebe Sie.",
+    "level": "A1"
+  },
+  {
+    "en": "I loved it.",
+    "de": "Ich liebte es.",
+    "level": "A1"
+  },
+  {
+    "en": "I met them.",
+    "de": "Ich habe sie getroffen.",
+    "level": "A1"
+  },
+  {
+    "en": "I miss you.",
+    "de": "Ich vermisse dich.",
+    "level": "A1"
+  },
+  {
+    "en": "I need you.",
+    "de": "Ich brauche dich.",
+    "level": "A1"
+  },
+  {
+    "en": "I pity you.",
+    "de": "Du tust mir leid.",
+    "level": "A1"
+  },
+  {
+    "en": "I ran here.",
+    "de": "Ich bin hierhergelaufen.",
+    "level": "A1"
+  },
+  {
+    "en": "I ran home.",
+    "de": "Ich lief nach Hause.",
+    "level": "A1"
+  },
+  {
+    "en": "I said yes.",
+    "de": "Ich sagte ja.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw that.",
+    "de": "Das habe ich gesehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw them.",
+    "de": "Ich habe sie gesehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I see that.",
+    "de": "Ich sehe das.",
+    "level": "A1"
+  },
+  {
+    "en": "I smell it.",
+    "de": "Ich rieche es.",
+    "level": "A1"
+  },
+  {
+    "en": "I think so.",
+    "de": "Ich stimme dem zu.",
+    "level": "A1"
+  },
+  {
+    "en": "I use this.",
+    "de": "Ich verwende das.",
+    "level": "A1"
+  },
+  {
+    "en": "I vote yes.",
+    "de": "I stimme mit „Ja“ ab.",
+    "level": "A1"
+  },
+  {
+    "en": "I want Tom.",
+    "de": "Ich will Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I want one!",
+    "de": "Ich will einen!",
+    "level": "A1"
+  },
+  {
+    "en": "I want one.",
+    "de": "Ich will eins.",
+    "level": "A1"
+  },
+  {
+    "en": "I want rum.",
+    "de": "Ich will Rum.",
+    "level": "A1"
+  },
+  {
+    "en": "I want you.",
+    "de": "Ich will dich.",
+    "level": "A1"
+  },
+  {
+    "en": "I was away.",
+    "de": "Ich war weg.",
+    "level": "A1"
+  },
+  {
+    "en": "I was busy.",
+    "de": "Ich war beschäftigt.",
+    "level": "A1"
+  },
+  {
+    "en": "I was calm.",
+    "de": "Ich war ruhig.",
+    "level": "A1"
+  },
+  {
+    "en": "I was cold.",
+    "de": "Mir war kalt.",
+    "level": "A1"
+  },
+  {
+    "en": "I was good.",
+    "de": "Ich war gut.",
+    "level": "A1"
+  },
+  {
+    "en": "I was here.",
+    "de": "Ich war hier.",
+    "level": "A1"
+  },
+  {
+    "en": "I was late.",
+    "de": "Ich kam zu spät.",
+    "level": "A1"
+  },
+  {
+    "en": "I was lost.",
+    "de": "Ich hatte mich verirrt.",
+    "level": "A1"
+  },
+  {
+    "en": "I was poor.",
+    "de": "Ich war arm.",
+    "level": "A1"
+  },
+  {
+    "en": "I was rude.",
+    "de": "Ich war ruppig.",
+    "level": "A1"
+  },
+  {
+    "en": "I was sick.",
+    "de": "Ich habe gekotzt.",
+    "level": "A1"
+  },
+  {
+    "en": "I won't go.",
+    "de": "Ich werde nicht gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll be OK.",
+    "de": "Es wird mir gut gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll do it.",
+    "de": "Ich werde es tun.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll go in.",
+    "de": "Ich werde reingehen.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm OK now.",
+    "de": "Ich bin wieder OK.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm a girl.",
+    "de": "Ich bin ein Mädchen.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm for it.",
+    "de": "Ich bin dafür.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm in bed.",
+    "de": "Ich bin im Bett.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm not OK.",
+    "de": "Ich bin nicht okay.",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom big?",
+    "de": "Ist Tom groß?",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom hot?",
+    "de": "Ist Tom zu heiß?",
+    "level": "A1"
+  },
+  {
+    "en": "Is he busy?",
+    "de": "Ist er beschäftigt?",
+    "level": "A1"
+  },
+  {
+    "en": "Is he tall?",
+    "de": "Ist er groß?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it done?",
+    "de": "Ist es fertig?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it free?",
+    "de": "Ist es kostenlos?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it good?",
+    "de": "Ist es gut?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it love?",
+    "de": "Ist das Liebe?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it nice?",
+    "de": "Ist es nett?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it ours?",
+    "de": "Ist das unseres?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it over?",
+    "de": "Ist es vorbei?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it safe?",
+    "de": "Ist es sicher?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it time?",
+    "de": "Ist es Zeit?",
+    "level": "A1"
+  },
+  {
+    "en": "Is that it?",
+    "de": "Ist es das?",
+    "level": "A1"
+  },
+  {
+    "en": "Is that so?",
+    "de": "Ist das so?",
+    "level": "A1"
+  },
+  {
+    "en": "Is this OK?",
+    "de": "Ist das okay?",
+    "level": "A1"
+  },
+  {
+    "en": "Is this it?",
+    "de": "Ist es das?",
+    "level": "A1"
+  },
+  {
+    "en": "It was Tom.",
+    "de": "Es war Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "It was bad.",
+    "de": "Es war schlecht.",
+    "level": "A1"
+  },
+  {
+    "en": "It was big.",
+    "de": "Es war groß.",
+    "level": "A1"
+  },
+  {
+    "en": "It was hot.",
+    "de": "Es war heiß.",
+    "level": "A1"
+  },
+  {
+    "en": "It was sad.",
+    "de": "Es war traurig.",
+    "level": "A1"
+  },
+  {
+    "en": "It was wet.",
+    "de": "Sie war nass.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a bet.",
+    "de": "Es ist eine Wette.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a boy.",
+    "de": "Es ist ein Bub.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a fad.",
+    "de": "Das ist eine Modeerscheinung.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a key.",
+    "de": "Das ist ein Schlüssel.",
+    "level": "A1"
+  },
+  {
+    "en": "It's green.",
+    "de": "Das ist grün.",
+    "level": "A1"
+  },
+  {
+    "en": "It's my CD.",
+    "de": "Das ist meine CD.",
+    "level": "A1"
+  },
+  {
+    "en": "It's night.",
+    "de": "Es ist Nacht.",
+    "level": "A1"
+  },
+  {
+    "en": "It's on me.",
+    "de": "Das geht auf meine Rechnung.",
+    "level": "A1"
+  },
+  {
+    "en": "It's there.",
+    "de": "Es ist da.",
+    "level": "A1"
+  },
+  {
+    "en": "It's water.",
+    "de": "Das ist Wasser.",
+    "level": "A1"
+  },
+  {
+    "en": "It's white.",
+    "de": "Es ist weiß.",
+    "level": "A1"
+  },
+  {
+    "en": "Just do it.",
+    "de": "Mach es doch!",
+    "level": "A1"
+  },
+  {
+    "en": "Let him go!",
+    "de": "Lass ihn gehen!",
+    "level": "A1"
+  },
+  {
+    "en": "Let him in.",
+    "de": "Lass ihn herein!",
+    "level": "A1"
+  },
+  {
+    "en": "Let me see.",
+    "de": "Lass mich sehen.",
+    "level": "A1"
+  },
+  {
+    "en": "Look again.",
+    "de": "Schau nochmal hin.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at it.",
+    "de": "Schau es dir an.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at me.",
+    "de": "Sieh mich an.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at us.",
+    "de": "Schau uns an.",
+    "level": "A1"
+  },
+  {
+    "en": "Look it up.",
+    "de": "Schlag es nach!",
+    "level": "A1"
+  },
+  {
+    "en": "Look there.",
+    "de": "Sieh dort!",
+    "level": "A1"
+  },
+  {
+    "en": "May I help?",
+    "de": "Darf ich helfen?",
+    "level": "A1"
+  },
+  {
+    "en": "Please eat.",
+    "de": "Iss bitte!",
+    "level": "A1"
+  },
+  {
+    "en": "Run for it!",
+    "de": "Beeile dich!",
+    "level": "A1"
+  },
+  {
+    "en": "She is old.",
+    "de": "Sie ist alt.",
+    "level": "A1"
+  },
+  {
+    "en": "Step on it!",
+    "de": "Beeil dich!",
+    "level": "A1"
+  },
+  {
+    "en": "Take a bus.",
+    "de": "Nehmt einen Bus.",
+    "level": "A1"
+  },
+  {
+    "en": "Take a nap.",
+    "de": "Mach ein Nickerchen.",
+    "level": "A1"
+  },
+  {
+    "en": "Talk to me!",
+    "de": "Sprich mit mir!",
+    "level": "A1"
+  },
+  {
+    "en": "Talk to me.",
+    "de": "Rede mit mir!",
+    "level": "A1"
+  },
+  {
+    "en": "That a boy!",
+    "de": "Guter Junge!",
+    "level": "A1"
+  },
+  {
+    "en": "This is OK.",
+    "de": "Das ist in Ordnung.",
+    "level": "A1"
+  },
+  {
+    "en": "This is it.",
+    "de": "Das ist es.",
+    "level": "A1"
+  },
+  {
+    "en": "This is me.",
+    "de": "Das bin ich.",
+    "level": "A1"
+  },
+  {
+    "en": "Time is up.",
+    "de": "Die Zeit ist um.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom did it.",
+    "de": "Tom hat es geschafft.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom has it.",
+    "de": "Tom hat es.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is bad.",
+    "de": "Tom ist schlecht.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is big.",
+    "de": "Tom ist groß.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is hot.",
+    "de": "Tom ist heiß.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is new.",
+    "de": "Tom ist neu.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is old.",
+    "de": "Tom ist alt.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is sad.",
+    "de": "Tom ist traurig.",
+    "level": "A1"
+  },
+  {
+    "en": "Try it now.",
+    "de": "Versuch's jetzt mal!",
+    "level": "A1"
+  },
+  {
+    "en": "Turn it on.",
+    "de": "Mach es an!",
+    "level": "A1"
+  },
+  {
+    "en": "War is bad.",
+    "de": "Krieg ist schlecht.",
+    "level": "A1"
+  },
+  {
+    "en": "Was it fun?",
+    "de": "Hat es Spaß gemacht?",
+    "level": "A1"
+  },
+  {
+    "en": "We are men.",
+    "de": "Wir sind Männer.",
+    "level": "A1"
+  },
+  {
+    "en": "We can pay.",
+    "de": "Wir können bezahlen.",
+    "level": "A1"
+  },
+  {
+    "en": "We can try.",
+    "de": "Wir können es versuchen.",
+    "level": "A1"
+  },
+  {
+    "en": "We can win.",
+    "de": "Wir können gewinnen.",
+    "level": "A1"
+  },
+  {
+    "en": "We had fun.",
+    "de": "Wir hatten unseren Spaß.",
+    "level": "A1"
+  },
+  {
+    "en": "We like it.",
+    "de": "Wir mögen es.",
+    "level": "A1"
+  },
+  {
+    "en": "We lost it.",
+    "de": "Wir haben es verloren.",
+    "level": "A1"
+  },
+  {
+    "en": "We love it.",
+    "de": "Wir lieben es.",
+    "level": "A1"
+  },
+  {
+    "en": "We made it.",
+    "de": "Wir haben es geschafft!",
+    "level": "A1"
+  },
+  {
+    "en": "We saw you.",
+    "de": "Wir haben dich gesehen.",
+    "level": "A1"
+  },
+  {
+    "en": "We want it.",
+    "de": "Wir wollen es.",
+    "level": "A1"
+  },
+  {
+    "en": "We're cold.",
+    "de": "Uns ist kalt.",
+    "level": "A1"
+  },
+  {
+    "en": "We're here.",
+    "de": "Wir sind hier.",
+    "level": "A1"
+  },
+  {
+    "en": "We're home.",
+    "de": "Wir sind zu Hause.",
+    "level": "A1"
+  },
+  {
+    "en": "What is it?",
+    "de": "Was ist das für ein Ding?",
+    "level": "A1"
+  },
+  {
+    "en": "Where am I?",
+    "de": "Wo bin ich?",
+    "level": "A1"
+  },
+  {
+    "en": "Who are we?",
+    "de": "Wer sind wir?",
+    "level": "A1"
+  },
+  {
+    "en": "Who did it?",
+    "de": "Wer hat es getan?",
+    "level": "A1"
+  },
+  {
+    "en": "Who has it?",
+    "de": "Wer hat es?",
+    "level": "A1"
+  },
+  {
+    "en": "Who is she?",
+    "de": "Wer ist sie?",
+    "level": "A1"
+  },
+  {
+    "en": "Who saw me?",
+    "de": "Wer sah mich?",
+    "level": "A1"
+  },
+  {
+    "en": "Who was it?",
+    "de": "Wer war’s?",
+    "level": "A1"
+  },
+  {
+    "en": "You can go.",
+    "de": "Du kannst gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "You may go.",
+    "de": "Sie dürfen gehen.",
+    "level": "A1"
+  },
+  {
+    "en": "You owe me.",
+    "de": "Du schuldest mir was!",
+    "level": "A1"
+  },
+  {
+    "en": "Am I a bore?",
+    "de": "Bin ich ein Langweiler?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I a pest?",
+    "de": "Gehe ich dir auf die Nerven?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I boring?",
+    "de": "Bin ich langweilig?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I pretty?",
+    "de": "Bin ich hübsch?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I stupid?",
+    "de": "Bin ich dumm?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we done?",
+    "de": "Sind wir fertig?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we lost?",
+    "de": "Haben wir uns verlaufen?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we safe?",
+    "de": "Sind wir sicher?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you Tom?",
+    "de": "Bist du Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you fat?",
+    "de": "Bist du dick?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you fit?",
+    "de": "Bist du in Form?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you hot?",
+    "de": "Ist dir heiß?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you mad?",
+    "de": "Bist du sauer?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you new?",
+    "de": "Bist du neu?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you shy?",
+    "de": "Bist du schüchtern?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I begin?",
+    "de": "Kann ich anfangen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can it wait?",
+    "de": "Kann das noch warten?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we come?",
+    "de": "Können wir kommen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we help?",
+    "de": "Können wir helfen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we sing?",
+    "de": "Können wir singen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we stop?",
+    "de": "Können wir aufhören?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we swim?",
+    "de": "Können wir schwimmen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we talk?",
+    "de": "Können wir reden?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you see?",
+    "de": "Können Sie sehen?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you ski?",
+    "de": "Kannst du Ski fahren?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you try?",
+    "de": "Kannst du es versuchen?",
+    "level": "A1"
+  },
+  {
+    "en": "Come get it.",
+    "de": "Komm und hol es dir.",
+    "level": "A1"
+  },
+  {
+    "en": "Come get me.",
+    "de": "Komm und hol mich.",
+    "level": "A1"
+  },
+  {
+    "en": "Come see me.",
+    "de": "Komm und besuch mich.",
+    "level": "A1"
+  },
+  {
+    "en": "Cook for me.",
+    "de": "Koche für mich.",
+    "level": "A1"
+  },
+  {
+    "en": "Count me in.",
+    "de": "Zähl mich dazu.",
+    "level": "A1"
+  },
+  {
+    "en": "Count on it.",
+    "de": "Verlass dich drauf!",
+    "level": "A1"
+  },
+  {
+    "en": "Did Tom eat?",
+    "de": "Hat Tom gegessen?",
+    "level": "A1"
+  },
+  {
+    "en": "Did Tom run?",
+    "de": "Ist Tom gerannt?",
+    "level": "A1"
+  },
+  {
+    "en": "Did it help?",
+    "de": "Hat es geholfen?",
+    "level": "A1"
+  },
+  {
+    "en": "Did it work?",
+    "de": "Hat es funktioniert?",
+    "level": "A1"
+  },
+  {
+    "en": "Did you cry?",
+    "de": "Hast du geweint?",
+    "level": "A1"
+  },
+  {
+    "en": "Do it again!",
+    "de": "Mach es noch einmal.",
+    "level": "A1"
+  },
+  {
+    "en": "Do it again.",
+    "de": "Mach es nochmal.",
+    "level": "A1"
+  },
+  {
+    "en": "Do it later.",
+    "de": "Mache es doch später.",
+    "level": "A1"
+  },
+  {
+    "en": "Do you bowl?",
+    "de": "Kegelst du?",
+    "level": "A1"
+  },
+  {
+    "en": "Do you fish?",
+    "de": "Fischen Sie?",
+    "level": "A1"
+  },
+  {
+    "en": "Do you mind?",
+    "de": "Macht es dir etwas aus?",
+    "level": "A1"
+  },
+  {
+    "en": "Don't do it!",
+    "de": "Tut es nicht!",
+    "level": "A1"
+  },
+  {
+    "en": "Don't go in.",
+    "de": "Geh nicht rein.",
+    "level": "A1"
+  },
+  {
+    "en": "Eat with us.",
+    "de": "Iss mit uns.",
+    "level": "A1"
+  },
+  {
+    "en": "Get in here!",
+    "de": "Komm hier rein!",
+    "level": "A1"
+  },
+  {
+    "en": "Go for help.",
+    "de": "Hol Hilfe!",
+    "level": "A1"
+  },
+  {
+    "en": "Go get help.",
+    "de": "Holen Sie sich Hilfe.",
+    "level": "A1"
+  },
+  {
+    "en": "Go help Tom.",
+    "de": "Geh und hilf Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "Go home now.",
+    "de": "Geh jetzt nach Hause!",
+    "level": "A1"
+  },
+  {
+    "en": "Go on board.",
+    "de": "Gehen Sie an Bord!",
+    "level": "A1"
+  },
+  {
+    "en": "Go that way.",
+    "de": "Gehe dort entlang!",
+    "level": "A1"
+  },
+  {
+    "en": "Go with Tom.",
+    "de": "Geh mit Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "Have a beer.",
+    "de": "Trink ein Bier.",
+    "level": "A1"
+  },
+  {
+    "en": "Have a look.",
+    "de": "Guck mal.",
+    "level": "A1"
+  },
+  {
+    "en": "Have a seat.",
+    "de": "Setz dich!",
+    "level": "A1"
+  },
+  {
+    "en": "Have we met?",
+    "de": "Kennen wir uns?",
+    "level": "A1"
+  },
+  {
+    "en": "He can come.",
+    "de": "Er kann kommen.",
+    "level": "A1"
+  },
+  {
+    "en": "He can read.",
+    "de": "Er kann lesen.",
+    "level": "A1"
+  },
+  {
+    "en": "He can swim.",
+    "de": "Er kann schwimmen.",
+    "level": "A1"
+  },
+  {
+    "en": "He found it.",
+    "de": "Er hat es gefunden.",
+    "level": "A1"
+  },
+  {
+    "en": "He has come!",
+    "de": "Er ist gekommen!",
+    "level": "A1"
+  },
+  {
+    "en": "He has guts.",
+    "de": "Er hat Mumm.",
+    "level": "A1"
+  },
+  {
+    "en": "He has wine.",
+    "de": "Er hat Wein.",
+    "level": "A1"
+  },
+  {
+    "en": "He helps us.",
+    "de": "Er hilft uns.",
+    "level": "A1"
+  },
+  {
+    "en": "He is alone.",
+    "de": "Er ist alleine.",
+    "level": "A1"
+  },
+  {
+    "en": "He is eight.",
+    "de": "Er ist acht.",
+    "level": "A1"
+  },
+  {
+    "en": "He is happy.",
+    "de": "Er ist glücklich.",
+    "level": "A1"
+  },
+  {
+    "en": "He is hated.",
+    "de": "Er wird gehasst.",
+    "level": "A1"
+  },
+  {
+    "en": "He is lying.",
+    "de": "Er lügt.",
+    "level": "A1"
+  },
+  {
+    "en": "He is young.",
+    "de": "Er ist jung.",
+    "level": "A1"
+  },
+  {
+    "en": "He liked it.",
+    "de": "Er mochte es.",
+    "level": "A1"
+  },
+  {
+    "en": "He loves us.",
+    "de": "Er liebt uns.",
+    "level": "A1"
+  },
+  {
+    "en": "He needs it.",
+    "de": "Er braucht es.",
+    "level": "A1"
+  },
+  {
+    "en": "He was busy.",
+    "de": "Er war beschäftigt.",
+    "level": "A1"
+  },
+  {
+    "en": "He was hurt.",
+    "de": "Er wurde verletzt.",
+    "level": "A1"
+  },
+  {
+    "en": "He's not in.",
+    "de": "Er ist nicht zuhause.",
+    "level": "A1"
+  },
+  {
+    "en": "Hello again.",
+    "de": "Nochmals hallo!",
+    "level": "A1"
+  },
+  {
+    "en": "Here I come.",
+    "de": "Hier komme ich.",
+    "level": "A1"
+  },
+  {
+    "en": "Here she is!",
+    "de": "Hier ist sie!",
+    "level": "A1"
+  },
+  {
+    "en": "Here we are!",
+    "de": "Da sind wir!",
+    "level": "A1"
+  },
+  {
+    "en": "Here we are.",
+    "de": "Da sind wir.",
+    "level": "A1"
+  },
+  {
+    "en": "Hi, it's me.",
+    "de": "Hallo! Ich bin’s.",
+    "level": "A1"
+  },
+  {
+    "en": "How are you?",
+    "de": "Wie geht es dir?",
+    "level": "A1"
+  },
+  {
+    "en": "How goes it?",
+    "de": "Wie läuft's?",
+    "level": "A1"
+  },
+  {
+    "en": "How is life?",
+    "de": "Wie geht's, wie steht's?",
+    "level": "A1"
+  },
+  {
+    "en": "How is this?",
+    "de": "Wie ist das?",
+    "level": "A1"
+  },
+  {
+    "en": "I adore you.",
+    "de": "Ich verehre dich.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a cook.",
+    "de": "Ich bin ein Koch.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a monk.",
+    "de": "Ich bin ein Mönch.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a twin.",
+    "de": "Ich bin ein Zwilling.",
+    "level": "A1"
+  },
+  {
+    "en": "I am better.",
+    "de": "Ich bin besser.",
+    "level": "A1"
+  },
+  {
+    "en": "I am coming.",
+    "de": "Ich komme sofort.",
+    "level": "A1"
+  },
+  {
+    "en": "I am dozing.",
+    "de": "Ich bin am Dösen.",
+    "level": "A1"
+  },
+  {
+    "en": "I am online.",
+    "de": "Ich bin online.",
+    "level": "A1"
+  },
+  {
+    "en": "I am taller.",
+    "de": "Ich bin größer.",
+    "level": "A1"
+  },
+  {
+    "en": "I am trying.",
+    "de": "Ich versuche es.",
+    "level": "A1"
+  }
+]

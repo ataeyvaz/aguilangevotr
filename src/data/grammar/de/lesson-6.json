@@ -1,0 +1,58 @@
+{
+  "id": "de-lesson-6",
+  "lang": "de",
+  "lessonNumber": 6,
+  "title": "Geçmişe Yolculuk — Perfekt",
+  "subtitle": "haben/sein + Partizip II",
+  "formula": "haben/sein + [Partizip II] | ge- + fiil kökü + -t/-en",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Ich habe Fußball gespielt.", "tr": "Ben futbol oynadım." },
+    { "type": "correct", "sentence": "Er hat ein Buch gelesen.", "tr": "O bir kitap okudu." },
+    { "type": "correct", "sentence": "Wir sind nach Hause gegangen.", "tr": "Biz eve gittik." },
+    { "type": "correct", "sentence": "Sie hat Musik gehört.", "tr": "O müzik dinledi." },
+    { "type": "wrong", "sentence": "Ich habe nach Hause gegangen.", "tr": "", "note": "Hareket fiilleri sein ile kullanılır!" },
+    { "type": "wrong", "sentence": "Er hat gespielt Fußball.", "tr": "", "note": "Partizip II cümlenin sonuna gider!" }
+  ],
+  "inputSentences": [
+    { "text": "Ich habe heute Morgen Frühstück gegessen.", "tr": "Bu sabah kahvaltı yedim." },
+    { "text": "Er ist zur Schule gegangen.", "tr": "O okula gitti." },
+    { "text": "Wir haben Spiele gespielt.", "tr": "Biz oyunlar oynadık." },
+    { "text": "Hat er seine Hausaufgaben gemacht?", "tr": "O ödevini yaptı mı?" },
+    { "text": "Sie sind gestern ins Kino gegangen.", "tr": "Onlar dün sinemaya gittiler." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "Sie ___ Musik gehört. (haben/sein)",
+      "answer": "hat",
+      "hint": "hören → haben ile; sie (tekil) → hat"
+    },
+    {
+      "type": "build",
+      "words": ["gelesen", "habe", "Ich", "Buch", "ein"],
+      "answer": ["Ich", "habe", "ein", "Buch", "gelesen"],
+      "tr": "Ben bir kitap okudum."
+    },
+    {
+      "type": "fill",
+      "sentence": "Wir ___ nach Hause gegangen. (haben/sein)",
+      "answer": "sind",
+      "hint": "gehen (hareket) → sein; wir → sind"
+    },
+    {
+      "type": "build",
+      "words": ["gespielt", "hat", "Er", "Fußball"],
+      "answer": ["Er", "hat", "Fußball", "gespielt"],
+      "tr": "O futbol oynadı."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Hafta sonundan bahsediyorsunuz",
+    "lines": [
+      { "role": "A", "text": "Was hast du am Wochenende gemacht?", "tr": "Hafta sonu ne yaptın?" },
+      { "role": "B", "text": "Ich habe meine Großeltern besucht.", "tr": "Büyük ebeveynlerimi ziyaret ettim." },
+      { "role": "A", "text": "Sind sie glücklich gewesen?", "tr": "Mutlu oldular mı?" },
+      { "role": "B", "text": "Ja, wir haben zusammen gespielt und gelacht.", "tr": "Evet, birlikte oynadık ve güldük." }
+    ]
+  }
+}

@@ -1,6 +1,7 @@
-# AguiLangEvo
+# AguiLangEvoTR 🦅
 
-A modern language learning platform built with React, Vite, and Capacitor.
+Türkçe konuşanlar için dil öğrenme uygulaması. TR→EN, TR→ES, TR→PT dil çiftlerini destekler.
+React, Vite ve Capacitor ile geliştirilmiştir.
 
 ## Features
 

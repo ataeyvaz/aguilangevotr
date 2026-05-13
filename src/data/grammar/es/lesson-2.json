@@ -1,0 +1,58 @@
+{
+  "id": "es-lesson-2",
+  "lang": "es",
+  "lessonNumber": 2,
+  "title": "Ser mi Estar — İki 'Olmak'",
+  "subtitle": "ser (kalıcı) vs estar (geçici)",
+  "formula": "SER: kimlik/köken/meslek | ESTAR: durum/yer/his",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Yo soy estudiante.", "tr": "Ben öğrenciyim. (kimlik)" },
+    { "type": "correct", "sentence": "Ella es de México.", "tr": "O Meksika'dan. (köken)" },
+    { "type": "correct", "sentence": "Yo estoy cansado.", "tr": "Ben yorgunum. (geçici durum)" },
+    { "type": "correct", "sentence": "Ellos están en el parque.", "tr": "Onlar parkta. (yer)" },
+    { "type": "wrong", "sentence": "Yo estoy estudiante.", "tr": "", "note": "Meslek kalıcı → ser kullan!" },
+    { "type": "wrong", "sentence": "Él es cansado hoy.", "tr": "", "note": "Geçici durum → estar kullan!" }
+  ],
+  "inputSentences": [
+    { "text": "Yo soy de España.", "tr": "Ben İspanya'danım." },
+    { "text": "Él es médico.", "tr": "O bir doktor." },
+    { "text": "Nosotros estamos muy bien.", "tr": "Biz çok iyiyiz." },
+    { "text": "Ella está en casa.", "tr": "O evde." },
+    { "text": "¿Cómo estás tú?", "tr": "Sen nasılsın?" }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "Yo ___ estudiante. (ser/estar)",
+      "answer": "soy",
+      "hint": "Meslek/kimlik → ser; yo → soy"
+    },
+    {
+      "type": "build",
+      "words": ["cansada", "está", "Ella"],
+      "answer": ["Ella", "está", "cansada"],
+      "tr": "O yorgun."
+    },
+    {
+      "type": "fill",
+      "sentence": "Nosotros ___ en el colegio. (ser/estar)",
+      "answer": "estamos",
+      "hint": "Yer → estar; nosotros → estamos"
+    },
+    {
+      "type": "build",
+      "words": ["de", "Es", "Italia", "él"],
+      "answer": ["Él", "es", "de", "Italia"],
+      "tr": "O İtalya'dan."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Kendini tanıtıyorsun",
+    "lines": [
+      { "role": "A", "text": "Hola, ¿cómo estás?", "tr": "Merhaba, nasılsın?" },
+      { "role": "B", "text": "Estoy bien, gracias. Soy Lucía.", "tr": "İyiyim, teşekkürler. Ben Lucía'yım." },
+      { "role": "A", "text": "¿De dónde eres?", "tr": "Nerelisin?" },
+      { "role": "B", "text": "Soy de Colombia. Ahora estoy en Madrid.", "tr": "Kolombiya'danım. Şu an Madrid'deyim." }
+    ]
+  }
+}

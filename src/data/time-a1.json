@@ -1,0 +1,1214 @@
+{
+  "category": "time",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "monday",
+          "emoji": "😩",
+          "word": "Monday",
+          "tr": "Pazartesi",
+          "pron": "ˈmʌndeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "tuesday",
+          "emoji": "💼",
+          "word": "Tuesday",
+          "tr": "Salı",
+          "pron": "ˈtjuːzdeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "wednesday",
+          "emoji": "🐪",
+          "word": "Wednesday",
+          "tr": "Çarşamba",
+          "pron": "ˈwɛnzdeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "thursday",
+          "emoji": "⚡",
+          "word": "Thursday",
+          "tr": "Perşembe",
+          "pron": "ˈθɜːzdeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "friday",
+          "emoji": "🎉",
+          "word": "Friday",
+          "tr": "Cuma",
+          "pron": "ˈfraɪdeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "saturday",
+          "emoji": "🏖️",
+          "word": "Saturday",
+          "tr": "Cumartesi",
+          "pron": "ˈsætərdeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "sunday",
+          "emoji": "☀️",
+          "word": "Sunday",
+          "tr": "Pazar",
+          "pron": "ˈsʌndeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "january",
+          "emoji": "❄️",
+          "word": "January",
+          "tr": "Ocak",
+          "pron": "ˈdʒænjuəri",
+          "level": "a1"
+        },
+        {
+          "id": "february",
+          "emoji": "💝",
+          "word": "February",
+          "tr": "Şubat",
+          "pron": "ˈfɛbruəri",
+          "level": "a1"
+        },
+        {
+          "id": "march",
+          "emoji": "🌱",
+          "word": "March",
+          "tr": "Mart",
+          "pron": "mɑːtʃ",
+          "level": "a1"
+        },
+        {
+          "id": "april",
+          "emoji": "🌸",
+          "word": "April",
+          "tr": "Nisan",
+          "pron": "ˈeɪprəl",
+          "level": "a1"
+        },
+        {
+          "id": "may",
+          "emoji": "🌺",
+          "word": "May",
+          "tr": "Mayıs",
+          "pron": "meɪ",
+          "level": "a1"
+        },
+        {
+          "id": "june",
+          "emoji": "🌞",
+          "word": "June",
+          "tr": "Haziran",
+          "pron": "dʒuːn",
+          "level": "a1"
+        },
+        {
+          "id": "july",
+          "emoji": "🏖️",
+          "word": "July",
+          "tr": "Temmuz",
+          "pron": "dʒʊˈlaɪ",
+          "level": "a1"
+        },
+        {
+          "id": "august",
+          "emoji": "🌻",
+          "word": "August",
+          "tr": "Ağustos",
+          "pron": "ˈɔːɡəst",
+          "level": "a1"
+        },
+        {
+          "id": "september",
+          "emoji": "🍂",
+          "word": "September",
+          "tr": "Eylül",
+          "pron": "sɛpˈtɛmbər",
+          "level": "a1"
+        },
+        {
+          "id": "october",
+          "emoji": "🎃",
+          "word": "October",
+          "tr": "Ekim",
+          "pron": "ɒkˈtəʊbər",
+          "level": "a1"
+        },
+        {
+          "id": "november",
+          "emoji": "🍁",
+          "word": "November",
+          "tr": "Kasım",
+          "pron": "nəʊˈvɛmbər",
+          "level": "a1"
+        },
+        {
+          "id": "december",
+          "emoji": "🎄",
+          "word": "December",
+          "tr": "Aralık",
+          "pron": "dɪˈsɛmbər",
+          "level": "a1"
+        },
+        {
+          "id": "morning",
+          "emoji": "🌅",
+          "word": "morning",
+          "tr": "sabah",
+          "pron": "ˈmɔːnɪŋ",
+          "level": "a1"
+        },
+        {
+          "id": "afternoon",
+          "emoji": "☀️",
+          "word": "afternoon",
+          "tr": "öğleden sonra",
+          "pron": "ˌɑːftəˈnuːn",
+          "level": "a1"
+        },
+        {
+          "id": "evening",
+          "emoji": "🌆",
+          "word": "evening",
+          "tr": "akşam",
+          "pron": "ˈiːvnɪŋ",
+          "level": "a1"
+        },
+        {
+          "id": "night",
+          "emoji": "🌙",
+          "word": "night",
+          "tr": "gece",
+          "pron": "naɪt",
+          "level": "a1"
+        },
+        {
+          "id": "today",
+          "emoji": "📅",
+          "word": "today",
+          "tr": "bugün",
+          "pron": "təˈdeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "tomorrow",
+          "emoji": "➡️",
+          "word": "tomorrow",
+          "tr": "yarın",
+          "pron": "təˈmɒrəʊ",
+          "level": "a1"
+        },
+        {
+          "id": "yesterday",
+          "emoji": "⬅️",
+          "word": "yesterday",
+          "tr": "dün",
+          "pron": "ˈjɛstədeɪ",
+          "level": "a1"
+        },
+        {
+          "id": "week",
+          "emoji": "📅",
+          "word": "week",
+          "tr": "hafta",
+          "pron": "wiːk",
+          "level": "a1"
+        },
+        {
+          "id": "month",
+          "emoji": "🗓️",
+          "word": "month",
+          "tr": "ay",
+          "pron": "mʌnθ",
+          "level": "a1"
+        },
+        {
+          "id": "year",
+          "emoji": "📆",
+          "word": "year",
+          "tr": "yıl",
+          "pron": "jɪər",
+          "level": "a1"
+        },
+        {
+          "id": "hour",
+          "emoji": "🕐",
+          "word": "hour",
+          "tr": "saat",
+          "pron": "ˈaʊər",
+          "level": "a1"
+        },
+        {
+          "id": "minute",
+          "emoji": "⏱️",
+          "word": "minute",
+          "tr": "dakika",
+          "pron": "ˈmɪnɪt",
+          "level": "a1"
+        },
+        {
+          "id": "second",
+          "emoji": "⚡",
+          "word": "second",
+          "tr": "saniye",
+          "pron": "ˈsɛkənd",
+          "level": "a1"
+        },
+        {
+          "id": "century",
+          "emoji": "🏛️",
+          "word": "century",
+          "tr": "yüzyıl",
+          "pron": "ˈsɛntʃəri",
+          "level": "a2"
+        },
+        {
+          "id": "decade",
+          "emoji": "🔟",
+          "word": "decade",
+          "tr": "on yıl",
+          "pron": "ˈdɛkeɪd",
+          "level": "a2"
+        },
+        {
+          "id": "fortnight",
+          "emoji": "📅",
+          "word": "fortnight",
+          "tr": "iki hafta",
+          "pron": "ˈfɔːtnaɪt",
+          "level": "a2"
+        },
+        {
+          "id": "midnight",
+          "emoji": "🌑",
+          "word": "midnight",
+          "tr": "gece yarısı",
+          "pron": "ˈmɪdnaɪt",
+          "level": "a2"
+        },
+        {
+          "id": "noon",
+          "emoji": "🌞",
+          "word": "noon",
+          "tr": "öğle",
+          "pron": "nuːn",
+          "level": "a2"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "monday",
+          "emoji": "😩",
+          "word": "Montag",
+          "tr": "Pazartesi",
+          "pron": "ˈmoːntaːk",
+          "level": "a1"
+        },
+        {
+          "id": "tuesday",
+          "emoji": "💼",
+          "word": "Dienstag",
+          "tr": "Salı",
+          "pron": "ˈdiːnstaːk",
+          "level": "a1"
+        },
+        {
+          "id": "wednesday",
+          "emoji": "🐪",
+          "word": "Mittwoch",
+          "tr": "Çarşamba",
+          "pron": "ˈmɪtvɔx",
+          "level": "a1"
+        },
+        {
+          "id": "thursday",
+          "emoji": "⚡",
+          "word": "Donnerstag",
+          "tr": "Perşembe",
+          "pron": "ˈdɔnərsˌtaːk",
+          "level": "a1"
+        },
+        {
+          "id": "friday",
+          "emoji": "🎉",
+          "word": "Freitag",
+          "tr": "Cuma",
+          "pron": "ˈfraɪtaːk",
+          "level": "a1"
+        },
+        {
+          "id": "saturday",
+          "emoji": "🏖️",
+          "word": "Samstag",
+          "tr": "Cumartesi",
+          "pron": "ˈzamstaːk",
+          "level": "a1"
+        },
+        {
+          "id": "sunday",
+          "emoji": "☀️",
+          "word": "Sonntag",
+          "tr": "Pazar",
+          "pron": "ˈzɔntaːk",
+          "level": "a1"
+        },
+        {
+          "id": "january",
+          "emoji": "❄️",
+          "word": "Januar",
+          "tr": "Ocak",
+          "pron": "ˈjanuaːr",
+          "level": "a1"
+        },
+        {
+          "id": "february",
+          "emoji": "💝",
+          "word": "Februar",
+          "tr": "Şubat",
+          "pron": "ˈfeːbruar",
+          "level": "a1"
+        },
+        {
+          "id": "march",
+          "emoji": "🌱",
+          "word": "März",
+          "tr": "Mart",
+          "pron": "mɛrts",
+          "level": "a1"
+        },
+        {
+          "id": "april",
+          "emoji": "🌸",
+          "word": "April",
+          "tr": "Nisan",
+          "pron": "aˈprɪl",
+          "level": "a1"
+        },
+        {
+          "id": "may",
+          "emoji": "🌺",
+          "word": "Mai",
+          "tr": "Mayıs",
+          "pron": "maɪ",
+          "level": "a1"
+        },
+        {
+          "id": "june",
+          "emoji": "🌞",
+          "word": "Juni",
+          "tr": "Haziran",
+          "pron": "ˈjuːni",
+          "level": "a1"
+        },
+        {
+          "id": "july",
+          "emoji": "🏖️",
+          "word": "Juli",
+          "tr": "Temmuz",
+          "pron": "ˈjuːli",
+          "level": "a1"
+        },
+        {
+          "id": "august",
+          "emoji": "🌻",
+          "word": "August",
+          "tr": "Ağustos",
+          "pron": "aʊˈɡʊst",
+          "level": "a1"
+        },
+        {
+          "id": "september",
+          "emoji": "🍂",
+          "word": "September",
+          "tr": "Eylül",
+          "pron": "zɛpˈtɛmbər",
+          "level": "a1"
+        },
+        {
+          "id": "october",
+          "emoji": "🎃",
+          "word": "Oktober",
+          "tr": "Ekim",
+          "pron": "ɔkˈtoːbər",
+          "level": "a1"
+        },
+        {
+          "id": "november",
+          "emoji": "🍁",
+          "word": "November",
+          "tr": "Kasım",
+          "pron": "noˈvɛmbər",
+          "level": "a1"
+        },
+        {
+          "id": "december",
+          "emoji": "🎄",
+          "word": "Dezember",
+          "tr": "Aralık",
+          "pron": "deˈtsɛmbər",
+          "level": "a1"
+        },
+        {
+          "id": "morning",
+          "emoji": "🌅",
+          "word": "Morgen",
+          "tr": "sabah",
+          "pron": "ˈmɔrɡən",
+          "level": "a1"
+        },
+        {
+          "id": "afternoon",
+          "emoji": "☀️",
+          "word": "Nachmittag",
+          "tr": "öğleden sonra",
+          "pron": "ˈnaːxmɪtaːk",
+          "level": "a1"
+        },
+        {
+          "id": "evening",
+          "emoji": "🌆",
+          "word": "Abend",
+          "tr": "akşam",
+          "pron": "ˈaːbənt",
+          "level": "a1"
+        },
+        {
+          "id": "night",
+          "emoji": "🌙",
+          "word": "Nacht",
+          "tr": "gece",
+          "pron": "naxt",
+          "level": "a1"
+        },
+        {
+          "id": "today",
+          "emoji": "📅",
+          "word": "heute",
+          "tr": "bugün",
+          "pron": "ˈhɔʏtə",
+          "level": "a1"
+        },
+        {
+          "id": "tomorrow",
+          "emoji": "➡️",
+          "word": "morgen",
+          "tr": "yarın",
+          "pron": "ˈmɔrɡən",
+          "level": "a1"
+        },
+        {
+          "id": "yesterday",
+          "emoji": "⬅️",
+          "word": "gestern",
+          "tr": "dün",
+          "pron": "ˈɡɛstərn",
+          "level": "a1"
+        },
+        {
+          "id": "week",
+          "emoji": "📅",
+          "word": "Woche",
+          "tr": "hafta",
+          "pron": "ˈvɔxə",
+          "level": "a1"
+        },
+        {
+          "id": "month",
+          "emoji": "🗓️",
+          "word": "Monat",
+          "tr": "ay",
+          "pron": "ˈmoːnat",
+          "level": "a1"
+        },
+        {
+          "id": "year",
+          "emoji": "📆",
+          "word": "Jahr",
+          "tr": "yıl",
+          "pron": "jaːr",
+          "level": "a1"
+        },
+        {
+          "id": "hour",
+          "emoji": "🕐",
+          "word": "Stunde",
+          "tr": "saat",
+          "pron": "ˈʃtʊndə",
+          "level": "a1"
+        },
+        {
+          "id": "minute",
+          "emoji": "⏱️",
+          "word": "Minute",
+          "tr": "dakika",
+          "pron": "miˈnuːtə",
+          "level": "a1"
+        },
+        {
+          "id": "second",
+          "emoji": "⚡",
+          "word": "Sekunde",
+          "tr": "saniye",
+          "pron": "zeˈkʊndə",
+          "level": "a1"
+        },
+        {
+          "id": "century",
+          "emoji": "🏛️",
+          "word": "Jahrhundert",
+          "tr": "yüzyıl",
+          "pron": "jaːrˈhʊndərt",
+          "level": "a2"
+        },
+        {
+          "id": "decade",
+          "emoji": "🔟",
+          "word": "Jahrzehnt",
+          "tr": "on yıl",
+          "pron": "ˈjaːrtsɛːnt",
+          "level": "a2"
+        },
+        {
+          "id": "fortnight",
+          "emoji": "📅",
+          "word": "zwei Wochen",
+          "tr": "iki hafta",
+          "pron": "tsvaɪ ˈvɔxən",
+          "level": "a2"
+        },
+        {
+          "id": "midnight",
+          "emoji": "🌑",
+          "word": "Mitternacht",
+          "tr": "gece yarısı",
+          "pron": "ˈmɪtərnaxt",
+          "level": "a2"
+        },
+        {
+          "id": "noon",
+          "emoji": "🌞",
+          "word": "Mittag",
+          "tr": "öğle",
+          "pron": "ˈmɪtaːk",
+          "level": "a2"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "monday",
+          "emoji": "😩",
+          "word": "lunes",
+          "tr": "Pazartesi",
+          "pron": "ˈlunes",
+          "level": "a1"
+        },
+        {
+          "id": "tuesday",
+          "emoji": "💼",
+          "word": "martes",
+          "tr": "Salı",
+          "pron": "ˈmartes",
+          "level": "a1"
+        },
+        {
+          "id": "wednesday",
+          "emoji": "🐪",
+          "word": "miércoles",
+          "tr": "Çarşamba",
+          "pron": "ˈmjerkoles",
+          "level": "a1"
+        },
+        {
+          "id": "thursday",
+          "emoji": "⚡",
+          "word": "jueves",
+          "tr": "Perşembe",
+          "pron": "ˈxweβes",
+          "level": "a1"
+        },
+        {
+          "id": "friday",
+          "emoji": "🎉",
+          "word": "viernes",
+          "tr": "Cuma",
+          "pron": "ˈbjernes",
+          "level": "a1"
+        },
+        {
+          "id": "saturday",
+          "emoji": "🏖️",
+          "word": "sábado",
+          "tr": "Cumartesi",
+          "pron": "ˈsaβaðo",
+          "level": "a1"
+        },
+        {
+          "id": "sunday",
+          "emoji": "☀️",
+          "word": "domingo",
+          "tr": "Pazar",
+          "pron": "doˈmiŋɡo",
+          "level": "a1"
+        },
+        {
+          "id": "january",
+          "emoji": "❄️",
+          "word": "enero",
+          "tr": "Ocak",
+          "pron": "eˈnero",
+          "level": "a1"
+        },
+        {
+          "id": "february",
+          "emoji": "💝",
+          "word": "febrero",
+          "tr": "Şubat",
+          "pron": "feˈbrero",
+          "level": "a1"
+        },
+        {
+          "id": "march",
+          "emoji": "🌱",
+          "word": "marzo",
+          "tr": "Mart",
+          "pron": "ˈmarθo",
+          "level": "a1"
+        },
+        {
+          "id": "april",
+          "emoji": "🌸",
+          "word": "abril",
+          "tr": "Nisan",
+          "pron": "aˈβril",
+          "level": "a1"
+        },
+        {
+          "id": "may",
+          "emoji": "🌺",
+          "word": "mayo",
+          "tr": "Mayıs",
+          "pron": "ˈmajo",
+          "level": "a1"
+        },
+        {
+          "id": "june",
+          "emoji": "🌞",
+          "word": "junio",
+          "tr": "Haziran",
+          "pron": "ˈxunjo",
+          "level": "a1"
+        },
+        {
+          "id": "july",
+          "emoji": "🏖️",
+          "word": "julio",
+          "tr": "Temmuz",
+          "pron": "ˈxuljo",
+          "level": "a1"
+        },
+        {
+          "id": "august",
+          "emoji": "🌻",
+          "word": "agosto",
+          "tr": "Ağustos",
+          "pron": "aˈɡosto",
+          "level": "a1"
+        },
+        {
+          "id": "september",
+          "emoji": "🍂",
+          "word": "septiembre",
+          "tr": "Eylül",
+          "pron": "sepˈtjembre",
+          "level": "a1"
+        },
+        {
+          "id": "october",
+          "emoji": "🎃",
+          "word": "octubre",
+          "tr": "Ekim",
+          "pron": "okˈtuβre",
+          "level": "a1"
+        },
+        {
+          "id": "november",
+          "emoji": "🍁",
+          "word": "noviembre",
+          "tr": "Kasım",
+          "pron": "noˈβjembre",
+          "level": "a1"
+        },
+        {
+          "id": "december",
+          "emoji": "🎄",
+          "word": "diciembre",
+          "tr": "Aralık",
+          "pron": "diˈθjembre",
+          "level": "a1"
+        },
+        {
+          "id": "morning",
+          "emoji": "🌅",
+          "word": "mañana",
+          "tr": "sabah",
+          "pron": "maˈɲana",
+          "level": "a1"
+        },
+        {
+          "id": "afternoon",
+          "emoji": "☀️",
+          "word": "tarde",
+          "tr": "öğleden sonra",
+          "pron": "ˈtarde",
+          "level": "a1"
+        },
+        {
+          "id": "evening",
+          "emoji": "🌆",
+          "word": "anochecer",
+          "tr": "akşam",
+          "pron": "anotʃeˈθer",
+          "level": "a1"
+        },
+        {
+          "id": "night",
+          "emoji": "🌙",
+          "word": "noche",
+          "tr": "gece",
+          "pron": "ˈnotʃe",
+          "level": "a1"
+        },
+        {
+          "id": "today",
+          "emoji": "📅",
+          "word": "hoy",
+          "tr": "bugün",
+          "pron": "oj",
+          "level": "a1"
+        },
+        {
+          "id": "tomorrow",
+          "emoji": "➡️",
+          "word": "mañana",
+          "tr": "yarın",
+          "pron": "maˈɲana",
+          "level": "a1"
+        },
+        {
+          "id": "yesterday",
+          "emoji": "⬅️",
+          "word": "ayer",
+          "tr": "dün",
+          "pron": "aˈjer",
+          "level": "a1"
+        },
+        {
+          "id": "week",
+          "emoji": "📅",
+          "word": "semana",
+          "tr": "hafta",
+          "pron": "seˈmana",
+          "level": "a1"
+        },
+        {
+          "id": "month",
+          "emoji": "🗓️",
+          "word": "mes",
+          "tr": "ay",
+          "pron": "mes",
+          "level": "a1"
+        },
+        {
+          "id": "year",
+          "emoji": "📆",
+          "word": "año",
+          "tr": "yıl",
+          "pron": "ˈaɲo",
+          "level": "a1"
+        },
+        {
+          "id": "hour",
+          "emoji": "🕐",
+          "word": "hora",
+          "tr": "saat",
+          "pron": "ˈora",
+          "level": "a1"
+        },
+        {
+          "id": "minute",
+          "emoji": "⏱️",
+          "word": "minuto",
+          "tr": "dakika",
+          "pron": "miˈnuto",
+          "level": "a1"
+        },
+        {
+          "id": "second",
+          "emoji": "⚡",
+          "word": "segundo",
+          "tr": "saniye",
+          "pron": "seˈɣundo",
+          "level": "a1"
+        },
+        {
+          "id": "century",
+          "emoji": "🏛️",
+          "word": "siglo",
+          "tr": "yüzyıl",
+          "pron": "ˈsiɣlo",
+          "level": "a2"
+        },
+        {
+          "id": "decade",
+          "emoji": "🔟",
+          "word": "década",
+          "tr": "on yıl",
+          "pron": "ˈdekaða",
+          "level": "a2"
+        },
+        {
+          "id": "fortnight",
+          "emoji": "📅",
+          "word": "quincena",
+          "tr": "iki hafta",
+          "pron": "kinˈθena",
+          "level": "a2"
+        },
+        {
+          "id": "midnight",
+          "emoji": "🌑",
+          "word": "medianoche",
+          "tr": "gece yarısı",
+          "pron": "meðjaˈnotʃe",
+          "level": "a2"
+        },
+        {
+          "id": "noon",
+          "emoji": "🌞",
+          "word": "mediodía",
+          "tr": "öğle",
+          "pron": "meðjoˈðia",
+          "level": "a2"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "monday",
+          "emoji": "😩",
+          "word": "segunda-feira",
+          "tr": "Pazartesi",
+          "pron": "seˈɡũda ˈfejɾa",
+          "level": "a1"
+        },
+        {
+          "id": "tuesday",
+          "emoji": "💼",
+          "word": "terça-feira",
+          "tr": "Salı",
+          "pron": "ˈtɛʁsa ˈfejɾa",
+          "level": "a1"
+        },
+        {
+          "id": "wednesday",
+          "emoji": "🐪",
+          "word": "quarta-feira",
+          "tr": "Çarşamba",
+          "pron": "ˈkwaʁta ˈfejɾa",
+          "level": "a1"
+        },
+        {
+          "id": "thursday",
+          "emoji": "⚡",
+          "word": "quinta-feira",
+          "tr": "Perşembe",
+          "pron": "ˈkĩta ˈfejɾa",
+          "level": "a1"
+        },
+        {
+          "id": "friday",
+          "emoji": "🎉",
+          "word": "sexta-feira",
+          "tr": "Cuma",
+          "pron": "ˈsejʃta ˈfejɾa",
+          "level": "a1"
+        },
+        {
+          "id": "saturday",
+          "emoji": "🏖️",
+          "word": "sábado",
+          "tr": "Cumartesi",
+          "pron": "ˈsabadu",
+          "level": "a1"
+        },
+        {
+          "id": "sunday",
+          "emoji": "☀️",
+          "word": "domingo",
+          "tr": "Pazar",
+          "pron": "doˈmĩɡu",
+          "level": "a1"
+        },
+        {
+          "id": "january",
+          "emoji": "❄️",
+          "word": "janeiro",
+          "tr": "Ocak",
+          "pron": "ʒaˈnejɾu",
+          "level": "a1"
+        },
+        {
+          "id": "february",
+          "emoji": "💝",
+          "word": "fevereiro",
+          "tr": "Şubat",
+          "pron": "feveˈɾejɾu",
+          "level": "a1"
+        },
+        {
+          "id": "march",
+          "emoji": "🌱",
+          "word": "março",
+          "tr": "Mart",
+          "pron": "ˈmaʁsu",
+          "level": "a1"
+        },
+        {
+          "id": "april",
+          "emoji": "🌸",
+          "word": "abril",
+          "tr": "Nisan",
+          "pron": "aˈbɾiw",
+          "level": "a1"
+        },
+        {
+          "id": "may",
+          "emoji": "🌺",
+          "word": "maio",
+          "tr": "Mayıs",
+          "pron": "ˈmaju",
+          "level": "a1"
+        },
+        {
+          "id": "june",
+          "emoji": "🌞",
+          "word": "junho",
+          "tr": "Haziran",
+          "pron": "ˈʒuɲu",
+          "level": "a1"
+        },
+        {
+          "id": "july",
+          "emoji": "🏖️",
+          "word": "julho",
+          "tr": "Temmuz",
+          "pron": "ˈʒuʎu",
+          "level": "a1"
+        },
+        {
+          "id": "august",
+          "emoji": "🌻",
+          "word": "agosto",
+          "tr": "Ağustos",
+          "pron": "aˈɡostu",
+          "level": "a1"
+        },
+        {
+          "id": "september",
+          "emoji": "🍂",
+          "word": "setembro",
+          "tr": "Eylül",
+          "pron": "seˈtẽbɾu",
+          "level": "a1"
+        },
+        {
+          "id": "october",
+          "emoji": "🎃",
+          "word": "outubro",
+          "tr": "Ekim",
+          "pron": "owˈtubɾu",
+          "level": "a1"
+        },
+        {
+          "id": "november",
+          "emoji": "🍁",
+          "word": "novembro",
+          "tr": "Kasım",
+          "pron": "noˈvẽbɾu",
+          "level": "a1"
+        },
+        {
+          "id": "december",
+          "emoji": "🎄",
+          "word": "dezembro",
+          "tr": "Aralık",
+          "pron": "deˈzẽbɾu",
+          "level": "a1"
+        },
+        {
+          "id": "morning",
+          "emoji": "🌅",
+          "word": "manhã",
+          "tr": "sabah",
+          "pron": "maˈɲɐ̃",
+          "level": "a1"
+        },
+        {
+          "id": "afternoon",
+          "emoji": "☀️",
+          "word": "tarde",
+          "tr": "öğleden sonra",
+          "pron": "ˈtaʁdʒi",
+          "level": "a1"
+        },
+        {
+          "id": "evening",
+          "emoji": "🌆",
+          "word": "tarde/noite",
+          "tr": "akşam",
+          "pron": "ˈtaʁdʒi",
+          "level": "a1"
+        },
+        {
+          "id": "night",
+          "emoji": "🌙",
+          "word": "noite",
+          "tr": "gece",
+          "pron": "ˈnojtʃi",
+          "level": "a1"
+        },
+        {
+          "id": "today",
+          "emoji": "📅",
+          "word": "hoje",
+          "tr": "bugün",
+          "pron": "ˈɔʒi",
+          "level": "a1"
+        },
+        {
+          "id": "tomorrow",
+          "emoji": "➡️",
+          "word": "amanhã",
+          "tr": "yarın",
+          "pron": "amaˈɲɐ̃",
+          "level": "a1"
+        },
+        {
+          "id": "yesterday",
+          "emoji": "⬅️",
+          "word": "ontem",
+          "tr": "dün",
+          "pron": "ˈõtẽj",
+          "level": "a1"
+        },
+        {
+          "id": "week",
+          "emoji": "📅",
+          "word": "semana",
+          "tr": "hafta",
+          "pron": "seˈmɐna",
+          "level": "a1"
+        },
+        {
+          "id": "month",
+          "emoji": "🗓️",
+          "word": "mês",
+          "tr": "ay",
+          "pron": "ˈmeʃ",
+          "level": "a1"
+        },
+        {
+          "id": "year",
+          "emoji": "📆",
+          "word": "ano",
+          "tr": "yıl",
+          "pron": "ˈɐnu",
+          "level": "a1"
+        },
+        {
+          "id": "hour",
+          "emoji": "🕐",
+          "word": "hora",
+          "tr": "saat",
+          "pron": "ˈɔɾa",
+          "level": "a1"
+        },
+        {
+          "id": "minute",
+          "emoji": "⏱️",
+          "word": "minuto",
+          "tr": "dakika",
+          "pron": "miˈnutu",
+          "level": "a1"
+        },
+        {
+          "id": "second",
+          "emoji": "⚡",
+          "word": "segundo",
+          "tr": "saniye",
+          "pron": "seˈɡũdu",
+          "level": "a1"
+        },
+        {
+          "id": "century",
+          "emoji": "🏛️",
+          "word": "século",
+          "tr": "yüzyıl",
+          "pron": "ˈsɛkulu",
+          "level": "a2"
+        },
+        {
+          "id": "decade",
+          "emoji": "🔟",
+          "word": "década",
+          "tr": "on yıl",
+          "pron": "ˈdɛkada",
+          "level": "a2"
+        },
+        {
+          "id": "fortnight",
+          "emoji": "📅",
+          "word": "quinzena",
+          "tr": "iki hafta",
+          "pron": "kĩˈzena",
+          "level": "a2"
+        },
+        {
+          "id": "midnight",
+          "emoji": "🌑",
+          "word": "meia-noite",
+          "tr": "gece yarısı",
+          "pron": "ˈmeja ˈnojtʃi",
+          "level": "a2"
+        },
+        {
+          "id": "noon",
+          "emoji": "🌞",
+          "word": "meio-dia",
+          "tr": "öğle",
+          "pron": "ˈmeju ˈdʒia",
+          "level": "a2"
+        }
+      ]
+    }
+  }
+}

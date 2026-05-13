@@ -1,0 +1,90 @@
+{
+  "id": "home-a1",
+  "title": "Evde Günlük Konuşma",
+  "emoji": "🏠",
+  "level": "A1",
+  "category": "daily",
+  "roles": ["Kartal", "Emir"],
+  "lines": [
+    {
+      "speaker": "Emir",
+      "en": "Good morning, Kartal! Did you sleep well?",
+      "tr": "Günaydın, Kartal! İyi uyudun mu?",
+      "de": "Guten Morgen, Kartal! Hast du gut geschlafen?",
+      "es": "¡Buenos días, Kartal! ¿Dormiste bien?",
+      "hint": "Sabah selam ver ve sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Good morning! Yes, I slept very well. I am hungry now.",
+      "tr": "Günaydın! Evet, çok iyi uyudum. Şimdi açım.",
+      "de": "Guten Morgen! Ja, ich habe sehr gut geschlafen. Jetzt bin ich hungrig.",
+      "es": "¡Buenos días! Sí, dormí muy bien. Ahora tengo hambre.",
+      "hint": "Cevap ver ve durumunu belirt"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Me too! What do you want for breakfast?",
+      "tr": "Ben de! Kahvaltıda ne istersin?",
+      "de": "Ich auch! Was möchtest du zum Frühstück?",
+      "es": "¡Yo también! ¿Qué quieres para el desayuno?",
+      "hint": "Aynı hissettiğini söyle ve sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I want bread, cheese and a glass of milk.",
+      "tr": "Ekmek, peynir ve bir bardak süt istiyorum.",
+      "de": "Ich möchte Brot, Käse und ein Glas Milch.",
+      "es": "Quiero pan, queso y un vaso de leche.",
+      "hint": "Kahvaltı isteklerini say"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Good idea! I want eggs and orange juice.",
+      "tr": "Güzel fikir! Ben yumurta ve portakal suyu istiyorum.",
+      "de": "Gute Idee! Ich möchte Eier und Orangensaft.",
+      "es": "¡Buena idea! Yo quiero huevos y zumo de naranja.",
+      "hint": "Onay ver ve ne istediğini söyle"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "After breakfast, shall we watch a film?",
+      "tr": "Kahvaltıdan sonra film izleyelim mi?",
+      "de": "Nach dem Frühstück, wollen wir einen Film schauen?",
+      "es": "Después del desayuno, ¿vemos una película?",
+      "hint": "Plan öner"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Yes! What film do you want to watch?",
+      "tr": "Evet! Hangi filmi izlemek istiyorsun?",
+      "de": "Ja! Welchen Film möchtest du schauen?",
+      "es": "¡Sí! ¿Qué película quieres ver?",
+      "hint": "Kabul et ve sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I want to watch a funny film. I like funny films.",
+      "tr": "Komik bir film izlemek istiyorum. Komik filmleri seviyorum.",
+      "de": "Ich möchte einen lustigen Film schauen. Ich mag lustige Filme.",
+      "es": "Quiero ver una película divertida. Me gustan las películas divertidas.",
+      "hint": "Tercihini ve nedenini söyle"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Great! And after the film, shall we play a game?",
+      "tr": "Harika! Film sonrasında oyun oynayalım mı?",
+      "de": "Super! Und nach dem Film, sollen wir ein Spiel spielen?",
+      "es": "¡Genial! Y después de la película, ¿jugamos un juego?",
+      "hint": "Onay ver ve yeni plan öner"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Sure! Today is a great day. I am very happy!",
+      "tr": "Tabii ki! Bugün harika bir gün. Çok mutluyum!",
+      "de": "Klar! Heute ist ein toller Tag. Ich bin sehr glücklich!",
+      "es": "¡Claro! Hoy es un día genial. ¡Estoy muy feliz!",
+      "hint": "Hevesle kabul et ve duygunu ifade et"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "park-a1",
+  "title": "Parkta Oyun",
+  "emoji": "🌳",
+  "level": "A1",
+  "category": "leisure",
+  "roles": ["Kartal", "Emir"],
+  "lines": [
+    {
+      "speaker": "Kartal",
+      "en": "Emir, do you want to play football?",
+      "tr": "Emir, futbol oynamak istiyor musun?",
+      "de": "Emir, möchtest du Fußball spielen?",
+      "es": "Emir, ¿quieres jugar al fútbol?",
+      "hint": "Oyun teklif et"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Yes! I love football! Let us play!",
+      "tr": "Evet! Futbolu çok seviyorum! Oynayalım!",
+      "de": "Ja! Ich liebe Fußball! Lass uns spielen!",
+      "es": "¡Sí! ¡Me encanta el fútbol! ¡Vamos a jugar!",
+      "hint": "Hevesle kabul et"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "The park is very big and beautiful today.",
+      "tr": "Park bugün çok büyük ve güzel.",
+      "de": "Der Park ist heute sehr groß und schön.",
+      "es": "El parque es muy grande y bonito hoy.",
+      "hint": "Parkı tanımla"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Yes! And the weather is sunny and warm.",
+      "tr": "Evet! Ve hava güneşli ve sıcak.",
+      "de": "Ja! Und das Wetter ist sonnig und warm.",
+      "es": "¡Sí! Y el tiempo es soleado y cálido.",
+      "hint": "Havayı tanımla"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I am tired now. Can we stop and rest?",
+      "tr": "Şimdi yorgunum. Durup dinlenebilir miyiz?",
+      "de": "Ich bin jetzt müde. Können wir aufhören und uns ausruhen?",
+      "es": "Ahora estoy cansado. ¿Podemos parar y descansar?",
+      "hint": "Durdurmak istediğini söyle"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Okay! Let us sit on the bench. I am thirsty.",
+      "tr": "Tamam! Bankta oturalım. Susadım.",
+      "de": "Okay! Lass uns auf die Bank setzen. Ich bin durstig.",
+      "es": "¡De acuerdo! Sentémonos en el banco. Tengo sed.",
+      "hint": "Kabul et ve ihtiyacını söyle"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I have water in my bag. Do you want some?",
+      "tr": "Çantamda su var. Biraz ister misin?",
+      "de": "Ich habe Wasser in meiner Tasche. Möchtest du etwas?",
+      "es": "Tengo agua en mi mochila. ¿Quieres un poco?",
+      "hint": "Su teklif et"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Yes, please! Thank you, you are very kind.",
+      "tr": "Evet, lütfen! Teşekkürler, çok naziksin.",
+      "de": "Ja, bitte! Danke, du bist sehr nett.",
+      "es": "¡Sí, por favor! Gracias, eres muy amable.",
+      "hint": "Teşekkür et ve iltifat et"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Look! There is a dog over there. It is so cute!",
+      "tr": "Bak! Orada bir köpek var. Çok sevimli!",
+      "de": "Schau! Da ist ein Hund. Er ist so süß!",
+      "es": "¡Mira! Hay un perro allí. ¡Es muy bonito!",
+      "hint": "Bir şeye dikkat çek"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Oh, how lovely! I want a dog too. Let us go home now.",
+      "tr": "Oh, ne güzel! Ben de bir köpek istiyorum. Şimdi eve gidelim.",
+      "de": "Oh, wie schön! Ich möchte auch einen Hund. Lass uns jetzt nach Hause gehen.",
+      "es": "¡Oh, qué bonito! Yo también quiero un perro. Vamos a casa ahora.",
+      "hint": "Tepki ver ve eve dönmeyi öner"
+    }
+  ]
+}

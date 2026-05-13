@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "I avoid Tom.",
+    "tr": "Tom'dan sakınıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "Describe Tom.",
+    "tr": "Tom'u tanımla.",
+    "level": "B1"
+  },
+  {
+    "en": "Is Tom local?",
+    "tr": "Tom yerli mi?",
+    "level": "B1"
+  },
+  {
+    "en": "I'll allow it.",
+    "tr": "Buna izin vereceğim.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom'll improve.",
+    "tr": "Tom geliştirecek.",
+    "level": "B1"
+  },
+  {
+    "en": "Find a solution.",
+    "tr": "Bir çözüm bul.",
+    "level": "B1"
+  },
+  {
+    "en": "He gets up at 7.",
+    "tr": "O yedide kalkar.",
+    "level": "B1"
+  },
+  {
+    "en": "I hate politics.",
+    "tr": "Siyasetten nefret ederim.",
+    "level": "B1"
+  },
+  {
+    "en": "I recommend Tom.",
+    "tr": "Tom'u öneririm.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom on TV.",
+    "tr": "Tom'u TV'de gördüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll allow this.",
+    "tr": "Buna izin vereceğim.",
+    "level": "B1"
+  },
+  {
+    "en": "Science is cool.",
+    "tr": "Bilim harikadır.",
+    "level": "B1"
+  },
+  {
+    "en": "5 is less than 8.",
+    "tr": "5, 8 den daha azdır.",
+    "level": "B1"
+  },
+  {
+    "en": "Consider it done.",
+    "tr": "Olmuş bil.",
+    "level": "B1"
+  },
+  {
+    "en": "He put up a flag.",
+    "tr": "O bir bayrak kaldırdı.",
+    "level": "B1"
+  },
+  {
+    "en": "I do as I'm told.",
+    "tr": "Bana söylendiği gibi yaparım.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a hug.",
+    "tr": "Tom'a sarıldım.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave up on Tom.",
+    "tr": "Tom'dan umudumu kestim.",
+    "level": "B1"
+  },
+  {
+    "en": "I get paid a lot.",
+    "tr": "Bana çok ödeme yapılır.",
+    "level": "B1"
+  },
+  {
+    "en": "I got a flu shot.",
+    "tr": "Bir grip aşısı yaptırdım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got mad at Tom.",
+    "tr": "Tom'a kızdım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got rid of Tom.",
+    "tr": "Ben Tom'dan kurtuldum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hung up on Tom.",
+    "tr": "Ben Tom'a kafayı taktım.",
+    "level": "B1"
+  },
+  {
+    "en": "I made it all up.",
+    "tr": "Hepsini ben uydurdum.",
+    "level": "B1"
+  },
+  {
+    "en": "I miss Tom a lot.",
+    "tr": "Tom'u çok özlüyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of gas.",
+    "tr": "Benzinim bitti.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of ink.",
+    "tr": "Mürekkebim bitti.",
+    "level": "B1"
+  },
+  {
+    "en": "I require advice.",
+    "tr": "Tavsiyeye ihtiyacım var.",
+    "level": "B1"
+  },
+  {
+    "en": "I said I saw Tom.",
+    "tr": "Tom'u gördüğümü söyledim.",
+    "level": "B1"
+  },
+  {
+    "en": "I used a fake ID.",
+    "tr": "Bir sahta kimlik kullandım.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll consider it.",
+    "tr": "Onu dikkate alacağım.",
+    "level": "B1"
+  },
+  {
+    "en": "Let's discuss it.",
+    "tr": "Onu tartışalım.",
+    "level": "B1"
+  },
+  {
+    "en": "Save your energy.",
+    "tr": "Enerjini koru.",
+    "level": "B1"
+  },
+  {
+    "en": "That takes skill.",
+    "tr": "Bu beceri gerektirir.",
+    "level": "B1"
+  },
+  {
+    "en": "That's a problem.",
+    "tr": "Bu bir sorun.",
+    "level": "B1"
+  },
+  {
+    "en": "That's the issue.",
+    "tr": "Konu odur.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit shy.",
+    "tr": "Tom biraz utangaçtır.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on a tie.",
+    "tr": "Tom bir kravat taktı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat on a log.",
+    "tr": "Tom bir kütüğün üstüne oturdu.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom will improve.",
+    "tr": "Tom gelişecek.",
+    "level": "B1"
+  },
+  {
+    "en": "We owe Tom a lot.",
+    "tr": "Tom'a çok şey borçluyuz.",
+    "level": "B1"
+  },
+  {
+    "en": "We put up a tent.",
+    "tr": "Biz bir çadır kurduk.",
+    "level": "B1"
+  },
+  {
+    "en": "We'll discuss it.",
+    "tr": "Onu tartışacağız.",
+    "level": "B1"
+  },
+  {
+    "en": "What's the cause?",
+    "tr": "Neden nedir?",
+    "level": "B1"
+  },
+  {
+    "en": "You're a failure.",
+    "tr": "Sen bir başarısızlıksın.",
+    "level": "B1"
+  },
+  {
+    "en": "You're a problem.",
+    "tr": "Sen bir sorunsun.",
+    "level": "B1"
+  },
+  {
+    "en": "Compare the facts.",
+    "tr": "Gerçekleri karşılaştırın.",
+    "level": "B1"
+  },
+  {
+    "en": "Did I wake Tom up?",
+    "tr": "Tom'u uyandırdım mı?",
+    "level": "B1"
+  },
+  {
+    "en": "Don't I get a hug?",
+    "tr": "Sarılmaz mıyım?",
+    "level": "B1"
+  },
+  {
+    "en": "Get up out of bed.",
+    "tr": "Yataktan kalk.",
+    "level": "B1"
+  },
+  {
+    "en": "I am all mixed up.",
+    "tr": "Tamamen kafam karıştı.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't tie a tie.",
+    "tr": "Kravat bağlayamam.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a ride.",
+    "tr": "Tom'u arabayla götürdüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a wink.",
+    "tr": "Ben Tom'a bir göz kırptım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got Tom to swim.",
+    "tr": "Tom'u yüzdürdüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I got a bee sting.",
+    "tr": "Beni bir arı soktu.",
+    "level": "B1"
+  },
+  {
+    "en": "I got a flat tire.",
+    "tr": "Patlak bir lastiğim var.",
+    "level": "B1"
+  },
+  {
+    "en": "I had so much fun.",
+    "tr": "Çok fazla eğlendim.",
+    "level": "B1"
+  },
+  {
+    "en": "I let Tom kiss me.",
+    "tr": "Tom'un beni öpmesine izin verdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I loved Tom a lot.",
+    "tr": "Tom'u çok seviyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I made fun of Tom.",
+    "tr": "Tom'la dalga geçtim.",
+    "level": "B1"
+  },
+  {
+    "en": "I need a long nap.",
+    "tr": "Uzun bir uykuya ihtiyacım var.",
+    "level": "B1"
+  },
+  {
+    "en": "I owe Tom my life.",
+    "tr": "Tom'a yaşamımı borçluyum.",
+    "level": "B1"
+  },
+  {
+    "en": "I owe him 100 yen.",
+    "tr": "Ona 100 yen borçluyum.",
+    "level": "B1"
+  },
+  {
+    "en": "I owe you so much.",
+    "tr": "Sana çok şey borçluyum.",
+    "level": "B1"
+  },
+  {
+    "en": "I put up a notice.",
+    "tr": "Ben bir haber koydum.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran into a deer.",
+    "tr": "Bir geyiğe rastladım.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of fuel.",
+    "tr": "Yakıtım bitti.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran up the hill.",
+    "tr": "Tepeye koştum.",
+    "level": "B1"
+  },
+  {
+    "en": "I said I'd get it.",
+    "tr": "Onu alacağımı söyledim.",
+    "level": "B1"
+  },
+  {
+    "en": "I said let Tom go.",
+    "tr": "Tom'un gitmesine izin ver dedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I sat by his side.",
+    "tr": "Ben onun yanında oturdum.",
+    "level": "B1"
+  },
+  {
+    "en": "I sat next to Tom.",
+    "tr": "Ben Tom'un yanına oturdum.",
+    "level": "B1"
+  },
+  {
+    "en": "I sent Tom a note.",
+    "tr": "Tom'a bir not gönderdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I sure do hope so.",
+    "tr": "Kesinlikle öyle yapmayı umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I told Tom a joke.",
+    "tr": "Tom'a bir fıkra anlattım.",
+    "level": "B1"
+  },
+  {
+    "en": "I took a week off.",
+    "tr": "Ben bir hafta izin aldım.",
+    "level": "B1"
+  },
+  {
+    "en": "I took off my wig.",
+    "tr": "Peruğumu çıkardım.",
+    "level": "B1"
+  },
+  {
+    "en": "I wore a hard hat.",
+    "tr": "Sert bir şapka taktım.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll get us a cab.",
+    "tr": "Bize bir taksi çağıracağım.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll recommend it.",
+    "tr": "Onu tavsiye edeceğim.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm as old as you.",
+    "tr": "Senin kadar büyüğüm.",
+    "level": "B1"
+  },
+  {
+    "en": "Increase the dose.",
+    "tr": "Dozu artırın.",
+    "level": "B1"
+  },
+  {
+    "en": "May I add a point?",
+    "tr": "Bir konu ilave edebilir miyim?",
+    "level": "B1"
+  },
+  {
+    "en": "May I talk to Tom?",
+    "tr": "Tom'la konuşabilir miyim?",
+    "level": "B1"
+  },
+  {
+    "en": "Production is low.",
+    "tr": "Üretim düşük.",
+    "level": "B1"
+  },
+  {
+    "en": "Solve the problem.",
+    "tr": "Problemi çöz!",
+    "level": "B1"
+  },
+  {
+    "en": "That's my opinion.",
+    "tr": "Bu benim görüşüm.",
+    "level": "B1"
+  },
+  {
+    "en": "That's my problem.",
+    "tr": "Bu benim sorunum.",
+    "level": "B1"
+  },
+  {
+    "en": "That's no problem.",
+    "tr": "Bu sorun değil.",
+    "level": "B1"
+  },
+  {
+    "en": "There's a problem.",
+    "tr": "Bir sorun var.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ate all of it.",
+    "tr": "Tom onun hepsini yedi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me a hug.",
+    "tr": "Tom bana sarıldı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me a key.",
+    "tr": "Tom bana bir anahtar verdi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got mad at me.",
+    "tr": "Tom bana kızdı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a fake ID.",
+    "tr": "Tom sahte bir kimliği var.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a high IQ.",
+    "tr": "Tom'un yüksek bir katsayısı var.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a pet pig.",
+    "tr": "Tom'un bir evcil domuzu var.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom hung up on me.",
+    "tr": "Tom beni kafasına taktı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom hurt us a lot.",
+    "tr": "Tom bizi çok incitti.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit pale.",
+    "tr": "Tom biraz solgun.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a cool guy.",
+    "tr": "Tom harika bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a cute kid.",
+    "tr": "Tom sevimli bir çocuk.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a huge guy.",
+    "tr": "Tom büyük bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a lazy bum.",
+    "tr": "Tom tembel bir serseridir.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a lazy kid.",
+    "tr": "Tom tembel bir çocuk.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a real pro.",
+    "tr": "Tom gerçek bir profesyonel.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a rich kid.",
+    "tr": "Tom zengin bir çocuktur.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a war hero.",
+    "tr": "Tom bir savaş kahramanıdır.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is apt to cry.",
+    "tr": "Tom ağlamaya meyilli.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on a coat.",
+    "tr": "Tom bir ceket giydi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat up in bed.",
+    "tr": "Tom yatakta oturdu.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom told me a lie.",
+    "tr": "Tom bana bir yalan söyledi.",
+    "level": "B1"
+  },
+  {
+    "en": "We got up at dawn.",
+    "tr": "Biz şafak vakti kalktık.",
+    "level": "B1"
+  },
+  {
+    "en": "We miss Tom a lot.",
+    "tr": "Biz Tom'u çok özlüyoruz.",
+    "level": "B1"
+  },
+  {
+    "en": "We ran out of gas.",
+    "tr": "Gazımız bitti.",
+    "level": "B1"
+  },
+  {
+    "en": "You're my problem.",
+    "tr": "Sen benim sorunumsun.",
+    "level": "B1"
+  },
+  {
+    "en": "All of us stood up.",
+    "tr": "Hepimiz ayağa kalktık.",
+    "level": "B1"
+  },
+  {
+    "en": "Both of us saw Tom.",
+    "tr": "İkimiz de Tom'u gördük.",
+    "level": "B1"
+  },
+  {
+    "en": "Consider the facts.",
+    "tr": "Gerçekleri göz önünde bulundurun.",
+    "level": "B1"
+  },
+  {
+    "en": "Do it by all means.",
+    "tr": "Her ne şekilde olursa olsun onu yap.",
+    "level": "B1"
+  },
+  {
+    "en": "Does Tom cry a lot?",
+    "tr": "Tom çok ağlar mı?",
+    "level": "B1"
+  },
+  {
+    "en": "Get off of my roof.",
+    "tr": "Çatımdan uzak dur.",
+    "level": "B1"
+  },
+  {
+    "en": "Get out if you can.",
+    "tr": "Yapabiliyorsan dışarı çık.",
+    "level": "B1"
+  },
+  {
+    "en": "Get out of my life!",
+    "tr": "Çık hayatımdan!",
+    "level": "B1"
+  },
+  {
+    "en": "Get out of my life.",
+    "tr": "Çık hayatımdan!",
+    "level": "B1"
+  },
+  {
+    "en": "Get out of my seat.",
+    "tr": "Koltuğumdan çekil.",
+    "level": "B1"
+  },
+  {
+    "en": "Get out of the van.",
+    "tr": "Kamyonetten in.",
+    "level": "B1"
+  },
+  {
+    "en": "Get rid of the gun.",
+    "tr": "Silahtan kurtul.",
+    "level": "B1"
+  },
+  {
+    "en": "Go and wake Tom up.",
+    "tr": "Git ve Tom'u uyandır.",
+    "level": "B1"
+  },
+  {
+    "en": "He came out on top.",
+    "tr": "O zirveye yaklaştı.",
+    "level": "B1"
+  },
+  {
+    "en": "He took a week off.",
+    "tr": "O bir hafta izin aldı.",
+    "level": "B1"
+  },
+  {
+    "en": "He used a fake I.D.",
+    "tr": "O sahte bir kimlik kartı kullanıyordu.",
+    "level": "B1"
+  },
+  {
+    "en": "Here's the problem.",
+    "tr": "İşte sorun.",
+    "level": "B1"
+  },
+  {
+    "en": "I admire Tom a lot.",
+    "tr": "Tom'a çok hayranım.",
+    "level": "B1"
+  },
+  {
+    "en": "I baked Tom a cake.",
+    "tr": "Tom'a pasta pişirdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I called Tom a cab.",
+    "tr": "Tom'a bir taksi çağırdım.",
+    "level": "B1"
+  },
+  {
+    "en": "I called Tom a pig.",
+    "tr": "Tom'a domuz dedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't lie to Tom.",
+    "tr": "Tom'a yalan söyleyemem.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't mind a bit.",
+    "tr": "Bir parça umursamıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need a gun.",
+    "tr": "Bir silaha ihtiyacım yok.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need a nap.",
+    "tr": "Bir şekerlemeye ihtiyacım yok.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need a tie.",
+    "tr": "Bir kravata ihtiyacım yok.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't own a suit.",
+    "tr": "Bir takım elbisem yok.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't wear a gun.",
+    "tr": "Ben silah taşımıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I ended up in jail.",
+    "tr": "Kendimi hapishanede buldum.",
+    "level": "B1"
+  },
+  {
+    "en": "I envy you so much.",
+    "tr": "Seni çok kıskanıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I fell into a hole.",
+    "tr": "Bir çukura düştüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I felt a bit woozy.",
+    "tr": "Ben biraz sarhoş hissettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I felt a deep pain.",
+    "tr": "Derin bir acı hissettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I felt ill at ease.",
+    "tr": "Ben huzursuz oldum.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a bribe.",
+    "tr": "Tom'a rüşvet verdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom the key.",
+    "tr": "Tom'a anahtarı verdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave up too soon.",
+    "tr": "Çok erken vazgeçmişim.",
+    "level": "B1"
+  },
+  {
+    "en": "I got Tom to laugh.",
+    "tr": "Tom'u güldürdüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I got Tom to leave.",
+    "tr": "Tom'u gönderdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I got Tom to smile.",
+    "tr": "Tom'u güldürdüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I got into a fight.",
+    "tr": "Bir kavgaya karıştım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got into the cab.",
+    "tr": "Taksiye bindim.",
+    "level": "B1"
+  },
+  {
+    "en": "I got it all wrong.",
+    "tr": "Her şeyi yanlış anlamışım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got my shoes wet.",
+    "tr": "Benim ayakkabılarımı ıslattım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got out my knife.",
+    "tr": "Bıçağımı çıkardım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got teased a lot.",
+    "tr": "Ben çok alay edildim.",
+    "level": "B1"
+  },
+  {
+    "en": "I got up about six.",
+    "tr": "Ben yaklaşık altıda kalktım.",
+    "level": "B1"
+  },
+  {
+    "en": "I grew up with Tom.",
+    "tr": "Tom'la birlikte büyüdüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I hear Tom is sick.",
+    "tr": "Tom'un hasta olduğunu duyuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I helped Tom a lot.",
+    "tr": "Ben Tom'a çok yardım ettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I hit a curve ball.",
+    "tr": "Yüreğim ağzıma geldi.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope I'll fit in.",
+    "tr": "İçeri gireceğimi umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom has fun.",
+    "tr": "Umarım Tom eğlenir.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is fine.",
+    "tr": "Umarım Tom iyidir.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is safe.",
+    "tr": "Umarım Tom güvendedir.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is well.",
+    "tr": "Tom'un iyi olduğunu umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom says no.",
+    "tr": "Tom'un hayır diyeceğini umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope it pans out.",
+    "tr": "Onun başarıya ulaşacağını umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope we beat Tom.",
+    "tr": "Tom'u yeneceğimizi umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope we find Tom.",
+    "tr": "Tom'u bulacağımızı umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I jog twice a week.",
+    "tr": "Ben haftada iki kez koşarım.",
+    "level": "B1"
+  },
+  {
+    "en": "I kind of miss Tom.",
+    "tr": "Tom'u biraz özlüyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew Tom was shy.",
+    "tr": "Tom'un utangaç olduğunu biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I lay down to rest.",
+    "tr": "Dinlenmek için uzandım.",
+    "level": "B1"
+  },
+  {
+    "en": "I lead a busy life.",
+    "tr": "Ben meşgul bir hayat sürdürüyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I let Tom catch me.",
+    "tr": "Tom'un beni yakalamasına izin verdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I live next to Tom.",
+    "tr": "Tom'a bitişik yaşıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I love Tom so much.",
+    "tr": "Tom'u çok seviyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I made Mary a doll.",
+    "tr": "Mary'ye bir bebek yaptım.",
+    "level": "B1"
+  },
+  {
+    "en": "I made a few calls.",
+    "tr": "Birkaç telefon görüşmesi yaptım.",
+    "level": "B1"
+  },
+  {
+    "en": "I made a pot roast.",
+    "tr": "Bir rosto yaptım.",
+    "level": "B1"
+  },
+  {
+    "en": "I made tea for Tom.",
+    "tr": "Tom için çay yaptım.",
+    "level": "B1"
+  },
+  {
+    "en": "I may be back soon.",
+    "tr": "Yakında geri dönebilirim.",
+    "level": "B1"
+  },
+  {
+    "en": "I miss her so much.",
+    "tr": "Onu çok özlüyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I miss you so much.",
+    "tr": "Seni çok özlüyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I missed Tom a lot.",
+    "tr": "Tom'u çok özledim.",
+    "level": "B1"
+  },
+  {
+    "en": "I need a dry towel.",
+    "tr": "Kuru bir havluya ihtiyacım var.",
+    "level": "B1"
+  },
+  {
+    "en": "I need a long rope.",
+    "tr": "Bana uzun bir ip gerek.",
+    "level": "B1"
+  },
+  {
+    "en": "I need a mouse pad.",
+    "tr": "Bir fare altlığına ihtiyacım var.",
+    "level": "B1"
+  },
+  {
+    "en": "I need an hour off.",
+    "tr": "Bir saat izine ihtiyacım var.",
+    "level": "B1"
+  },
+  {
+    "en": "I need to feed Tom.",
+    "tr": "Tom'u beslemeliyim.",
+    "level": "B1"
+  },
+  {
+    "en": "I need to find Tom.",
+    "tr": "Tom'u bulmam gerekiyor.",
+    "level": "B1"
+  },
+  {
+    "en": "I need to find out.",
+    "tr": "Onu bulmam gerekiyor.",
+    "level": "B1"
+  },
+  {
+    "en": "I need to get away.",
+    "tr": "Kaçmalıyım.",
+    "level": "B1"
+  },
+  {
+    "en": "I need to lie down.",
+    "tr": "Yatmalıyım.",
+    "level": "B1"
+  },
+  {
+    "en": "I need to warn Tom.",
+    "tr": "Tom'u uyarmam gerek.",
+    "level": "B1"
+  },
+  {
+    "en": "I put out the fire.",
+    "tr": "Ateşi söndürdüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of ideas.",
+    "tr": "Fikirlerim bitti.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran up the steps.",
+    "tr": "Basamakları koşarak çıktım.",
+    "level": "B1"
+  },
+  {
+    "en": "I recommend Boston.",
+    "tr": "Boston'u tavsiye ederim.",
+    "level": "B1"
+  },
+  {
+    "en": "I said I'll get it.",
+    "tr": "Onu alacağımı söyledim.",
+    "level": "B1"
+  },
+  {
+    "en": "I said put it down!",
+    "tr": "Onu yere koy dedim!",
+    "level": "B1"
+  },
+  {
+    "en": "I sat down to wait.",
+    "tr": "Beklemek için oturdum.",
+    "level": "B1"
+  },
+  {
+    "en": "I sat up all night.",
+    "tr": "Ben bütün gece oturdum.",
+    "level": "B1"
+  },
+  {
+    "en": "I saved Tom a seat.",
+    "tr": "Tom'a yer ayırdım.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom and Mary.",
+    "tr": "Ben Tom'la Mary'yi gördüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom doing it.",
+    "tr": "Tom'un onu yaptığını gördüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom kiss you.",
+    "tr": "Tom'un seni öptüğünü gördüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw you kiss Tom.",
+    "tr": "Seni Tom'u öperken gördüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I stood up to sing.",
+    "tr": "Şarkı söylemek için ayağa kalktım.",
+    "level": "B1"
+  },
+  {
+    "en": "I swim once a week.",
+    "tr": "Ben haftada bir kez yüzerim.",
+    "level": "B1"
+  },
+  {
+    "en": "I told Tom a story.",
+    "tr": "Tom'a bir hikâye anlattım.",
+    "level": "B1"
+  },
+  {
+    "en": "I told Tom to rest.",
+    "tr": "Tom'a dinlenmesini söyledim.",
+    "level": "B1"
+  },
+  {
+    "en": "I told Tom to stay.",
+    "tr": "Tom'a kalmasını söyledim.",
+    "level": "B1"
+  },
+  {
+    "en": "I told Tom to wait.",
+    "tr": "Tom'a beklemesini söyledim.",
+    "level": "B1"
+  },
+  {
+    "en": "I took care of Tom.",
+    "tr": "Tom'la ilgilendim.",
+    "level": "B1"
+  },
+  {
+    "en": "I took off my coat.",
+    "tr": "Ceketimi çıkardım.",
+    "level": "B1"
+  },
+  {
+    "en": "I tried to hit Tom.",
+    "tr": "Tom'a vurmaya çalıştım.",
+    "level": "B1"
+  },
+  {
+    "en": "I turned off my TV.",
+    "tr": "Televizyonumu kapattım.",
+    "level": "B1"
+  },
+  {
+    "en": "I turned up the TV.",
+    "tr": "TV'nin sesini açtım.",
+    "level": "B1"
+  },
+  {
+    "en": "I used to hate Tom.",
+    "tr": "Tom'dan nefret ederdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I was all worn out.",
+    "tr": "Ben tamamen bitkindim.",
+    "level": "B1"
+  },
+  {
+    "en": "I watch TV all day.",
+    "tr": "Bütün gün televizyon izliyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I wish I'd met her.",
+    "tr": "Keşke onunla karşılaşsam.",
+    "level": "B1"
+  },
+  {
+    "en": "I won't let Tom go.",
+    "tr": "Tom'un gitmesine izin vermeyeceğim.",
+    "level": "B1"
+  },
+  {
+    "en": "I won't lie to Tom.",
+    "tr": "Tom'a yalan söylemeyeceğim.",
+    "level": "B1"
+  },
+  {
+    "en": "I won't wear a wig.",
+    "tr": "Ben peruk takmayacağım.",
+    "level": "B1"
+  },
+  {
+    "en": "I wrote Tom a note.",
+    "tr": "Tom'a bir not yazdım.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll do as you say.",
+    "tr": "Söylediğin gibi yapacağım.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll get rid of it.",
+    "tr": "Ondan kurtulacağım.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll get you a gun.",
+    "tr": "Sana bir silah edineceğim.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm a lot like Tom.",
+    "tr": "Aynı Tom gibiyim.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm as tall as you.",
+    "tr": "Ben sizin kadar uzun boyluyum.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm glad I met you.",
+    "tr": "Seninle tanıştığıma memnun oldum.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm glad I'm a man.",
+    "tr": "Bir erkek olduğuma memnunum.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm glad Tom is OK.",
+    "tr": "Tom'un iyi olduğuna memnun oldum.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm not mad at Tom.",
+    "tr": "Tom'a kızgın değilim.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm off to the gym.",
+    "tr": "Ben spor salonuna başlıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm out of my mind.",
+    "tr": "Aklımı kaybettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm stuck in a rut.",
+    "tr": "Ben rutine bağladım.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm sure Tom is OK.",
+    "tr": "Tom'un iyi olduğuna eminim.",
+    "level": "B1"
+  },
+  {
+    "en": "I've got a problem.",
+    "tr": "Bir sorunum var.",
+    "level": "B1"
+  },
+  {
+    "en": "I've got to go out.",
+    "tr": "Dışarı çıkmak zorundayım.",
+    "level": "B1"
+  },
+  {
+    "en": "It was so much fun.",
+    "tr": "O çok eğlenceliydi.",
+    "level": "B1"
+  },
+  {
+    "en": "It's all up to Tom.",
+    "tr": "Bunun hepsi Tom'a kalmış.",
+    "level": "B1"
+  },
+  {
+    "en": "Jam comes in a jar.",
+    "tr": "Reçel kavanozda gelir.",
+    "level": "B1"
+  },
+  {
+    "en": "Just let me get up.",
+    "tr": "Sadece kalkayım.",
+    "level": "B1"
+  },
+  {
+    "en": "Knowledge is power.",
+    "tr": "Bilgi güçtür.",
+    "level": "B1"
+  },
+  {
+    "en": "Leave it up to Tom.",
+    "tr": "Bunu Tom'a bırak.",
+    "level": "B1"
+  },
+  {
+    "en": "Let me get my coat.",
+    "tr": "Paltomu alayım.",
+    "level": "B1"
+  },
+  {
+    "en": "Let me grab my bag.",
+    "tr": "Çantamı alayım.",
+    "level": "B1"
+  },
+  {
+    "en": "Let me see some ID.",
+    "tr": "Bir kimlik göreyim.",
+    "level": "B1"
+  },
+  {
+    "en": "Let me talk to Tom.",
+    "tr": "Tom'la konuşmama izin ver.",
+    "level": "B1"
+  },
+  {
+    "en": "Let us sing a song.",
+    "tr": "Bir şarkı söylememize izin verin.",
+    "level": "B1"
+  },
+  {
+    "en": "Let us talk to Tom.",
+    "tr": "Tom'la konuşalım.",
+    "level": "B1"
+  },
+  {
+    "en": "Let's discuss this.",
+    "tr": "Bunu görüşelim.",
+    "level": "B1"
+  },
+  {
+    "en": "Mary is a busy mom.",
+    "tr": "Mary meşgul bir annedir.",
+    "level": "B1"
+  },
+  {
+    "en": "May I pay by check?",
+    "tr": "Çek ile ödeme yapabilir miyim?",
+    "level": "B1"
+  },
+  {
+    "en": "May I speak to Tom?",
+    "tr": "Tom'la konuşabilir miyim?",
+    "level": "B1"
+  },
+  {
+    "en": "May I use this bat?",
+    "tr": "Bu beyzbol sopasını kullanabilir miyim?",
+    "level": "B1"
+  },
+  {
+    "en": "May I watch TV now?",
+    "tr": "Şimdi TV izleyebilir miyim?",
+    "level": "B1"
+  },
+  {
+    "en": "Return immediately.",
+    "tr": "Hemen dön.",
+    "level": "B1"
+  },
+  {
+    "en": "That's a challenge.",
+    "tr": "O bir meydan okuma.",
+    "level": "B1"
+  },
+  {
+    "en": "That's our problem.",
+    "tr": "Bu bizim sorunumuz.",
+    "level": "B1"
+  },
+  {
+    "en": "That's the problem.",
+    "tr": "Bu sorundur.",
+    "level": "B1"
+  },
+  {
+    "en": "There's no problem.",
+    "tr": "Hiçbir sorun yok.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom and I broke up.",
+    "tr": "Tom ve ben ayrıldık.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ate like a pig.",
+    "tr": "Tom bir domuz gibi yedi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom died in a fire.",
+    "tr": "Tom bir yangında öldü.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me a hint.",
+    "tr": "Tom bana bir ipucu verdi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me a wink.",
+    "tr": "Tom bana göz kırptı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gets up at six.",
+    "tr": "Tom altıda kalkar.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got in the cab.",
+    "tr": "Tom taksiye bindi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got me a watch.",
+    "tr": "Tom bana bir saat aldı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got out of bed.",
+    "tr": "Tom yataktan çıktı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a huge ego.",
+    "tr": "Tom'un büyük bir egosu var.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has got a plan.",
+    "tr": "Tom'un bir planı var.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom helps me a lot.",
+    "tr": "Tom bana çok yardımcı olur.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom hid it from me.",
+    "tr": "Tom onu benden sakladı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a CIA agent.",
+    "tr": "Tom bir CIA ajanıdır.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a beach bum.",
+    "tr": "Tom bir plaj serserisi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit crazy.",
+    "tr": "Tom biraz deli.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit drunk.",
+    "tr": "Tom biraz sarhoş.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit naive.",
+    "tr": "Tom biraz saf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit tipsy.",
+    "tr": "Tom biraz çakırkeyf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a born poet.",
+    "tr": "Tom bir doğuştan şair.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a brave lad.",
+    "tr": "Tom cesur bir delikanlı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a crazy kid.",
+    "tr": "Tom çok çılgın bir çocuk.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a great guy.",
+    "tr": "Tom harika bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a great kid.",
+    "tr": "Tom harika bir çocuk.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a gun owner.",
+    "tr": "Tom bir silah sahibidir.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a guy's guy.",
+    "tr": "Tom taş fırın erkeğidir.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a lucky guy.",
+    "tr": "Tom şanslı bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a math geek.",
+    "tr": "Tom bir matematik-ineği.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a quiet guy.",
+    "tr": "Tom sakin bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a real bore.",
+    "tr": "Tom gerçek bir dert.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a real fool.",
+    "tr": "Tom gerçek bir aptal.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a real nerd.",
+    "tr": "Tom gerçek bir inek öğrenci.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a smart guy.",
+    "tr": "Tom akıllı bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a smart kid.",
+    "tr": "Tom akıllı bir çocuk.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a sweet guy.",
+    "tr": "Tom tatlı bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a teen idol.",
+    "tr": "Tom genç bir idol.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a tough guy.",
+    "tr": "Tom sert bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a tough kid.",
+    "tr": "Tom sert bir çocuk.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a true hero.",
+    "tr": "Tom gerçek bir kahraman.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a weird guy.",
+    "tr": "Tom garip bir adam.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is apt to fail.",
+    "tr": "Tom başarısız olma eğiliminde.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is kind of fat.",
+    "tr": "Tom biraz şişman.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is kind of shy.",
+    "tr": "Tom biraz utangaç.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is mad at Mary.",
+    "tr": "Tom, Mary'ye kızgın.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is not so sure.",
+    "tr": "Tom çok emin değil.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is out of luck.",
+    "tr": "Tom şansına küssün.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is out of town.",
+    "tr": "Tom şehir dışında.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is such a hunk.",
+    "tr": "Tom böylesine hoş ve kaslı bir tip.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is such a jerk.",
+    "tr": "Tom tam bir aptal.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is such a slob.",
+    "tr": "Tom böyle bir serseri.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is such a snob.",
+    "tr": "Tom böyle bir züppe.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is sure to win.",
+    "tr": "Tom kazanacağından emin.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom likes it a lot.",
+    "tr": "Tom onu çok sever.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lived to be 93.",
+    "tr": "Tom 93 yaşına kadar yaşadı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lived to be 97.",
+    "tr": "Tom 97 yaşına kadar yaşadı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lives in an RV.",
+    "tr": "Tom bir karavanda yaşıyor.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom made fun of me.",
+    "tr": "Tom benimle dalga geçti.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom made fun of us.",
+    "tr": "Tom bizimle dalga geçti.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom may be a thief.",
+    "tr": "Tom bir hırsız olabilir.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on his hat.",
+    "tr": "Tom şapkasını taktı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on his tie.",
+    "tr": "Tom kravatını bağlıyor.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom said I was fat.",
+    "tr": "Tom şişman olduğumu söyledi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sang me a song.",
+    "tr": "Tom bana bir şarkı söyledi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat at the bar.",
+    "tr": "Tom barda oturdu.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat next to me.",
+    "tr": "Tom yanıma oturdu.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat next to us.",
+    "tr": "Tom yanımıza oturdu.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sent me a note.",
+    "tr": "Tom bana bir not gönderdi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom told me a joke.",
+    "tr": "Tom bana bir fıkra anlattı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom told me he won.",
+    "tr": "Tom bana kazandığını söyledi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom took a big sip.",
+    "tr": "Tom büyük bir yudum aldı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom took a day off.",
+    "tr": "Tom bir gün izinli.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom used to be shy.",
+    "tr": "Tom utangaçtı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom was a war hero.",
+    "tr": "Tom bir savaş kahramanıydı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom was gone a lot.",
+    "tr": "Tom çok gitti.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom won a free car.",
+    "tr": "Tom ücretsiz bir araba kazandı.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom won't allow it.",
+    "tr": "Tom ona izin vermeyecek.",
+    "level": "B1"
+  },
+  {
+    "en": "Voice your opinion.",
+    "tr": "Fikrini söyle.",
+    "level": "B1"
+  },
+  {
+    "en": "We all cried a lot.",
+    "tr": "Hepimiz çok ağladık.",
+    "level": "B1"
+  },
+  {
+    "en": "We argued politics.",
+    "tr": "Biz politika tartıştık.",
+    "level": "B1"
+  },
+  {
+    "en": "We got a flat tire.",
+    "tr": "Bir patlak lastiğimiz var.",
+    "level": "B1"
+  },
+  {
+    "en": "We had so much fun.",
+    "tr": "Biz çok eğlendik.",
+    "level": "B1"
+  },
+  {
+    "en": "We sent Tom a copy.",
+    "tr": "Tom'a bir kopya gönderdik.",
+    "level": "B1"
+  },
+  {
+    "en": "We took a mud bath.",
+    "tr": "Çamur banyosu yaptık.",
+    "level": "B1"
+  },
+  {
+    "en": "What's our problem?",
+    "tr": "Sorunumuz ne?",
+    "level": "B1"
+  },
+  {
+    "en": "What's the problem?",
+    "tr": "Sorun ne?",
+    "level": "B1"
+  },
+  {
+    "en": "Why is Tom so busy?",
+    "tr": "Tom neden bu kadar meşgul?",
+    "level": "B1"
+  },
+  {
+    "en": "You need to get up.",
+    "tr": "Kalkman gerekir.",
+    "level": "B1"
+  },
+  {
+    "en": "You'll do as I say.",
+    "tr": "Söylediğim gibi yapacaksın.",
+    "level": "B1"
+  },
+  {
+    "en": "You're the problem.",
+    "tr": "Sen sorunsun.",
+    "level": "B1"
+  },
+  {
+    "en": "A noise woke her up.",
+    "tr": "Bir gürültü onu uyandırdı.",
+    "level": "B1"
+  },
+  {
+    "en": "Add a pinch of salt.",
+    "tr": "Bir tutam tuz ekleyin.",
+    "level": "B1"
+  },
+  {
+    "en": "All my hope is gone.",
+    "tr": "Bütün ümidim gitti.",
+    "level": "B1"
+  },
+  {
+    "en": "Ask Tom if he voted.",
+    "tr": "Tom'a oy verip vermediğini sor.",
+    "level": "B1"
+  },
+  {
+    "en": "Can you pick up Tom?",
+    "tr": "Tom'u alabilir misin?",
+    "level": "B1"
+  },
+  {
+    "en": "Consider my request.",
+    "tr": "İsteğimi göz önünde bulundurun.",
+    "level": "B1"
+  },
+  {
+    "en": "Did Tom lie to Mary?",
+    "tr": "Tom Mary'ye yalan söyledi mi?",
+    "level": "B1"
+  },
+  {
+    "en": "Do exactly as I say.",
+    "tr": "Aynen dediğim gibi yap.",
+    "level": "B1"
+  },
+  {
+    "en": "Don't get mad at me.",
+    "tr": "Bana kızma.",
+    "level": "B1"
+  },
+  {
+    "en": "Don't get mad at us.",
+    "tr": "Bize kızma.",
+    "level": "B1"
+  },
+  {
+    "en": "Don't let Tom do it.",
+    "tr": "Onu Tom'a yaptırma.",
+    "level": "B1"
+  },
+  {
+    "en": "Even Tom lied to us.",
+    "tr": "Tom bile bize yalan söyledi.",
+    "level": "B1"
+  },
+  {
+    "en": "Get Tom out of here.",
+    "tr": "Tom'u dışarı çıkart.",
+    "level": "B1"
+  },
+  {
+    "en": "Get back in the van.",
+    "tr": "Kamyonete geri dön.",
+    "level": "B1"
+  },
+  {
+    "en": "Get it away from me.",
+    "tr": "Onu benden uzak tut.",
+    "level": "B1"
+  },
+  {
+    "en": "Get out of my sight.",
+    "tr": "Gözüme gözükme.",
+    "level": "B1"
+  },
+  {
+    "en": "Get up for a moment.",
+    "tr": "Biraz kalkın.",
+    "level": "B1"
+  },
+  {
+    "en": "Get used to it, Tom.",
+    "tr": "Buna alış Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "Go and wake Mary up.",
+    "tr": "Git ve Mary'yi uyandır.",
+    "level": "B1"
+  },
+  {
+    "en": "Go and wake up Mary.",
+    "tr": "Git ve Mary'yi kaldır.",
+    "level": "B1"
+  },
+  {
+    "en": "God loves all of us.",
+    "tr": "Tanrı hepimizi seviyor.",
+    "level": "B1"
+  },
+  {
+    "en": "He bit off the meat.",
+    "tr": "O, eti ısırdı.",
+    "level": "B1"
+  },
+  {
+    "en": "He felt ill at ease.",
+    "tr": "O, huzursuz hissetti.",
+    "level": "B1"
+  },
+  {
+    "en": "He flew into a rage.",
+    "tr": "O öfkelendi.",
+    "level": "B1"
+  },
+  {
+    "en": "He hung up his coat.",
+    "tr": "O ceketini astı.",
+    "level": "B1"
+  },
+  {
+    "en": "He is over 80 kilos.",
+    "tr": "O, 80 kilonun üzerinde.",
+    "level": "B1"
+  },
+  {
+    "en": "He lacks experience.",
+    "tr": "O deneyimden yoksundur.",
+    "level": "B1"
+  },
+  {
+    "en": "He led a sober life.",
+    "tr": "O, gösterişsiz bir hayat sürdü.",
+    "level": "B1"
+  },
+  {
+    "en": "He lent me 30 pesos.",
+    "tr": "Bana 30 peso ödünç verdi.",
+    "level": "B1"
+  },
+  {
+    "en": "He made up his mind.",
+    "tr": "O, kararını verdi.",
+    "level": "B1"
+  },
+  {
+    "en": "He may have said so.",
+    "tr": "O öyle söylemiş olabilir.",
+    "level": "B1"
+  },
+  {
+    "en": "He runs a shoe shop.",
+    "tr": "O bir ayakkabı dükkânı çalıştırıyor.",
+    "level": "B1"
+  },
+  {
+    "en": "He set off to Paris.",
+    "tr": "O, Paris'e doğru yola çıktı.",
+    "level": "B1"
+  },
+  {
+    "en": "He took off his hat.",
+    "tr": "Şapkasını çıkardı.",
+    "level": "B1"
+  },
+  {
+    "en": "He was wet all over.",
+    "tr": "O tamamen ıslaktı.",
+    "level": "B1"
+  },
+  {
+    "en": "He won a gold medal.",
+    "tr": "O altın bir madalya kazandı.",
+    "level": "B1"
+  },
+  {
+    "en": "He's away on a trip.",
+    "tr": "O bir geziye çıktı.",
+    "level": "B1"
+  },
+  {
+    "en": "Here's the solution.",
+    "tr": "İşte çözüm.",
+    "level": "B1"
+  },
+  {
+    "en": "Hey, I need a favor.",
+    "tr": "Hey, ben bir iyilik istiyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "How well off is Tom?",
+    "tr": "Tom ne kadar zengin?",
+    "level": "B1"
+  },
+  {
+    "en": "Hurry up and get in.",
+    "tr": "Acele edin ve içeri girin.",
+    "level": "B1"
+  },
+  {
+    "en": "I ain't got all day.",
+    "tr": "Bütün gün bekleyemem.",
+    "level": "B1"
+  },
+  {
+    "en": "I am free from care.",
+    "tr": "Kendimi fazla üzmem.",
+    "level": "B1"
+  },
+  {
+    "en": "I asked Tom a favor.",
+    "tr": "Tom'dan bir iyilik istedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I asked Tom to sing.",
+    "tr": "Tom'un şarkı söylemesini istedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I asked Tom to stay.",
+    "tr": "Tom'dan kalmasını rica ettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I ate less than Tom.",
+    "tr": "Tom'dan daha az yedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I beat Tom at chess.",
+    "tr": "Satrançta Tom'u yendim.",
+    "level": "B1"
+  },
+  {
+    "en": "I bet Tom is hungry.",
+    "tr": "Tom'un acıktığından eminim.",
+    "level": "B1"
+  },
+  {
+    "en": "I bought a VIP pass.",
+    "tr": "Bir VIP geçişi aldım.",
+    "level": "B1"
+  },
+  {
+    "en": "I broke up with Tom.",
+    "tr": "Tom'la ayrıldım.",
+    "level": "B1"
+  },
+  {
+    "en": "I called Tom a fool.",
+    "tr": "Tom'a aptal dedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I called Tom a taxi.",
+    "tr": "Tom'a bir taksi çağırdım.",
+    "level": "B1"
+  },
+  {
+    "en": "I came here by taxi.",
+    "tr": "Buraya taksi ile geldim.",
+    "level": "B1"
+  },
+  {
+    "en": "I came home by taxi.",
+    "tr": "Taksiyle eve geldim.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't add that up.",
+    "tr": "Bunu ekleyemiyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't find my bag.",
+    "tr": "Ben çantamı bulamıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't find my hat.",
+    "tr": "Şapkamı bulamıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't find my key.",
+    "tr": "Ben anahtarımı bulamıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't get over it.",
+    "tr": "Onu unutamıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't swim at all.",
+    "tr": "Ben hiç yüzemem.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't talk to Tom.",
+    "tr": "Tom'la konuşamam.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't wait to die.",
+    "tr": "Ölmek için sabırsızlanıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I counted up to 200.",
+    "tr": "200'e kadar saydım.",
+    "level": "B1"
+  },
+  {
+    "en": "I cried my eyes out.",
+    "tr": "Hüngür hüngür ağladım.",
+    "level": "B1"
+  },
+  {
+    "en": "I didn't cut it off.",
+    "tr": "Onu kesmedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I didn't let Tom in.",
+    "tr": "Tom'un içeri girmesine izin vermedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I didn't lie to Tom.",
+    "tr": "Tom'a yalan söylemedim.",
+    "level": "B1"
+  },
+  {
+    "en": "I didn't pick it up.",
+    "tr": "Onu kaldırmadım.",
+    "level": "B1"
+  },
+  {
+    "en": "I didn't set you up.",
+    "tr": "Sana tuzak kurmadım.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't care at all.",
+    "tr": "Hiç umursamıyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't ever say no.",
+    "tr": "Hiç hayır demem.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't go out much.",
+    "tr": "Çok dışarı çıkmam.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't mind at all.",
+    "tr": "Hiç umurumda değil.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need a cane.",
+    "tr": "Bir bastona ihtiyacım yok.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need a date.",
+    "tr": "Bir randevuya ihtiyacım yok.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need a ride.",
+    "tr": "Bir gezintiye ihtiyacım yok.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need an SUV.",
+    "tr": "Bir arazi aracına ihtiyacım yok.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't own a horse.",
+    "tr": "Ben bir ata sahip değilim.",
+    "level": "B1"
+  },
+  {
+    "en": "I eventually agreed.",
+    "tr": "Ben sonunda kabul ettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I feel kind of sick.",
+    "tr": "Biraz hasta hissediyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I fell into the mud.",
+    "tr": "Çamura düştüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I fell off the roof.",
+    "tr": "Ben çatıdan düştüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I felt a bit queasy.",
+    "tr": "Biraz kusacak gibi hissettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I felt a bit shaken.",
+    "tr": "Ben biraz sarsılmış hissettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I felt out of place.",
+    "tr": "Yabancılık hissediyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a brandy.",
+    "tr": "Tom'a bir brendi verdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a chance.",
+    "tr": "Tom'a bir şans verdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a choice.",
+    "tr": "Tom'a bir seçenek sundum.",
+    "level": "B1"
+  },
+  {
+    "en": "I get out of breath.",
+    "tr": "Nefes nefeseyim.",
+    "level": "B1"
+  },
+  {
+    "en": "I got a lucky break.",
+    "tr": "Şans yüzüme güldü.",
+    "level": "B1"
+  },
+  {
+    "en": "I got a weird email.",
+    "tr": "Garip bir e-posta aldım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got back into bed.",
+    "tr": "Yatağa geri döndüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I got even with Tom.",
+    "tr": "Tom'la hesaplaştım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got into the boat.",
+    "tr": "Tekneye bindim.",
+    "level": "B1"
+  },
+  {
+    "en": "I got that from Tom.",
+    "tr": "Onu Tom'dan aldım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got up about five.",
+    "tr": "Ben yaklaşık beşte kalktım.",
+    "level": "B1"
+  },
+  {
+    "en": "I got up at sunrise.",
+    "tr": "Gün doğumunda kalktım.",
+    "level": "B1"
+  },
+  {
+    "en": "I grew up in Boston.",
+    "tr": "Boston'da büyüdüm.",
+    "level": "B1"
+  },
+  {
+    "en": "I guess Tom is sick.",
+    "tr": "Sanırım Tom hasta.",
+    "level": "B1"
+  },
+  {
+    "en": "I hate being a boss.",
+    "tr": "Patron olmaktan nefret ediyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hate lying to Tom.",
+    "tr": "Tom'a yalan söylemekten nefret ediyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hate that so much.",
+    "tr": "Ondan çok nefret ediyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I heard Tom is sick.",
+    "tr": "Tom'un hasta olduğunu duydum.",
+    "level": "B1"
+  },
+  {
+    "en": "I heard a loud bang.",
+    "tr": "Ben gürültülü bir patlama duydum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope I don't lose.",
+    "tr": "Umarım kaybolmam.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope I'm not next.",
+    "tr": "Umarım sıradaki değilimdir.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom helps me.",
+    "tr": "Umarım Tom bana yardım eder.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is alive.",
+    "tr": "Umarım Tom yaşıyordur.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is awake.",
+    "tr": "Umarım Tom uyanıktır.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is ready.",
+    "tr": "Umarım Tom hazırdır.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is wrong.",
+    "tr": "Tom'un hatalı olduğunu umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom likes me.",
+    "tr": "Tom'un beni sevdiğini umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom says yes.",
+    "tr": "Umarım Tom evet der.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom will win.",
+    "tr": "Umarım Tom kazanır.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope he isn't ill.",
+    "tr": "Onun hasta olmadığını umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope it goes well.",
+    "tr": "Bunun iyi gideceğini umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope it went well.",
+    "tr": "Onun iyi gittiğini umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope it works out.",
+    "tr": "Onun başarılı olacağını umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope you find Tom.",
+    "tr": "Tom'u bulacağını umuyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I just feel so lost.",
+    "tr": "Sadece çok kaybolmuş hissediyorum.",
+    "level": "B1"
+  },
+  {
+    "en": "I just got off duty.",
+    "tr": "Az önce izin aldım.",
+    "level": "B1"
+  },
+  {
+    "en": "I kind of liked Tom.",
+    "tr": "Ben Tom'u biraz sevdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I kind of messed up.",
+    "tr": "Ben az çok işi berbat ettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew I'd find you.",
+    "tr": "Seni bulacağımı biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew Tom liked me.",
+    "tr": "Tom'un benden hoşlandığını biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew Tom was busy.",
+    "tr": "Tom'un meşgul olduğunu biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew Tom was dead.",
+    "tr": "Tom'un öldüğünü biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew all about it.",
+    "tr": "Onun hakkında her şeyi biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew it all along.",
+    "tr": "Ben başından beri bunu biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew you'd be mad.",
+    "tr": "Kızacağını biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew you'd get it.",
+    "tr": "Onu alacağını biliyordum.",
+    "level": "B1"
+  },
+  {
+    "en": "I let down the rope.",
+    "tr": "Ben ipi indirdim.",
+    "level": "B1"
+  },
+  {
+    "en": "I let my guard down.",
+    "tr": "Tedbiri elden bıraktım.",
+    "level": "B1"
+  },
+  {
+    "en": "I let the team down.",
+    "tr": "Takımı hayal kırıklığına uğrattım.",
+    "level": "B1"
+  },
+  {
+    "en": "I lost sight of Tom.",
+    "tr": "Tom'u gözden kaybettim.",
+    "level": "B1"
+  },
+  {
+    "en": "I made a quick exit.",
+    "tr": "Hızlı bir çıkış yaptım.",
+    "level": "B1"
+  },
+  {
+    "en": "I made a wrong turn.",
+    "tr": "Ben yanlış yöne saptım.",
+    "level": "B1"
+  }
+]

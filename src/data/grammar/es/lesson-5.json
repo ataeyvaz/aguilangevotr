@@ -1,0 +1,58 @@
+{
+  "id": "es-lesson-5",
+  "lang": "es",
+  "lessonNumber": 5,
+  "title": "Nerede? Ne Zaman?",
+  "subtitle": "¿Dónde? / ¿Cuándo?",
+  "formula": "¿Dónde + está/están + ...? | ¿Cuándo + verbo + ...?",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "¿Dónde está el hospital?", "tr": "Hastane nerede?" },
+    { "type": "correct", "sentence": "¿Dónde están mis llaves?", "tr": "Anahtarlarım nerede?" },
+    { "type": "correct", "sentence": "¿Cuándo llega el autobús?", "tr": "Otobüs ne zaman geliyor?" },
+    { "type": "correct", "sentence": "¿Cuándo te despiertas?", "tr": "Sen ne zaman uyanıyorsun?" },
+    { "type": "wrong", "sentence": "¿Dónde están el hospital?", "tr": "", "note": "hospital tekil → está!" },
+    { "type": "wrong", "sentence": "¿Cuándo tú llegas?", "tr": "", "note": "Soru sözcüğünden sonra fiil gelir!" }
+  ],
+  "inputSentences": [
+    { "text": "¿Dónde está la farmacia más cercana?", "tr": "En yakın eczane nerede?" },
+    { "text": "¿Dónde están los estudiantes?", "tr": "Öğrenciler nerede?" },
+    { "text": "¿Cuándo empieza la película?", "tr": "Film ne zaman başlıyor?" },
+    { "text": "¿Cuándo abre la tienda?", "tr": "Dükkan ne zaman açılıyor?" },
+    { "text": "¿Dónde viven ellos?", "tr": "Onlar nerede yaşıyor?" }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "¿___ está el banco?",
+      "answer": "Dónde",
+      "hint": "Yer sorusu → ¿Dónde?"
+    },
+    {
+      "type": "build",
+      "words": ["el", "llega", "¿Cuándo", "tren"],
+      "answer": ["¿Cuándo", "llega", "el", "tren"],
+      "tr": "Tren ne zaman geliyor?"
+    },
+    {
+      "type": "fill",
+      "sentence": "¿___ están mis zapatos?",
+      "answer": "Dónde",
+      "hint": "Yer sorusu → ¿Dónde?"
+    },
+    {
+      "type": "build",
+      "words": ["duermes", "¿Cuándo", "tú"],
+      "answer": ["¿Cuándo", "duermes", "tú"],
+      "tr": "Sen ne zaman uyuyorsun?"
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Yol tarifi istiyorsun",
+    "lines": [
+      { "role": "A", "text": "Perdona, ¿dónde está la plaza mayor?", "tr": "Affedersiniz, ana meydan nerede?" },
+      { "role": "B", "text": "Está en el centro, a la izquierda del parque.", "tr": "Şehir merkezinde, parkın solunda." },
+      { "role": "A", "text": "¿Cuándo abre el mercado?", "tr": "Pazar ne zaman açılıyor?" },
+      { "role": "B", "text": "Abre a las ocho de la mañana.", "tr": "Sabah sekizde açılıyor." }
+    ]
+  }
+}

@@ -1,0 +1,858 @@
+{
+  "category": "colors",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "red",
+          "emoji": "🔴",
+          "word": "red",
+          "tr": "kırmızı",
+          "pron": "rɛd",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The apple is red.",
+              "tr": "Elma kırmızı.",
+              "words": [
+                "The",
+                "apple",
+                "is",
+                "red"
+              ]
+            },
+            {
+              "en": "I like red.",
+              "tr": "Kırmızıyı severim.",
+              "words": [
+                "I",
+                "like",
+                "red"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "blue",
+          "emoji": "🔵",
+          "word": "blue",
+          "tr": "mavi",
+          "pron": "bluː",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The sky is blue.",
+              "tr": "Gökyüzü mavi.",
+              "words": [
+                "The",
+                "sky",
+                "is",
+                "blue"
+              ]
+            },
+            {
+              "en": "I like blue.",
+              "tr": "Maviyi severim.",
+              "words": [
+                "I",
+                "like",
+                "blue"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "green",
+          "emoji": "🟢",
+          "word": "green",
+          "tr": "yeşil",
+          "pron": "ɡriːn",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The tree is green.",
+              "tr": "Ağaç yeşil.",
+              "words": [
+                "The",
+                "tree",
+                "is",
+                "green"
+              ]
+            },
+            {
+              "en": "I like green.",
+              "tr": "Yeşili severim.",
+              "words": [
+                "I",
+                "like",
+                "green"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "yellow",
+          "emoji": "🟡",
+          "word": "yellow",
+          "tr": "sarı",
+          "pron": "ˈjɛloʊ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The sun is yellow.",
+              "tr": "Güneş sarı.",
+              "words": [
+                "The",
+                "sun",
+                "is",
+                "yellow"
+              ]
+            },
+            {
+              "en": "I like yellow.",
+              "tr": "Sarıyı severim.",
+              "words": [
+                "I",
+                "like",
+                "yellow"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "orange",
+          "emoji": "🟠",
+          "word": "orange",
+          "tr": "turuncu",
+          "pron": "ˈɒrɪndʒ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The orange is sweet.",
+              "tr": "Portakal tatlı.",
+              "words": [
+                "The",
+                "orange",
+                "is",
+                "sweet"
+              ]
+            },
+            {
+              "en": "I drink orange juice.",
+              "tr": "Portakal suyu içiyorum.",
+              "words": [
+                "I",
+                "drink",
+                "orange",
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "purple",
+          "emoji": "🟣",
+          "word": "purple",
+          "tr": "mor",
+          "pron": "ˈpɜːpəl",
+          "level": "a1"
+        },
+        {
+          "id": "pink",
+          "emoji": "🌸",
+          "word": "pink",
+          "tr": "pembe",
+          "pron": "pɪŋk",
+          "level": "a1"
+        },
+        {
+          "id": "white",
+          "emoji": "⬜",
+          "word": "white",
+          "tr": "beyaz",
+          "pron": "waɪt",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "Snow is white.",
+              "tr": "Kar beyaz.",
+              "words": [
+                "Snow",
+                "is",
+                "white"
+              ]
+            },
+            {
+              "en": "I like white.",
+              "tr": "Beyazı severim.",
+              "words": [
+                "I",
+                "like",
+                "white"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "black",
+          "emoji": "⬛",
+          "word": "black",
+          "tr": "siyah",
+          "pron": "blæk",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The night is black.",
+              "tr": "Gece siyah.",
+              "words": [
+                "The",
+                "night",
+                "is",
+                "black"
+              ]
+            },
+            {
+              "en": "I like black.",
+              "tr": "Siyahı severim.",
+              "words": [
+                "I",
+                "like",
+                "black"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "brown",
+          "emoji": "🟫",
+          "word": "brown",
+          "tr": "kahverengi",
+          "pron": "braʊn",
+          "level": "a1"
+        },
+        {
+          "id": "gray",
+          "emoji": "🌫️",
+          "word": "gray",
+          "tr": "gri",
+          "pron": "ɡreɪ",
+          "level": "a1"
+        },
+        {
+          "id": "gold",
+          "emoji": "🏅",
+          "word": "gold",
+          "tr": "altın",
+          "pron": "ɡoʊld",
+          "level": "a1"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "red",
+          "emoji": "🔴",
+          "word": "rot",
+          "tr": "kırmızı",
+          "pron": "roːt",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Apfel ist rot.",
+              "tr": "Elma kırmızı.",
+              "words": [
+                "Der",
+                "Apfel",
+                "ist",
+                "rot"
+              ]
+            },
+            {
+              "text": "Ich mag Rot.",
+              "tr": "Kırmızıyı severim.",
+              "words": [
+                "Ich",
+                "mag",
+                "Rot"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "blue",
+          "emoji": "🔵",
+          "word": "blau",
+          "tr": "mavi",
+          "pron": "blaʊ",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Himmel ist blau.",
+              "tr": "Gökyüzü mavi.",
+              "words": [
+                "Der",
+                "Himmel",
+                "ist",
+                "blau"
+              ]
+            },
+            {
+              "text": "Ich mag Blau.",
+              "tr": "Maviyi severim.",
+              "words": [
+                "Ich",
+                "mag",
+                "Blau"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "green",
+          "emoji": "🟢",
+          "word": "grün",
+          "tr": "yeşil",
+          "pron": "ɡryːn",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Baum ist grün.",
+              "tr": "Ağaç yeşil.",
+              "words": [
+                "Der",
+                "Baum",
+                "ist",
+                "grün"
+              ]
+            },
+            {
+              "text": "Ich mag Grün.",
+              "tr": "Yeşili severim.",
+              "words": [
+                "Ich",
+                "mag",
+                "Grün"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "yellow",
+          "emoji": "🟡",
+          "word": "gelb",
+          "tr": "sarı",
+          "pron": "ɡɛlp",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The sun is yellow.",
+              "tr": "Güneş sarı.",
+              "words": [
+                "The",
+                "sun",
+                "is",
+                "yellow"
+              ]
+            },
+            {
+              "en": "I like yellow.",
+              "tr": "Sarıyı severim.",
+              "words": [
+                "I",
+                "like",
+                "yellow"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "orange",
+          "emoji": "🟠",
+          "word": "orange",
+          "tr": "turuncu",
+          "pron": "oˈraŋʒ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The orange is sweet.",
+              "tr": "Portakal tatlı.",
+              "words": [
+                "The",
+                "orange",
+                "is",
+                "sweet"
+              ]
+            },
+            {
+              "en": "I drink orange juice.",
+              "tr": "Portakal suyu içiyorum.",
+              "words": [
+                "I",
+                "drink",
+                "orange",
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "purple",
+          "emoji": "🟣",
+          "word": "lila",
+          "tr": "mor",
+          "pron": "ˈliːla",
+          "level": "a1"
+        },
+        {
+          "id": "pink",
+          "emoji": "🌸",
+          "word": "rosa",
+          "tr": "pembe",
+          "pron": "ˈroːza",
+          "level": "a1"
+        },
+        {
+          "id": "white",
+          "emoji": "⬜",
+          "word": "weiß",
+          "tr": "beyaz",
+          "pron": "vaɪs",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "Snow is white.",
+              "tr": "Kar beyaz.",
+              "words": [
+                "Snow",
+                "is",
+                "white"
+              ]
+            },
+            {
+              "en": "I like white.",
+              "tr": "Beyazı severim.",
+              "words": [
+                "I",
+                "like",
+                "white"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "black",
+          "emoji": "⬛",
+          "word": "schwarz",
+          "tr": "siyah",
+          "pron": "ʃvarts",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The night is black.",
+              "tr": "Gece siyah.",
+              "words": [
+                "The",
+                "night",
+                "is",
+                "black"
+              ]
+            },
+            {
+              "en": "I like black.",
+              "tr": "Siyahı severim.",
+              "words": [
+                "I",
+                "like",
+                "black"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "brown",
+          "emoji": "🟫",
+          "word": "braun",
+          "tr": "kahverengi",
+          "pron": "braʊn",
+          "level": "a1"
+        },
+        {
+          "id": "gray",
+          "emoji": "🌫️",
+          "word": "grau",
+          "tr": "gri",
+          "pron": "ɡraʊ",
+          "level": "a1"
+        },
+        {
+          "id": "gold",
+          "emoji": "🏅",
+          "word": "Gold",
+          "tr": "altın",
+          "pron": "ɡɔlt",
+          "level": "a1"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "red",
+          "emoji": "🔴",
+          "word": "rojo",
+          "tr": "kırmızı",
+          "pron": "ˈroxo",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "La manzana es roja.",
+              "tr": "Elma kırmızı.",
+              "words": [
+                "La",
+                "manzana",
+                "es",
+                "roja"
+              ]
+            },
+            {
+              "text": "Me gusta el rojo.",
+              "tr": "Kırmızıyı severim.",
+              "words": [
+                "Me",
+                "gusta",
+                "el",
+                "rojo"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "blue",
+          "emoji": "🔵",
+          "word": "azul",
+          "tr": "mavi",
+          "pron": "aˈθul",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "El cielo es azul.",
+              "tr": "Gökyüzü mavi.",
+              "words": [
+                "El",
+                "cielo",
+                "es",
+                "azul"
+              ]
+            },
+            {
+              "text": "Me gusta el azul.",
+              "tr": "Maviyi severim.",
+              "words": [
+                "Me",
+                "gusta",
+                "el",
+                "azul"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "green",
+          "emoji": "🟢",
+          "word": "verde",
+          "tr": "yeşil",
+          "pron": "ˈberde",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "El árbol es verde.",
+              "tr": "Ağaç yeşil.",
+              "words": [
+                "El",
+                "árbol",
+                "es",
+                "verde"
+              ]
+            },
+            {
+              "text": "Me gusta el verde.",
+              "tr": "Yeşili severim.",
+              "words": [
+                "Me",
+                "gusta",
+                "el",
+                "verde"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "yellow",
+          "emoji": "🟡",
+          "word": "amarillo",
+          "tr": "sarı",
+          "pron": "amaˈriʎo",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The sun is yellow.",
+              "tr": "Güneş sarı.",
+              "words": [
+                "The",
+                "sun",
+                "is",
+                "yellow"
+              ]
+            },
+            {
+              "en": "I like yellow.",
+              "tr": "Sarıyı severim.",
+              "words": [
+                "I",
+                "like",
+                "yellow"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "orange",
+          "emoji": "🟠",
+          "word": "naranja",
+          "tr": "turuncu",
+          "pron": "naˈranxa",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The orange is sweet.",
+              "tr": "Portakal tatlı.",
+              "words": [
+                "The",
+                "orange",
+                "is",
+                "sweet"
+              ]
+            },
+            {
+              "en": "I drink orange juice.",
+              "tr": "Portakal suyu içiyorum.",
+              "words": [
+                "I",
+                "drink",
+                "orange",
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "purple",
+          "emoji": "🟣",
+          "word": "morado",
+          "tr": "mor",
+          "pron": "moˈraðo",
+          "level": "a1"
+        },
+        {
+          "id": "pink",
+          "emoji": "🌸",
+          "word": "rosa",
+          "tr": "pembe",
+          "pron": "ˈrosa",
+          "level": "a1"
+        },
+        {
+          "id": "white",
+          "emoji": "⬜",
+          "word": "blanco",
+          "tr": "beyaz",
+          "pron": "ˈblanko",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "Snow is white.",
+              "tr": "Kar beyaz.",
+              "words": [
+                "Snow",
+                "is",
+                "white"
+              ]
+            },
+            {
+              "en": "I like white.",
+              "tr": "Beyazı severim.",
+              "words": [
+                "I",
+                "like",
+                "white"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "black",
+          "emoji": "⬛",
+          "word": "negro",
+          "tr": "siyah",
+          "pron": "ˈneɣro",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The night is black.",
+              "tr": "Gece siyah.",
+              "words": [
+                "The",
+                "night",
+                "is",
+                "black"
+              ]
+            },
+            {
+              "en": "I like black.",
+              "tr": "Siyahı severim.",
+              "words": [
+                "I",
+                "like",
+                "black"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "brown",
+          "emoji": "🟫",
+          "word": "marrón",
+          "tr": "kahverengi",
+          "pron": "maˈron",
+          "level": "a1"
+        },
+        {
+          "id": "gray",
+          "emoji": "🌫️",
+          "word": "gris",
+          "tr": "gri",
+          "pron": "ɡris",
+          "level": "a1"
+        },
+        {
+          "id": "gold",
+          "emoji": "🏅",
+          "word": "dorado",
+          "tr": "altın",
+          "pron": "doˈraðo",
+          "level": "a1"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "red",
+          "emoji": "🔴",
+          "word": "vermelho",
+          "tr": "kırmızı",
+          "pron": "veʁˈmeʎu",
+          "level": "a1"
+        },
+        {
+          "id": "blue",
+          "emoji": "🔵",
+          "word": "azul",
+          "tr": "mavi",
+          "pron": "aˈzuw",
+          "level": "a1"
+        },
+        {
+          "id": "green",
+          "emoji": "🟢",
+          "word": "verde",
+          "tr": "yeşil",
+          "pron": "ˈveʁdi",
+          "level": "a1"
+        },
+        {
+          "id": "yellow",
+          "emoji": "🟡",
+          "word": "amarelo",
+          "tr": "sarı",
+          "pron": "amaˈɾelu",
+          "level": "a1"
+        },
+        {
+          "id": "orange",
+          "emoji": "🟠",
+          "word": "laranja",
+          "tr": "turuncu",
+          "pron": "laˈɾɐ̃ʒa",
+          "level": "a1"
+        },
+        {
+          "id": "purple",
+          "emoji": "🟣",
+          "word": "roxo",
+          "tr": "mor",
+          "pron": "ˈʁoʃu",
+          "level": "a1"
+        },
+        {
+          "id": "pink",
+          "emoji": "🌸",
+          "word": "rosa",
+          "tr": "pembe",
+          "pron": "ˈʁoza",
+          "level": "a1"
+        },
+        {
+          "id": "white",
+          "emoji": "⬜",
+          "word": "branco",
+          "tr": "beyaz",
+          "pron": "ˈbɾɐ̃ku",
+          "level": "a1"
+        },
+        {
+          "id": "black",
+          "emoji": "⬛",
+          "word": "preto",
+          "tr": "siyah",
+          "pron": "ˈpɾetu",
+          "level": "a1"
+        },
+        {
+          "id": "brown",
+          "emoji": "🟫",
+          "word": "marrom",
+          "tr": "kahverengi",
+          "pron": "maˈʁõw",
+          "level": "a1"
+        },
+        {
+          "id": "gray",
+          "emoji": "🌫️",
+          "word": "cinza",
+          "tr": "gri",
+          "pron": "ˈsĩza",
+          "level": "a1"
+        },
+        {
+          "id": "gold",
+          "emoji": "🏅",
+          "word": "dourado",
+          "tr": "altın",
+          "pron": "doˈɾadu",
+          "level": "a1"
+        }
+      ]
+    }
+  }
+}

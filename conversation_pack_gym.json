@@ -1,0 +1,47 @@
+{
+  "scenario": "gym",
+  "language": "pt",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "Você já tem uma conta na academia?",
+      "expected": "Não, quero fazer uma matrícula.",
+      "hint": "Say you want to sign up"
+    },
+    {
+      "bot": "Qual é o seu objetivo na academia?",
+      "expected": "Quero perder peso e ganhar massa muscular.",
+      "hint": "Say you want to lose weight and gain muscle"
+    },
+    {
+      "bot": "Você precisa de um instrutor pessoal?",
+      "expected": "Sim, quero um instrutor para me ajudar.",
+      "hint": "Say you want an instructor to help you"
+    },
+    {
+      "bot": "Quantas vezes por semana você vai treinar?",
+      "expected": "Vou treinar três vezes por semana.",
+      "hint": "Say you will train three times a week"
+    },
+    {
+      "bot": "Você já usou este equipamento antes?",
+      "expected": "Não, nunca usei este aparelho.",
+      "hint": "Say you've never used this machine before"
+    },
+    {
+      "bot": "Quanto tempo você quer ficar na esteira?",
+      "expected": "Quero correr por trinta minutos, por favor.",
+      "hint": "Say you want to run for thirty minutes"
+    },
+    {
+      "bot": "Você gostaria de participar das aulas coletivas?",
+      "expected": "Sim, quero fazer aula de spinning.",
+      "hint": "Say you want to take spinning class"
+    },
+    {
+      "bot": "Precisa de ajuda para ajustar o peso da máquina?",
+      "expected": "Sim, pode colocar vinte quilos, por favor.",
+      "hint": "Ask them to put twenty kilos"
+    }
+  ]
+}

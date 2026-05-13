@@ -1,0 +1,4322 @@
+[
+  {
+    "word": "win",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Winning games with friends",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Te gusta ganar juegos?",
+        "options": [
+          "Yes, I win every time I play.",
+          "No, I prefer sleeping.",
+          "I win on the moon.",
+          "I eat win."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Win' means ganar.",
+        "feedback_wrong": "The answer is: Yes, I win every time I play."
+      },
+      {
+        "bot": "What do you win when you play?",
+        "options": [
+          "I win a trophy.",
+          "I win in the refrigerator.",
+          "I win when I sleep.",
+          "I win with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Trophy es trofeo.",
+        "feedback_wrong": "The answer is: I win a trophy."
+      },
+      {
+        "bot": "¿A qué hora ganas?",
+        "options": [
+          "I win after school.",
+          "I win inside the oven.",
+          "I win in my sleep.",
+          "I win on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I win after school."
+      }
+    ]
+  },
+  {
+    "word": "win",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past winning experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo ganaste tu primer juego?",
+        "options": [
+          "I won my first game last year.",
+          "I win my first game last year.",
+          "I have won my first game last year.",
+          "I am winning my first game last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Won' es el pasado de 'win'.",
+        "feedback_wrong": "The answer is: I won my first game last year."
+      },
+      {
+        "bot": "Have you ever won a competition?",
+        "options": [
+          "Yes, I have won a spelling bee.",
+          "Yes, I won a spelling bee yesterday.",
+          "No, I never winning competitions.",
+          "No, I don't like competitions because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have won a spelling bee."
+      },
+      {
+        "bot": "¿Qué hacías antes de ganar?",
+        "options": [
+          "I practice before winning.",
+          "I sleep before winning.",
+          "I eat a big meal before winning.",
+          "I watch TV before winning."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Practice es practicar.",
+        "feedback_wrong": "The answer is: I practice before winning."
+      }
+    ]
+  },
+  {
+    "word": "win",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'win'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I've been working hard, but I can't win them over. What should I do?",
+        "options": [
+          "You should be more friendly to convince them.",
+          "You should win them over the fence.",
+          "You should stop winning and start sleeping.",
+          "You should eat them to win."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Win them over' means convencer a otros.",
+        "feedback_wrong": "The answer is: You should be more friendly to convince them."
+      },
+      {
+        "bot": "¿Has oído 'win hands down'?",
+        "options": [
+          "Yes, it means to win easily.",
+          "Yes, it means to win with your hands.",
+          "No, but I know 'win feet down'.",
+          "No, I prefer losing."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre ganar sin esfuerzo.",
+        "feedback_wrong": "The answer is: Yes, it means to win easily."
+      },
+      {
+        "bot": "The team is winning by a landslide, but we need to stay focused.",
+        "options": [
+          "That means they are winning by a large margin.",
+          "That means they are winning in a landslide.",
+          "That means the team is sleeping.",
+          "That means we should eat instead of winning."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Win by a landslide' means ganar por goleada.",
+        "feedback_wrong": "The answer is: That means they are winning by a large margin."
+      }
+    ]
+  },
+  {
+    "word": "offer",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Offering help to friends",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Ofreces ayuda a tus amigos?",
+        "options": [
+          "Yes, I offer help when they need it.",
+          "No, I prefer sleeping.",
+          "I offer on the moon.",
+          "I eat offer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Offer' means ofrecer.",
+        "feedback_wrong": "The answer is: Yes, I offer help when they need it."
+      },
+      {
+        "bot": "What do you offer to your family?",
+        "options": [
+          "I offer to cook dinner.",
+          "I offer in the refrigerator.",
+          "I offer when I sleep.",
+          "I offer with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Cook dinner es cocinar la cena.",
+        "feedback_wrong": "The answer is: I offer to cook dinner."
+      },
+      {
+        "bot": "¿A qué hora ofreces ayuda?",
+        "options": [
+          "I offer help after school.",
+          "I offer help inside the oven.",
+          "I offer help in my sleep.",
+          "I offer help on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I offer help after school."
+      }
+    ]
+  },
+  {
+    "word": "offer",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past offers and experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo ofreciste tu primera ayuda?",
+        "options": [
+          "I offered help last year.",
+          "I offer help last year.",
+          "I have offered help last year.",
+          "I am offering help last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Offered' es el pasado de 'offer'.",
+        "feedback_wrong": "The answer is: I offered help last year."
+      },
+      {
+        "bot": "Have you ever offered to volunteer?",
+        "options": [
+          "Yes, I have offered to volunteer at the library.",
+          "Yes, I offered to volunteer yesterday.",
+          "No, I never offering help.",
+          "No, I don't like volunteering because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have offered to volunteer at the library."
+      },
+      {
+        "bot": "¿Qué hacías antes de ofrecer ayuda?",
+        "options": [
+          "I ask if they need help first.",
+          "I sleep before offering help.",
+          "I eat a big meal before offering help.",
+          "I watch TV before offering help."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Ask es preguntar.",
+        "feedback_wrong": "The answer is: I ask if they need help first."
+      }
+    ]
+  },
+  {
+    "word": "offer",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'offer'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I've been offered a new job, but I'm not sure if I should take it. What do you think?",
+        "options": [
+          "You should consider the pros and cons first.",
+          "You should offer the job to someone else.",
+          "You should stop offering and start sleeping.",
+          "You should eat the job offer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Offer a job' means ofrecer un empleo.",
+        "feedback_wrong": "The answer is: You should consider the pros and cons first."
+      },
+      {
+        "bot": "¿Has oído 'offer an olive branch'?",
+        "options": [
+          "Yes, it means to make peace with someone.",
+          "Yes, it means to offer a branch to someone.",
+          "No, but I know 'offer an apple'.",
+          "No, I prefer fighting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre reconciliarse.",
+        "feedback_wrong": "The answer is: Yes, it means to make peace with someone."
+      },
+      {
+        "bot": "The store is offering a discount, but we need to check the quality first.",
+        "options": [
+          "That means the store is giving a price reduction.",
+          "That means the store is offering the discount to the moon.",
+          "That means the store is sleeping.",
+          "That means we should eat the discount."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Offer a discount' means ofrecer un descuento.",
+        "feedback_wrong": "The answer is: That means the store is giving a price reduction."
+      }
+    ]
+  },
+  {
+    "word": "remember",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Remembering birthdays",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Recuerdas los cumpleaños de tus amigos?",
+        "options": [
+          "Yes, I remember all their birthdays.",
+          "No, I prefer sleeping.",
+          "I remember on the moon.",
+          "I eat remember."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Remember' means recordar.",
+        "feedback_wrong": "The answer is: Yes, I remember all their birthdays."
+      },
+      {
+        "bot": "What do you remember about your last trip?",
+        "options": [
+          "I remember the beach.",
+          "I remember the refrigerator.",
+          "I remember when I sleep.",
+          "I remember with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Beach es playa.",
+        "feedback_wrong": "The answer is: I remember the beach."
+      },
+      {
+        "bot": "¿A qué hora recuerdas tus tareas?",
+        "options": [
+          "I remember my homework after school.",
+          "I remember my homework inside the oven.",
+          "I remember my homework in my sleep.",
+          "I remember my homework on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Homework es tarea.",
+        "feedback_wrong": "The answer is: I remember my homework after school."
+      }
+    ]
+  },
+  {
+    "word": "remember",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past memories",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo recordaste tu primera lección?",
+        "options": [
+          "I remembered my first lesson last year.",
+          "I remember my first lesson last year.",
+          "I have remembered my first lesson last year.",
+          "I am remembering my first lesson last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Remembered' es el pasado de 'remember'.",
+        "feedback_wrong": "The answer is: I remembered my first lesson last year."
+      },
+      {
+        "bot": "Have you ever remembered a forgotten birthday?",
+        "options": [
+          "Yes, I have remembered my mom's birthday.",
+          "Yes, I remembered my mom's birthday yesterday.",
+          "No, I never remembering birthdays.",
+          "No, I don't like birthdays because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have remembered my mom's birthday."
+      },
+      {
+        "bot": "¿Qué hacías antes de recordar?",
+        "options": [
+          "I write notes to help me remember.",
+          "I sleep before remembering.",
+          "I eat a big meal before remembering.",
+          "I watch TV before remembering."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Write notes es escribir notas.",
+        "feedback_wrong": "The answer is: I write notes to help me remember."
+      }
+    ]
+  },
+  {
+    "word": "remember",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'remember'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I've been working for years, but I can't remember names. What should I do?",
+        "options": [
+          "You should write down names to remember them.",
+          "You should remember names on the moon.",
+          "You should stop remembering and start sleeping.",
+          "You should eat names to remember."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Remember names' means recordar nombres.",
+        "feedback_wrong": "The answer is: You should write down names to remember them."
+      },
+      {
+        "bot": "¿Has oído 'remember the good old days'?",
+        "options": [
+          "Yes, it means to think about happy past times.",
+          "Yes, it means to remember old days literally.",
+          "No, but I know 'remember the bad days'.",
+          "No, I prefer forgetting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre nostalgia.",
+        "feedback_wrong": "The answer is: Yes, it means to think about happy past times."
+      },
+      {
+        "bot": "The rule is easy to remember, but we need to practice it.",
+        "options": [
+          "That means the rule is simple to memorize.",
+          "That means the rule is remembering us.",
+          "That means the rule is sleeping.",
+          "That means we should eat the rule."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Easy to remember' means fácil de recordar.",
+        "feedback_wrong": "The answer is: That means the rule is simple to memorize."
+      }
+    ]
+  },
+  {
+    "word": "love",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Loving hobbies",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Te encanta jugar al fútbol?",
+        "options": [
+          "Yes, I love playing soccer.",
+          "No, I prefer sleeping.",
+          "I love on the moon.",
+          "I eat love."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Love' means amar/encantar.",
+        "feedback_wrong": "The answer is: Yes, I love playing soccer."
+      },
+      {
+        "bot": "What do you love to do after school?",
+        "options": [
+          "I love to draw pictures.",
+          "I love to draw in the refrigerator.",
+          "I love to draw when I sleep.",
+          "I love to draw with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Draw pictures es dibujar.",
+        "feedback_wrong": "The answer is: I love to draw pictures."
+      },
+      {
+        "bot": "¿A qué hora haces lo que amas?",
+        "options": [
+          "I do what I love after school.",
+          "I do what I love inside the oven.",
+          "I do what I love in my sleep.",
+          "I do what I love on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I do what I love after school."
+      }
+    ]
+  },
+  {
+    "word": "love",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past loves and experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo empezaste a amar la música?",
+        "options": [
+          "I started loving music last year.",
+          "I will start loving music tomorrow.",
+          "I loved music when I was child.",
+          "I starting loving music now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! Usamos 'started' para el pasado.",
+        "feedback_wrong": "The answer is: I started loving music last year."
+      },
+      {
+        "bot": "Have you ever loved a book so much you read it twice?",
+        "options": [
+          "Yes, I have loved 'Harry Potter' for years.",
+          "Yes, I loved 'Harry Potter' yesterday.",
+          "No, I never loving books.",
+          "No, I don't like books because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have loved 'Harry Potter' for years."
+      },
+      {
+        "bot": "¿Qué hacías cuando amabas dibujar?",
+        "options": [
+          "I drew every day after school.",
+          "I sleep every day.",
+          "I eat every day.",
+          "I run every day."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Past continuous para hábitos pasados.",
+        "feedback_wrong": "The answer is: I drew every day after school."
+      }
+    ]
+  },
+  {
+    "word": "love",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'love'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I love my job to bits, but I'm stressed. What should I do?",
+        "options": [
+          "You should take breaks to reduce stress.",
+          "You should love your job to the moon.",
+          "You should stop loving and start sleeping.",
+          "You should eat your job."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Love to bits' means amar profundamente.",
+        "feedback_wrong": "The answer is: You should take breaks to reduce stress."
+      },
+      {
+        "bot": "¿Has oído 'love at first sight'?",
+        "options": [
+          "Yes, it means to fall in love immediately.",
+          "Yes, it means to love what you see first.",
+          "No, but I know 'love at first bite'.",
+          "No, I prefer hating."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre enamorarse al instante.",
+        "feedback_wrong": "The answer is: Yes, it means to fall in love immediately."
+      },
+      {
+        "bot": "The crowd loved the performance, but we need to improve.",
+        "options": [
+          "That means the audience really enjoyed it.",
+          "That means the crowd loved the performance to the moon.",
+          "That means the crowd is sleeping.",
+          "That means we should eat the performance."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Loved the performance' means disfrutar mucho.",
+        "feedback_wrong": "The answer is: That means the audience really enjoyed it."
+      }
+    ]
+  },
+  {
+    "word": "consider",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Considering simple choices",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Consideras jugar al fútbol?",
+        "options": [
+          "Yes, I consider playing soccer.",
+          "No, I prefer sleeping.",
+          "I consider on the moon.",
+          "I eat consider."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Consider' means considerar.",
+        "feedback_wrong": "The answer is: Yes, I consider playing soccer."
+      },
+      {
+        "bot": "What do you consider doing this weekend?",
+        "options": [
+          "I consider going to the park.",
+          "I consider going to the refrigerator.",
+          "I consider going when I sleep.",
+          "I consider going with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Go to the park es ir al parque.",
+        "feedback_wrong": "The answer is: I consider going to the park."
+      },
+      {
+        "bot": "¿A qué hora consideras tus opciones?",
+        "options": [
+          "I consider my options after school.",
+          "I consider my options inside the oven.",
+          "I consider my options in my sleep.",
+          "I consider my options on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Options es opciones.",
+        "feedback_wrong": "The answer is: I consider my options after school."
+      }
+    ]
+  },
+  {
+    "word": "consider",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past considerations",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo consideraste cambiar de escuela?",
+        "options": [
+          "I considered changing schools last year.",
+          "I consider changing schools last year.",
+          "I have considered changing schools last year.",
+          "I am considering changing schools last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Considered' es el pasado de 'consider'.",
+        "feedback_wrong": "The answer is: I considered changing schools last year."
+      },
+      {
+        "bot": "Have you ever considered learning a new language?",
+        "options": [
+          "Yes, I have considered learning French.",
+          "Yes, I considered learning French yesterday.",
+          "No, I never considering languages.",
+          "No, I don't like languages because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have considered learning French."
+      },
+      {
+        "bot": "¿Qué hacías antes de considerar?",
+        "options": [
+          "I research my options first.",
+          "I sleep before considering.",
+          "I eat a big meal before considering.",
+          "I watch TV before considering."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Research es investigar.",
+        "feedback_wrong": "The answer is: I research my options first."
+      }
+    ]
+  },
+  {
+    "word": "consider",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'consider'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I'm considering quitting my job, but I'm not sure. What do you think?",
+        "options": [
+          "You should list the pros and cons first.",
+          "You should consider quitting on the moon.",
+          "You should stop considering and start sleeping.",
+          "You should eat your job."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Consider quitting' means pensar en dejar.",
+        "feedback_wrong": "The answer is: You should list the pros and cons first."
+      },
+      {
+        "bot": "¿Has oído 'consider the source'?",
+        "options": [
+          "Yes, it means to check if the information is reliable.",
+          "Yes, it means to consider where something comes from literally.",
+          "No, but I know 'consider the sink'.",
+          "No, I prefer ignoring sources."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre verificar información.",
+        "feedback_wrong": "The answer is: Yes, it means to check if the information is reliable."
+      },
+      {
+        "bot": "The plan is under consideration, but we need to act fast.",
+        "options": [
+          "That means the plan is being reviewed.",
+          "That means the plan is considering us.",
+          "That means the plan is sleeping.",
+          "That means we should eat the plan."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Under consideration' means en revisión.",
+        "feedback_wrong": "The answer is: That means the plan is being reviewed."
+      }
+    ]
+  },
+  {
+    "word": "buy",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Buying snacks at the store",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Compras dulces en la tienda?",
+        "options": [
+          "Yes, I buy candy every week.",
+          "No, I prefer sleeping.",
+          "I buy on the moon.",
+          "I eat buy."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Buy' means comprar.",
+        "feedback_wrong": "The answer is: Yes, I buy candy every week."
+      },
+      {
+        "bot": "What do you buy for your lunch?",
+        "options": [
+          "I buy a sandwich.",
+          "I buy a sandwich in the refrigerator.",
+          "I buy a sandwich when I sleep.",
+          "I buy a sandwich with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Sandwich es sándwich.",
+        "feedback_wrong": "The answer is: I buy a sandwich."
+      },
+      {
+        "bot": "¿A qué hora compras comida?",
+        "options": [
+          "I buy food after school.",
+          "I buy food inside the oven.",
+          "I buy food in my sleep.",
+          "I buy food on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I buy food after school."
+      }
+    ]
+  },
+  {
+    "word": "buy",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past buying experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo compraste tu primer libro?",
+        "options": [
+          "I bought my first book last year.",
+          "I buy my first book last year.",
+          "I have bought my first book last year.",
+          "I am buying my first book last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Bought' es el pasado de 'buy'.",
+        "feedback_wrong": "The answer is: I bought my first book last year."
+      },
+      {
+        "bot": "Have you ever bought a gift for a friend?",
+        "options": [
+          "Yes, I have bought a gift for my best friend.",
+          "Yes, I bought a gift yesterday.",
+          "No, I never buying gifts.",
+          "No, I don't like gifts because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have bought a gift for my best friend."
+      },
+      {
+        "bot": "¿Qué hacías antes de comprar?",
+        "options": [
+          "I check the price first.",
+          "I sleep before buying.",
+          "I eat a big meal before buying.",
+          "I watch TV before buying."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Check the price es revisar el precio.",
+        "feedback_wrong": "The answer is: I check the price first."
+      }
+    ]
+  },
+  {
+    "word": "buy",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'buy'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I bought a new phone, but it broke immediately. What should I do?",
+        "options": [
+          "You should return it to the store.",
+          "You should buy another one on the moon.",
+          "You should stop buying and start sleeping.",
+          "You should eat the phone."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Buy' means comprar.",
+        "feedback_wrong": "The answer is: You should return it to the store."
+      },
+      {
+        "bot": "¿Has oído 'buy time'?",
+        "options": [
+          "Yes, it means to delay something.",
+          "Yes, it means to buy more time literally.",
+          "No, but I know 'buy a clock'.",
+          "No, I prefer wasting time."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre retrasar algo.",
+        "feedback_wrong": "The answer is: Yes, it means to delay something."
+      },
+      {
+        "bot": "The idea is hard to buy, but we need to accept it.",
+        "options": [
+          "That means the idea is hard to believe.",
+          "That means the idea is buying us.",
+          "That means the idea is sleeping.",
+          "That means we should eat the idea."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Hard to buy' means difícil de creer.",
+        "feedback_wrong": "The answer is: That means the idea is hard to believe."
+      }
+    ]
+  },
+  {
+    "word": "wait",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Waiting for the bus",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Esperas el autobús por la mañana?",
+        "options": [
+          "Yes, I wait for the bus every day.",
+          "No, I prefer sleeping.",
+          "I wait on the moon.",
+          "I eat wait."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Wait' means esperar.",
+        "feedback_wrong": "The answer is: Yes, I wait for the bus every day."
+      },
+      {
+        "bot": "What do you wait for after school?",
+        "options": [
+          "I wait for my mom to pick me up.",
+          "I wait for my mom in the refrigerator.",
+          "I wait for my mom when I sleep.",
+          "I wait for my mom with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Pick me up es recogerme.",
+        "feedback_wrong": "The answer is: I wait for my mom to pick me up."
+      },
+      {
+        "bot": "¿A qué hora esperas?",
+        "options": [
+          "I wait at 3 PM after school.",
+          "I wait at 3 PM inside the oven.",
+          "I wait at 3 PM in my sleep.",
+          "I wait at 3 PM on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 3 PM es las 3 de la tarde.",
+        "feedback_wrong": "The answer is: I wait at 3 PM after school."
+      }
+    ]
+  },
+  {
+    "word": "wait",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past waiting experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo esperaste tu primer autobús?",
+        "options": [
+          "I waited for my first bus last year.",
+          "I wait for my first bus last year.",
+          "I have waited for my first bus last year.",
+          "I am waiting for my first bus last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Waited' es el pasado de 'wait'.",
+        "feedback_wrong": "The answer is: I waited for my first bus last year."
+      },
+      {
+        "bot": "Have you ever waited more than an hour for a friend?",
+        "options": [
+          "Yes, I have waited 2 hours for my friend.",
+          "Yes, I waited 2 hours yesterday.",
+          "No, I never waiting for friends.",
+          "No, I don't like waiting because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have waited 2 hours for my friend."
+      },
+      {
+        "bot": "¿Qué hacías mientras esperabas?",
+        "options": [
+          "I listen to music while waiting.",
+          "I sleep while waiting.",
+          "I eat a big meal while waiting.",
+          "I watch TV while waiting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Listen to music es escuchar música.",
+        "feedback_wrong": "The answer is: I listen to music while waiting."
+      }
+    ]
+  },
+  {
+    "word": "wait",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'wait'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I'm waiting for the right moment, but I'm getting impatient. What should I do?",
+        "options": [
+          "You should be patient a little longer.",
+          "You should wait on the moon.",
+          "You should stop waiting and start sleeping.",
+          "You should eat the moment."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Wait for the right moment' means esperar el momento oportuno.",
+        "feedback_wrong": "The answer is: You should be patient a little longer."
+      },
+      {
+        "bot": "¿Has oído 'wait and see'?",
+        "options": [
+          "Yes, it means to be patient and find out later.",
+          "Yes, it means to wait and look at something.",
+          "No, but I know 'wait and eat'.",
+          "No, I prefer acting immediately."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre ser paciente.",
+        "feedback_wrong": "The answer is: Yes, it means to be patient and find out later."
+      },
+      {
+        "bot": "The results are worth waiting for, but we need to be patient.",
+        "options": [
+          "That means the results are good enough to wait.",
+          "That means the results are waiting for us.",
+          "That means the results are sleeping.",
+          "That means we should eat the results."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Worth waiting for' means vale la pena esperar.",
+        "feedback_wrong": "The answer is: That means the results are good enough to wait."
+      }
+    ]
+  },
+  {
+    "word": "serve",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Serving food to family",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Sirves comida a tu familia?",
+        "options": [
+          "Yes, I serve dinner to my family.",
+          "No, I prefer sleeping.",
+          "I serve on the moon.",
+          "I eat serve."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Serve' means servir.",
+        "feedback_wrong": "The answer is: Yes, I serve dinner to my family."
+      },
+      {
+        "bot": "What do you serve at your birthday party?",
+        "options": [
+          "I serve cake and ice cream.",
+          "I serve cake in the refrigerator.",
+          "I serve cake when I sleep.",
+          "I serve cake with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Cake es pastel.",
+        "feedback_wrong": "The answer is: I serve cake and ice cream."
+      },
+      {
+        "bot": "¿A qué hora sirves la cena?",
+        "options": [
+          "I serve dinner at 7 PM.",
+          "I serve dinner at 7 PM inside the oven.",
+          "I serve dinner at 7 PM in my sleep.",
+          "I serve dinner at 7 PM on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 7 PM es las 7 de la tarde.",
+        "feedback_wrong": "The answer is: I serve dinner at 7 PM."
+      }
+    ]
+  },
+  {
+    "word": "serve",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past serving experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo serviste tu primera cena?",
+        "options": [
+          "I served dinner last year.",
+          "I serve dinner last year.",
+          "I have served dinner last year.",
+          "I am serving dinner last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Served' es el pasado de 'serve'.",
+        "feedback_wrong": "The answer is: I served dinner last year."
+      },
+      {
+        "bot": "Have you ever served food at a party?",
+        "options": [
+          "Yes, I have served food at my birthday party.",
+          "Yes, I served food yesterday.",
+          "No, I never serving food.",
+          "No, I don't like parties because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have served food at my birthday party."
+      },
+      {
+        "bot": "¿Qué hacías antes de servir?",
+        "options": [
+          "I prepare the food first.",
+          "I sleep before serving.",
+          "I eat a big meal before serving.",
+          "I watch TV before serving."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Prepare the food es preparar la comida.",
+        "feedback_wrong": "The answer is: I prepare the food first."
+      }
+    ]
+  },
+  {
+    "word": "serve",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'serve'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I serve my country in the army, but I miss my family. What should I do?",
+        "options": [
+          "You should call your family often.",
+          "You should serve your country on the moon.",
+          "You should stop serving and start sleeping.",
+          "You should eat your country."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Serve my country' means servir a mi país.",
+        "feedback_wrong": "The answer is: You should call your family often."
+      },
+      {
+        "bot": "¿Has oído 'serve someone right'?",
+        "options": [
+          "Yes, it means someone gets what they deserve.",
+          "Yes, it means to serve someone literally.",
+          "No, but I know 'serve someone left'.",
+          "No, I prefer ignoring people."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre recibir lo que mereces.",
+        "feedback_wrong": "The answer is: Yes, it means someone gets what they deserve."
+      },
+      {
+        "bot": "The punishment serves as a warning, but we need to be fair.",
+        "options": [
+          "That means the punishment is a warning example.",
+          "That means the punishment is serving us.",
+          "That means the punishment is sleeping.",
+          "That means we should eat the punishment."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Serve as a warning' means servir de advertencia.",
+        "feedback_wrong": "The answer is: That means the punishment is a warning example."
+      }
+    ]
+  },
+  {
+    "word": "send",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Sending messages to friends",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Envías mensajes a tus amigos?",
+        "options": [
+          "Yes, I send messages every day.",
+          "No, I prefer sleeping.",
+          "I send on the moon.",
+          "I eat send."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Send' means enviar.",
+        "feedback_wrong": "The answer is: Yes, I send messages every day."
+      },
+      {
+        "bot": "What do you send to your family?",
+        "options": [
+          "I send photos of my day.",
+          "I send photos in the refrigerator.",
+          "I send photos when I sleep.",
+          "I send photos with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Photos es fotos.",
+        "feedback_wrong": "The answer is: I send photos of my day."
+      },
+      {
+        "bot": "¿A qué hora envías mensajes?",
+        "options": [
+          "I send messages after school.",
+          "I send messages inside the oven.",
+          "I send messages in my sleep.",
+          "I send messages on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I send messages after school."
+      }
+    ]
+  },
+  {
+    "word": "send",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past sending experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo enviaste tu primer mensaje?",
+        "options": [
+          "I sent my first message last year.",
+          "I send my first message last year.",
+          "I have sent my first message last year.",
+          "I am sending my first message last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Sent' es el pasado de 'send'.",
+        "feedback_wrong": "The answer is: I sent my first message last year."
+      },
+      {
+        "bot": "Have you ever sent a letter to a pen pal?",
+        "options": [
+          "Yes, I have sent letters to my pen pal.",
+          "Yes, I sent a letter yesterday.",
+          "No, I never sending letters.",
+          "No, I don't like letters because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have sent letters to my pen pal."
+      },
+      {
+        "bot": "¿Qué hacías antes de enviar?",
+        "options": [
+          "I write the message first.",
+          "I sleep before sending.",
+          "I eat a big meal before sending.",
+          "I watch TV before sending."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Write the message es escribir el mensaje.",
+        "feedback_wrong": "The answer is: I write the message first."
+      }
+    ]
+  },
+  {
+    "word": "send",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'send'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I sent my resume to 10 companies, but no one replied. What should I do?",
+        "options": [
+          "You should follow up with a call.",
+          "You should send your resume to the moon.",
+          "You should stop sending and start sleeping.",
+          "You should eat your resume."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Send a resume' means enviar un currículum.",
+        "feedback_wrong": "The answer is: You should follow up with a call."
+      },
+      {
+        "bot": "¿Has oído 'send chills down your spine'?",
+        "options": [
+          "Yes, it means to feel scared or excited.",
+          "Yes, it means to send cold down your back.",
+          "No, but I know 'send heat down your spine'.",
+          "No, I prefer feeling nothing."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre sentir miedo o emoción.",
+        "feedback_wrong": "The answer is: Yes, it means to feel scared or excited."
+      },
+      {
+        "bot": "The news sent shockwaves through the team, but we need to adapt.",
+        "options": [
+          "That means the news surprised everyone greatly.",
+          "That means the news sent waves to the team.",
+          "That means the news is sleeping.",
+          "That means we should eat the news."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Send shockwaves' means causar gran impacto.",
+        "feedback_wrong": "The answer is: That means the news surprised everyone greatly."
+      }
+    ]
+  },
+  {
+    "word": "expect",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Expecting a gift",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Esperas un regalo para tu cumpleaños?",
+        "options": [
+          "Yes, I expect a new bike.",
+          "No, I prefer sleeping.",
+          "I expect on the moon.",
+          "I eat expect."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Expect' means esperar (algo que va a pasar).",
+        "feedback_wrong": "The answer is: Yes, I expect a new bike."
+      },
+      {
+        "bot": "What do you expect from your teacher?",
+        "options": [
+          "I expect fair grades.",
+          "I expect fair grades in the refrigerator.",
+          "I expect fair grades when I sleep.",
+          "I expect fair grades with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Fair grades es notas justas.",
+        "feedback_wrong": "The answer is: I expect fair grades."
+      },
+      {
+        "bot": "¿A qué hora esperas el autobús?",
+        "options": [
+          "I expect the bus at 8 AM.",
+          "I expect the bus at 8 AM inside the oven.",
+          "I expect the bus at 8 AM in my sleep.",
+          "I expect the bus at 8 AM on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 8 AM es las 8 de la mañana.",
+        "feedback_wrong": "The answer is: I expect the bus at 8 AM."
+      }
+    ]
+  },
+  {
+    "word": "expect",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past expectations",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo esperaste tu primer regalo?",
+        "options": [
+          "I expected my first gift last year.",
+          "I expect my first gift last year.",
+          "I have expected my first gift last year.",
+          "I am expecting my first gift last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Expected' es el pasado de 'expect'.",
+        "feedback_wrong": "The answer is: I expected my first gift last year."
+      },
+      {
+        "bot": "Have you ever expected too much from a movie?",
+        "options": [
+          "Yes, I have expected too much from 'Avatar'.",
+          "Yes, I expected too much yesterday.",
+          "No, I never expecting too much.",
+          "No, I don't like movies because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have expected too much from 'Avatar'."
+      },
+      {
+        "bot": "¿Qué hacías mientras esperabas?",
+        "options": [
+          "I read a book while expecting.",
+          "I sleep while expecting.",
+          "I eat a big meal while expecting.",
+          "I watch TV while expecting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Read a book es leer un libro.",
+        "feedback_wrong": "The answer is: I read a book while expecting."
+      }
+    ]
+  },
+  {
+    "word": "expect",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'expect'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I expect to finish the project by Friday, but I'm behind schedule. What should I do?",
+        "options": [
+          "You should work extra hours to catch up.",
+          "You should expect the project on the moon.",
+          "You should stop expecting and start sleeping.",
+          "You should eat the project."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Expect to finish' means esperar terminar.",
+        "feedback_wrong": "The answer is: You should work extra hours to catch up."
+      },
+      {
+        "bot": "¿Has oído 'expect the unexpected'?",
+        "options": [
+          "Yes, it means to be prepared for surprises.",
+          "Yes, it means to expect things that don't happen.",
+          "No, but I know 'expect the expected'.",
+          "No, I prefer being unprepared."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre estar preparado.",
+        "feedback_wrong": "The answer is: Yes, it means to be prepared for surprises."
+      },
+      {
+        "bot": "The results are better than expected, but we need to improve.",
+        "options": [
+          "That means the results are better than we thought.",
+          "That means the results are expecting us.",
+          "That means the results are sleeping.",
+          "That means we should eat the results."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Better than expected' means mejor de lo esperado.",
+        "feedback_wrong": "The answer is: That means the results are better than we thought."
+      }
+    ]
+  },
+  {
+    "word": "build",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Building with blocks",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Construyes con bloques?",
+        "options": [
+          "Yes, I build towers with blocks.",
+          "No, I prefer sleeping.",
+          "I build on the moon.",
+          "I eat build."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Build' means construir.",
+        "feedback_wrong": "The answer is: Yes, I build towers with blocks."
+      },
+      {
+        "bot": "What do you build with your friends?",
+        "options": [
+          "I build a castle with blocks.",
+          "I build a castle in the refrigerator.",
+          "I build a castle when I sleep.",
+          "I build a castle with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Castle es castillo.",
+        "feedback_wrong": "The answer is: I build a castle with blocks."
+      },
+      {
+        "bot": "¿A qué hora construyes?",
+        "options": [
+          "I build after school.",
+          "I build inside the oven.",
+          "I build in my sleep.",
+          "I build on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I build after school."
+      }
+    ]
+  },
+  {
+    "word": "build",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past building experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo construiste tu primera casa de bloques?",
+        "options": [
+          "I built my first block house last year.",
+          "I build my first block house last year.",
+          "I have built my first block house last year.",
+          "I am building my first block house last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Built' es el pasado de 'build'.",
+        "feedback_wrong": "The answer is: I built my first block house last year."
+      },
+      {
+        "bot": "Have you ever built a birdhouse?",
+        "options": [
+          "Yes, I have built a birdhouse with my dad.",
+          "Yes, I built a birdhouse yesterday.",
+          "No, I never building birdhouses.",
+          "No, I don't like birds because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have built a birdhouse with my dad."
+      },
+      {
+        "bot": "¿Qué hacías antes de construir?",
+        "options": [
+          "I gather materials first.",
+          "I sleep before building.",
+          "I eat a big meal before building.",
+          "I watch TV before building."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Gather materials es reunir materiales.",
+        "feedback_wrong": "The answer is: I gather materials first."
+      }
+    ]
+  },
+  {
+    "word": "build",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'build'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I'm building a new team, but it's taking time. What should I do?",
+        "options": [
+          "You should hire people with the right skills.",
+          "You should build a team on the moon.",
+          "You should stop building and start sleeping.",
+          "You should eat the team."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Build a team' means formar un equipo.",
+        "feedback_wrong": "The answer is: You should hire people with the right skills."
+      },
+      {
+        "bot": "¿Has oído 'build bridges'?",
+        "options": [
+          "Yes, it means to improve relationships.",
+          "Yes, it means to build actual bridges.",
+          "No, but I know 'build walls'.",
+          "No, I prefer destroying relationships."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre mejorar relaciones.",
+        "feedback_wrong": "The answer is: Yes, it means to improve relationships."
+      },
+      {
+        "bot": "The company is building a reputation, but we need to be consistent.",
+        "options": [
+          "That means the company is creating a good name.",
+          "That means the company is building a reputation on the moon.",
+          "That means the company is sleeping.",
+          "That means we should eat the reputation."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Build a reputation' means construir una reputación.",
+        "feedback_wrong": "The answer is: That means the company is creating a good name."
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Staying home on weekends",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Te quedas en casa los fines de semana?",
+        "options": [
+          "Yes, I stay home every weekend.",
+          "No, I prefer sleeping.",
+          "I stay on the moon.",
+          "I eat stay."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Stay' means quedarse.",
+        "feedback_wrong": "The answer is: Yes, I stay home every weekend."
+      },
+      {
+        "bot": "What do you do when you stay home?",
+        "options": [
+          "I watch movies and play games.",
+          "I watch movies in the refrigerator.",
+          "I watch movies when I sleep.",
+          "I watch movies with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Watch movies es ver películas.",
+        "feedback_wrong": "The answer is: I watch movies and play games."
+      },
+      {
+        "bot": "¿A qué hora te quedas en casa?",
+        "options": [
+          "I stay home after school.",
+          "I stay home inside the oven.",
+          "I stay home in my sleep.",
+          "I stay home on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I stay home after school."
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past staying experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo te quedaste en casa solo?",
+        "options": [
+          "I stayed home alone last year.",
+          "I stay home alone last year.",
+          "I have stayed home alone last year.",
+          "I am staying home alone last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Stayed' es el pasado de 'stay'.",
+        "feedback_wrong": "The answer is: I stayed home alone last year."
+      },
+      {
+        "bot": "Have you ever stayed in a hotel?",
+        "options": [
+          "Yes, I have stayed in a hotel in Paris.",
+          "Yes, I stayed in a hotel yesterday.",
+          "No, I never staying in hotels.",
+          "No, I don't like hotels because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have stayed in a hotel in Paris."
+      },
+      {
+        "bot": "¿Qué hacías mientras te quedabas en casa?",
+        "options": [
+          "I read books all day.",
+          "I sleep all day.",
+          "I eat all day.",
+          "I run all day."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Read books es leer libros.",
+        "feedback_wrong": "The answer is: I read books all day."
+      }
+    ]
+  },
+  {
+    "word": "stay",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'stay'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I'm staying positive, but things are hard. What should I do?",
+        "options": [
+          "You should keep your positive attitude.",
+          "You should stay positive on the moon.",
+          "You should stop staying and start sleeping.",
+          "You should eat positive thoughts."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Stay positive' means mantenerse positivo.",
+        "feedback_wrong": "The answer is: You should keep your positive attitude."
+      },
+      {
+        "bot": "¿Has oído 'stay tuned'?",
+        "options": [
+          "Yes, it means to keep watching or listening.",
+          "Yes, it means to stay tuned to a radio station.",
+          "No, but I know 'stay silent'.",
+          "No, I prefer changing channels."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre no perderse nada.",
+        "feedback_wrong": "The answer is: Yes, it means to keep watching or listening."
+      },
+      {
+        "bot": "The weather is staying warm, but we need to prepare for winter.",
+        "options": [
+          "That means the weather remains warm.",
+          "That means the weather is staying in the house.",
+          "That means the weather is sleeping.",
+          "That means we should eat the weather."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Stay warm' means mantenerse cálido.",
+        "feedback_wrong": "The answer is: That means the weather remains warm."
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Falling leaves in autumn",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Caen las hojas en otoño?",
+        "options": [
+          "Yes, leaves fall in autumn.",
+          "No, I prefer sleeping.",
+          "Leaves fall on the moon.",
+          "I eat fall."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Fall' means caer.",
+        "feedback_wrong": "The answer is: Yes, leaves fall in autumn."
+      },
+      {
+        "bot": "What happens when you fall?",
+        "options": [
+          "I get up and brush myself off.",
+          "I get up in the refrigerator.",
+          "I get up when I sleep.",
+          "I get up with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Brush off es sacudirse.",
+        "feedback_wrong": "The answer is: I get up and brush myself off."
+      },
+      {
+        "bot": "¿A qué hora caen las hojas?",
+        "options": [
+          "Leaves fall in autumn.",
+          "Leaves fall inside the oven.",
+          "Leaves fall in my sleep.",
+          "Leaves fall on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Autumn es otoño.",
+        "feedback_wrong": "The answer is: Leaves fall in autumn."
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past falling experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo te caíste por primera vez?",
+        "options": [
+          "I fell down last year playing soccer.",
+          "I fall down last year playing soccer.",
+          "I have fallen down last year playing soccer.",
+          "I am falling down last year playing soccer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Fell' es el pasado de 'fall'.",
+        "feedback_wrong": "The answer is: I fell down last year playing soccer."
+      },
+      {
+        "bot": "Have you ever fallen asleep in class?",
+        "options": [
+          "Yes, I have fallen asleep during math class.",
+          "Yes, I fell asleep yesterday.",
+          "No, I never falling asleep in class.",
+          "No, I don't like class because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have fallen asleep during math class."
+      },
+      {
+        "bot": "¿Qué hacías antes de caerte?",
+        "options": [
+          "I run too fast and trip.",
+          "I sleep before falling.",
+          "I eat a big meal before falling.",
+          "I watch TV before falling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Trip es tropezar.",
+        "feedback_wrong": "The answer is: I run too fast and trip."
+      }
+    ]
+  },
+  {
+    "word": "fall",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'fall'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I fell in love with this city, but I have to move. What should I do?",
+        "options": [
+          "You should visit often to stay connected.",
+          "You should fall in love on the moon.",
+          "You should stop falling and start sleeping.",
+          "You should eat the city."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Fall in love' means enamorarse.",
+        "feedback_wrong": "The answer is: You should visit often to stay connected."
+      },
+      {
+        "bot": "¿Has oído 'fall through'?",
+        "options": [
+          "Yes, it means a plan fails to happen.",
+          "Yes, it means to fall through a hole.",
+          "No, but I know 'fall over'.",
+          "No, I prefer successful plans."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre planes que fallan.",
+        "feedback_wrong": "The answer is: Yes, it means a plan fails to happen."
+      },
+      {
+        "bot": "The project fell behind schedule, but we need to catch up.",
+        "options": [
+          "That means the project is behind schedule.",
+          "That means the project fell on the ground.",
+          "That means the project is sleeping.",
+          "That means we should eat the project."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Fall behind' means retrasarse.",
+        "feedback_wrong": "The answer is: That means the project is behind schedule."
+      }
+    ]
+  },
+  {
+    "word": "cut",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Cutting paper with scissors",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cortas papel con tijeras?",
+        "options": [
+          "Yes, I cut paper for art class.",
+          "No, I prefer sleeping.",
+          "I cut on the moon.",
+          "I eat cut."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Cut' means cortar.",
+        "feedback_wrong": "The answer is: Yes, I cut paper for art class."
+      },
+      {
+        "bot": "What do you cut with scissors?",
+        "options": [
+          "I cut fabric for my project.",
+          "I cut fabric in the refrigerator.",
+          "I cut fabric when I sleep.",
+          "I cut fabric with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Fabric es tela.",
+        "feedback_wrong": "The answer is: I cut fabric for my project."
+      },
+      {
+        "bot": "¿A qué hora cortas papel?",
+        "options": [
+          "I cut paper after school.",
+          "I cut paper inside the oven.",
+          "I cut paper in my sleep.",
+          "I cut paper on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I cut paper after school."
+      }
+    ]
+  },
+  {
+    "word": "cut",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past cutting experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo cortaste tu primer papel?",
+        "options": [
+          "I cut my first paper last year.",
+          "I cut my first paper last year.",
+          "I have cut my first paper last year.",
+          "I am cutting my first paper last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Cut' es el mismo en pasado.",
+        "feedback_wrong": "The answer is: I cut my first paper last year."
+      },
+      {
+        "bot": "Have you ever cut your finger with scissors?",
+        "options": [
+          "Yes, I have cut my finger before.",
+          "Yes, I cut my finger yesterday.",
+          "No, I never cutting my finger.",
+          "No, I don't like scissors because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have cut my finger before."
+      },
+      {
+        "bot": "¿Qué hacías antes de cortar?",
+        "options": [
+          "I measure the paper first.",
+          "I sleep before cutting.",
+          "I eat a big meal before cutting.",
+          "I watch TV before cutting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Measure es medir.",
+        "feedback_wrong": "The answer is: I measure the paper first."
+      }
+    ]
+  },
+  {
+    "word": "cut",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'cut'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I cut the meeting short, but some people were upset. What should I do?",
+        "options": [
+          "You should explain why you ended it early.",
+          "You should cut the meeting on the moon.",
+          "You should stop cutting and start sleeping.",
+          "You should eat the meeting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Cut short' means acortar.",
+        "feedback_wrong": "The answer is: You should explain why you ended it early."
+      },
+      {
+        "bot": "¿Has oído 'cut to the chase'?",
+        "options": [
+          "Yes, it means to get to the point quickly.",
+          "Yes, it means to cut a chase scene.",
+          "No, but I know 'cut to the cake'.",
+          "No, I prefer long introductions."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre ir al grano.",
+        "feedback_wrong": "The answer is: Yes, it means to get to the point quickly."
+      },
+      {
+        "bot": "The budget was cut, but we need to keep working.",
+        "options": [
+          "That means the budget was reduced.",
+          "That means the budget was cut with scissors.",
+          "That means the budget is sleeping.",
+          "That means we should eat the budget."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Cut the budget' means recortar el presupuesto.",
+        "feedback_wrong": "The answer is: That means the budget was reduced."
+      }
+    ]
+  },
+  {
+    "word": "reach",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Reaching for objects",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Alcanzas objetos en estantes altos?",
+        "options": [
+          "Yes, I reach for books on high shelves.",
+          "No, I prefer sleeping.",
+          "I reach on the moon.",
+          "I eat reach."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Reach' means alcanzar.",
+        "feedback_wrong": "The answer is: Yes, I reach for books on high shelves."
+      },
+      {
+        "bot": "What do you reach for when you're hungry?",
+        "options": [
+          "I reach for a snack in the pantry.",
+          "I reach for a snack in the refrigerator.",
+          "I reach for a snack when I sleep.",
+          "I reach for a snack with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Pantry es despensa.",
+        "feedback_wrong": "The answer is: I reach for a snack in the pantry."
+      },
+      {
+        "bot": "¿A qué hora alcanzas tus cosas?",
+        "options": [
+          "I reach for my bag after school.",
+          "I reach for my bag inside the oven.",
+          "I reach for my bag in my sleep.",
+          "I reach for my bag on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I reach for my bag after school."
+      }
+    ]
+  },
+  {
+    "word": "reach",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past reaching experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo alcanzaste tu primer objetivo?",
+        "options": [
+          "I reached my first goal last year.",
+          "I reach my first goal last year.",
+          "I have reached my first goal last year.",
+          "I am reaching my first goal last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Reached' es el pasado de 'reach'.",
+        "feedback_wrong": "The answer is: I reached my first goal last year."
+      },
+      {
+        "bot": "Have you ever reached the top of a mountain?",
+        "options": [
+          "Yes, I have reached the top of a small mountain.",
+          "Yes, I reached the top yesterday.",
+          "No, I never reaching mountains.",
+          "No, I don't like mountains because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have reached the top of a small mountain."
+      },
+      {
+        "bot": "¿Qué hacías antes de alcanzar?",
+        "options": [
+          "I climb slowly to reach the top.",
+          "I sleep before reaching.",
+          "I eat a big meal before reaching.",
+          "I watch TV before reaching."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Climb es escalar.",
+        "feedback_wrong": "The answer is: I climb slowly to reach the top."
+      }
+    ]
+  },
+  {
+    "word": "reach",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'reach'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I reached out to my old friend, but he didn't reply. What should I do?",
+        "options": [
+          "You should try contacting him again.",
+          "You should reach out on the moon.",
+          "You should stop reaching and start sleeping.",
+          "You should eat your friend."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Reach out' means contactar.",
+        "feedback_wrong": "The answer is: You should try contacting him again."
+      },
+      {
+        "bot": "¿Has oído 'reach for the stars'?",
+        "options": [
+          "Yes, it means to aim for big goals.",
+          "Yes, it means to reach for actual stars.",
+          "No, but I know 'reach for the moon'.",
+          "No, I prefer small goals."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre ambicionar grandes metas.",
+        "feedback_wrong": "The answer is: Yes, it means to aim for big goals."
+      },
+      {
+        "bot": "The deadline is near, but we haven't reached an agreement.",
+        "options": [
+          "That means we haven't agreed yet.",
+          "That means we haven't reached the deadline.",
+          "That means the deadline is sleeping.",
+          "That means we should eat the agreement."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Reach an agreement' means llegar a un acuerdo.",
+        "feedback_wrong": "The answer is: That means we haven't agreed yet."
+      }
+    ]
+  },
+  {
+    "word": "remain",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Remaining seated in class",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Permaneces sentado en clase?",
+        "options": [
+          "Yes, I remain seated during lessons.",
+          "No, I prefer sleeping.",
+          "I remain on the moon.",
+          "I eat remain."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Remain' means permanecer.",
+        "feedback_wrong": "The answer is: Yes, I remain seated during lessons."
+      },
+      {
+        "bot": "What do you do when you remain at school?",
+        "options": [
+          "I do my homework in the library.",
+          "I do my homework in the refrigerator.",
+          "I do my homework when I sleep.",
+          "I do my homework with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Library es biblioteca.",
+        "feedback_wrong": "The answer is: I do my homework in the library."
+      },
+      {
+        "bot": "¿A qué hora permaneces en clase?",
+        "options": [
+          "I remain in class until 3 PM.",
+          "I remain in class inside the oven.",
+          "I remain in class in my sleep.",
+          "I remain in class on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 3 PM es las 3 de la tarde.",
+        "feedback_wrong": "The answer is: I remain in class until 3 PM."
+      }
+    ]
+  },
+  {
+    "word": "remain",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past remaining experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo permaneciste en la escuela tarde?",
+        "options": [
+          "I remained at school late last year.",
+          "I remain at school late last year.",
+          "I have remained at school late last year.",
+          "I am remaining at school late last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Remained' es el pasado de 'remain'.",
+        "feedback_wrong": "The answer is: I remained at school late last year."
+      },
+      {
+        "bot": "Have you ever remained calm during a test?",
+        "options": [
+          "Yes, I have remained calm during all my tests.",
+          "Yes, I remained calm yesterday.",
+          "No, I never remaining calm.",
+          "No, I don't like tests because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have remained calm during all my tests."
+      },
+      {
+        "bot": "¿Qué hacías mientras permanecías?",
+        "options": [
+          "I study while remaining at school.",
+          "I sleep while remaining at school.",
+          "I eat a big meal while remaining at school.",
+          "I watch TV while remaining at school."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Study es estudiar.",
+        "feedback_wrong": "The answer is: I study while remaining at school."
+      }
+    ]
+  },
+  {
+    "word": "remain",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'remain'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I remain confident, but the results are bad. What should I do?",
+        "options": [
+          "You should review your work to improve.",
+          "You should remain confident on the moon.",
+          "You should stop remaining and start sleeping.",
+          "You should eat confidence."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Remain confident' means mantenerse confiado.",
+        "feedback_wrong": "The answer is: You should review your work to improve."
+      },
+      {
+        "bot": "¿Has oído 'it remains to be seen'?",
+        "options": [
+          "Yes, it means the outcome is not clear yet.",
+          "Yes, it means something is still visible.",
+          "No, but I know 'it remains to be eaten'.",
+          "No, I prefer knowing outcomes."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre resultados inciertos.",
+        "feedback_wrong": "The answer is: Yes, it means the outcome is not clear yet."
+      },
+      {
+        "bot": "The problem remains unsolved, but we need to keep trying.",
+        "options": [
+          "That means the problem is still not fixed.",
+          "That means the problem is remaining here.",
+          "That means the problem is sleeping.",
+          "That means we should eat the problem."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Remain unsolved' means seguir sin resolver.",
+        "feedback_wrong": "The answer is: That means the problem is still not fixed."
+      }
+    ]
+  },
+  {
+    "word": "suggest",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Suggesting games to friends",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Sugieres juegos a tus amigos?",
+        "options": [
+          "Yes, I suggest new games to play.",
+          "No, I prefer sleeping.",
+          "I suggest on the moon.",
+          "I eat suggest."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Suggest' means sugerir.",
+        "feedback_wrong": "The answer is: Yes, I suggest new games to play."
+      },
+      {
+        "bot": "What do you suggest for the weekend?",
+        "options": [
+          "I suggest going to the park.",
+          "I suggest going to the refrigerator.",
+          "I suggest going when I sleep.",
+          "I suggest going with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Go to the park es ir al parque.",
+        "feedback_wrong": "The answer is: I suggest going to the park."
+      },
+      {
+        "bot": "¿A qué hora sugieres planes?",
+        "options": [
+          "I suggest plans after school.",
+          "I suggest plans inside the oven.",
+          "I suggest plans in my sleep.",
+          "I suggest plans on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I suggest plans after school."
+      }
+    ]
+  },
+  {
+    "word": "suggest",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past suggestions",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo sugeriste tu primer juego?",
+        "options": [
+          "I suggested a new game last year.",
+          "I suggest a new game last year.",
+          "I have suggested a new game last year.",
+          "I am suggesting a new game last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Suggested' es el pasado de 'suggest'.",
+        "feedback_wrong": "The answer is: I suggested a new game last year."
+      },
+      {
+        "bot": "Have you ever suggested a restaurant to a friend?",
+        "options": [
+          "Yes, I have suggested a pizza place.",
+          "Yes, I suggested a restaurant yesterday.",
+          "No, I never suggesting restaurants.",
+          "No, I don't like restaurants because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have suggested a pizza place."
+      },
+      {
+        "bot": "¿Qué hacías antes de sugerir?",
+        "options": [
+          "I think about good options first.",
+          "I sleep before suggesting.",
+          "I eat a big meal before suggesting.",
+          "I watch TV before suggesting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Think about es pensar en.",
+        "feedback_wrong": "The answer is: I think about good options first."
+      }
+    ]
+  },
+  {
+    "word": "suggest",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'suggest'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I suggest we leave early, but some people disagree. What should I do?",
+        "options": [
+          "You should explain why it's a good idea.",
+          "You should suggest leaving on the moon.",
+          "You should stop suggesting and start sleeping.",
+          "You should eat the suggestion."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Suggest' means proponer.",
+        "feedback_wrong": "The answer is: You should explain why it's a good idea."
+      },
+      {
+        "bot": "¿Has oído 'suggest itself'?",
+        "options": [
+          "Yes, it means an idea comes naturally to mind.",
+          "Yes, it means to suggest something literally.",
+          "No, but I know 'suggest yourself'.",
+          "No, I prefer forcing ideas."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre ideas naturales.",
+        "feedback_wrong": "The answer is: Yes, it means an idea comes naturally to mind."
+      },
+      {
+        "bot": "The data suggests we need to change strategy, but we're not sure.",
+        "options": [
+          "That means the data indicates a strategy change.",
+          "That means the data is suggesting us.",
+          "That means the data is sleeping.",
+          "That means we should eat the data."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Suggest' means indicar.",
+        "feedback_wrong": "The answer is: That means the data indicates a strategy change."
+      }
+    ]
+  },
+  {
+    "word": "raise",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Raising hand in class",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Levantas la mano en clase?",
+        "options": [
+          "Yes, I raise my hand to answer questions.",
+          "No, I prefer sleeping.",
+          "I raise on the moon.",
+          "I eat raise."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Raise' means levantar.",
+        "feedback_wrong": "The answer is: Yes, I raise my hand to answer questions."
+      },
+      {
+        "bot": "What do you raise when you want to speak?",
+        "options": [
+          "I raise my hand high.",
+          "I raise my hand in the refrigerator.",
+          "I raise my hand when I sleep.",
+          "I raise my hand with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! High es alto.",
+        "feedback_wrong": "The answer is: I raise my hand high."
+      },
+      {
+        "bot": "¿A qué hora levantas la mano?",
+        "options": [
+          "I raise my hand during lessons.",
+          "I raise my hand inside the oven.",
+          "I raise my hand in my sleep.",
+          "I raise my hand on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! During lessons es durante las clases.",
+        "feedback_wrong": "The answer is: I raise my hand during lessons."
+      }
+    ]
+  },
+  {
+    "word": "raise",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past raising experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo levantaste la mano por primera vez?",
+        "options": [
+          "I raised my hand last year in math class.",
+          "I raise my hand last year in math class.",
+          "I have raised my hand last year in math class.",
+          "I am raising my hand last year in math class."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Raised' es el pasado de 'raise'.",
+        "feedback_wrong": "The answer is: I raised my hand last year in math class."
+      },
+      {
+        "bot": "Have you ever raised money for charity?",
+        "options": [
+          "Yes, I have raised money for animal shelters.",
+          "Yes, I raised money yesterday.",
+          "No, I never raising money.",
+          "No, I don't like charity because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have raised money for animal shelters."
+      },
+      {
+        "bot": "¿Qué hacías antes de levantar la mano?",
+        "options": [
+          "I know the answer first.",
+          "I sleep before raising my hand.",
+          "I eat a big meal before raising my hand.",
+          "I watch TV before raising my hand."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Know the answer es saber la respuesta.",
+        "feedback_wrong": "The answer is: I know the answer first."
+      }
+    ]
+  },
+  {
+    "word": "raise",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'raise'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I raised the issue in the meeting, but no one listened. What should I do?",
+        "options": [
+          "You should send an email to follow up.",
+          "You should raise the issue on the moon.",
+          "You should stop raising and start sleeping.",
+          "You should eat the issue."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Raise the issue' means plantear el problema.",
+        "feedback_wrong": "The answer is: You should send an email to follow up."
+      },
+      {
+        "bot": "¿Has oído 'raise eyebrows'?",
+        "options": [
+          "Yes, it means to cause surprise or disapproval.",
+          "Yes, it means to lift your eyebrows literally.",
+          "No, but I know 'raise hands'.",
+          "No, I prefer neutral expressions."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre sorprender o desaprobar.",
+        "feedback_wrong": "The answer is: Yes, it means to cause surprise or disapproval."
+      },
+      {
+        "bot": "The company raised prices, but we need to keep customers.",
+        "options": [
+          "That means the company increased prices.",
+          "That means the company raised prices to the moon.",
+          "That means the company is sleeping.",
+          "That means we should eat the prices."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Raise prices' means subir precios.",
+        "feedback_wrong": "The answer is: That means the company increased prices."
+      }
+    ]
+  },
+  {
+    "word": "pass",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Passing the ball in sports",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Pasas el balón en el fútbol?",
+        "options": [
+          "Yes, I pass the ball to my teammates.",
+          "No, I prefer sleeping.",
+          "I pass on the moon.",
+          "I eat pass."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Pass' means pasar.",
+        "feedback_wrong": "The answer is: Yes, I pass the ball to my teammates."
+      },
+      {
+        "bot": "What do you pass to your friends?",
+        "options": [
+          "I pass notes in class.",
+          "I pass notes in the refrigerator.",
+          "I pass notes when I sleep.",
+          "I pass notes with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Notes es notas.",
+        "feedback_wrong": "The answer is: I pass notes in class."
+      },
+      {
+        "bot": "¿A qué hora pasas el balón?",
+        "options": [
+          "I pass the ball during games.",
+          "I pass the ball inside the oven.",
+          "I pass the ball in my sleep.",
+          "I pass the ball on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! During games es durante los partidos.",
+        "feedback_wrong": "The answer is: I pass the ball during games."
+      }
+    ]
+  },
+  {
+    "word": "pass",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past passing experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo pasaste tu primer examen?",
+        "options": [
+          "I passed my first test last year.",
+          "I pass my first test last year.",
+          "I have passed my first test last year.",
+          "I am passing my first test last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Passed' es el pasado de 'pass'.",
+        "feedback_wrong": "The answer is: I passed my first test last year."
+      },
+      {
+        "bot": "Have you ever passed a note to a friend in class?",
+        "options": [
+          "Yes, I have passed notes many times.",
+          "Yes, I passed a note yesterday.",
+          "No, I never passing notes.",
+          "No, I don't like notes because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have passed notes many times."
+      },
+      {
+        "bot": "¿Qué hacías antes de pasar el examen?",
+        "options": [
+          "I study hard before passing.",
+          "I sleep before passing the exam.",
+          "I eat a big meal before passing the exam.",
+          "I watch TV before passing the exam."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Study hard es estudiar mucho.",
+        "feedback_wrong": "The answer is: I study hard before passing."
+      }
+    ]
+  },
+  {
+    "word": "pass",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'pass'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I passed out from heat, but I'm okay now. What should I do?",
+        "options": [
+          "You should drink water and rest.",
+          "You should pass out on the moon.",
+          "You should stop passing and start sleeping.",
+          "You should eat the heat."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Pass out' means desmayarse.",
+        "feedback_wrong": "The answer is: You should drink water and rest."
+      },
+      {
+        "bot": "¿Has oído 'pass the buck'?",
+        "options": [
+          "Yes, it means to blame someone else.",
+          "Yes, it means to pass a buck (money) to someone.",
+          "No, but I know 'pass the ball'.",
+          "No, I prefer taking responsibility."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre echar la culpa a otros.",
+        "feedback_wrong": "The answer is: Yes, it means to blame someone else."
+      },
+      {
+        "bot": "The time has passed, but we haven't finished. What should we do?",
+        "options": [
+          "We should ask for an extension.",
+          "We should pass the time on the moon.",
+          "We should stop passing and start sleeping.",
+          "We should eat the time."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Time has passed' means el tiempo ha pasado.",
+        "feedback_wrong": "The answer is: We should ask for an extension."
+      }
+    ]
+  },
+  {
+    "word": "sell",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Selling lemonade as a kid",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Vendes limonada en verano?",
+        "options": [
+          "Yes, I sell lemonade every summer.",
+          "No, I prefer sleeping.",
+          "I sell on the moon.",
+          "I eat sell."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Sell' means vender.",
+        "feedback_wrong": "The answer is: Yes, I sell lemonade every summer."
+      },
+      {
+        "bot": "What do you sell to your neighbors?",
+        "options": [
+          "I sell cookies I baked.",
+          "I sell cookies in the refrigerator.",
+          "I sell cookies when I sleep.",
+          "I sell cookies with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Cookies es galletas.",
+        "feedback_wrong": "The answer is: I sell cookies I baked."
+      },
+      {
+        "bot": "¿A qué hora vendes limonada?",
+        "options": [
+          "I sell lemonade in the afternoon.",
+          "I sell lemonade inside the oven.",
+          "I sell lemonade in my sleep.",
+          "I sell lemonade on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Afternoon es tarde.",
+        "feedback_wrong": "The answer is: I sell lemonade in the afternoon."
+      }
+    ]
+  },
+  {
+    "word": "sell",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past selling experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo vendiste tu primer producto?",
+        "options": [
+          "I sold my first product last year.",
+          "I sell my first product last year.",
+          "I have sold my first product last year.",
+          "I am selling my first product last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Sold' es el pasado de 'sell'.",
+        "feedback_wrong": "The answer is: I sold my first product last year."
+      },
+      {
+        "bot": "Have you ever sold old toys at a garage sale?",
+        "options": [
+          "Yes, I have sold toys at a garage sale.",
+          "Yes, I sold toys yesterday.",
+          "No, I never selling toys.",
+          "No, I don't like garage sales because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have sold toys at a garage sale."
+      },
+      {
+        "bot": "¿Qué hacías antes de vender?",
+        "options": [
+          "I set up a table first.",
+          "I sleep before selling.",
+          "I eat a big meal before selling.",
+          "I watch TV before selling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Set up a table es armar una mesa.",
+        "feedback_wrong": "The answer is: I set up a table first."
+      }
+    ]
+  },
+  {
+    "word": "sell",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'sell'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I'm selling my old bike, but no one is buying. What should I do?",
+        "options": [
+          "You should lower the price.",
+          "You should sell the bike on the moon.",
+          "You should stop selling and start sleeping.",
+          "You should eat the bike."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Sell' means vender.",
+        "feedback_wrong": "The answer is: You should lower the price."
+      },
+      {
+        "bot": "¿Has oído 'sell like hotcakes'?",
+        "options": [
+          "Yes, it means to sell very quickly.",
+          "Yes, it means to sell hotcakes literally.",
+          "No, but I know 'sell like cookies'.",
+          "No, I prefer slow sales."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre vender rápido.",
+        "feedback_wrong": "The answer is: Yes, it means to sell very quickly."
+      },
+      {
+        "bot": "The idea is hard to sell, but we need to convince people.",
+        "options": [
+          "That means the idea is hard to convince people of.",
+          "That means the idea is selling us.",
+          "That means the idea is sleeping.",
+          "That means we should eat the idea."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Hard to sell' means difícil de convencer.",
+        "feedback_wrong": "The answer is: That means the idea is hard to convince people of."
+      }
+    ]
+  },
+  {
+    "word": "decide",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Deciding what to wear",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Decides qué ropa ponerte?",
+        "options": [
+          "Yes, I decide what to wear every day.",
+          "No, I prefer sleeping.",
+          "I decide on the moon.",
+          "I eat decide."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Decide' means decidir.",
+        "feedback_wrong": "The answer is: Yes, I decide what to wear every day."
+      },
+      {
+        "bot": "What do you decide to eat for breakfast?",
+        "options": [
+          "I decide to eat cereal every morning.",
+          "I decide to eat cereal in the refrigerator.",
+          "I decide to eat cereal when I sleep.",
+          "I decide to eat cereal with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Cereal es cereales.",
+        "feedback_wrong": "The answer is: I decide to eat cereal every morning."
+      },
+      {
+        "bot": "¿A qué hora decides tu ropa?",
+        "options": [
+          "I decide what to wear after I wake up.",
+          "I decide what to wear inside the oven.",
+          "I decide what to wear in my sleep.",
+          "I decide what to wear on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After I wake up es después de despertarme.",
+        "feedback_wrong": "The answer is: I decide what to wear after I wake up."
+      }
+    ]
+  },
+  {
+    "word": "decide",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past decisions",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo decidiste tu primera mascota?",
+        "options": [
+          "I decided to get a dog last year.",
+          "I decide to get a dog last year.",
+          "I have decided to get a dog last year.",
+          "I am deciding to get a dog last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Decided' es el pasado de 'decide'.",
+        "feedback_wrong": "The answer is: I decided to get a dog last year."
+      },
+      {
+        "bot": "Have you ever decided to learn a new skill?",
+        "options": [
+          "Yes, I have decided to learn guitar.",
+          "Yes, I decided to learn guitar yesterday.",
+          "No, I never deciding to learn skills.",
+          "No, I don't like skills because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have decided to learn guitar."
+      },
+      {
+        "bot": "¿Qué hacías antes de decidir?",
+        "options": [
+          "I think about the pros and cons.",
+          "I sleep before deciding.",
+          "I eat a big meal before deciding.",
+          "I watch TV before deciding."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Pros and cons es pros y contras.",
+        "feedback_wrong": "The answer is: I think about the pros and cons."
+      }
+    ]
+  },
+  {
+    "word": "decide",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'decide'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I can't decide between the two jobs, but I need to choose. What should I do?",
+        "options": [
+          "You should list what you value most in a job.",
+          "You should decide on the moon.",
+          "You should stop deciding and start sleeping.",
+          "You should eat the jobs."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Decide between' means elegir entre.",
+        "feedback_wrong": "The answer is: You should list what you value most in a job."
+      },
+      {
+        "bot": "¿Has oído 'decide on the spur of the moment'?",
+        "options": [
+          "Yes, it means to decide suddenly without planning.",
+          "Yes, it means to decide on a moment literally.",
+          "No, but I know 'decide on the spur of the hour'.",
+          "No, I prefer planning everything."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre decidir sin planear.",
+        "feedback_wrong": "The answer is: Yes, it means to decide suddenly without planning."
+      },
+      {
+        "bot": "The team decided to change the plan, but we need to communicate it.",
+        "options": [
+          "That means the team chose to change the plan.",
+          "That means the team is deciding on us.",
+          "That means the team is sleeping.",
+          "That means we should eat the plan."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Decide to change' means decidir cambiar.",
+        "feedback_wrong": "The answer is: That means the team chose to change the plan."
+      }
+    ]
+  },
+  {
+    "word": "pull",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Pulling a wagon",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Tiras de un carrito?",
+        "options": [
+          "Yes, I pull my wagon to the park.",
+          "No, I prefer sleeping.",
+          "I pull on the moon.",
+          "I eat pull."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Pull' means tirar (de).",
+        "feedback_wrong": "The answer is: Yes, I pull my wagon to the park."
+      },
+      {
+        "bot": "What do you pull with your hands?",
+        "options": [
+          "I pull the door open.",
+          "I pull the door in the refrigerator.",
+          "I pull the door when I sleep.",
+          "I pull the door with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Door es puerta.",
+        "feedback_wrong": "The answer is: I pull the door open."
+      },
+      {
+        "bot": "¿A qué hora tiras del carrito?",
+        "options": [
+          "I pull my wagon after school.",
+          "I pull my wagon inside the oven.",
+          "I pull my wagon in my sleep.",
+          "I pull my wagon on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I pull my wagon after school."
+      }
+    ]
+  },
+  {
+    "word": "pull",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past pulling experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo tiraste de tu primer carrito?",
+        "options": [
+          "I pulled my wagon last year.",
+          "I pull my wagon last year.",
+          "I have pulled my wagon last year.",
+          "I am pulling my wagon last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Pulled' es el pasado de 'pull'.",
+        "feedback_wrong": "The answer is: I pulled my wagon last year."
+      },
+      {
+        "bot": "Have you ever pulled a muscle playing sports?",
+        "options": [
+          "Yes, I have pulled a muscle playing soccer.",
+          "Yes, I pulled a muscle yesterday.",
+          "No, I never pulling muscles.",
+          "No, I don't like sports because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have pulled a muscle playing soccer."
+      },
+      {
+        "bot": "¿Qué hacías antes de tirar?",
+        "options": [
+          "I make sure the wagon is empty first.",
+          "I sleep before pulling.",
+          "I eat a big meal before pulling.",
+          "I watch TV before pulling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Make sure es asegurarse.",
+        "feedback_wrong": "The answer is: I make sure the wagon is empty first."
+      }
+    ]
+  },
+  {
+    "word": "pull",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'pull'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I pulled an all-nighter to finish the project, but I'm exhausted. What should I do?",
+        "options": [
+          "You should sleep early tonight to rest.",
+          "You should pull an all-nighter on the moon.",
+          "You should stop pulling and start sleeping.",
+          "You should eat the project."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Pull an all-nighter' means trasnochar.",
+        "feedback_wrong": "The answer is: You should sleep early tonight to rest."
+      },
+      {
+        "bot": "¿Has oído 'pull strings'?",
+        "options": [
+          "Yes, it means to use connections to get something.",
+          "Yes, it means to pull actual strings.",
+          "No, but I know 'pull ropes'.",
+          "No, I prefer doing things fairly."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre usar contactos.",
+        "feedback_wrong": "The answer is: Yes, it means to use connections to get something."
+      },
+      {
+        "bot": "The team pulled together, but we need to keep working.",
+        "options": [
+          "That means the team united to work together.",
+          "That means the team pulled us together.",
+          "That means the team is sleeping.",
+          "That means we should eat the team."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Pull together' means unirse para trabajar.",
+        "feedback_wrong": "The answer is: That means the team united to work together."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Eating breakfast every day",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Comes desayuno todos los días?",
+        "options": [
+          "Yes, I eat breakfast every morning.",
+          "No, I prefer sleeping.",
+          "I eat on the moon.",
+          "I eat eat."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Eat' means comer.",
+        "feedback_wrong": "The answer is: Yes, I eat breakfast every morning."
+      },
+      {
+        "bot": "What do you eat for lunch?",
+        "options": [
+          "I eat a sandwich and fruit.",
+          "I eat a sandwich in the refrigerator.",
+          "I eat a sandwich when I sleep.",
+          "I eat a sandwich with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Fruit es fruta.",
+        "feedback_wrong": "The answer is: I eat a sandwich and fruit."
+      },
+      {
+        "bot": "¿A qué hora comes?",
+        "options": [
+          "I eat lunch at 12 PM.",
+          "I eat lunch at 12 PM inside the oven.",
+          "I eat lunch at 12 PM in my sleep.",
+          "I eat lunch at 12 PM on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 12 PM es el mediodía.",
+        "feedback_wrong": "The answer is: I eat lunch at 12 PM."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past eating experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo comiste tu primera comida en un restaurante?",
+        "options": [
+          "I ate my first restaurant meal last year.",
+          "I eat my first restaurant meal last year.",
+          "I have eaten my first restaurant meal last year.",
+          "I am eating my first restaurant meal last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Ate' es el pasado de 'eat'.",
+        "feedback_wrong": "The answer is: I ate my first restaurant meal last year."
+      },
+      {
+        "bot": "Have you ever eaten sushi before?",
+        "options": [
+          "Yes, I have eaten sushi many times.",
+          "Yes, I ate sushi yesterday.",
+          "No, I never eating sushi.",
+          "No, I don't like sushi because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have eaten sushi many times."
+      },
+      {
+        "bot": "¿Qué hacías antes de comer?",
+        "options": [
+          "I wash my hands before eating.",
+          "I sleep before eating.",
+          "I eat a big meal before eating.",
+          "I watch TV before eating."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Wash hands es lavarse las manos.",
+        "feedback_wrong": "The answer is: I wash my hands before eating."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'eat'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I ate my words when I was wrong, but it was hard. What should I do?",
+        "options": [
+          "You should admit mistakes honestly next time.",
+          "You should eat your words on the moon.",
+          "You should stop eating and start sleeping.",
+          "You should eat the mistakes."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Eat one's words' means admitir que estaba equivocado.",
+        "feedback_wrong": "The answer is: You should admit mistakes honestly next time."
+      },
+      {
+        "bot": "¿Has oído 'eat like a bird'?",
+        "options": [
+          "Yes, it means to eat very little.",
+          "Yes, it means to eat like an actual bird.",
+          "No, but I know 'eat like a horse'.",
+          "No, I prefer eating a lot."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre comer poco.",
+        "feedback_wrong": "The answer is: Yes, it means to eat very little."
+      },
+      {
+        "bot": "The project is eating up our time, but we need to finish.",
+        "options": [
+          "That means the project is using all our time.",
+          "That means the project is eating us.",
+          "That means the project is sleeping.",
+          "That means we should eat the project."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Eat up' means consumir (tiempo/dinero).",
+        "feedback_wrong": "The answer is: That means the project is using all our time."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Sleeping 8 hours a night",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Duermes 8 horas cada noche?",
+        "options": [
+          "Yes, I sleep 8 hours every night.",
+          "No, I prefer running.",
+          "I sleep on the moon.",
+          "I eat sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Sleep' means dormir.",
+        "feedback_wrong": "The answer is: Yes, I sleep 8 hours every night."
+      },
+      {
+        "bot": "What do you do before you sleep?",
+        "options": [
+          "I read a book before bed.",
+          "I read a book in the refrigerator.",
+          "I read a book when I sleep.",
+          "I read a book with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Before bed es antes de dormir.",
+        "feedback_wrong": "The answer is: I read a book before bed."
+      },
+      {
+        "bot": "¿A qué hora te duermes?",
+        "options": [
+          "I sleep at 10 PM every night.",
+          "I sleep at 10 PM inside the oven.",
+          "I sleep at 10 PM in my sleep.",
+          "I sleep at 10 PM on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 10 PM es las 10 de la noche.",
+        "feedback_wrong": "The answer is: I sleep at 10 PM every night."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past sleeping experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo dormiste en una casa de amigos?",
+        "options": [
+          "I slept at a friend's house last year.",
+          "I sleep at a friend's house last year.",
+          "I have slept at a friend's house last year.",
+          "I am sleeping at a friend's house last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Slept' es el pasado de 'sleep'.",
+        "feedback_wrong": "The answer is: I slept at a friend's house last year."
+      },
+      {
+        "bot": "Have you ever slept through an alarm?",
+        "options": [
+          "Yes, I have slept through my alarm before.",
+          "Yes, I slept through my alarm yesterday.",
+          "No, I never sleeping through alarms.",
+          "No, I don't like alarms because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have slept through my alarm before."
+      },
+      {
+        "bot": "¿Qué hacías antes de dormir?",
+        "options": [
+          "I brush my teeth before sleeping.",
+          "I run before sleeping.",
+          "I eat a big meal before sleeping.",
+          "I watch TV before sleeping."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Brush teeth es lavarse los dientes.",
+        "feedback_wrong": "The answer is: I brush my teeth before sleeping."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'sleep'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I slept on it and decided to take the job. What does that mean?",
+        "options": [
+          "It means I thought about it overnight before deciding.",
+          "It means I slept on the job.",
+          "It means I stopped sleeping and started working.",
+          "It means I ate the job."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Sleep on it' means pensar en algo antes de decidir.",
+        "feedback_wrong": "The answer is: It means I thought about it overnight before deciding."
+      },
+      {
+        "bot": "¿Has oído 'sleep like a log'?",
+        "options": [
+          "Yes, it means to sleep very deeply.",
+          "Yes, it means to sleep like an actual log.",
+          "No, but I know 'sleep like a baby'.",
+          "No, I prefer light sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre dormir profundamente.",
+        "feedback_wrong": "The answer is: Yes, it means to sleep very deeply."
+      },
+      {
+        "bot": "The team is sleep-deprived, but we need to finish the project.",
+        "options": [
+          "That means the team hasn't slept enough.",
+          "That means the team is sleeping on the project.",
+          "That means the team is eating sleep.",
+          "That means we should sleep instead of working."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Sleep-deprived' means privado de sueño.",
+        "feedback_wrong": "The answer is: That means the team hasn't slept enough."
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Helping parents at home",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Ayudas a tus padres en casa?",
+        "options": [
+          "Yes, I help with chores every day.",
+          "No, I prefer sleeping.",
+          "I help on the moon.",
+          "I eat help."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Help' means ayudar.",
+        "feedback_wrong": "The answer is: Yes, I help with chores every day."
+      },
+      {
+        "bot": "What do you help your mom with?",
+        "options": [
+          "I help wash the dishes.",
+          "I help wash the dishes in the refrigerator.",
+          "I help wash the dishes when I sleep.",
+          "I help wash the dishes with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Wash dishes es lavar los platos.",
+        "feedback_wrong": "The answer is: I help wash the dishes."
+      },
+      {
+        "bot": "¿A qué hora ayudas en casa?",
+        "options": [
+          "I help after school every day.",
+          "I help after school inside the oven.",
+          "I help after school in my sleep.",
+          "I help after school on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I help after school every day."
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past helping experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo ayudaste a tu primer vecino?",
+        "options": [
+          "I helped my neighbor last year.",
+          "I help my neighbor last year.",
+          "I have helped my neighbor last year.",
+          "I am helping my neighbor last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Helped' es el pasado de 'help'.",
+        "feedback_wrong": "The answer is: I helped my neighbor last year."
+      },
+      {
+        "bot": "Have you ever helped a stranger in need?",
+        "options": [
+          "Yes, I have helped a lost tourist.",
+          "Yes, I helped a tourist yesterday.",
+          "No, I never helping strangers.",
+          "No, I don't like strangers because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have helped a lost tourist."
+      },
+      {
+        "bot": "¿Qué hacías antes de ayudar?",
+        "options": [
+          "I ask if they need help first.",
+          "I sleep before helping.",
+          "I eat a big meal before helping.",
+          "I watch TV before helping."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Ask es preguntar.",
+        "feedback_wrong": "The answer is: I ask if they need help first."
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'help'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I can't help laughing at his jokes, but I shouldn't. What should I do?",
+        "options": [
+          "You should try to be serious if it's inappropriate.",
+          "You should help laughing on the moon.",
+          "You should stop helping and start sleeping.",
+          "You should eat the jokes."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Can't help' means no poder evitar.",
+        "feedback_wrong": "The answer is: You should try to be serious if it's inappropriate."
+      },
+      {
+        "bot": "¿Has oído 'help yourself'?",
+        "options": [
+          "Yes, it means to serve yourself food.",
+          "Yes, it means to help yourself literally.",
+          "No, but I know 'help others'.",
+          "No, I prefer waiting to be served."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre servirse uno mismo.",
+        "feedback_wrong": "The answer is: Yes, it means to serve yourself food."
+      },
+      {
+        "bot": "The new software helps a lot, but we need to learn it.",
+        "options": [
+          "That means the software makes work easier.",
+          "That means the software is helping us.",
+          "That means the software is sleeping.",
+          "That means we should eat the software."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Help' means ayudar a facilitar.",
+        "feedback_wrong": "The answer is: That means the software makes work easier."
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Talking to friends at recess",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Hablas con tus amigos en el recreo?",
+        "options": [
+          "Yes, I talk to my friends every recess.",
+          "No, I prefer sleeping.",
+          "I talk on the moon.",
+          "I eat talk."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Talk' means hablar.",
+        "feedback_wrong": "The answer is: Yes, I talk to my friends every recess."
+      },
+      {
+        "bot": "What do you talk about with your friends?",
+        "options": [
+          "I talk about video games and sports.",
+          "I talk about video games in the refrigerator.",
+          "I talk about video games when I sleep.",
+          "I talk about video games with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Video games es videojuegos.",
+        "feedback_wrong": "The answer is: I talk about video games and sports."
+      },
+      {
+        "bot": "¿A qué hora hablas con amigos?",
+        "options": [
+          "I talk to friends after school.",
+          "I talk to friends inside the oven.",
+          "I talk to friends in my sleep.",
+          "I talk to friends on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! After school es después de la escuela.",
+        "feedback_wrong": "The answer is: I talk to friends after school."
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past talking experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo hablaste con tu primer profesor?",
+        "options": [
+          "I talked to my teacher last year.",
+          "I talk to my teacher last year.",
+          "I have talked to my teacher last year.",
+          "I am talking to my teacher last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Talked' es el pasado de 'talk'.",
+        "feedback_wrong": "The answer is: I talked to my teacher last year."
+      },
+      {
+        "bot": "Have you ever talked to a famous person?",
+        "options": [
+          "Yes, I have talked to a local singer.",
+          "Yes, I talked to a singer yesterday.",
+          "No, I never talking to famous people.",
+          "No, I don't like famous people because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have talked to a local singer."
+      },
+      {
+        "bot": "¿Qué hacías mientras hablabas?",
+        "options": [
+          "I walk while talking to friends.",
+          "I sleep while talking to friends.",
+          "I eat a big meal while talking to friends.",
+          "I watch TV while talking to friends."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Walk es caminar.",
+        "feedback_wrong": "The answer is: I walk while talking to friends."
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'talk'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I need to talk to you about something important. What should I do?",
+        "options": [
+          "You should find a quiet place to talk.",
+          "You should talk on the moon.",
+          "You should stop talking and start sleeping.",
+          "You should eat the conversation."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Talk to someone' means hablar con alguien.",
+        "feedback_wrong": "The answer is: You should find a quiet place to talk."
+      },
+      {
+        "bot": "¿Has oído 'talk the talk'?",
+        "options": [
+          "Yes, it means to speak confidently about something.",
+          "Yes, it means to talk literally while walking.",
+          "No, but I know 'walk the walk'.",
+          "No, I prefer staying silent."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre hablar con seguridad.",
+        "feedback_wrong": "The answer is: Yes, it means to speak confidently about something."
+      },
+      {
+        "bot": "The team talks a lot, but we need to take action.",
+        "options": [
+          "That means the team discusses but doesn't act.",
+          "That means the team is talking to us.",
+          "That means the team is sleeping.",
+          "That means we should eat the talk."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Talk a lot' means hablar mucho sin actuar.",
+        "feedback_wrong": "The answer is: That means the team discusses but doesn't act."
+      }
+    ]
+  },
+  {
+    "word": "turn",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Turning on the light",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Enciendes la luz al entrar a tu cuarto?",
+        "options": [
+          "Yes, I turn on the light every time.",
+          "No, I prefer sleeping.",
+          "I turn on the light on the moon.",
+          "I eat turn."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Turn on' means encender.",
+        "feedback_wrong": "The answer is: Yes, I turn on the light every time."
+      },
+      {
+        "bot": "What do you turn on in the morning?",
+        "options": [
+          "I turn on the TV for news.",
+          "I turn on the TV in the refrigerator.",
+          "I turn on the TV when I sleep.",
+          "I turn on the TV with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! News es noticias.",
+        "feedback_wrong": "The answer is: I turn on the TV for news."
+      },
+      {
+        "bot": "¿A qué hora enciendes la luz?",
+        "options": [
+          "I turn on the light at 7 AM.",
+          "I turn on the light at 7 AM inside the oven.",
+          "I turn on the light at 7 AM in my sleep.",
+          "I turn on the light at 7 AM on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 7 AM es las 7 de la mañana.",
+        "feedback_wrong": "The answer is: I turn on the light at 7 AM."
+      }
+    ]
+  },
+  {
+    "word": "turn",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past turning experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo encendiste tu primera luz?",
+        "options": [
+          "I turned on the light last year.",
+          "I turn on the light last year.",
+          "I have turned on the light last year.",
+          "I am turning on the light last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Turned' es el pasado de 'turn'.",
+        "feedback_wrong": "The answer is: I turned on the light last year."
+      },
+      {
+        "bot": "Have you ever turned off the TV to study?",
+        "options": [
+          "Yes, I have turned off the TV to focus.",
+          "Yes, I turned off the TV yesterday.",
+          "No, I never turning off the TV.",
+          "No, I don't like studying because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have turned off the TV to focus."
+      },
+      {
+        "bot": "¿Qué hacías antes de encender la luz?",
+        "options": [
+          "I enter the room first.",
+          "I sleep before turning on the light.",
+          "I eat a big meal before turning on the light.",
+          "I watch TV before turning on the light."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Enter the room es entrar a la habitación.",
+        "feedback_wrong": "The answer is: I enter the room first."
+      }
+    ]
+  },
+  {
+    "word": "turn",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'turn'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I turned down the job offer, but now I regret it. What should I do?",
+        "options": [
+          "You should contact them to see if it's still available.",
+          "You should turn down the offer on the moon.",
+          "You should stop turning and start sleeping.",
+          "You should eat the offer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Turn down' means rechazar.",
+        "feedback_wrong": "The answer is: You should contact them to see if it's still available."
+      },
+      {
+        "bot": "¿Has oído 'turn over a new leaf'?",
+        "options": [
+          "Yes, it means to start fresh with new habits.",
+          "Yes, it means to turn over an actual leaf.",
+          "No, but I know 'turn over a rock'.",
+          "No, I prefer old habits."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre empezar de nuevo.",
+        "feedback_wrong": "The answer is: Yes, it means to start fresh with new habits."
+      },
+      {
+        "bot": "The project turned out well, but we need to improve.",
+        "options": [
+          "That means the project ended up being good.",
+          "That means the project turned us out.",
+          "That means the project is sleeping.",
+          "That means we should eat the project."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Turn out' means resultar ser.",
+        "feedback_wrong": "The answer is: That means the project ended up being good."
+      }
+    ]
+  },
+  {
+    "word": "start",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Starting homework after school",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Empiezas la tarea después de la escuela?",
+        "options": [
+          "Yes, I start homework every day at 4 PM.",
+          "No, I prefer sleeping.",
+          "I start on the moon.",
+          "I eat start."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Start' means empezar.",
+        "feedback_wrong": "The answer is: Yes, I start homework every day at 4 PM."
+      },
+      {
+        "bot": "What do you start doing in the morning?",
+        "options": [
+          "I start by eating breakfast.",
+          "I start by eating breakfast in the refrigerator.",
+          "I start by eating breakfast when I sleep.",
+          "I start by eating breakfast with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Breakfast es desayuno.",
+        "feedback_wrong": "The answer is: I start by eating breakfast."
+      },
+      {
+        "bot": "¿A qué hora empiezas a estudiar?",
+        "options": [
+          "I start studying at 5 PM.",
+          "I start studying at 5 PM inside the oven.",
+          "I start studying at 5 PM in my sleep.",
+          "I start studying at 5 PM on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 5 PM es las 5 de la tarde.",
+        "feedback_wrong": "The answer is: I start studying at 5 PM."
+      }
+    ]
+  },
+  {
+    "word": "start",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past starting experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo empezaste a estudiar inglés?",
+        "options": [
+          "I started learning English last year.",
+          "I start learning English last year.",
+          "I have started learning English last year.",
+          "I am starting learning English last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Started' es el pasado de 'start'.",
+        "feedback_wrong": "The answer is: I started learning English last year."
+      },
+      {
+        "bot": "Have you ever started a new hobby?",
+        "options": [
+          "Yes, I have started painting as a hobby.",
+          "Yes, I started painting yesterday.",
+          "No, I never starting hobbies.",
+          "No, I don't like hobbies because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have started painting as a hobby."
+      },
+      {
+        "bot": "¿Qué hacías antes de empezar?",
+        "options": [
+          "I gather my materials first.",
+          "I sleep before starting.",
+          "I eat a big meal before starting.",
+          "I watch TV before starting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Gather materials es reunir materiales.",
+        "feedback_wrong": "The answer is: I gather my materials first."
+      }
+    ]
+  },
+  {
+    "word": "start",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'start'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I started out as a volunteer, but now I'm a manager. What does that mean?",
+        "options": [
+          "It means I began my career as a volunteer.",
+          "It means I started on the moon.",
+          "It means I stopped starting and started sleeping.",
+          "It means I ate my career."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Start out' means empezar (una carrera).",
+        "feedback_wrong": "The answer is: It means I began my career as a volunteer."
+      },
+      {
+        "bot": "¿Has oído 'start from scratch'?",
+        "options": [
+          "Yes, it means to start from the very beginning.",
+          "Yes, it means to start from an actual scratch.",
+          "No, but I know 'start from zero'.",
+          "No, I prefer starting with help."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre empezar desde cero.",
+        "feedback_wrong": "The answer is: Yes, it means to start from the very beginning."
+      },
+      {
+        "bot": "The car won't start, but we need to go. What should we do?",
+        "options": [
+          "We should call a mechanic to check it.",
+          "We should start the car on the moon.",
+          "We should stop starting and start sleeping.",
+          "We should eat the car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Won't start' means no arranca.",
+        "feedback_wrong": "The answer is: We should call a mechanic to check it."
+      }
+    ]
+  },
+  {
+    "word": "carry",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Carrying a backpack to school",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Llevas una mochila a la escuela?",
+        "options": [
+          "Yes, I carry my backpack every day.",
+          "No, I prefer sleeping.",
+          "I carry on the moon.",
+          "I eat carry."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Carry' means llevar (cargar).",
+        "feedback_wrong": "The answer is: Yes, I carry my backpack every day."
+      },
+      {
+        "bot": "What do you carry in your backpack?",
+        "options": [
+          "I carry books and notebooks.",
+          "I carry books in the refrigerator.",
+          "I carry books when I sleep.",
+          "I carry books with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Notebooks es cuadernos.",
+        "feedback_wrong": "The answer is: I carry books and notebooks."
+      },
+      {
+        "bot": "¿A qué hora llevas la mochila?",
+        "options": [
+          "I carry my backpack to school every morning.",
+          "I carry my backpack inside the oven.",
+          "I carry my backpack in my sleep.",
+          "I carry my backpack on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Every morning es cada mañana.",
+        "feedback_wrong": "The answer is: I carry my backpack to school every morning."
+      }
+    ]
+  },
+  {
+    "word": "carry",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past carrying experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo llevaste tu primera mochila pesada?",
+        "options": [
+          "I carried a heavy backpack last year.",
+          "I carry a heavy backpack last year.",
+          "I have carried a heavy backpack last year.",
+          "I am carrying a heavy backpack last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Carried' es el pasado de 'carry'.",
+        "feedback_wrong": "The answer is: I carried a heavy backpack last year."
+      },
+      {
+        "bot": "Have you ever carried groceries for your mom?",
+        "options": [
+          "Yes, I have carried groceries many times.",
+          "Yes, I carried groceries yesterday.",
+          "No, I never carrying groceries.",
+          "No, I don't like groceries because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have carried groceries many times."
+      },
+      {
+        "bot": "¿Qué hacías antes de llevar?",
+        "options": [
+          "I pack my backpack first.",
+          "I sleep before carrying.",
+          "I eat a big meal before carrying.",
+          "I watch TV before carrying."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Pack es empacar.",
+        "feedback_wrong": "The answer is: I pack my backpack first."
+      }
+    ]
+  },
+  {
+    "word": "carry",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'carry'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I carried on working even though I was tired. What does that mean?",
+        "options": [
+          "It means I continued working despite being tired.",
+          "It means I carried my work on the moon.",
+          "It means I stopped carrying and started sleeping.",
+          "It means I ate my work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Carry on' means continuar.",
+        "feedback_wrong": "The answer is: It means I continued working despite being tired."
+      },
+      {
+        "bot": "¿Has oído 'carry weight'?",
+        "options": [
+          "Yes, it means to have influence or importance.",
+          "Yes, it means to carry actual weight.",
+          "No, but I know 'carry light'.",
+          "No, I prefer being unimportant."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre tener influencia.",
+        "feedback_wrong": "The answer is: Yes, it means to have influence or importance."
+      },
+      {
+        "bot": "The team carried the project, but we need to share the load.",
+        "options": [
+          "That means the team did most of the work.",
+          "That means the team carried the project on their backs.",
+          "That means the team is sleeping.",
+          "That means we should eat the project."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Carry the project' means llevar el peso del proyecto.",
+        "feedback_wrong": "The answer is: That means the team did most of the work."
+      }
+    ]
+  },
+  {
+    "word": "break",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Breaking a pencil while writing",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Rompes lápices al escribir?",
+        "options": [
+          "Yes, I break pencils sometimes.",
+          "No, I prefer sleeping.",
+          "I break on the moon.",
+          "I eat break."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Break' means romper.",
+        "feedback_wrong": "The answer is: Yes, I break pencils sometimes."
+      },
+      {
+        "bot": "What do you do when you break a pencil?",
+        "options": [
+          "I sharpen the pencil or get a new one.",
+          "I sharpen the pencil in the refrigerator.",
+          "I sharpen the pencil when I sleep.",
+          "I sharpen the pencil with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Sharpen es sacar punta.",
+        "feedback_wrong": "The answer is: I sharpen the pencil or get a new one."
+      },
+      {
+        "bot": "¿A qué hora rompes cosas?",
+        "options": [
+          "I break things when I'm careless.",
+          "I break things inside the oven.",
+          "I break things in my sleep.",
+          "I break things on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Careless es descuidado.",
+        "feedback_wrong": "The answer is: I break things when I'm careless."
+      }
+    ]
+  },
+  {
+    "word": "break",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past breaking experiences",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo rompiste tu primer juguete?",
+        "options": [
+          "I broke my first toy last year.",
+          "I break my first toy last year.",
+          "I have broken my first toy last year.",
+          "I am breaking my first toy last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Broke' es el pasado de 'break'.",
+        "feedback_wrong": "The answer is: I broke my first toy last year."
+      },
+      {
+        "bot": "Have you ever broken a bone playing sports?",
+        "options": [
+          "Yes, I have broken my arm playing soccer.",
+          "Yes, I broke my arm yesterday.",
+          "No, I never breaking bones.",
+          "No, I don't like sports because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Genial! Present perfect para experiencias.",
+        "feedback_wrong": "The answer is: Yes, I have broken my arm playing soccer."
+      },
+      {
+        "bot": "¿Qué hacías antes de romper?",
+        "options": [
+          "I play carefully to avoid breaking things.",
+          "I sleep before breaking.",
+          "I eat a big meal before breaking.",
+          "I watch TV before breaking."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Play carefully es jugar con cuidado.",
+        "feedback_wrong": "The answer is: I play carefully to avoid breaking things."
+      }
+    ]
+  },
+  {
+    "word": "break",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'break'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I need to take a break, but there's too much work. What should I do?",
+        "options": [
+          "You should take a 10-minute break to rest.",
+          "You should take a break on the moon.",
+          "You should stop breaking and start sleeping.",
+          "You should eat the break."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Take a break' means tomar un descanso.",
+        "feedback_wrong": "The answer is: You should take a 10-minute break to rest."
+      },
+      {
+        "bot": "¿Has oído 'break a leg'?",
+        "options": [
+          "Yes, it means good luck (theater).",
+          "Yes, it means to break an actual leg.",
+          "No, but I know 'break an arm'.",
+          "No, I prefer bad luck."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre desear buena suerte.",
+        "feedback_wrong": "The answer is: Yes, it means good luck (theater)."
+      },
+      {
+        "bot": "The news broke yesterday, but we need to confirm it.",
+        "options": [
+          "That means the news was released yesterday.",
+          "That means the news broke into pieces.",
+          "That means the news is sleeping.",
+          "That means we should eat the news."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Increíble! 'Break news' means dar una noticia.",
+        "feedback_wrong": "The answer is: That means the news was released yesterday."
+      }
+    ]
+  }
+]

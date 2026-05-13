@@ -1,0 +1,58 @@
+{
+  "id": "de-lesson-5",
+  "lang": "de",
+  "lessonNumber": 5,
+  "title": "Nerede? Ne Zaman?",
+  "subtitle": "Wo / Wann — Yer ve Zaman",
+  "formula": "Wo + ist/sind + ...? | Wann + fiil + özne + ...?",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Wo ist der Bahnhof?", "tr": "Tren istasyonu nerede?" },
+    { "type": "correct", "sentence": "Wo sind meine Schuhe?", "tr": "Ayakkabılarım nerede?" },
+    { "type": "correct", "sentence": "Wann fährt der Bus?", "tr": "Otobüs ne zaman kalkıyor?" },
+    { "type": "correct", "sentence": "Wann schläfst du?", "tr": "Sen ne zaman uyuyorsun?" },
+    { "type": "wrong", "sentence": "Wo sind der Bahnhof?", "tr": "", "note": "Bahnhof tekil → ist (nicht sind)!" },
+    { "type": "wrong", "sentence": "Wann du schläfst?", "tr": "", "note": "Fiil özneden önce gelir: Wann schläfst du?" }
+  ],
+  "inputSentences": [
+    { "text": "Wo ist die nächste Apotheke?", "tr": "En yakın eczane nerede?" },
+    { "text": "Wo sind die Schüler?", "tr": "Öğrenciler nerede?" },
+    { "text": "Wann beginnt der Film?", "tr": "Film ne zaman başlıyor?" },
+    { "text": "Wann öffnet das Geschäft?", "tr": "Dükkan ne zaman açılıyor?" },
+    { "text": "Wo wohnen sie?", "tr": "Onlar nerede yaşıyor?" }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "___ ist das Krankenhaus?",
+      "answer": "Wo",
+      "hint": "Yer sorusu → Wo"
+    },
+    {
+      "type": "build",
+      "words": ["der", "fährt", "Wann", "Zug"],
+      "answer": ["Wann", "fährt", "der", "Zug"],
+      "tr": "Tren ne zaman kalkıyor?"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ sind meine Bücher?",
+      "answer": "Wo",
+      "hint": "Yer sorusu → Wo"
+    },
+    {
+      "type": "build",
+      "words": ["du", "Wann", "schläfst"],
+      "answer": ["Wann", "schläfst", "du"],
+      "tr": "Sen ne zaman uyuyorsun?"
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Yol tarifi istiyorsun",
+    "lines": [
+      { "role": "A", "text": "Entschuldigung, wo ist der Marktplatz?", "tr": "Affedersiniz, pazar yeri nerede?" },
+      { "role": "B", "text": "Er ist in der Mitte der Stadt, links vom Park.", "tr": "Şehrin ortasında, parkın solunda." },
+      { "role": "A", "text": "Wann öffnet der Markt?", "tr": "Pazar ne zaman açılıyor?" },
+      { "role": "B", "text": "Er öffnet um acht Uhr morgens.", "tr": "Sabah sekizde açılıyor." }
+    ]
+  }
+}

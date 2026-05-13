@@ -1,0 +1,58 @@
+{
+  "id": "de-lesson-2",
+  "lang": "de",
+  "lessonNumber": 2,
+  "title": "Ben Varım — sein Fiili",
+  "subtitle": "sein: bin / bist / ist / sind",
+  "formula": "ich bin | du bist | er/sie/es ist | wir/sie sind",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Ich bin Schüler.", "tr": "Ben öğrenciyim." },
+    { "type": "correct", "sentence": "Du bist sehr klug.", "tr": "Sen çok akıllısın." },
+    { "type": "correct", "sentence": "Er ist mein Freund.", "tr": "O benim arkadaşım." },
+    { "type": "correct", "sentence": "Wir sind müde.", "tr": "Biz yorgunuz." },
+    { "type": "wrong", "sentence": "Ich ist Schüler.", "tr": "", "note": "ich → bin! (ist değil)" },
+    { "type": "wrong", "sentence": "Wir ist glücklich.", "tr": "", "note": "wir → sind! (ist değil)" }
+  ],
+  "inputSentences": [
+    { "text": "Ich bin zehn Jahre alt.", "tr": "Ben on yaşındayım." },
+    { "text": "Er ist mein bester Freund.", "tr": "O benim en iyi arkadaşım." },
+    { "text": "Sie ist Lehrerin.", "tr": "O bir öğretmen (kadın)." },
+    { "text": "Wir sind im Park.", "tr": "Biz parkta." },
+    { "text": "Sie sind sehr glücklich.", "tr": "Onlar çok mutlu." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "Ich ___ Schüler.",
+      "answer": "bin",
+      "hint": "ich → bin"
+    },
+    {
+      "type": "build",
+      "words": ["müde", "ist", "Er"],
+      "answer": ["Er", "ist", "müde"],
+      "tr": "O yorgun."
+    },
+    {
+      "type": "fill",
+      "sentence": "Wir ___ Freunde.",
+      "answer": "sind",
+      "hint": "wir → sind"
+    },
+    {
+      "type": "build",
+      "words": ["bist", "sehr", "Du", "nett"],
+      "answer": ["Du", "bist", "sehr", "nett"],
+      "tr": "Sen çok naziksin."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Kendini tanıtıyorsun",
+    "lines": [
+      { "role": "A", "text": "Hallo! Ich bin Anna. Ich bin zwölf Jahre alt.", "tr": "Merhaba! Ben Anna'yım. On iki yaşındayım." },
+      { "role": "B", "text": "Hallo Anna! Ich bin Max. Ich bin Schüler.", "tr": "Merhaba Anna! Ben Max'im. Öğrenciyim." },
+      { "role": "A", "text": "Bist du aus Deutschland?", "tr": "Almanya'dan mısın?" },
+      { "role": "B", "text": "Ja, ich bin aus Berlin. Meine Familie ist auch hier.", "tr": "Evet, Berlin'denim. Ailem de burada." }
+    ]
+  }
+}

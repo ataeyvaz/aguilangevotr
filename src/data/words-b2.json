@@ -1,0 +1,517 @@
+{
+  "words": [
+    {
+      "id": "achievement",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "achievement",
+      "es": "logro",
+      "pt": "conquista",
+      "pron": "əˈtʃiːvmənt"
+    },
+    {
+      "id": "acknowledge",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "acknowledge",
+      "es": "reconocer",
+      "pt": "reconhecer",
+      "pron": "əkˈnɒlɪdʒ"
+    },
+    {
+      "id": "adapt",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "adapt",
+      "es": "adaptarse",
+      "pt": "adaptar-se",
+      "pron": "əˈdæpt"
+    },
+    {
+      "id": "ambitious",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "ambitious",
+      "es": "ambicioso",
+      "pt": "ambicioso",
+      "pron": "æmˈbɪʃəs"
+    },
+    {
+      "id": "analyze",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "analyze",
+      "es": "analizar",
+      "pt": "analisar",
+      "pron": "ˈænəlaɪz"
+    },
+    {
+      "id": "anticipate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "anticipate",
+      "es": "anticipar",
+      "pt": "antecipar",
+      "pron": "ænˈtɪsɪpeɪt"
+    },
+    {
+      "id": "approach",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "approach",
+      "es": "enfoque",
+      "pt": "abordagem",
+      "pron": "əˈprəʊtʃ"
+    },
+    {
+      "id": "appropriate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "appropriate",
+      "es": "apropiado",
+      "pt": "apropriado",
+      "pron": "əˈprəʊpriət"
+    },
+    {
+      "id": "assess",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "assess",
+      "es": "evaluar",
+      "pt": "avaliar",
+      "pron": "əˈses"
+    },
+    {
+      "id": "assumption",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "assumption",
+      "es": "suposición",
+      "pt": "suposição",
+      "pron": "əˈsʌmpʃən"
+    },
+    {
+      "id": "attitude",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "attitude",
+      "es": "actitud",
+      "pt": "atitude",
+      "pron": "ˈætɪtjuːd"
+    },
+    {
+      "id": "circumstance",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "circumstance",
+      "es": "circunstancia",
+      "pt": "circunstância",
+      "pron": "ˈsɜːrkəmstæns"
+    },
+    {
+      "id": "collaborate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "collaborate",
+      "es": "colaborar",
+      "pt": "colaborar",
+      "pron": "kəˈlæbəreɪt"
+    },
+    {
+      "id": "commitment",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "commitment",
+      "es": "compromiso",
+      "pt": "compromisso",
+      "pron": "kəˈmɪtmənt"
+    },
+    {
+      "id": "complex",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "complex",
+      "es": "complejo",
+      "pt": "complexo",
+      "pron": "ˈkɒmpleks"
+    },
+    {
+      "id": "consequence",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "consequence",
+      "es": "consecuencia",
+      "pt": "consequência",
+      "pron": "ˈkɒnsɪkwəns"
+    },
+    {
+      "id": "consistent",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "consistent",
+      "es": "consistente",
+      "pt": "consistente",
+      "pron": "kənˈsɪstənt"
+    },
+    {
+      "id": "contribute",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "contribute",
+      "es": "contribuir",
+      "pt": "contribuir",
+      "pron": "kənˈtrɪbjuːt"
+    },
+    {
+      "id": "contribution",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "contribution",
+      "es": "contribución",
+      "pt": "contribuição",
+      "pron": "ˌkɒntrɪˈbjuːʃən"
+    },
+    {
+      "id": "controversial",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "controversial",
+      "es": "controvertido",
+      "pt": "controverso",
+      "pron": "ˌkɒntrəˈvɜːʃəl"
+    },
+    {
+      "id": "creative",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "creative",
+      "es": "creativo",
+      "pt": "criativo",
+      "pron": "kriˈeɪtɪv"
+    },
+    {
+      "id": "critical",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "critical",
+      "es": "crítico",
+      "pt": "crítico",
+      "pron": "ˈkrɪtɪkəl"
+    },
+    {
+      "id": "debate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "debate",
+      "es": "debatir",
+      "pt": "debater",
+      "pron": "dɪˈbeɪt"
+    },
+    {
+      "id": "dedicated",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "dedicated",
+      "es": "dedicado",
+      "pt": "dedicado",
+      "pron": "ˈdedɪkeɪtɪd"
+    },
+    {
+      "id": "demonstrate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "demonstrate",
+      "es": "demostrar",
+      "pt": "demonstrar",
+      "pron": "ˈdemənstreɪt"
+    },
+    {
+      "id": "diversity",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "diversity",
+      "es": "diversidad",
+      "pt": "diversidade",
+      "pron": "daɪˈvɜːrsɪti"
+    },
+    {
+      "id": "effective",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "effective",
+      "es": "efectivo",
+      "pt": "eficaz",
+      "pron": "ɪˈfektɪv"
+    },
+    {
+      "id": "efficient",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "efficient",
+      "es": "eficiente",
+      "pt": "eficiente",
+      "pron": "ɪˈfɪʃənt"
+    },
+    {
+      "id": "emphasize",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "emphasize",
+      "es": "enfatizar",
+      "pt": "enfatizar",
+      "pron": "ˈemfəsaɪz"
+    },
+    {
+      "id": "ethical",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "ethical",
+      "es": "ético",
+      "pt": "ético",
+      "pron": "ˈeθɪkəl"
+    },
+    {
+      "id": "evaluate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "evaluate",
+      "es": "evaluar",
+      "pt": "avaliar",
+      "pron": "ɪˈvæljueɪt"
+    },
+    {
+      "id": "evidence",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "evidence",
+      "es": "evidencia",
+      "pt": "evidência",
+      "pron": "ˈevɪdəns"
+    },
+    {
+      "id": "expectation",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "expectation",
+      "es": "expectativa",
+      "pt": "expectativa",
+      "pron": "ˌekspekˈteɪʃən"
+    },
+    {
+      "id": "fundamental",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "fundamental",
+      "es": "fundamental",
+      "pt": "fundamental",
+      "pron": "ˌfʌndəˈmentəl"
+    },
+    {
+      "id": "generate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "generate",
+      "es": "generar",
+      "pt": "gerar",
+      "pron": "ˈdʒenəreɪt"
+    },
+    {
+      "id": "genuine",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "genuine",
+      "es": "genuino",
+      "pt": "genuíno",
+      "pron": "ˈdʒenjuɪn"
+    },
+    {
+      "id": "identify",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "identify",
+      "es": "identificar",
+      "pt": "identificar",
+      "pron": "aɪˈdentɪfaɪ"
+    },
+    {
+      "id": "impact",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "impact",
+      "es": "impacto",
+      "pt": "impacto",
+      "pron": "ˈɪmpækt"
+    },
+    {
+      "id": "implement",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "implement",
+      "es": "implementar",
+      "pt": "implementar",
+      "pron": "ˈɪmplɪment"
+    },
+    {
+      "id": "influence",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "influence",
+      "es": "influir",
+      "pt": "influenciar",
+      "pron": "ˈɪnfluəns"
+    },
+    {
+      "id": "innovation",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "innovation",
+      "es": "innovación",
+      "pt": "inovação",
+      "pron": "ˌɪnəˈveɪʃən"
+    },
+    {
+      "id": "innovative",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "innovative",
+      "es": "innovador",
+      "pt": "inovador",
+      "pron": "ˈɪnəveɪtɪv"
+    },
+    {
+      "id": "interpretation",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "interpretation",
+      "es": "interpretación",
+      "pt": "interpretação",
+      "pron": "ɪnˌtɜːrprɪˈteɪʃən"
+    },
+    {
+      "id": "investigate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "investigate",
+      "es": "investigar",
+      "pt": "investigar",
+      "pron": "ɪnˈvestɪɡeɪt"
+    },
+    {
+      "id": "maintain",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "maintain",
+      "es": "mantener",
+      "pt": "manter",
+      "pron": "meɪnˈteɪn"
+    },
+    {
+      "id": "motivation",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "motivation",
+      "es": "motivación",
+      "pt": "motivação",
+      "pron": "ˌməʊtɪˈveɪʃən"
+    },
+    {
+      "id": "negotiate",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "negotiate",
+      "es": "negociar",
+      "pt": "negociar",
+      "pron": "nɪˈɡəʊʃieɪt"
+    },
+    {
+      "id": "overwhelming",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "overwhelming",
+      "es": "abrumador",
+      "pt": "avassalador",
+      "pron": "ˌəʊvəˈwelmɪŋ"
+    },
+    {
+      "id": "perspective",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "perspective",
+      "es": "perspectiva",
+      "pt": "perspectiva",
+      "pron": "pərˈspektɪv"
+    },
+    {
+      "id": "prioritize",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "prioritize",
+      "es": "priorizar",
+      "pt": "priorizar",
+      "pron": "praɪˈɒrɪtaɪz"
+    },
+    {
+      "id": "priority",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "priority",
+      "es": "prioridad",
+      "pt": "prioridade",
+      "pron": "praɪˈɒrɪti"
+    },
+    {
+      "id": "reflect",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "reflect",
+      "es": "reflexionar",
+      "pt": "refletir",
+      "pron": "rɪˈflekt"
+    },
+    {
+      "id": "responsibility",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "responsibility",
+      "es": "responsabilidad",
+      "pt": "responsabilidade",
+      "pron": "rɪˌspɒnsɪˈbɪlɪti"
+    },
+    {
+      "id": "significant",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "significant",
+      "es": "significativo",
+      "pt": "significativo",
+      "pron": "sɪɡˈnɪfɪkənt"
+    },
+    {
+      "id": "sophisticated",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "sophisticated",
+      "es": "sofisticado",
+      "pt": "sofisticado",
+      "pron": "səˈfɪstɪkeɪtɪd"
+    },
+    {
+      "id": "strategy",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "strategy",
+      "es": "estrategia",
+      "pt": "estratégia",
+      "pron": "ˈstrætədʒi"
+    },
+    {
+      "id": "tendency",
+      "emoji": "📚",
+      "level": "b2",
+      "en": "tendency",
+      "es": "tendencia",
+      "pt": "tendência",
+      "pron": "ˈtendənsi"
+    }
+  ]
+}

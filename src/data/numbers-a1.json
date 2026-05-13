@@ -1,0 +1,1297 @@
+{
+  "category": "numbers",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "one",
+          "emoji": "1️⃣",
+          "word": "one",
+          "tr": "bir",
+          "pron": "wʌn",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have one cat.",
+              "tr": "Bir kedim var.",
+              "words": [
+                "I",
+                "have",
+                "one",
+                "cat"
+              ]
+            },
+            {
+              "en": "One plus one is two.",
+              "tr": "Bir artı bir iki.",
+              "words": [
+                "One",
+                "plus",
+                "one",
+                "is",
+                "two"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "two",
+          "emoji": "2️⃣",
+          "word": "two",
+          "tr": "iki",
+          "pron": "tuː",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have two dogs.",
+              "tr": "İki köpeğim var.",
+              "words": [
+                "I",
+                "have",
+                "two",
+                "dogs"
+              ]
+            },
+            {
+              "en": "Two plus two is four.",
+              "tr": "İki artı iki dört.",
+              "words": [
+                "Two",
+                "plus",
+                "two",
+                "is",
+                "four"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "three",
+          "emoji": "3️⃣",
+          "word": "three",
+          "tr": "üç",
+          "pron": "θriː",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have three books.",
+              "tr": "Üç kitabım var.",
+              "words": [
+                "I",
+                "have",
+                "three",
+                "books"
+              ]
+            },
+            {
+              "en": "Three birds are flying.",
+              "tr": "Üç kuş uçuyor.",
+              "words": [
+                "Three",
+                "birds",
+                "are",
+                "flying"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "four",
+          "emoji": "4️⃣",
+          "word": "four",
+          "tr": "dört",
+          "pron": "fɔːr",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have four apples.",
+              "tr": "Dört elmam var.",
+              "words": [
+                "I",
+                "have",
+                "four",
+                "apples"
+              ]
+            },
+            {
+              "en": "Four plus one is five.",
+              "tr": "Dört artı bir beş.",
+              "words": [
+                "Four",
+                "plus",
+                "one",
+                "is",
+                "five"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "five",
+          "emoji": "5️⃣",
+          "word": "five",
+          "tr": "beş",
+          "pron": "faɪv",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have five cats.",
+              "tr": "Beş kedim var.",
+              "words": [
+                "I",
+                "have",
+                "five",
+                "cats"
+              ]
+            },
+            {
+              "en": "Five birds are singing.",
+              "tr": "Beş kuş şarkı söylüyor.",
+              "words": [
+                "Five",
+                "birds",
+                "are",
+                "singing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "six",
+          "emoji": "6️⃣",
+          "word": "six",
+          "tr": "altı",
+          "pron": "sɪks",
+          "level": "a1"
+        },
+        {
+          "id": "seven",
+          "emoji": "7️⃣",
+          "word": "seven",
+          "tr": "yedi",
+          "pron": "ˈsɛvən",
+          "level": "a1"
+        },
+        {
+          "id": "eight",
+          "emoji": "8️⃣",
+          "word": "eight",
+          "tr": "sekiz",
+          "pron": "eɪt",
+          "level": "a1"
+        },
+        {
+          "id": "nine",
+          "emoji": "9️⃣",
+          "word": "nine",
+          "tr": "dokuz",
+          "pron": "naɪn",
+          "level": "a1"
+        },
+        {
+          "id": "ten",
+          "emoji": "🔟",
+          "word": "ten",
+          "tr": "on",
+          "pron": "tɛn",
+          "level": "a1"
+        },
+        {
+          "id": "eleven",
+          "emoji": "🕚",
+          "word": "eleven",
+          "tr": "on bir",
+          "pron": "ɪˈlɛvən",
+          "level": "a1"
+        },
+        {
+          "id": "twelve",
+          "emoji": "🕛",
+          "word": "twelve",
+          "tr": "on iki",
+          "pron": "twɛlv",
+          "level": "a1"
+        },
+        {
+          "id": "thirteen",
+          "emoji": "1️⃣3️⃣",
+          "word": "thirteen",
+          "tr": "on üç",
+          "pron": "ˈθɜːˈtiːn",
+          "level": "a1"
+        },
+        {
+          "id": "fourteen",
+          "emoji": "1️⃣4️⃣",
+          "word": "fourteen",
+          "tr": "on dört",
+          "pron": "ˈfɔːˈtiːn",
+          "level": "a1"
+        },
+        {
+          "id": "fifteen",
+          "emoji": "1️⃣5️⃣",
+          "word": "fifteen",
+          "tr": "on beş",
+          "pron": "ˈfɪfˈtiːn",
+          "level": "a1"
+        },
+        {
+          "id": "sixteen",
+          "emoji": "1️⃣6️⃣",
+          "word": "sixteen",
+          "tr": "on altı",
+          "pron": "ˈsɪkˈstiːn",
+          "level": "a1"
+        },
+        {
+          "id": "seventeen",
+          "emoji": "1️⃣7️⃣",
+          "word": "seventeen",
+          "tr": "on yedi",
+          "pron": "ˈsɛvənˈtiːn",
+          "level": "a1"
+        },
+        {
+          "id": "eighteen",
+          "emoji": "1️⃣8️⃣",
+          "word": "eighteen",
+          "tr": "on sekiz",
+          "pron": "ˈeɪˈtiːn",
+          "level": "a1"
+        },
+        {
+          "id": "nineteen",
+          "emoji": "1️⃣9️⃣",
+          "word": "nineteen",
+          "tr": "on dokuz",
+          "pron": "ˈnaɪnˈtiːn",
+          "level": "a1"
+        },
+        {
+          "id": "twenty",
+          "emoji": "2️⃣0️⃣",
+          "word": "twenty",
+          "tr": "yirmi",
+          "pron": "ˈtwɛnti",
+          "level": "a1"
+        },
+        {
+          "id": "thirty",
+          "emoji": "3️⃣0️⃣",
+          "word": "thirty",
+          "tr": "otuz",
+          "pron": "ˈθɜːti",
+          "level": "a1"
+        },
+        {
+          "id": "forty",
+          "emoji": "4️⃣0️⃣",
+          "word": "forty",
+          "tr": "kırk",
+          "pron": "ˈfɔːti",
+          "level": "a1"
+        },
+        {
+          "id": "fifty",
+          "emoji": "5️⃣0️⃣",
+          "word": "fifty",
+          "tr": "elli",
+          "pron": "ˈfɪfti",
+          "level": "a1"
+        },
+        {
+          "id": "sixty",
+          "emoji": "6️⃣0️⃣",
+          "word": "sixty",
+          "tr": "altmış",
+          "pron": "ˈsɪksti",
+          "level": "a1"
+        },
+        {
+          "id": "seventy",
+          "emoji": "7️⃣0️⃣",
+          "word": "seventy",
+          "tr": "yetmiş",
+          "pron": "ˈsɛvənti",
+          "level": "a1"
+        },
+        {
+          "id": "eighty",
+          "emoji": "8️⃣0️⃣",
+          "word": "eighty",
+          "tr": "seksen",
+          "pron": "ˈeɪti",
+          "level": "a1"
+        },
+        {
+          "id": "ninety",
+          "emoji": "9️⃣0️⃣",
+          "word": "ninety",
+          "tr": "doksan",
+          "pron": "ˈnaɪnti",
+          "level": "a1"
+        },
+        {
+          "id": "hundred",
+          "emoji": "💯",
+          "word": "hundred",
+          "tr": "yüz",
+          "pron": "ˈhʌndrəd",
+          "level": "a1"
+        },
+        {
+          "id": "thousand",
+          "emoji": "🔢",
+          "word": "thousand",
+          "tr": "bin",
+          "pron": "ˈθaʊzənd",
+          "level": "a1"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "one",
+          "emoji": "1️⃣",
+          "word": "eins",
+          "tr": "bir",
+          "pron": "aɪns",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have one cat.",
+              "tr": "Bir kedim var.",
+              "words": [
+                "I",
+                "have",
+                "one",
+                "cat"
+              ]
+            },
+            {
+              "en": "One plus one is two.",
+              "tr": "Bir artı bir iki.",
+              "words": [
+                "One",
+                "plus",
+                "one",
+                "is",
+                "two"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "two",
+          "emoji": "2️⃣",
+          "word": "zwei",
+          "tr": "iki",
+          "pron": "tsvaɪ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have two dogs.",
+              "tr": "İki köpeğim var.",
+              "words": [
+                "I",
+                "have",
+                "two",
+                "dogs"
+              ]
+            },
+            {
+              "en": "Two plus two is four.",
+              "tr": "İki artı iki dört.",
+              "words": [
+                "Two",
+                "plus",
+                "two",
+                "is",
+                "four"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "three",
+          "emoji": "3️⃣",
+          "word": "drei",
+          "tr": "üç",
+          "pron": "draɪ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have three books.",
+              "tr": "Üç kitabım var.",
+              "words": [
+                "I",
+                "have",
+                "three",
+                "books"
+              ]
+            },
+            {
+              "en": "Three birds are flying.",
+              "tr": "Üç kuş uçuyor.",
+              "words": [
+                "Three",
+                "birds",
+                "are",
+                "flying"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "four",
+          "emoji": "4️⃣",
+          "word": "vier",
+          "tr": "dört",
+          "pron": "fiːr",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have four apples.",
+              "tr": "Dört elmam var.",
+              "words": [
+                "I",
+                "have",
+                "four",
+                "apples"
+              ]
+            },
+            {
+              "en": "Four plus one is five.",
+              "tr": "Dört artı bir beş.",
+              "words": [
+                "Four",
+                "plus",
+                "one",
+                "is",
+                "five"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "five",
+          "emoji": "5️⃣",
+          "word": "fünf",
+          "tr": "beş",
+          "pron": "fʏnf",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have five cats.",
+              "tr": "Beş kedim var.",
+              "words": [
+                "I",
+                "have",
+                "five",
+                "cats"
+              ]
+            },
+            {
+              "en": "Five birds are singing.",
+              "tr": "Beş kuş şarkı söylüyor.",
+              "words": [
+                "Five",
+                "birds",
+                "are",
+                "singing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "six",
+          "emoji": "6️⃣",
+          "word": "sechs",
+          "tr": "altı",
+          "pron": "zɛks",
+          "level": "a1"
+        },
+        {
+          "id": "seven",
+          "emoji": "7️⃣",
+          "word": "sieben",
+          "tr": "yedi",
+          "pron": "ˈziːbən",
+          "level": "a1"
+        },
+        {
+          "id": "eight",
+          "emoji": "8️⃣",
+          "word": "acht",
+          "tr": "sekiz",
+          "pron": "axt",
+          "level": "a1"
+        },
+        {
+          "id": "nine",
+          "emoji": "9️⃣",
+          "word": "neun",
+          "tr": "dokuz",
+          "pron": "nɔʏn",
+          "level": "a1"
+        },
+        {
+          "id": "ten",
+          "emoji": "🔟",
+          "word": "zehn",
+          "tr": "on",
+          "pron": "tseːn",
+          "level": "a1"
+        },
+        {
+          "id": "eleven",
+          "emoji": "🕚",
+          "word": "elf",
+          "tr": "on bir",
+          "pron": "ɛlf",
+          "level": "a1"
+        },
+        {
+          "id": "twelve",
+          "emoji": "🕛",
+          "word": "zwölf",
+          "tr": "on iki",
+          "pron": "tsvœlf",
+          "level": "a1"
+        },
+        {
+          "id": "thirteen",
+          "emoji": "1️⃣3️⃣",
+          "word": "dreizehn",
+          "tr": "on üç",
+          "pron": "ˈdraɪtseːn",
+          "level": "a1"
+        },
+        {
+          "id": "fourteen",
+          "emoji": "1️⃣4️⃣",
+          "word": "vierzehn",
+          "tr": "on dört",
+          "pron": "ˈfɪrtseːn",
+          "level": "a1"
+        },
+        {
+          "id": "fifteen",
+          "emoji": "1️⃣5️⃣",
+          "word": "fünfzehn",
+          "tr": "on beş",
+          "pron": "ˈfʏnftseːn",
+          "level": "a1"
+        },
+        {
+          "id": "sixteen",
+          "emoji": "1️⃣6️⃣",
+          "word": "sechzehn",
+          "tr": "on altı",
+          "pron": "ˈzɛçtseːn",
+          "level": "a1"
+        },
+        {
+          "id": "seventeen",
+          "emoji": "1️⃣7️⃣",
+          "word": "siebzehn",
+          "tr": "on yedi",
+          "pron": "ˈziːptseːn",
+          "level": "a1"
+        },
+        {
+          "id": "eighteen",
+          "emoji": "1️⃣8️⃣",
+          "word": "achtzehn",
+          "tr": "on sekiz",
+          "pron": "ˈaxtseːn",
+          "level": "a1"
+        },
+        {
+          "id": "nineteen",
+          "emoji": "1️⃣9️⃣",
+          "word": "neunzehn",
+          "tr": "on dokuz",
+          "pron": "ˈnɔʏntseːn",
+          "level": "a1"
+        },
+        {
+          "id": "twenty",
+          "emoji": "2️⃣0️⃣",
+          "word": "zwanzig",
+          "tr": "yirmi",
+          "pron": "ˈtsvantsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "thirty",
+          "emoji": "3️⃣0️⃣",
+          "word": "dreißig",
+          "tr": "otuz",
+          "pron": "ˈdraɪsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "forty",
+          "emoji": "4️⃣0️⃣",
+          "word": "vierzig",
+          "tr": "kırk",
+          "pron": "ˈfɪrtsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "fifty",
+          "emoji": "5️⃣0️⃣",
+          "word": "fünfzig",
+          "tr": "elli",
+          "pron": "ˈfʏnftsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "sixty",
+          "emoji": "6️⃣0️⃣",
+          "word": "sechzig",
+          "tr": "altmış",
+          "pron": "ˈzɛçtsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "seventy",
+          "emoji": "7️⃣0️⃣",
+          "word": "siebzig",
+          "tr": "yetmiş",
+          "pron": "ˈziːptsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "eighty",
+          "emoji": "8️⃣0️⃣",
+          "word": "achtzig",
+          "tr": "seksen",
+          "pron": "ˈaxtsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "ninety",
+          "emoji": "9️⃣0️⃣",
+          "word": "neunzig",
+          "tr": "doksan",
+          "pron": "ˈnɔʏntsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "hundred",
+          "emoji": "💯",
+          "word": "hundert",
+          "tr": "yüz",
+          "pron": "ˈhʊndɐt",
+          "level": "a1"
+        },
+        {
+          "id": "thousand",
+          "emoji": "🔢",
+          "word": "tausend",
+          "tr": "bin",
+          "pron": "ˈtaʊzənt",
+          "level": "a1"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "one",
+          "emoji": "1️⃣",
+          "word": "uno",
+          "tr": "bir",
+          "pron": "ˈuno",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have one cat.",
+              "tr": "Bir kedim var.",
+              "words": [
+                "I",
+                "have",
+                "one",
+                "cat"
+              ]
+            },
+            {
+              "en": "One plus one is two.",
+              "tr": "Bir artı bir iki.",
+              "words": [
+                "One",
+                "plus",
+                "one",
+                "is",
+                "two"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "two",
+          "emoji": "2️⃣",
+          "word": "dos",
+          "tr": "iki",
+          "pron": "dos",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have two dogs.",
+              "tr": "İki köpeğim var.",
+              "words": [
+                "I",
+                "have",
+                "two",
+                "dogs"
+              ]
+            },
+            {
+              "en": "Two plus two is four.",
+              "tr": "İki artı iki dört.",
+              "words": [
+                "Two",
+                "plus",
+                "two",
+                "is",
+                "four"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "three",
+          "emoji": "3️⃣",
+          "word": "tres",
+          "tr": "üç",
+          "pron": "tres",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have three books.",
+              "tr": "Üç kitabım var.",
+              "words": [
+                "I",
+                "have",
+                "three",
+                "books"
+              ]
+            },
+            {
+              "en": "Three birds are flying.",
+              "tr": "Üç kuş uçuyor.",
+              "words": [
+                "Three",
+                "birds",
+                "are",
+                "flying"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "four",
+          "emoji": "4️⃣",
+          "word": "cuatro",
+          "tr": "dört",
+          "pron": "ˈkwatro",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have four apples.",
+              "tr": "Dört elmam var.",
+              "words": [
+                "I",
+                "have",
+                "four",
+                "apples"
+              ]
+            },
+            {
+              "en": "Four plus one is five.",
+              "tr": "Dört artı bir beş.",
+              "words": [
+                "Four",
+                "plus",
+                "one",
+                "is",
+                "five"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "five",
+          "emoji": "5️⃣",
+          "word": "cinco",
+          "tr": "beş",
+          "pron": "ˈθinko",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "I have five cats.",
+              "tr": "Beş kedim var.",
+              "words": [
+                "I",
+                "have",
+                "five",
+                "cats"
+              ]
+            },
+            {
+              "en": "Five birds are singing.",
+              "tr": "Beş kuş şarkı söylüyor.",
+              "words": [
+                "Five",
+                "birds",
+                "are",
+                "singing"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "six",
+          "emoji": "6️⃣",
+          "word": "seis",
+          "tr": "altı",
+          "pron": "seis",
+          "level": "a1"
+        },
+        {
+          "id": "seven",
+          "emoji": "7️⃣",
+          "word": "siete",
+          "tr": "yedi",
+          "pron": "ˈsjete",
+          "level": "a1"
+        },
+        {
+          "id": "eight",
+          "emoji": "8️⃣",
+          "word": "ocho",
+          "tr": "sekiz",
+          "pron": "ˈotʃo",
+          "level": "a1"
+        },
+        {
+          "id": "nine",
+          "emoji": "9️⃣",
+          "word": "nueve",
+          "tr": "dokuz",
+          "pron": "ˈnwebe",
+          "level": "a1"
+        },
+        {
+          "id": "ten",
+          "emoji": "🔟",
+          "word": "diez",
+          "tr": "on",
+          "pron": "djeθ",
+          "level": "a1"
+        },
+        {
+          "id": "eleven",
+          "emoji": "🕚",
+          "word": "once",
+          "tr": "on bir",
+          "pron": "ˈonθe",
+          "level": "a1"
+        },
+        {
+          "id": "twelve",
+          "emoji": "🕛",
+          "word": "doce",
+          "tr": "on iki",
+          "pron": "ˈdoθe",
+          "level": "a1"
+        },
+        {
+          "id": "thirteen",
+          "emoji": "1️⃣3️⃣",
+          "word": "trece",
+          "tr": "on üç",
+          "pron": "ˈtreθe",
+          "level": "a1"
+        },
+        {
+          "id": "fourteen",
+          "emoji": "1️⃣4️⃣",
+          "word": "catorce",
+          "tr": "on dört",
+          "pron": "kaˈtorθe",
+          "level": "a1"
+        },
+        {
+          "id": "fifteen",
+          "emoji": "1️⃣5️⃣",
+          "word": "quince",
+          "tr": "on beş",
+          "pron": "ˈkinθe",
+          "level": "a1"
+        },
+        {
+          "id": "sixteen",
+          "emoji": "1️⃣6️⃣",
+          "word": "dieciséis",
+          "tr": "on altı",
+          "pron": "djeθiˈseis",
+          "level": "a1"
+        },
+        {
+          "id": "seventeen",
+          "emoji": "1️⃣7️⃣",
+          "word": "diecisiete",
+          "tr": "on yedi",
+          "pron": "djeθiˈsjete",
+          "level": "a1"
+        },
+        {
+          "id": "eighteen",
+          "emoji": "1️⃣8️⃣",
+          "word": "dieciocho",
+          "tr": "on sekiz",
+          "pron": "djeθiˈotʃo",
+          "level": "a1"
+        },
+        {
+          "id": "nineteen",
+          "emoji": "1️⃣9️⃣",
+          "word": "diecinueve",
+          "tr": "on dokuz",
+          "pron": "djeθiˈnweβe",
+          "level": "a1"
+        },
+        {
+          "id": "twenty",
+          "emoji": "2️⃣0️⃣",
+          "word": "veinte",
+          "tr": "yirmi",
+          "pron": "ˈbeinte",
+          "level": "a1"
+        },
+        {
+          "id": "thirty",
+          "emoji": "3️⃣0️⃣",
+          "word": "treinta",
+          "tr": "otuz",
+          "pron": "ˈtreinta",
+          "level": "a1"
+        },
+        {
+          "id": "forty",
+          "emoji": "4️⃣0️⃣",
+          "word": "cuarenta",
+          "tr": "kırk",
+          "pron": "kwaˈrenta",
+          "level": "a1"
+        },
+        {
+          "id": "fifty",
+          "emoji": "5️⃣0️⃣",
+          "word": "cincuenta",
+          "tr": "elli",
+          "pron": "θinˈkwenta",
+          "level": "a1"
+        },
+        {
+          "id": "sixty",
+          "emoji": "6️⃣0️⃣",
+          "word": "sesenta",
+          "tr": "altmış",
+          "pron": "seˈsenta",
+          "level": "a1"
+        },
+        {
+          "id": "seventy",
+          "emoji": "7️⃣0️⃣",
+          "word": "setenta",
+          "tr": "yetmiş",
+          "pron": "seˈtenta",
+          "level": "a1"
+        },
+        {
+          "id": "eighty",
+          "emoji": "8️⃣0️⃣",
+          "word": "ochenta",
+          "tr": "seksen",
+          "pron": "oˈtʃenta",
+          "level": "a1"
+        },
+        {
+          "id": "ninety",
+          "emoji": "9️⃣0️⃣",
+          "word": "noventa",
+          "tr": "doksan",
+          "pron": "noˈβenta",
+          "level": "a1"
+        },
+        {
+          "id": "hundred",
+          "emoji": "💯",
+          "word": "cien",
+          "tr": "yüz",
+          "pron": "θjen",
+          "level": "a1"
+        },
+        {
+          "id": "thousand",
+          "emoji": "🔢",
+          "word": "mil",
+          "tr": "bin",
+          "pron": "mil",
+          "level": "a1"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "one",
+          "emoji": "1️⃣",
+          "word": "um",
+          "tr": "bir",
+          "pron": "ˈũ",
+          "level": "a1"
+        },
+        {
+          "id": "two",
+          "emoji": "2️⃣",
+          "word": "dois",
+          "tr": "iki",
+          "pron": "ˈdojʃ",
+          "level": "a1"
+        },
+        {
+          "id": "three",
+          "emoji": "3️⃣",
+          "word": "três",
+          "tr": "üç",
+          "pron": "ˈtɾeʃ",
+          "level": "a1"
+        },
+        {
+          "id": "four",
+          "emoji": "4️⃣",
+          "word": "quatro",
+          "tr": "dört",
+          "pron": "ˈkwatɾu",
+          "level": "a1"
+        },
+        {
+          "id": "five",
+          "emoji": "5️⃣",
+          "word": "cinco",
+          "tr": "beş",
+          "pron": "ˈsĩku",
+          "level": "a1"
+        },
+        {
+          "id": "six",
+          "emoji": "6️⃣",
+          "word": "seis",
+          "tr": "altı",
+          "pron": "ˈsejʃ",
+          "level": "a1"
+        },
+        {
+          "id": "seven",
+          "emoji": "7️⃣",
+          "word": "sete",
+          "tr": "yedi",
+          "pron": "ˈseti",
+          "level": "a1"
+        },
+        {
+          "id": "eight",
+          "emoji": "8️⃣",
+          "word": "oito",
+          "tr": "sekiz",
+          "pron": "ˈojtu",
+          "level": "a1"
+        },
+        {
+          "id": "nine",
+          "emoji": "9️⃣",
+          "word": "nove",
+          "tr": "dokuz",
+          "pron": "ˈnɔvi",
+          "level": "a1"
+        },
+        {
+          "id": "ten",
+          "emoji": "🔟",
+          "word": "dez",
+          "tr": "on",
+          "pron": "ˈdɛʃ",
+          "level": "a1"
+        },
+        {
+          "id": "eleven",
+          "emoji": "🕚",
+          "word": "onze",
+          "tr": "on bir",
+          "pron": "ˈõzi",
+          "level": "a1"
+        },
+        {
+          "id": "twelve",
+          "emoji": "🕛",
+          "word": "doze",
+          "tr": "on iki",
+          "pron": "ˈdozi",
+          "level": "a1"
+        },
+        {
+          "id": "thirteen",
+          "emoji": "1️⃣3️⃣",
+          "word": "treze",
+          "tr": "on üç",
+          "pron": "ˈtɾezi",
+          "level": "a1"
+        },
+        {
+          "id": "fourteen",
+          "emoji": "1️⃣4️⃣",
+          "word": "quatorze",
+          "tr": "on dört",
+          "pron": "kwaˈtoʁzi",
+          "level": "a1"
+        },
+        {
+          "id": "fifteen",
+          "emoji": "1️⃣5️⃣",
+          "word": "quinze",
+          "tr": "on beş",
+          "pron": "ˈkĩzi",
+          "level": "a1"
+        },
+        {
+          "id": "sixteen",
+          "emoji": "1️⃣6️⃣",
+          "word": "dezesseis",
+          "tr": "on altı",
+          "pron": "deziˈsejʃ",
+          "level": "a1"
+        },
+        {
+          "id": "seventeen",
+          "emoji": "1️⃣7️⃣",
+          "word": "dezessete",
+          "tr": "on yedi",
+          "pron": "deziˈseti",
+          "level": "a1"
+        },
+        {
+          "id": "eighteen",
+          "emoji": "1️⃣8️⃣",
+          "word": "dezoito",
+          "tr": "on sekiz",
+          "pron": "deˈzojtu",
+          "level": "a1"
+        },
+        {
+          "id": "nineteen",
+          "emoji": "1️⃣9️⃣",
+          "word": "dezenove",
+          "tr": "on dokuz",
+          "pron": "deziˈnɔvi",
+          "level": "a1"
+        },
+        {
+          "id": "twenty",
+          "emoji": "2️⃣0️⃣",
+          "word": "vinte",
+          "tr": "yirmi",
+          "pron": "ˈvĩti",
+          "level": "a1"
+        },
+        {
+          "id": "thirty",
+          "emoji": "3️⃣0️⃣",
+          "word": "trinta",
+          "tr": "otuz",
+          "pron": "ˈtɾĩta",
+          "level": "a1"
+        },
+        {
+          "id": "forty",
+          "emoji": "4️⃣0️⃣",
+          "word": "quarenta",
+          "tr": "kırk",
+          "pron": "kwaˈɾẽta",
+          "level": "a1"
+        },
+        {
+          "id": "fifty",
+          "emoji": "5️⃣0️⃣",
+          "word": "cinquenta",
+          "tr": "elli",
+          "pron": "sĩˈkwẽta",
+          "level": "a1"
+        },
+        {
+          "id": "sixty",
+          "emoji": "6️⃣0️⃣",
+          "word": "sessenta",
+          "tr": "altmış",
+          "pron": "seˈsẽta",
+          "level": "a1"
+        },
+        {
+          "id": "seventy",
+          "emoji": "7️⃣0️⃣",
+          "word": "setenta",
+          "tr": "yetmiş",
+          "pron": "seˈtẽta",
+          "level": "a1"
+        },
+        {
+          "id": "eighty",
+          "emoji": "8️⃣0️⃣",
+          "word": "oitenta",
+          "tr": "seksen",
+          "pron": "ojˈtẽta",
+          "level": "a1"
+        },
+        {
+          "id": "ninety",
+          "emoji": "9️⃣0️⃣",
+          "word": "noventa",
+          "tr": "doksan",
+          "pron": "noˈvẽta",
+          "level": "a1"
+        },
+        {
+          "id": "hundred",
+          "emoji": "💯",
+          "word": "cem",
+          "tr": "yüz",
+          "pron": "ˈsẽj",
+          "level": "a1"
+        },
+        {
+          "id": "thousand",
+          "emoji": "🔢",
+          "word": "mil",
+          "tr": "bin",
+          "pron": "ˈmiw",
+          "level": "a1"
+        }
+      ]
+    }
+  }
+}

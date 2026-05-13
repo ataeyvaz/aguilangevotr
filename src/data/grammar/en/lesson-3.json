@@ -1,0 +1,57 @@
+{
+  "id": "en-lesson-3",
+  "lang": "en",
+  "lessonNumber": 3,
+  "title": "Soru Soralım!",
+  "subtitle": "Do / Does ile Soru",
+  "formula": "Do + I/You/We/They + fiil? | Does + He/She/It + fiil?",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Do you like music?", "tr": "Müziği sever misin?" },
+    { "type": "correct", "sentence": "Does she play tennis?", "tr": "O tenis oynar mı?" },
+    { "type": "correct", "sentence": "Do they have a dog?", "tr": "Onların köpeği var mı?" },
+    { "type": "wrong", "sentence": "Does she plays tennis?", "tr": "", "note": "Does kullanınca fiil sade kalır, +s yok!" },
+    { "type": "wrong", "sentence": "Do he like music?", "tr": "", "note": "He/She/It için Do değil Does!" }
+  ],
+  "inputSentences": [
+    { "text": "Do you eat vegetables?", "tr": "Sen sebze yer misin?" },
+    { "text": "Does he go to school?", "tr": "O okula gider mi?" },
+    { "text": "Do we need an umbrella?", "tr": "Şemsiyeye ihtiyacımız var mı?" },
+    { "text": "Does she like cats?", "tr": "O kedileri sever mi?" },
+    { "text": "Do they speak English?", "tr": "Onlar İngilizce konuşur mu?" }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "___ she speak French?",
+      "answer": "Does",
+      "hint": "She → Does"
+    },
+    {
+      "type": "build",
+      "words": ["you", "Do", "like", "pizza"],
+      "answer": ["Do", "you", "like", "pizza"],
+      "tr": "Pizzayı sever misin?"
+    },
+    {
+      "type": "fill",
+      "sentence": "___ they live near school?",
+      "answer": "Do",
+      "hint": "They → Do"
+    },
+    {
+      "type": "build",
+      "words": ["he", "Does", "have", "a", "bike"],
+      "answer": ["Does", "he", "have", "a", "bike"],
+      "tr": "Onun bisikleti var mı?"
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Arkadaşını tanımaya çalışıyorsun",
+    "lines": [
+      { "role": "A", "text": "Do you like sports?", "tr": "Sporları sever misin?" },
+      { "role": "B", "text": "Yes, I do! I love swimming.", "tr": "Evet! Yüzmeyi çok severim." },
+      { "role": "A", "text": "Does your brother play football?", "tr": "Erkek kardeşin futbol oynar mı?" },
+      { "role": "B", "text": "No, he doesn't. He plays basketball.", "tr": "Hayır. O basketbol oynar." }
+    ]
+  }
+}

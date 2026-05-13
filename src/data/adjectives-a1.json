@@ -1,0 +1,3230 @@
+{
+  "category": "adjectives",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "big",
+          "emoji": "🐘",
+          "word": "big",
+          "tr": "büyük",
+          "pron": "bɪɡ",
+          "level": "a1"
+        },
+        {
+          "id": "small",
+          "emoji": "🐭",
+          "word": "small",
+          "tr": "küçük",
+          "pron": "smɔːl",
+          "level": "a1"
+        },
+        {
+          "id": "long",
+          "emoji": "📏",
+          "word": "long",
+          "tr": "uzun",
+          "pron": "lɒŋ",
+          "level": "a1"
+        },
+        {
+          "id": "short",
+          "emoji": "✂️",
+          "word": "short",
+          "tr": "kısa",
+          "pron": "ʃɔːt",
+          "level": "a1"
+        },
+        {
+          "id": "tall",
+          "emoji": "🏔️",
+          "word": "tall",
+          "tr": "uzun boylu",
+          "pron": "tɔːl",
+          "level": "a1"
+        },
+        {
+          "id": "old",
+          "emoji": "👴",
+          "word": "old",
+          "tr": "yaşlı / eski",
+          "pron": "əʊld",
+          "level": "a1"
+        },
+        {
+          "id": "new",
+          "emoji": "✨",
+          "word": "new",
+          "tr": "yeni",
+          "pron": "njuː",
+          "level": "a1"
+        },
+        {
+          "id": "good",
+          "emoji": "👍",
+          "word": "good",
+          "tr": "iyi",
+          "pron": "ɡʊd",
+          "level": "a1"
+        },
+        {
+          "id": "bad",
+          "emoji": "👎",
+          "word": "bad",
+          "tr": "kötü",
+          "pron": "bæd",
+          "level": "a1"
+        },
+        {
+          "id": "hot",
+          "emoji": "🔥",
+          "word": "hot",
+          "tr": "sıcak",
+          "pron": "hɒt",
+          "level": "a1"
+        },
+        {
+          "id": "cold",
+          "emoji": "🧊",
+          "word": "cold",
+          "tr": "soğuk",
+          "pron": "kəʊld",
+          "level": "a1"
+        },
+        {
+          "id": "happy",
+          "emoji": "😊",
+          "word": "happy",
+          "tr": "mutlu",
+          "pron": "ˈhæpi",
+          "level": "a1"
+        },
+        {
+          "id": "sad",
+          "emoji": "😢",
+          "word": "sad",
+          "tr": "üzgün",
+          "pron": "sæd",
+          "level": "a1"
+        },
+        {
+          "id": "angry",
+          "emoji": "😠",
+          "word": "angry",
+          "tr": "kızgın",
+          "pron": "ˈæŋɡri",
+          "level": "a1"
+        },
+        {
+          "id": "tired",
+          "emoji": "😴",
+          "word": "tired",
+          "tr": "yorgun",
+          "pron": "ˈtaɪəd",
+          "level": "a1"
+        },
+        {
+          "id": "hungry",
+          "emoji": "🍽️",
+          "word": "hungry",
+          "tr": "aç",
+          "pron": "ˈhʌŋɡri",
+          "level": "a1"
+        },
+        {
+          "id": "thirsty",
+          "emoji": "💧",
+          "word": "thirsty",
+          "tr": "susuz",
+          "pron": "ˈθɜːsti",
+          "level": "a1"
+        },
+        {
+          "id": "sick",
+          "emoji": "🤒",
+          "word": "sick",
+          "tr": "hasta",
+          "pron": "sɪk",
+          "level": "a1"
+        },
+        {
+          "id": "clean",
+          "emoji": "🧼",
+          "word": "clean",
+          "tr": "temiz",
+          "pron": "kliːn",
+          "level": "a1"
+        },
+        {
+          "id": "dirty",
+          "emoji": "🤢",
+          "word": "dirty",
+          "tr": "kirli",
+          "pron": "ˈdɜːti",
+          "level": "a1"
+        },
+        {
+          "id": "fast",
+          "emoji": "🐆",
+          "word": "fast",
+          "tr": "hızlı",
+          "pron": "fɑːst",
+          "level": "a1"
+        },
+        {
+          "id": "slow",
+          "emoji": "🐢",
+          "word": "slow",
+          "tr": "yavaş",
+          "pron": "sləʊ",
+          "level": "a1"
+        },
+        {
+          "id": "loud",
+          "emoji": "📢",
+          "word": "loud",
+          "tr": "gürültülü",
+          "pron": "laʊd",
+          "level": "a1"
+        },
+        {
+          "id": "quiet",
+          "emoji": "🤫",
+          "word": "quiet",
+          "tr": "sessiz",
+          "pron": "ˈkwaɪət",
+          "level": "a1"
+        },
+        {
+          "id": "hard",
+          "emoji": "🪨",
+          "word": "hard",
+          "tr": "sert / zor",
+          "pron": "hɑːd",
+          "level": "a1"
+        },
+        {
+          "id": "soft",
+          "emoji": "🧸",
+          "word": "soft",
+          "tr": "yumuşak",
+          "pron": "sɒft",
+          "level": "a1"
+        },
+        {
+          "id": "heavy",
+          "emoji": "🏋️",
+          "word": "heavy",
+          "tr": "ağır",
+          "pron": "ˈhɛvi",
+          "level": "a1"
+        },
+        {
+          "id": "light",
+          "emoji": "🪶",
+          "word": "light",
+          "tr": "hafif",
+          "pron": "laɪt",
+          "level": "a1"
+        },
+        {
+          "id": "rich",
+          "emoji": "💰",
+          "word": "rich",
+          "tr": "zengin",
+          "pron": "rɪtʃ",
+          "level": "a1"
+        },
+        {
+          "id": "poor",
+          "emoji": "🪣",
+          "word": "poor",
+          "tr": "yoksul",
+          "pron": "pɔː",
+          "level": "a1"
+        },
+        {
+          "id": "beautiful",
+          "emoji": "🌸",
+          "word": "beautiful",
+          "tr": "güzel",
+          "pron": "ˈbjuːtɪfəl",
+          "level": "a1"
+        },
+        {
+          "id": "ugly",
+          "emoji": "😬",
+          "word": "ugly",
+          "tr": "çirkin",
+          "pron": "ˈʌɡli",
+          "level": "a1"
+        },
+        {
+          "id": "funny",
+          "emoji": "😂",
+          "word": "funny",
+          "tr": "komik",
+          "pron": "ˈfʌni",
+          "level": "a1"
+        },
+        {
+          "id": "serious",
+          "emoji": "😐",
+          "word": "serious",
+          "tr": "ciddi",
+          "pron": "ˈsɪəriəs",
+          "level": "a1"
+        },
+        {
+          "id": "kind",
+          "emoji": "🤗",
+          "word": "kind",
+          "tr": "nazik",
+          "pron": "kaɪnd",
+          "level": "a1"
+        },
+        {
+          "id": "cruel",
+          "emoji": "😈",
+          "word": "cruel",
+          "tr": "zalim",
+          "pron": "kruːəl",
+          "level": "a1"
+        },
+        {
+          "id": "brave",
+          "emoji": "🦁",
+          "word": "brave",
+          "tr": "cesur",
+          "pron": "breɪv",
+          "level": "a1"
+        },
+        {
+          "id": "shy",
+          "emoji": "🙈",
+          "word": "shy",
+          "tr": "utangaç",
+          "pron": "ʃaɪ",
+          "level": "a1"
+        },
+        {
+          "id": "clever",
+          "emoji": "🧠",
+          "word": "clever",
+          "tr": "zeki",
+          "pron": "ˈklɛvər",
+          "level": "a1"
+        },
+        {
+          "id": "lazy",
+          "emoji": "🛋️",
+          "word": "lazy",
+          "tr": "tembel",
+          "pron": "ˈleɪzi",
+          "level": "a1"
+        },
+        {
+          "id": "open",
+          "emoji": "🚪",
+          "word": "open",
+          "tr": "açık",
+          "pron": "ˈəʊpən",
+          "level": "a1"
+        },
+        {
+          "id": "closed",
+          "emoji": "🔒",
+          "word": "closed",
+          "tr": "kapalı",
+          "pron": "kləʊzd",
+          "level": "a1"
+        },
+        {
+          "id": "full",
+          "emoji": "🌕",
+          "word": "full",
+          "tr": "dolu",
+          "pron": "fʊl",
+          "level": "a1"
+        },
+        {
+          "id": "empty",
+          "emoji": "🌑",
+          "word": "empty",
+          "tr": "boş",
+          "pron": "ˈɛmpti",
+          "level": "a1"
+        },
+        {
+          "id": "wet",
+          "emoji": "💦",
+          "word": "wet",
+          "tr": "ıslak",
+          "pron": "wɛt",
+          "level": "a1"
+        },
+        {
+          "id": "dry",
+          "emoji": "🏜️",
+          "word": "dry",
+          "tr": "kuru",
+          "pron": "draɪ",
+          "level": "a1"
+        },
+        {
+          "id": "dark",
+          "emoji": "🌑",
+          "word": "dark",
+          "tr": "karanlık",
+          "pron": "dɑːk",
+          "level": "a1"
+        },
+        {
+          "id": "bright",
+          "emoji": "☀️",
+          "word": "bright",
+          "tr": "parlak",
+          "pron": "braɪt",
+          "level": "a1"
+        },
+        {
+          "id": "safe",
+          "emoji": "🛡️",
+          "word": "safe",
+          "tr": "güvenli",
+          "pron": "seɪf",
+          "level": "a1"
+        },
+        {
+          "id": "dangerous",
+          "emoji": "⚠️",
+          "word": "dangerous",
+          "tr": "tehlikeli",
+          "pron": "ˈdeɪndʒərəs",
+          "level": "a1"
+        },
+        {
+          "id": "amazing",
+          "emoji": "🤩",
+          "word": "amazing",
+          "tr": "şaşırtıcı",
+          "pron": "əˈmeɪzɪŋ",
+          "level": "a2"
+        },
+        {
+          "id": "awful",
+          "emoji": "😱",
+          "word": "awful",
+          "tr": "korkunç",
+          "pron": "ˈɔːfəl",
+          "level": "a2"
+        },
+        {
+          "id": "boring",
+          "emoji": "😑",
+          "word": "boring",
+          "tr": "sıkıcı",
+          "pron": "ˈbɔːrɪŋ",
+          "level": "a2"
+        },
+        {
+          "id": "comfortable",
+          "emoji": "🛋️",
+          "word": "comfortable",
+          "tr": "rahat",
+          "pron": "ˈkʌmftəbəl",
+          "level": "a2"
+        },
+        {
+          "id": "exciting",
+          "emoji": "🎉",
+          "word": "exciting",
+          "tr": "heyecan verici",
+          "pron": "ɪkˈsaɪtɪŋ",
+          "level": "a2"
+        },
+        {
+          "id": "famous",
+          "emoji": "⭐",
+          "word": "famous",
+          "tr": "ünlü",
+          "pron": "ˈfeɪməs",
+          "level": "a2"
+        },
+        {
+          "id": "friendly",
+          "emoji": "🤝",
+          "word": "friendly",
+          "tr": "arkadaş canlısı",
+          "pron": "ˈfrɛndli",
+          "level": "a2"
+        },
+        {
+          "id": "important",
+          "emoji": "🌟",
+          "word": "important",
+          "tr": "önemli",
+          "pron": "ɪmˈpɔːtənt",
+          "level": "a2"
+        },
+        {
+          "id": "interesting",
+          "emoji": "🧐",
+          "word": "interesting",
+          "tr": "ilginç",
+          "pron": "ˈɪntrɪstɪŋ",
+          "level": "a2"
+        },
+        {
+          "id": "necessary",
+          "emoji": "📌",
+          "word": "necessary",
+          "tr": "gerekli",
+          "pron": "ˈnɛsɪsɛri",
+          "level": "a2"
+        },
+        {
+          "id": "nervous",
+          "emoji": "😬",
+          "word": "nervous",
+          "tr": "sinirli",
+          "pron": "ˈnɜːvəs",
+          "level": "a2"
+        },
+        {
+          "id": "perfect",
+          "emoji": "💯",
+          "word": "perfect",
+          "tr": "mükemmel",
+          "pron": "ˈpɜːfɪkt",
+          "level": "a2"
+        },
+        {
+          "id": "popular",
+          "emoji": "👥",
+          "word": "popular",
+          "tr": "popüler",
+          "pron": "ˈpɒpjʊlər",
+          "level": "a2"
+        },
+        {
+          "id": "powerful",
+          "emoji": "💪",
+          "word": "powerful",
+          "tr": "güçlü",
+          "pron": "ˈpaʊərfʊl",
+          "level": "a2"
+        },
+        {
+          "id": "proud",
+          "emoji": "🏆",
+          "word": "proud",
+          "tr": "gururlu",
+          "pron": "praʊd",
+          "level": "a2"
+        },
+        {
+          "id": "scared",
+          "emoji": "😨",
+          "word": "scared",
+          "tr": "korkmuş",
+          "pron": "skɛəd",
+          "level": "a2"
+        },
+        {
+          "id": "strange",
+          "emoji": "🤔",
+          "word": "strange",
+          "tr": "tuhaf",
+          "pron": "streɪndʒ",
+          "level": "a2"
+        },
+        {
+          "id": "strong",
+          "emoji": "🦾",
+          "word": "strong",
+          "tr": "güçlü",
+          "pron": "strɒŋ",
+          "level": "a2"
+        },
+        {
+          "id": "weak",
+          "emoji": "🤕",
+          "word": "weak",
+          "tr": "zayıf",
+          "pron": "wiːk",
+          "level": "a2"
+        },
+        {
+          "id": "wonderful",
+          "emoji": "🌈",
+          "word": "wonderful",
+          "tr": "harika",
+          "pron": "ˈwʌndərfʊl",
+          "level": "a2"
+        },
+        {
+          "id": "worried",
+          "emoji": "😟",
+          "word": "worried",
+          "tr": "endişeli",
+          "pron": "ˈwʌrid",
+          "level": "a2"
+        },
+        {
+          "id": "young",
+          "emoji": "👶",
+          "word": "young",
+          "tr": "genç",
+          "pron": "jʌŋ",
+          "level": "a2"
+        },
+        {
+          "id": "careful",
+          "emoji": "🧐",
+          "word": "careful",
+          "tr": "dikkatli",
+          "pron": "ˈkɛrfʊl",
+          "level": "a2"
+        },
+        {
+          "id": "correct",
+          "emoji": "✅",
+          "word": "correct",
+          "tr": "doğru",
+          "pron": "kəˈrɛkt",
+          "level": "a2"
+        },
+        {
+          "id": "different",
+          "emoji": "🔀",
+          "word": "different",
+          "tr": "farklı",
+          "pron": "ˈdɪfərənt",
+          "level": "a2"
+        },
+        {
+          "id": "difficult",
+          "emoji": "😓",
+          "word": "difficult",
+          "tr": "zor",
+          "pron": "ˈdɪfɪkəlt",
+          "level": "a2"
+        },
+        {
+          "id": "easy",
+          "emoji": "😌",
+          "word": "easy",
+          "tr": "kolay",
+          "pron": "ˈiːzi",
+          "level": "a2"
+        },
+        {
+          "id": "excellent",
+          "emoji": "🥇",
+          "word": "excellent",
+          "tr": "mükemmel",
+          "pron": "ˈɛksələnt",
+          "level": "a2"
+        },
+        {
+          "id": "extra",
+          "emoji": "➕",
+          "word": "extra",
+          "tr": "fazladan",
+          "pron": "ˈɛkstrə",
+          "level": "a2"
+        },
+        {
+          "id": "fair",
+          "emoji": "⚖️",
+          "word": "fair",
+          "tr": "adil",
+          "pron": "fɛr",
+          "level": "a2"
+        },
+        {
+          "id": "false",
+          "emoji": "❌",
+          "word": "false",
+          "tr": "yanlış",
+          "pron": "fɔːls",
+          "level": "a2"
+        },
+        {
+          "id": "free",
+          "emoji": "🎈",
+          "word": "free",
+          "tr": "özgür / bedava",
+          "pron": "friː",
+          "level": "a2"
+        },
+        {
+          "id": "fresh",
+          "emoji": "🌿",
+          "word": "fresh",
+          "tr": "taze",
+          "pron": "frɛʃ",
+          "level": "a2"
+        },
+        {
+          "id": "general",
+          "emoji": "🌐",
+          "word": "general",
+          "tr": "genel",
+          "pron": "ˈdʒɛnərəl",
+          "level": "a2"
+        },
+        {
+          "id": "grateful",
+          "emoji": "🙏",
+          "word": "grateful",
+          "tr": "minnettar",
+          "pron": "ˈɡreɪtfʊl",
+          "level": "a2"
+        },
+        {
+          "id": "ill",
+          "emoji": "🤧",
+          "word": "ill",
+          "tr": "hasta",
+          "pron": "ɪl",
+          "level": "a2"
+        },
+        {
+          "id": "local",
+          "emoji": "📍",
+          "word": "local",
+          "tr": "yerel",
+          "pron": "ˈləʊkəl",
+          "level": "a2"
+        },
+        {
+          "id": "lucky",
+          "emoji": "🍀",
+          "word": "lucky",
+          "tr": "şanslı",
+          "pron": "ˈlʌki",
+          "level": "a2"
+        },
+        {
+          "id": "main",
+          "emoji": "🔑",
+          "word": "main",
+          "tr": "ana / temel",
+          "pron": "meɪn",
+          "level": "a2"
+        },
+        {
+          "id": "normal",
+          "emoji": "😐",
+          "word": "normal",
+          "tr": "normal",
+          "pron": "ˈnɔːməl",
+          "level": "a2"
+        },
+        {
+          "id": "own",
+          "emoji": "🏠",
+          "word": "own",
+          "tr": "kendi",
+          "pron": "əʊn",
+          "level": "a2"
+        },
+        {
+          "id": "painful",
+          "emoji": "😣",
+          "word": "painful",
+          "tr": "acı verici",
+          "pron": "ˈpeɪnfʊl",
+          "level": "a2"
+        },
+        {
+          "id": "pleasant",
+          "emoji": "😊",
+          "word": "pleasant",
+          "tr": "hoş",
+          "pron": "ˈplɛzənt",
+          "level": "a2"
+        },
+        {
+          "id": "possible",
+          "emoji": "💡",
+          "word": "possible",
+          "tr": "mümkün",
+          "pron": "ˈpɒsɪbəl",
+          "level": "a2"
+        },
+        {
+          "id": "ready",
+          "emoji": "✅",
+          "word": "ready",
+          "tr": "hazır",
+          "pron": "ˈrɛdi",
+          "level": "a2"
+        },
+        {
+          "id": "real",
+          "emoji": "🌍",
+          "word": "real",
+          "tr": "gerçek",
+          "pron": "rɪəl",
+          "level": "a2"
+        },
+        {
+          "id": "recent",
+          "emoji": "🕐",
+          "word": "recent",
+          "tr": "yakın zamandaki",
+          "pron": "ˈriːsənt",
+          "level": "a2"
+        },
+        {
+          "id": "regular",
+          "emoji": "🔄",
+          "word": "regular",
+          "tr": "düzenli",
+          "pron": "ˈrɛɡjʊlər",
+          "level": "a2"
+        },
+        {
+          "id": "simple",
+          "emoji": "🎯",
+          "word": "simple",
+          "tr": "basit",
+          "pron": "ˈsɪmpəl",
+          "level": "a2"
+        },
+        {
+          "id": "terrible",
+          "emoji": "😰",
+          "word": "terrible",
+          "tr": "berbat",
+          "pron": "ˈtɛrɪbəl",
+          "level": "a2"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "big",
+          "emoji": "🐘",
+          "word": "groß",
+          "tr": "büyük",
+          "pron": "ɡroːs",
+          "level": "a1"
+        },
+        {
+          "id": "small",
+          "emoji": "🐭",
+          "word": "klein",
+          "tr": "küçük",
+          "pron": "klaɪn",
+          "level": "a1"
+        },
+        {
+          "id": "long",
+          "emoji": "📏",
+          "word": "lang",
+          "tr": "uzun",
+          "pron": "laŋ",
+          "level": "a1"
+        },
+        {
+          "id": "short",
+          "emoji": "✂️",
+          "word": "kurz",
+          "tr": "kısa",
+          "pron": "kʊrts",
+          "level": "a1"
+        },
+        {
+          "id": "tall",
+          "emoji": "🏔️",
+          "word": "groß",
+          "tr": "uzun boylu",
+          "pron": "ɡroːs",
+          "level": "a1"
+        },
+        {
+          "id": "old",
+          "emoji": "👴",
+          "word": "alt",
+          "tr": "yaşlı / eski",
+          "pron": "alt",
+          "level": "a1"
+        },
+        {
+          "id": "new",
+          "emoji": "✨",
+          "word": "neu",
+          "tr": "yeni",
+          "pron": "nɔʏ",
+          "level": "a1"
+        },
+        {
+          "id": "good",
+          "emoji": "👍",
+          "word": "gut",
+          "tr": "iyi",
+          "pron": "ɡuːt",
+          "level": "a1"
+        },
+        {
+          "id": "bad",
+          "emoji": "👎",
+          "word": "schlecht",
+          "tr": "kötü",
+          "pron": "ʃlɛçt",
+          "level": "a1"
+        },
+        {
+          "id": "hot",
+          "emoji": "🔥",
+          "word": "heiß",
+          "tr": "sıcak",
+          "pron": "haɪs",
+          "level": "a1"
+        },
+        {
+          "id": "cold",
+          "emoji": "🧊",
+          "word": "kalt",
+          "tr": "soğuk",
+          "pron": "kalt",
+          "level": "a1"
+        },
+        {
+          "id": "happy",
+          "emoji": "😊",
+          "word": "glücklich",
+          "tr": "mutlu",
+          "pron": "ˈɡlʏklɪç",
+          "level": "a1"
+        },
+        {
+          "id": "sad",
+          "emoji": "😢",
+          "word": "traurig",
+          "tr": "üzgün",
+          "pron": "ˈtraʊrɪç",
+          "level": "a1"
+        },
+        {
+          "id": "angry",
+          "emoji": "😠",
+          "word": "wütend",
+          "tr": "kızgın",
+          "pron": "ˈvyːtənt",
+          "level": "a1"
+        },
+        {
+          "id": "tired",
+          "emoji": "😴",
+          "word": "müde",
+          "tr": "yorgun",
+          "pron": "ˈmyːdə",
+          "level": "a1"
+        },
+        {
+          "id": "hungry",
+          "emoji": "🍽️",
+          "word": "hungrig",
+          "tr": "aç",
+          "pron": "ˈhʊŋrɪç",
+          "level": "a1"
+        },
+        {
+          "id": "thirsty",
+          "emoji": "💧",
+          "word": "durstig",
+          "tr": "susuz",
+          "pron": "ˈdʊrstɪç",
+          "level": "a1"
+        },
+        {
+          "id": "sick",
+          "emoji": "🤒",
+          "word": "krank",
+          "tr": "hasta",
+          "pron": "kraŋk",
+          "level": "a1"
+        },
+        {
+          "id": "clean",
+          "emoji": "🧼",
+          "word": "sauber",
+          "tr": "temiz",
+          "pron": "ˈzaʊbər",
+          "level": "a1"
+        },
+        {
+          "id": "dirty",
+          "emoji": "🤢",
+          "word": "schmutzig",
+          "tr": "kirli",
+          "pron": "ˈʃmʊtsɪç",
+          "level": "a1"
+        },
+        {
+          "id": "fast",
+          "emoji": "🐆",
+          "word": "schnell",
+          "tr": "hızlı",
+          "pron": "ʃnɛl",
+          "level": "a1"
+        },
+        {
+          "id": "slow",
+          "emoji": "🐢",
+          "word": "langsam",
+          "tr": "yavaş",
+          "pron": "ˈlaŋzaːm",
+          "level": "a1"
+        },
+        {
+          "id": "loud",
+          "emoji": "📢",
+          "word": "laut",
+          "tr": "gürültülü",
+          "pron": "laʊt",
+          "level": "a1"
+        },
+        {
+          "id": "quiet",
+          "emoji": "🤫",
+          "word": "leise",
+          "tr": "sessiz",
+          "pron": "ˈlaɪzə",
+          "level": "a1"
+        },
+        {
+          "id": "hard",
+          "emoji": "🪨",
+          "word": "hart",
+          "tr": "sert / zor",
+          "pron": "hart",
+          "level": "a1"
+        },
+        {
+          "id": "soft",
+          "emoji": "🧸",
+          "word": "weich",
+          "tr": "yumuşak",
+          "pron": "vaɪç",
+          "level": "a1"
+        },
+        {
+          "id": "heavy",
+          "emoji": "🏋️",
+          "word": "schwer",
+          "tr": "ağır",
+          "pron": "ʃveːr",
+          "level": "a1"
+        },
+        {
+          "id": "light",
+          "emoji": "🪶",
+          "word": "leicht",
+          "tr": "hafif",
+          "pron": "laɪçt",
+          "level": "a1"
+        },
+        {
+          "id": "rich",
+          "emoji": "💰",
+          "word": "reich",
+          "tr": "zengin",
+          "pron": "raɪç",
+          "level": "a1"
+        },
+        {
+          "id": "poor",
+          "emoji": "🪣",
+          "word": "arm",
+          "tr": "yoksul",
+          "pron": "arm",
+          "level": "a1"
+        },
+        {
+          "id": "beautiful",
+          "emoji": "🌸",
+          "word": "schön",
+          "tr": "güzel",
+          "pron": "ʃøːn",
+          "level": "a1"
+        },
+        {
+          "id": "ugly",
+          "emoji": "😬",
+          "word": "hässlich",
+          "tr": "çirkin",
+          "pron": "ˈhɛslɪç",
+          "level": "a1"
+        },
+        {
+          "id": "funny",
+          "emoji": "😂",
+          "word": "lustig",
+          "tr": "komik",
+          "pron": "ˈlʊstɪç",
+          "level": "a1"
+        },
+        {
+          "id": "serious",
+          "emoji": "😐",
+          "word": "ernst",
+          "tr": "ciddi",
+          "pron": "ɛrnst",
+          "level": "a1"
+        },
+        {
+          "id": "kind",
+          "emoji": "🤗",
+          "word": "freundlich",
+          "tr": "nazik",
+          "pron": "ˈfrɔʏntlɪç",
+          "level": "a1"
+        },
+        {
+          "id": "cruel",
+          "emoji": "😈",
+          "word": "grausam",
+          "tr": "zalim",
+          "pron": "ˈɡraʊzaːm",
+          "level": "a1"
+        },
+        {
+          "id": "brave",
+          "emoji": "🦁",
+          "word": "mutig",
+          "tr": "cesur",
+          "pron": "ˈmuːtɪç",
+          "level": "a1"
+        },
+        {
+          "id": "shy",
+          "emoji": "🙈",
+          "word": "schüchtern",
+          "tr": "utangaç",
+          "pron": "ˈʃʏçtərn",
+          "level": "a1"
+        },
+        {
+          "id": "clever",
+          "emoji": "🧠",
+          "word": "klug",
+          "tr": "zeki",
+          "pron": "kluːk",
+          "level": "a1"
+        },
+        {
+          "id": "lazy",
+          "emoji": "🛋️",
+          "word": "faul",
+          "tr": "tembel",
+          "pron": "faʊl",
+          "level": "a1"
+        },
+        {
+          "id": "open",
+          "emoji": "🚪",
+          "word": "offen",
+          "tr": "açık",
+          "pron": "ˈɔfən",
+          "level": "a1"
+        },
+        {
+          "id": "closed",
+          "emoji": "🔒",
+          "word": "geschlossen",
+          "tr": "kapalı",
+          "pron": "ɡəˈʃlɔsən",
+          "level": "a1"
+        },
+        {
+          "id": "full",
+          "emoji": "🌕",
+          "word": "voll",
+          "tr": "dolu",
+          "pron": "fɔl",
+          "level": "a1"
+        },
+        {
+          "id": "empty",
+          "emoji": "🌑",
+          "word": "leer",
+          "tr": "boş",
+          "pron": "leːr",
+          "level": "a1"
+        },
+        {
+          "id": "wet",
+          "emoji": "💦",
+          "word": "nass",
+          "tr": "ıslak",
+          "pron": "nas",
+          "level": "a1"
+        },
+        {
+          "id": "dry",
+          "emoji": "🏜️",
+          "word": "trocken",
+          "tr": "kuru",
+          "pron": "ˈtrɔkən",
+          "level": "a1"
+        },
+        {
+          "id": "dark",
+          "emoji": "🌑",
+          "word": "dunkel",
+          "tr": "karanlık",
+          "pron": "ˈdʊŋkəl",
+          "level": "a1"
+        },
+        {
+          "id": "bright",
+          "emoji": "☀️",
+          "word": "hell",
+          "tr": "parlak",
+          "pron": "hɛl",
+          "level": "a1"
+        },
+        {
+          "id": "safe",
+          "emoji": "🛡️",
+          "word": "sicher",
+          "tr": "güvenli",
+          "pron": "ˈzɪçər",
+          "level": "a1"
+        },
+        {
+          "id": "dangerous",
+          "emoji": "⚠️",
+          "word": "gefährlich",
+          "tr": "tehlikeli",
+          "pron": "ɡəˈfɛːrlɪç",
+          "level": "a1"
+        },
+        {
+          "id": "amazing",
+          "emoji": "🤩",
+          "word": "erstaunlich",
+          "tr": "şaşırtıcı",
+          "pron": "ɛrˈʃtaʊnlɪç",
+          "level": "a2"
+        },
+        {
+          "id": "awful",
+          "emoji": "😱",
+          "word": "schrecklich",
+          "tr": "korkunç",
+          "pron": "ˈʃrɛklɪç",
+          "level": "a2"
+        },
+        {
+          "id": "boring",
+          "emoji": "😑",
+          "word": "langweilig",
+          "tr": "sıkıcı",
+          "pron": "ˈlaŋvaɪlɪç",
+          "level": "a2"
+        },
+        {
+          "id": "comfortable",
+          "emoji": "🛋️",
+          "word": "bequem",
+          "tr": "rahat",
+          "pron": "bəˈkveːm",
+          "level": "a2"
+        },
+        {
+          "id": "exciting",
+          "emoji": "🎉",
+          "word": "aufregend",
+          "tr": "heyecan verici",
+          "pron": "ˈaʊfrɛɡənt",
+          "level": "a2"
+        },
+        {
+          "id": "famous",
+          "emoji": "⭐",
+          "word": "berühmt",
+          "tr": "ünlü",
+          "pron": "bəˈryːmt",
+          "level": "a2"
+        },
+        {
+          "id": "friendly",
+          "emoji": "🤝",
+          "word": "freundlich",
+          "tr": "arkadaş canlısı",
+          "pron": "ˈfrɔʏntlɪç",
+          "level": "a2"
+        },
+        {
+          "id": "important",
+          "emoji": "🌟",
+          "word": "wichtig",
+          "tr": "önemli",
+          "pron": "ˈvɪçtɪç",
+          "level": "a2"
+        },
+        {
+          "id": "interesting",
+          "emoji": "🧐",
+          "word": "interessant",
+          "tr": "ilginç",
+          "pron": "ɪntəˈrɛsant",
+          "level": "a2"
+        },
+        {
+          "id": "necessary",
+          "emoji": "📌",
+          "word": "notwendig",
+          "tr": "gerekli",
+          "pron": "ˈnoːtvɛndɪç",
+          "level": "a2"
+        },
+        {
+          "id": "nervous",
+          "emoji": "😬",
+          "word": "nervös",
+          "tr": "sinirli",
+          "pron": "nɛrˈvøːs",
+          "level": "a2"
+        },
+        {
+          "id": "perfect",
+          "emoji": "💯",
+          "word": "perfekt",
+          "tr": "mükemmel",
+          "pron": "pɛrˈfɛkt",
+          "level": "a2"
+        },
+        {
+          "id": "popular",
+          "emoji": "👥",
+          "word": "beliebt",
+          "tr": "popüler",
+          "pron": "bəˈliːpt",
+          "level": "a2"
+        },
+        {
+          "id": "powerful",
+          "emoji": "💪",
+          "word": "mächtig",
+          "tr": "güçlü",
+          "pron": "ˈmɛçtɪç",
+          "level": "a2"
+        },
+        {
+          "id": "proud",
+          "emoji": "🏆",
+          "word": "stolz",
+          "tr": "gururlu",
+          "pron": "ʃtɔlts",
+          "level": "a2"
+        },
+        {
+          "id": "scared",
+          "emoji": "😨",
+          "word": "verängstigt",
+          "tr": "korkmuş",
+          "pron": "fɛrˈɛŋstɪçt",
+          "level": "a2"
+        },
+        {
+          "id": "strange",
+          "emoji": "🤔",
+          "word": "seltsam",
+          "tr": "tuhaf",
+          "pron": "ˈzɛltzaːm",
+          "level": "a2"
+        },
+        {
+          "id": "strong",
+          "emoji": "🦾",
+          "word": "stark",
+          "tr": "güçlü",
+          "pron": "ʃtark",
+          "level": "a2"
+        },
+        {
+          "id": "weak",
+          "emoji": "🤕",
+          "word": "schwach",
+          "tr": "zayıf",
+          "pron": "ʃvax",
+          "level": "a2"
+        },
+        {
+          "id": "wonderful",
+          "emoji": "🌈",
+          "word": "wunderbar",
+          "tr": "harika",
+          "pron": "ˈvʊndərbaːr",
+          "level": "a2"
+        },
+        {
+          "id": "worried",
+          "emoji": "😟",
+          "word": "besorgt",
+          "tr": "endişeli",
+          "pron": "bəˈzɔrkt",
+          "level": "a2"
+        },
+        {
+          "id": "young",
+          "emoji": "👶",
+          "word": "jung",
+          "tr": "genç",
+          "pron": "jʊŋ",
+          "level": "a2"
+        },
+        {
+          "id": "careful",
+          "emoji": "🧐",
+          "word": "vorsichtig",
+          "tr": "dikkatli",
+          "pron": "ˈfoːrzɪçtɪç",
+          "level": "a2"
+        },
+        {
+          "id": "correct",
+          "emoji": "✅",
+          "word": "richtig",
+          "tr": "doğru",
+          "pron": "ˈrɪçtɪç",
+          "level": "a2"
+        },
+        {
+          "id": "different",
+          "emoji": "🔀",
+          "word": "verschieden",
+          "tr": "farklı",
+          "pron": "fɛrˈʃiːdən",
+          "level": "a2"
+        },
+        {
+          "id": "difficult",
+          "emoji": "😓",
+          "word": "schwierig",
+          "tr": "zor",
+          "pron": "ˈʃviːrɪç",
+          "level": "a2"
+        },
+        {
+          "id": "easy",
+          "emoji": "😌",
+          "word": "einfach",
+          "tr": "kolay",
+          "pron": "ˈaɪnfax",
+          "level": "a2"
+        },
+        {
+          "id": "excellent",
+          "emoji": "🥇",
+          "word": "ausgezeichnet",
+          "tr": "mükemmel",
+          "pron": "ˈaʊsɡətsaɪçnət",
+          "level": "a2"
+        },
+        {
+          "id": "extra",
+          "emoji": "➕",
+          "word": "extra",
+          "tr": "fazladan",
+          "pron": "ˈɛkstra",
+          "level": "a2"
+        },
+        {
+          "id": "fair",
+          "emoji": "⚖️",
+          "word": "fair",
+          "tr": "adil",
+          "pron": "fɛːr",
+          "level": "a2"
+        },
+        {
+          "id": "false",
+          "emoji": "❌",
+          "word": "falsch",
+          "tr": "yanlış",
+          "pron": "falʃ",
+          "level": "a2"
+        },
+        {
+          "id": "free",
+          "emoji": "🎈",
+          "word": "frei",
+          "tr": "özgür / bedava",
+          "pron": "fraɪ",
+          "level": "a2"
+        },
+        {
+          "id": "fresh",
+          "emoji": "🌿",
+          "word": "frisch",
+          "tr": "taze",
+          "pron": "frɪʃ",
+          "level": "a2"
+        },
+        {
+          "id": "general",
+          "emoji": "🌐",
+          "word": "allgemein",
+          "tr": "genel",
+          "pron": "ˈalɡəmaɪn",
+          "level": "a2"
+        },
+        {
+          "id": "grateful",
+          "emoji": "🙏",
+          "word": "dankbar",
+          "tr": "minnettar",
+          "pron": "ˈdaŋkbaːr",
+          "level": "a2"
+        },
+        {
+          "id": "ill",
+          "emoji": "🤧",
+          "word": "krank",
+          "tr": "hasta",
+          "pron": "kraŋk",
+          "level": "a2"
+        },
+        {
+          "id": "local",
+          "emoji": "📍",
+          "word": "lokal",
+          "tr": "yerel",
+          "pron": "loˈkaːl",
+          "level": "a2"
+        },
+        {
+          "id": "lucky",
+          "emoji": "🍀",
+          "word": "glücklich",
+          "tr": "şanslı",
+          "pron": "ˈɡlʏklɪç",
+          "level": "a2"
+        },
+        {
+          "id": "main",
+          "emoji": "🔑",
+          "word": "Haupt-",
+          "tr": "ana / temel",
+          "pron": "haʊpt",
+          "level": "a2"
+        },
+        {
+          "id": "normal",
+          "emoji": "😐",
+          "word": "normal",
+          "tr": "normal",
+          "pron": "nɔrˈmaːl",
+          "level": "a2"
+        },
+        {
+          "id": "own",
+          "emoji": "🏠",
+          "word": "eigen",
+          "tr": "kendi",
+          "pron": "ˈaɪɡən",
+          "level": "a2"
+        },
+        {
+          "id": "painful",
+          "emoji": "😣",
+          "word": "schmerzhaft",
+          "tr": "acı verici",
+          "pron": "ˈʃmɛrtsˌhaft",
+          "level": "a2"
+        },
+        {
+          "id": "pleasant",
+          "emoji": "😊",
+          "word": "angenehm",
+          "tr": "hoş",
+          "pron": "ˈanɡəneːm",
+          "level": "a2"
+        },
+        {
+          "id": "possible",
+          "emoji": "💡",
+          "word": "möglich",
+          "tr": "mümkün",
+          "pron": "ˈmøːklɪç",
+          "level": "a2"
+        },
+        {
+          "id": "ready",
+          "emoji": "✅",
+          "word": "bereit",
+          "tr": "hazır",
+          "pron": "bəˈraɪt",
+          "level": "a2"
+        },
+        {
+          "id": "real",
+          "emoji": "🌍",
+          "word": "echt",
+          "tr": "gerçek",
+          "pron": "ɛçt",
+          "level": "a2"
+        },
+        {
+          "id": "recent",
+          "emoji": "🕐",
+          "word": "neulich",
+          "tr": "yakın zamandaki",
+          "pron": "ˈnɔʏlɪç",
+          "level": "a2"
+        },
+        {
+          "id": "regular",
+          "emoji": "🔄",
+          "word": "regelmäßig",
+          "tr": "düzenli",
+          "pron": "ˈreːɡəlmɛːsɪç",
+          "level": "a2"
+        },
+        {
+          "id": "simple",
+          "emoji": "🎯",
+          "word": "einfach",
+          "tr": "basit",
+          "pron": "ˈaɪnfax",
+          "level": "a2"
+        },
+        {
+          "id": "terrible",
+          "emoji": "😰",
+          "word": "schrecklich",
+          "tr": "berbat",
+          "pron": "ˈʃrɛklɪç",
+          "level": "a2"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "big",
+          "emoji": "🐘",
+          "word": "grande",
+          "tr": "büyük",
+          "pron": "ˈɡrande",
+          "level": "a1"
+        },
+        {
+          "id": "small",
+          "emoji": "🐭",
+          "word": "pequeño",
+          "tr": "küçük",
+          "pron": "peˈkeɲo",
+          "level": "a1"
+        },
+        {
+          "id": "long",
+          "emoji": "📏",
+          "word": "largo",
+          "tr": "uzun",
+          "pron": "ˈlarɡo",
+          "level": "a1"
+        },
+        {
+          "id": "short",
+          "emoji": "✂️",
+          "word": "corto",
+          "tr": "kısa",
+          "pron": "ˈkorto",
+          "level": "a1"
+        },
+        {
+          "id": "tall",
+          "emoji": "🏔️",
+          "word": "alto",
+          "tr": "uzun boylu",
+          "pron": "ˈalto",
+          "level": "a1"
+        },
+        {
+          "id": "old",
+          "emoji": "👴",
+          "word": "viejo",
+          "tr": "yaşlı / eski",
+          "pron": "ˈbjeχo",
+          "level": "a1"
+        },
+        {
+          "id": "new",
+          "emoji": "✨",
+          "word": "nuevo",
+          "tr": "yeni",
+          "pron": "ˈnweβo",
+          "level": "a1"
+        },
+        {
+          "id": "good",
+          "emoji": "👍",
+          "word": "bueno",
+          "tr": "iyi",
+          "pron": "ˈbweno",
+          "level": "a1"
+        },
+        {
+          "id": "bad",
+          "emoji": "👎",
+          "word": "malo",
+          "tr": "kötü",
+          "pron": "ˈmalo",
+          "level": "a1"
+        },
+        {
+          "id": "hot",
+          "emoji": "🔥",
+          "word": "caliente",
+          "tr": "sıcak",
+          "pron": "kaˈljente",
+          "level": "a1"
+        },
+        {
+          "id": "cold",
+          "emoji": "🧊",
+          "word": "frío",
+          "tr": "soğuk",
+          "pron": "ˈfrio",
+          "level": "a1"
+        },
+        {
+          "id": "happy",
+          "emoji": "😊",
+          "word": "feliz",
+          "tr": "mutlu",
+          "pron": "feˈlis",
+          "level": "a1"
+        },
+        {
+          "id": "sad",
+          "emoji": "😢",
+          "word": "triste",
+          "tr": "üzgün",
+          "pron": "ˈtriste",
+          "level": "a1"
+        },
+        {
+          "id": "angry",
+          "emoji": "😠",
+          "word": "enojado",
+          "tr": "kızgın",
+          "pron": "enoˈχaðo",
+          "level": "a1"
+        },
+        {
+          "id": "tired",
+          "emoji": "😴",
+          "word": "cansado",
+          "tr": "yorgun",
+          "pron": "kanˈsaðo",
+          "level": "a1"
+        },
+        {
+          "id": "hungry",
+          "emoji": "🍽️",
+          "word": "hambriento",
+          "tr": "aç",
+          "pron": "amˈbrjento",
+          "level": "a1"
+        },
+        {
+          "id": "thirsty",
+          "emoji": "💧",
+          "word": "sediento",
+          "tr": "susuz",
+          "pron": "seˈðjento",
+          "level": "a1"
+        },
+        {
+          "id": "sick",
+          "emoji": "🤒",
+          "word": "enfermo",
+          "tr": "hasta",
+          "pron": "enˈfermo",
+          "level": "a1"
+        },
+        {
+          "id": "clean",
+          "emoji": "🧼",
+          "word": "limpio",
+          "tr": "temiz",
+          "pron": "ˈlimpjo",
+          "level": "a1"
+        },
+        {
+          "id": "dirty",
+          "emoji": "🤢",
+          "word": "sucio",
+          "tr": "kirli",
+          "pron": "ˈsuθjo",
+          "level": "a1"
+        },
+        {
+          "id": "fast",
+          "emoji": "🐆",
+          "word": "rápido",
+          "tr": "hızlı",
+          "pron": "ˈrapiðo",
+          "level": "a1"
+        },
+        {
+          "id": "slow",
+          "emoji": "🐢",
+          "word": "lento",
+          "tr": "yavaş",
+          "pron": "ˈlento",
+          "level": "a1"
+        },
+        {
+          "id": "loud",
+          "emoji": "📢",
+          "word": "ruidoso",
+          "tr": "gürültülü",
+          "pron": "ruiˈðoso",
+          "level": "a1"
+        },
+        {
+          "id": "quiet",
+          "emoji": "🤫",
+          "word": "silencioso",
+          "tr": "sessiz",
+          "pron": "silenˈθjoso",
+          "level": "a1"
+        },
+        {
+          "id": "hard",
+          "emoji": "🪨",
+          "word": "duro",
+          "tr": "sert / zor",
+          "pron": "ˈduro",
+          "level": "a1"
+        },
+        {
+          "id": "soft",
+          "emoji": "🧸",
+          "word": "suave",
+          "tr": "yumuşak",
+          "pron": "ˈswaβe",
+          "level": "a1"
+        },
+        {
+          "id": "heavy",
+          "emoji": "🏋️",
+          "word": "pesado",
+          "tr": "ağır",
+          "pron": "peˈsaðo",
+          "level": "a1"
+        },
+        {
+          "id": "light",
+          "emoji": "🪶",
+          "word": "ligero",
+          "tr": "hafif",
+          "pron": "liˈχero",
+          "level": "a1"
+        },
+        {
+          "id": "rich",
+          "emoji": "💰",
+          "word": "rico",
+          "tr": "zengin",
+          "pron": "ˈriko",
+          "level": "a1"
+        },
+        {
+          "id": "poor",
+          "emoji": "🪣",
+          "word": "pobre",
+          "tr": "yoksul",
+          "pron": "ˈpoβre",
+          "level": "a1"
+        },
+        {
+          "id": "beautiful",
+          "emoji": "🌸",
+          "word": "hermoso",
+          "tr": "güzel",
+          "pron": "erˈmoso",
+          "level": "a1"
+        },
+        {
+          "id": "ugly",
+          "emoji": "😬",
+          "word": "feo",
+          "tr": "çirkin",
+          "pron": "ˈfeo",
+          "level": "a1"
+        },
+        {
+          "id": "funny",
+          "emoji": "😂",
+          "word": "gracioso",
+          "tr": "komik",
+          "pron": "ɡraˈθjoso",
+          "level": "a1"
+        },
+        {
+          "id": "serious",
+          "emoji": "😐",
+          "word": "serio",
+          "tr": "ciddi",
+          "pron": "ˈserjo",
+          "level": "a1"
+        },
+        {
+          "id": "kind",
+          "emoji": "🤗",
+          "word": "amable",
+          "tr": "nazik",
+          "pron": "aˈmaβle",
+          "level": "a1"
+        },
+        {
+          "id": "cruel",
+          "emoji": "😈",
+          "word": "cruel",
+          "tr": "zalim",
+          "pron": "ˈkrwel",
+          "level": "a1"
+        },
+        {
+          "id": "brave",
+          "emoji": "🦁",
+          "word": "valiente",
+          "tr": "cesur",
+          "pron": "baˈljente",
+          "level": "a1"
+        },
+        {
+          "id": "shy",
+          "emoji": "🙈",
+          "word": "tímido",
+          "tr": "utangaç",
+          "pron": "ˈtimiðo",
+          "level": "a1"
+        },
+        {
+          "id": "clever",
+          "emoji": "🧠",
+          "word": "listo",
+          "tr": "zeki",
+          "pron": "ˈlisto",
+          "level": "a1"
+        },
+        {
+          "id": "lazy",
+          "emoji": "🛋️",
+          "word": "perezoso",
+          "tr": "tembel",
+          "pron": "pereˈθoso",
+          "level": "a1"
+        },
+        {
+          "id": "open",
+          "emoji": "🚪",
+          "word": "abierto",
+          "tr": "açık",
+          "pron": "aˈβjerto",
+          "level": "a1"
+        },
+        {
+          "id": "closed",
+          "emoji": "🔒",
+          "word": "cerrado",
+          "tr": "kapalı",
+          "pron": "θeˈraðo",
+          "level": "a1"
+        },
+        {
+          "id": "full",
+          "emoji": "🌕",
+          "word": "lleno",
+          "tr": "dolu",
+          "pron": "ˈʎeno",
+          "level": "a1"
+        },
+        {
+          "id": "empty",
+          "emoji": "🌑",
+          "word": "vacío",
+          "tr": "boş",
+          "pron": "baˈθio",
+          "level": "a1"
+        },
+        {
+          "id": "wet",
+          "emoji": "💦",
+          "word": "mojado",
+          "tr": "ıslak",
+          "pron": "moˈχaðo",
+          "level": "a1"
+        },
+        {
+          "id": "dry",
+          "emoji": "🏜️",
+          "word": "seco",
+          "tr": "kuru",
+          "pron": "ˈseko",
+          "level": "a1"
+        },
+        {
+          "id": "dark",
+          "emoji": "🌑",
+          "word": "oscuro",
+          "tr": "karanlık",
+          "pron": "osˈkuro",
+          "level": "a1"
+        },
+        {
+          "id": "bright",
+          "emoji": "☀️",
+          "word": "brillante",
+          "tr": "parlak",
+          "pron": "briˈʎante",
+          "level": "a1"
+        },
+        {
+          "id": "safe",
+          "emoji": "🛡️",
+          "word": "seguro",
+          "tr": "güvenli",
+          "pron": "seˈɣuro",
+          "level": "a1"
+        },
+        {
+          "id": "dangerous",
+          "emoji": "⚠️",
+          "word": "peligroso",
+          "tr": "tehlikeli",
+          "pron": "peliˈɣroso",
+          "level": "a1"
+        },
+        {
+          "id": "amazing",
+          "emoji": "🤩",
+          "word": "asombroso",
+          "tr": "şaşırtıcı",
+          "pron": "asomˈbroso",
+          "level": "a2"
+        },
+        {
+          "id": "awful",
+          "emoji": "😱",
+          "word": "horrible",
+          "tr": "korkunç",
+          "pron": "oˈriβle",
+          "level": "a2"
+        },
+        {
+          "id": "boring",
+          "emoji": "😑",
+          "word": "aburrido",
+          "tr": "sıkıcı",
+          "pron": "aβuˈriðo",
+          "level": "a2"
+        },
+        {
+          "id": "comfortable",
+          "emoji": "🛋️",
+          "word": "cómodo",
+          "tr": "rahat",
+          "pron": "ˈkomoðo",
+          "level": "a2"
+        },
+        {
+          "id": "exciting",
+          "emoji": "🎉",
+          "word": "emocionante",
+          "tr": "heyecan verici",
+          "pron": "emoθjoˈnante",
+          "level": "a2"
+        },
+        {
+          "id": "famous",
+          "emoji": "⭐",
+          "word": "famoso",
+          "tr": "ünlü",
+          "pron": "faˈmoso",
+          "level": "a2"
+        },
+        {
+          "id": "friendly",
+          "emoji": "🤝",
+          "word": "amigable",
+          "tr": "arkadaş canlısı",
+          "pron": "amiˈɣaβle",
+          "level": "a2"
+        },
+        {
+          "id": "important",
+          "emoji": "🌟",
+          "word": "importante",
+          "tr": "önemli",
+          "pron": "imporˈtante",
+          "level": "a2"
+        },
+        {
+          "id": "interesting",
+          "emoji": "🧐",
+          "word": "interesante",
+          "tr": "ilginç",
+          "pron": "intereˈsante",
+          "level": "a2"
+        },
+        {
+          "id": "necessary",
+          "emoji": "📌",
+          "word": "necesario",
+          "tr": "gerekli",
+          "pron": "neθeˈsarjo",
+          "level": "a2"
+        },
+        {
+          "id": "nervous",
+          "emoji": "😬",
+          "word": "nervioso",
+          "tr": "sinirli",
+          "pron": "nerˈbjoso",
+          "level": "a2"
+        },
+        {
+          "id": "perfect",
+          "emoji": "💯",
+          "word": "perfecto",
+          "tr": "mükemmel",
+          "pron": "perˈfekto",
+          "level": "a2"
+        },
+        {
+          "id": "popular",
+          "emoji": "👥",
+          "word": "popular",
+          "tr": "popüler",
+          "pron": "popuˈlar",
+          "level": "a2"
+        },
+        {
+          "id": "powerful",
+          "emoji": "💪",
+          "word": "poderoso",
+          "tr": "güçlü",
+          "pron": "poðeˈroso",
+          "level": "a2"
+        },
+        {
+          "id": "proud",
+          "emoji": "🏆",
+          "word": "orgulloso",
+          "tr": "gururlu",
+          "pron": "orɣuˈʎoso",
+          "level": "a2"
+        },
+        {
+          "id": "scared",
+          "emoji": "😨",
+          "word": "asustado",
+          "tr": "korkmuş",
+          "pron": "asusˈtaðo",
+          "level": "a2"
+        },
+        {
+          "id": "strange",
+          "emoji": "🤔",
+          "word": "extraño",
+          "tr": "tuhaf",
+          "pron": "eksˈtraɲo",
+          "level": "a2"
+        },
+        {
+          "id": "strong",
+          "emoji": "🦾",
+          "word": "fuerte",
+          "tr": "güçlü",
+          "pron": "ˈfwerte",
+          "level": "a2"
+        },
+        {
+          "id": "weak",
+          "emoji": "🤕",
+          "word": "débil",
+          "tr": "zayıf",
+          "pron": "ˈdeβil",
+          "level": "a2"
+        },
+        {
+          "id": "wonderful",
+          "emoji": "🌈",
+          "word": "maravilloso",
+          "tr": "harika",
+          "pron": "maraβiˈʎoso",
+          "level": "a2"
+        },
+        {
+          "id": "worried",
+          "emoji": "😟",
+          "word": "preocupado",
+          "tr": "endişeli",
+          "pron": "preoˈkupaðo",
+          "level": "a2"
+        },
+        {
+          "id": "young",
+          "emoji": "👶",
+          "word": "joven",
+          "tr": "genç",
+          "pron": "ˈχoβen",
+          "level": "a2"
+        },
+        {
+          "id": "careful",
+          "emoji": "🧐",
+          "word": "cuidadoso",
+          "tr": "dikkatli",
+          "pron": "kwiðaˈðoso",
+          "level": "a2"
+        },
+        {
+          "id": "correct",
+          "emoji": "✅",
+          "word": "correcto",
+          "tr": "doğru",
+          "pron": "koˈrekto",
+          "level": "a2"
+        },
+        {
+          "id": "different",
+          "emoji": "🔀",
+          "word": "diferente",
+          "tr": "farklı",
+          "pron": "difeˈrente",
+          "level": "a2"
+        },
+        {
+          "id": "difficult",
+          "emoji": "😓",
+          "word": "difícil",
+          "tr": "zor",
+          "pron": "diˈfiθil",
+          "level": "a2"
+        },
+        {
+          "id": "easy",
+          "emoji": "😌",
+          "word": "fácil",
+          "tr": "kolay",
+          "pron": "ˈfaθil",
+          "level": "a2"
+        },
+        {
+          "id": "excellent",
+          "emoji": "🥇",
+          "word": "excelente",
+          "tr": "mükemmel",
+          "pron": "eksθeˈlente",
+          "level": "a2"
+        },
+        {
+          "id": "extra",
+          "emoji": "➕",
+          "word": "extra",
+          "tr": "fazladan",
+          "pron": "ˈekstra",
+          "level": "a2"
+        },
+        {
+          "id": "fair",
+          "emoji": "⚖️",
+          "word": "justo",
+          "tr": "adil",
+          "pron": "ˈχusto",
+          "level": "a2"
+        },
+        {
+          "id": "false",
+          "emoji": "❌",
+          "word": "falso",
+          "tr": "yanlış",
+          "pron": "ˈfalso",
+          "level": "a2"
+        },
+        {
+          "id": "free",
+          "emoji": "🎈",
+          "word": "libre",
+          "tr": "özgür / bedava",
+          "pron": "ˈliβre",
+          "level": "a2"
+        },
+        {
+          "id": "fresh",
+          "emoji": "🌿",
+          "word": "fresco",
+          "tr": "taze",
+          "pron": "ˈfresko",
+          "level": "a2"
+        },
+        {
+          "id": "general",
+          "emoji": "🌐",
+          "word": "general",
+          "tr": "genel",
+          "pron": "χeneˈral",
+          "level": "a2"
+        },
+        {
+          "id": "grateful",
+          "emoji": "🙏",
+          "word": "agradecido",
+          "tr": "minnettar",
+          "pron": "aɣraðeˈθiðo",
+          "level": "a2"
+        },
+        {
+          "id": "ill",
+          "emoji": "🤧",
+          "word": "enfermo",
+          "tr": "hasta",
+          "pron": "enˈfermo",
+          "level": "a2"
+        },
+        {
+          "id": "local",
+          "emoji": "📍",
+          "word": "local",
+          "tr": "yerel",
+          "pron": "loˈkal",
+          "level": "a2"
+        },
+        {
+          "id": "lucky",
+          "emoji": "🍀",
+          "word": "afortunado",
+          "tr": "şanslı",
+          "pron": "afortuˈnaðo",
+          "level": "a2"
+        },
+        {
+          "id": "main",
+          "emoji": "🔑",
+          "word": "principal",
+          "tr": "ana / temel",
+          "pron": "prinθiˈpal",
+          "level": "a2"
+        },
+        {
+          "id": "normal",
+          "emoji": "😐",
+          "word": "normal",
+          "tr": "normal",
+          "pron": "norˈmal",
+          "level": "a2"
+        },
+        {
+          "id": "own",
+          "emoji": "🏠",
+          "word": "propio",
+          "tr": "kendi",
+          "pron": "ˈpropjo",
+          "level": "a2"
+        },
+        {
+          "id": "painful",
+          "emoji": "😣",
+          "word": "doloroso",
+          "tr": "acı verici",
+          "pron": "doloˈroso",
+          "level": "a2"
+        },
+        {
+          "id": "pleasant",
+          "emoji": "😊",
+          "word": "agradable",
+          "tr": "hoş",
+          "pron": "aɣraˈðaβle",
+          "level": "a2"
+        },
+        {
+          "id": "possible",
+          "emoji": "💡",
+          "word": "posible",
+          "tr": "mümkün",
+          "pron": "poˈsiβle",
+          "level": "a2"
+        },
+        {
+          "id": "ready",
+          "emoji": "✅",
+          "word": "listo",
+          "tr": "hazır",
+          "pron": "ˈlisto",
+          "level": "a2"
+        },
+        {
+          "id": "real",
+          "emoji": "🌍",
+          "word": "real",
+          "tr": "gerçek",
+          "pron": "reˈal",
+          "level": "a2"
+        },
+        {
+          "id": "recent",
+          "emoji": "🕐",
+          "word": "reciente",
+          "tr": "yakın zamandaki",
+          "pron": "reˈθjente",
+          "level": "a2"
+        },
+        {
+          "id": "regular",
+          "emoji": "🔄",
+          "word": "regular",
+          "tr": "düzenli",
+          "pron": "reɣuˈlar",
+          "level": "a2"
+        },
+        {
+          "id": "simple",
+          "emoji": "🎯",
+          "word": "sencillo",
+          "tr": "basit",
+          "pron": "senˈθiʎo",
+          "level": "a2"
+        },
+        {
+          "id": "terrible",
+          "emoji": "😰",
+          "word": "terrible",
+          "tr": "berbat",
+          "pron": "teˈriβle",
+          "level": "a2"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "big",
+          "emoji": "🐘",
+          "word": "grande",
+          "tr": "büyük",
+          "pron": "ˈɡɾɐ̃dʒi",
+          "level": "a1"
+        },
+        {
+          "id": "small",
+          "emoji": "🐭",
+          "word": "pequeno",
+          "tr": "küçük",
+          "pron": "peˈkenu",
+          "level": "a1"
+        },
+        {
+          "id": "long",
+          "emoji": "📏",
+          "word": "longo",
+          "tr": "uzun",
+          "pron": "ˈlõɡu",
+          "level": "a1"
+        },
+        {
+          "id": "short",
+          "emoji": "✂️",
+          "word": "curto",
+          "tr": "kısa",
+          "pron": "ˈkuʁtu",
+          "level": "a1"
+        },
+        {
+          "id": "tall",
+          "emoji": "🏔️",
+          "word": "alto",
+          "tr": "uzun boylu",
+          "pron": "ˈawtu",
+          "level": "a1"
+        },
+        {
+          "id": "old",
+          "emoji": "👴",
+          "word": "velho",
+          "tr": "yaşlı / eski",
+          "pron": "ˈveʎu",
+          "level": "a1"
+        },
+        {
+          "id": "new",
+          "emoji": "✨",
+          "word": "novo",
+          "tr": "yeni",
+          "pron": "ˈnɔvu",
+          "level": "a1"
+        },
+        {
+          "id": "good",
+          "emoji": "👍",
+          "word": "bom",
+          "tr": "iyi",
+          "pron": "ˈbõ",
+          "level": "a1"
+        },
+        {
+          "id": "bad",
+          "emoji": "👎",
+          "word": "ruim",
+          "tr": "kötü",
+          "pron": "ˈʁwĩ",
+          "level": "a1"
+        },
+        {
+          "id": "hot",
+          "emoji": "🔥",
+          "word": "quente",
+          "tr": "sıcak",
+          "pron": "ˈkẽtʃi",
+          "level": "a1"
+        },
+        {
+          "id": "cold",
+          "emoji": "🧊",
+          "word": "frio",
+          "tr": "soğuk",
+          "pron": "ˈfɾiu",
+          "level": "a1"
+        },
+        {
+          "id": "happy",
+          "emoji": "😊",
+          "word": "feliz",
+          "tr": "mutlu",
+          "pron": "feˈliʃ",
+          "level": "a1"
+        },
+        {
+          "id": "sad",
+          "emoji": "😢",
+          "word": "triste",
+          "tr": "üzgün",
+          "pron": "ˈtɾiʃtʃi",
+          "level": "a1"
+        },
+        {
+          "id": "angry",
+          "emoji": "😠",
+          "word": "bravo",
+          "tr": "kızgın",
+          "pron": "ˈbɾavu",
+          "level": "a1"
+        },
+        {
+          "id": "tired",
+          "emoji": "😴",
+          "word": "cansado",
+          "tr": "yorgun",
+          "pron": "kɐ̃ˈzadu",
+          "level": "a1"
+        },
+        {
+          "id": "hungry",
+          "emoji": "🍽️",
+          "word": "com fome",
+          "tr": "aç",
+          "pron": "kõ ˈfõmi",
+          "level": "a1"
+        },
+        {
+          "id": "thirsty",
+          "emoji": "💧",
+          "word": "com sede",
+          "tr": "susuz",
+          "pron": "kõ ˈsedʒi",
+          "level": "a1"
+        },
+        {
+          "id": "sick",
+          "emoji": "🤒",
+          "word": "doente",
+          "tr": "hasta",
+          "pron": "duˈẽtʃi",
+          "level": "a1"
+        },
+        {
+          "id": "clean",
+          "emoji": "🧼",
+          "word": "limpo",
+          "tr": "temiz",
+          "pron": "ˈlĩpu",
+          "level": "a1"
+        },
+        {
+          "id": "dirty",
+          "emoji": "🤢",
+          "word": "sujo",
+          "tr": "kirli",
+          "pron": "ˈsuʒu",
+          "level": "a1"
+        },
+        {
+          "id": "fast",
+          "emoji": "🐆",
+          "word": "rápido",
+          "tr": "hızlı",
+          "pron": "ˈʁapidu",
+          "level": "a1"
+        },
+        {
+          "id": "slow",
+          "emoji": "🐢",
+          "word": "lento",
+          "tr": "yavaş",
+          "pron": "ˈlẽtu",
+          "level": "a1"
+        },
+        {
+          "id": "loud",
+          "emoji": "📢",
+          "word": "alto",
+          "tr": "gürültülü",
+          "pron": "ˈawtu",
+          "level": "a1"
+        },
+        {
+          "id": "quiet",
+          "emoji": "🤫",
+          "word": "silencioso",
+          "tr": "sessiz",
+          "pron": "silẽˈsjozu",
+          "level": "a1"
+        },
+        {
+          "id": "hard",
+          "emoji": "🪨",
+          "word": "duro",
+          "tr": "sert / zor",
+          "pron": "ˈduɾu",
+          "level": "a1"
+        },
+        {
+          "id": "soft",
+          "emoji": "🧸",
+          "word": "macio",
+          "tr": "yumuşak",
+          "pron": "maˈsiu",
+          "level": "a1"
+        },
+        {
+          "id": "heavy",
+          "emoji": "🏋️",
+          "word": "pesado",
+          "tr": "ağır",
+          "pron": "peˈzadu",
+          "level": "a1"
+        },
+        {
+          "id": "light",
+          "emoji": "🪶",
+          "word": "leve",
+          "tr": "hafif",
+          "pron": "ˈlɛvi",
+          "level": "a1"
+        },
+        {
+          "id": "rich",
+          "emoji": "💰",
+          "word": "rico",
+          "tr": "zengin",
+          "pron": "ˈʁiku",
+          "level": "a1"
+        },
+        {
+          "id": "poor",
+          "emoji": "🪣",
+          "word": "pobre",
+          "tr": "yoksul",
+          "pron": "ˈpɔbɾi",
+          "level": "a1"
+        },
+        {
+          "id": "beautiful",
+          "emoji": "🌸",
+          "word": "bonito",
+          "tr": "güzel",
+          "pron": "boˈnitu",
+          "level": "a1"
+        },
+        {
+          "id": "ugly",
+          "emoji": "😬",
+          "word": "feio",
+          "tr": "çirkin",
+          "pron": "ˈfeju",
+          "level": "a1"
+        },
+        {
+          "id": "funny",
+          "emoji": "😂",
+          "word": "engraçado",
+          "tr": "komik",
+          "pron": "ẽɡɾaˈsadu",
+          "level": "a1"
+        },
+        {
+          "id": "serious",
+          "emoji": "😐",
+          "word": "sério",
+          "tr": "ciddi",
+          "pron": "ˈsɛɾiu",
+          "level": "a1"
+        },
+        {
+          "id": "kind",
+          "emoji": "🤗",
+          "word": "gentil",
+          "tr": "nazik",
+          "pron": "ʒẽˈtʃiw",
+          "level": "a1"
+        },
+        {
+          "id": "cruel",
+          "emoji": "😈",
+          "word": "cruel",
+          "tr": "zalim",
+          "pron": "kɾuˈɛw",
+          "level": "a1"
+        },
+        {
+          "id": "brave",
+          "emoji": "🦁",
+          "word": "corajoso",
+          "tr": "cesur",
+          "pron": "koɾaˈʒozu",
+          "level": "a1"
+        },
+        {
+          "id": "shy",
+          "emoji": "🙈",
+          "word": "tímido",
+          "tr": "utangaç",
+          "pron": "ˈtʃimidu",
+          "level": "a1"
+        },
+        {
+          "id": "clever",
+          "emoji": "🧠",
+          "word": "inteligente",
+          "tr": "zeki",
+          "pron": "ĩteliˈʒẽtʃi",
+          "level": "a1"
+        },
+        {
+          "id": "lazy",
+          "emoji": "🛋️",
+          "word": "preguiçoso",
+          "tr": "tembel",
+          "pron": "pɾeɡiˈsozu",
+          "level": "a1"
+        },
+        {
+          "id": "open",
+          "emoji": "🚪",
+          "word": "aberto",
+          "tr": "açık",
+          "pron": "aˈbɛʁtu",
+          "level": "a1"
+        },
+        {
+          "id": "closed",
+          "emoji": "🔒",
+          "word": "fechado",
+          "tr": "kapalı",
+          "pron": "feˈʃadu",
+          "level": "a1"
+        },
+        {
+          "id": "full",
+          "emoji": "🌕",
+          "word": "cheio",
+          "tr": "dolu",
+          "pron": "ˈʃeju",
+          "level": "a1"
+        },
+        {
+          "id": "empty",
+          "emoji": "🌑",
+          "word": "vazio",
+          "tr": "boş",
+          "pron": "vaˈziu",
+          "level": "a1"
+        },
+        {
+          "id": "wet",
+          "emoji": "💦",
+          "word": "molhado",
+          "tr": "ıslak",
+          "pron": "moˈʎadu",
+          "level": "a1"
+        },
+        {
+          "id": "dry",
+          "emoji": "🏜️",
+          "word": "seco",
+          "tr": "kuru",
+          "pron": "ˈsɛku",
+          "level": "a1"
+        },
+        {
+          "id": "dark",
+          "emoji": "🌑",
+          "word": "escuro",
+          "tr": "karanlık",
+          "pron": "eʃˈkuɾu",
+          "level": "a1"
+        },
+        {
+          "id": "bright",
+          "emoji": "☀️",
+          "word": "brilhante",
+          "tr": "parlak",
+          "pron": "bɾiˈʎɐ̃tʃi",
+          "level": "a1"
+        },
+        {
+          "id": "safe",
+          "emoji": "🛡️",
+          "word": "seguro",
+          "tr": "güvenli",
+          "pron": "seˈɡuɾu",
+          "level": "a1"
+        },
+        {
+          "id": "dangerous",
+          "emoji": "⚠️",
+          "word": "perigoso",
+          "tr": "tehlikeli",
+          "pron": "peɾiˈɡozu",
+          "level": "a1"
+        },
+        {
+          "id": "amazing",
+          "emoji": "🤩",
+          "word": "incrível",
+          "tr": "şaşırtıcı",
+          "pron": "ĩˈkɾiviw",
+          "level": "a2"
+        },
+        {
+          "id": "awful",
+          "emoji": "😱",
+          "word": "horrível",
+          "tr": "korkunç",
+          "pron": "oˈʁiviw",
+          "level": "a2"
+        },
+        {
+          "id": "boring",
+          "emoji": "😑",
+          "word": "chato",
+          "tr": "sıkıcı",
+          "pron": "ˈʃatu",
+          "level": "a2"
+        },
+        {
+          "id": "comfortable",
+          "emoji": "🛋️",
+          "word": "confortável",
+          "tr": "rahat",
+          "pron": "kõfoʁˈtavew",
+          "level": "a2"
+        },
+        {
+          "id": "exciting",
+          "emoji": "🎉",
+          "word": "emocionante",
+          "tr": "heyecan verici",
+          "pron": "emosjoˈnɐ̃tʃi",
+          "level": "a2"
+        },
+        {
+          "id": "famous",
+          "emoji": "⭐",
+          "word": "famoso",
+          "tr": "ünlü",
+          "pron": "faˈmozu",
+          "level": "a2"
+        },
+        {
+          "id": "friendly",
+          "emoji": "🤝",
+          "word": "amigável",
+          "tr": "arkadaş canlısı",
+          "pron": "amiˈɡavew",
+          "level": "a2"
+        },
+        {
+          "id": "important",
+          "emoji": "🌟",
+          "word": "importante",
+          "tr": "önemli",
+          "pron": "ĩpoʁˈtɐ̃tʃi",
+          "level": "a2"
+        },
+        {
+          "id": "interesting",
+          "emoji": "🧐",
+          "word": "interessante",
+          "tr": "ilginç",
+          "pron": "ĩteɾeˈsɐ̃tʃi",
+          "level": "a2"
+        },
+        {
+          "id": "necessary",
+          "emoji": "📌",
+          "word": "necessário",
+          "tr": "gerekli",
+          "pron": "nesesaˈɾiu",
+          "level": "a2"
+        },
+        {
+          "id": "nervous",
+          "emoji": "😬",
+          "word": "nervoso",
+          "tr": "sinirli",
+          "pron": "neʁˈvozu",
+          "level": "a2"
+        },
+        {
+          "id": "perfect",
+          "emoji": "💯",
+          "word": "perfeito",
+          "tr": "mükemmel",
+          "pron": "peʁˈfejtu",
+          "level": "a2"
+        },
+        {
+          "id": "popular",
+          "emoji": "👥",
+          "word": "popular",
+          "tr": "popüler",
+          "pron": "popuˈlaʁ",
+          "level": "a2"
+        },
+        {
+          "id": "powerful",
+          "emoji": "💪",
+          "word": "poderoso",
+          "tr": "güçlü",
+          "pron": "podeˈɾozu",
+          "level": "a2"
+        },
+        {
+          "id": "proud",
+          "emoji": "🏆",
+          "word": "orgulhoso",
+          "tr": "gururlu",
+          "pron": "oʁɡuˈʎozu",
+          "level": "a2"
+        },
+        {
+          "id": "scared",
+          "emoji": "😨",
+          "word": "assustado",
+          "tr": "korkmuş",
+          "pron": "asuʃˈtadu",
+          "level": "a2"
+        },
+        {
+          "id": "strange",
+          "emoji": "🤔",
+          "word": "estranho",
+          "tr": "tuhaf",
+          "pron": "eʃˈtɾɐɲu",
+          "level": "a2"
+        },
+        {
+          "id": "strong",
+          "emoji": "🦾",
+          "word": "forte",
+          "tr": "güçlü",
+          "pron": "ˈfɔʁtʃi",
+          "level": "a2"
+        },
+        {
+          "id": "weak",
+          "emoji": "🤕",
+          "word": "fraco",
+          "tr": "zayıf",
+          "pron": "ˈfɾaku",
+          "level": "a2"
+        },
+        {
+          "id": "wonderful",
+          "emoji": "🌈",
+          "word": "maravilhoso",
+          "tr": "harika",
+          "pron": "maɾaviˈʎozu",
+          "level": "a2"
+        },
+        {
+          "id": "worried",
+          "emoji": "😟",
+          "word": "preocupado",
+          "tr": "endişeli",
+          "pron": "pɾeoˈkupadu",
+          "level": "a2"
+        },
+        {
+          "id": "young",
+          "emoji": "👶",
+          "word": "jovem",
+          "tr": "genç",
+          "pron": "ˈʒovẽj",
+          "level": "a2"
+        },
+        {
+          "id": "careful",
+          "emoji": "🧐",
+          "word": "cuidadoso",
+          "tr": "dikkatli",
+          "pron": "kwidaˈdozu",
+          "level": "a2"
+        },
+        {
+          "id": "correct",
+          "emoji": "✅",
+          "word": "correto",
+          "tr": "doğru",
+          "pron": "koˈʁetu",
+          "level": "a2"
+        },
+        {
+          "id": "different",
+          "emoji": "🔀",
+          "word": "diferente",
+          "tr": "farklı",
+          "pron": "dʒifeˈɾẽtʃi",
+          "level": "a2"
+        },
+        {
+          "id": "difficult",
+          "emoji": "😓",
+          "word": "difícil",
+          "tr": "zor",
+          "pron": "dʒiˈfisiw",
+          "level": "a2"
+        },
+        {
+          "id": "easy",
+          "emoji": "😌",
+          "word": "fácil",
+          "tr": "kolay",
+          "pron": "ˈfasiw",
+          "level": "a2"
+        },
+        {
+          "id": "excellent",
+          "emoji": "🥇",
+          "word": "excelente",
+          "tr": "mükemmel",
+          "pron": "eʃseˈlẽtʃi",
+          "level": "a2"
+        },
+        {
+          "id": "extra",
+          "emoji": "➕",
+          "word": "extra",
+          "tr": "fazladan",
+          "pron": "ˈɛkstɾa",
+          "level": "a2"
+        },
+        {
+          "id": "fair",
+          "emoji": "⚖️",
+          "word": "justo",
+          "tr": "adil",
+          "pron": "ˈʒuʃtu",
+          "level": "a2"
+        },
+        {
+          "id": "false",
+          "emoji": "❌",
+          "word": "falso",
+          "tr": "yanlış",
+          "pron": "ˈfawsu",
+          "level": "a2"
+        },
+        {
+          "id": "free",
+          "emoji": "🎈",
+          "word": "livre",
+          "tr": "özgür / bedava",
+          "pron": "ˈlivɾi",
+          "level": "a2"
+        },
+        {
+          "id": "fresh",
+          "emoji": "🌿",
+          "word": "fresco",
+          "tr": "taze",
+          "pron": "ˈfɾɛʃku",
+          "level": "a2"
+        },
+        {
+          "id": "general",
+          "emoji": "🌐",
+          "word": "geral",
+          "tr": "genel",
+          "pron": "ʒeˈɾaw",
+          "level": "a2"
+        },
+        {
+          "id": "grateful",
+          "emoji": "🙏",
+          "word": "grato",
+          "tr": "minnettar",
+          "pron": "ˈɡɾatu",
+          "level": "a2"
+        },
+        {
+          "id": "ill",
+          "emoji": "🤧",
+          "word": "doente",
+          "tr": "hasta",
+          "pron": "duˈẽtʃi",
+          "level": "a2"
+        },
+        {
+          "id": "local",
+          "emoji": "📍",
+          "word": "local",
+          "tr": "yerel",
+          "pron": "loˈkaw",
+          "level": "a2"
+        },
+        {
+          "id": "lucky",
+          "emoji": "🍀",
+          "word": "sortudo",
+          "tr": "şanslı",
+          "pron": "soʁˈtudu",
+          "level": "a2"
+        },
+        {
+          "id": "main",
+          "emoji": "🔑",
+          "word": "principal",
+          "tr": "ana / temel",
+          "pron": "pɾĩsiˈpaw",
+          "level": "a2"
+        },
+        {
+          "id": "normal",
+          "emoji": "😐",
+          "word": "normal",
+          "tr": "normal",
+          "pron": "noʁˈmaw",
+          "level": "a2"
+        },
+        {
+          "id": "own",
+          "emoji": "🏠",
+          "word": "próprio",
+          "tr": "kendi",
+          "pron": "ˈpɾɔpɾiu",
+          "level": "a2"
+        },
+        {
+          "id": "painful",
+          "emoji": "😣",
+          "word": "doloroso",
+          "tr": "acı verici",
+          "pron": "doloˈɾozu",
+          "level": "a2"
+        },
+        {
+          "id": "pleasant",
+          "emoji": "😊",
+          "word": "agradável",
+          "tr": "hoş",
+          "pron": "aɡɾaˈdavew",
+          "level": "a2"
+        },
+        {
+          "id": "possible",
+          "emoji": "💡",
+          "word": "possível",
+          "tr": "mümkün",
+          "pron": "poˈsiviw",
+          "level": "a2"
+        },
+        {
+          "id": "ready",
+          "emoji": "✅",
+          "word": "pronto",
+          "tr": "hazır",
+          "pron": "ˈpɾõtu",
+          "level": "a2"
+        },
+        {
+          "id": "real",
+          "emoji": "🌍",
+          "word": "real",
+          "tr": "gerçek",
+          "pron": "ʁeˈaw",
+          "level": "a2"
+        },
+        {
+          "id": "recent",
+          "emoji": "🕐",
+          "word": "recente",
+          "tr": "yakın zamandaki",
+          "pron": "ʁeˈsẽtʃi",
+          "level": "a2"
+        },
+        {
+          "id": "regular",
+          "emoji": "🔄",
+          "word": "regular",
+          "tr": "düzenli",
+          "pron": "ʁeɡuˈlaʁ",
+          "level": "a2"
+        },
+        {
+          "id": "simple",
+          "emoji": "🎯",
+          "word": "simples",
+          "tr": "basit",
+          "pron": "ˈsĩpliʃ",
+          "level": "a2"
+        },
+        {
+          "id": "terrible",
+          "emoji": "😰",
+          "word": "terrível",
+          "tr": "berbat",
+          "pron": "teˈʁiviw",
+          "level": "a2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "scenario": "movie theater",
+  "language": "pt",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "Qual filme você quer assistir?",
+      "expected": "Quero assistir ao novo filme de ação.",
+      "hint": "Say you want to watch the new action movie"
+    },
+    {
+      "bot": "Qual horário você prefere?",
+      "expected": "Prefiro o horário das oito da noite.",
+      "hint": "Say you prefer the 8 PM showtime"
+    },
+    {
+      "bot": "Quantos ingressos você quer?",
+      "expected": "Quero dois ingressos, por favor.",
+      "hint": "Say you want two tickets"
+    },
+    {
+      "bot": "Você quer pipoca e refrigerante?",
+      "expected": "Sim, quero uma pipoca grande e dois refrigerantes.",
+      "hint": "Say you want a large popcorn and two sodas"
+    },
+    {
+      "bot": "Prefere sentar na frente ou no fundo?",
+      "expected": "Prefiro sentar no meio da sala.",
+      "hint": "Say you prefer sitting in the middle"
+    },
+    {
+      "bot": "Você quer legendado ou dublado?",
+      "expected": "Quero o filme legendado em português.",
+      "hint": "Say you want the movie subtitled in Portuguese"
+    },
+    {
+      "bot": "Gostaria de comprar um combo familiar?",
+      "expected": "Não, obrigado. Só quero os ingressos.",
+      "hint": "Decline the family combo offer"
+    },
+    {
+      "bot": "O filme começou ou ainda tem trailers?",
+      "expected": "Ainda tem trailers antes do filme começar.",
+      "hint": "Say there are still trailers before the movie starts"
+    }
+  ]
+}

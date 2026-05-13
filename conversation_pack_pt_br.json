@@ -1,0 +1,170 @@
+[
+  {
+    "pack": {
+      "title": "Shopping",
+      "scenario": "shopping",
+      "difficulty": "easy",
+      "bot_language": "pt",
+      "user_language": "en",
+      "pair": "pt-en",
+      "level": "a1"
+    },
+    "exchanges": [
+      {"order": 1, "bot": "Você quer comprar roupas novas?", "options": ["Yes, I want to buy new clothes.", "No, I already have enough food.", "I am looking for a hotel."], "correct": 0},
+      {"order": 2, "bot": "Qual é o seu tamanho?", "options": ["I don't speak Portuguese.", "I wear medium.", "I want to buy shoes."], "correct": 1},
+      {"order": 3, "bot": "Quanto custa esta camisa?", "options": ["It is fifty dollars.", "I am very hungry.", "The bus is late."], "correct": 0},
+      {"order": 4, "bot": "Você prefere pagar com cartão ou dinheiro?", "options": ["I like to swim.", "I prefer to pay with card.", "The weather is nice."], "correct": 1},
+      {"order": 5, "bot": "Tem desconto nesta loja?", "options": ["Yes, there is a discount.", "I need a doctor.", "My name is John."], "correct": 0},
+      {"order": 6, "bot": "Onde fica o provador?", "options": ["The store is closed.", "The fitting room is over there.", "I want to go home."], "correct": 1},
+      {"order": 7, "bot": "Você quer levar esta bolsa também?", "options": ["No, I don't like it.", "I am twenty years old.", "The car is red."], "correct": 2},
+      {"order": 8, "bot": "Qual é a sua cor favorita?", "options": ["I live in Brazil.", "Thank you very much.", "My favorite color is blue."], "correct": 2}
+    ]
+  },
+  {
+    "pack": {
+      "title": "Travel & Airport",
+      "scenario": "travel",
+      "difficulty": "easy",
+      "bot_language": "pt",
+      "user_language": "en",
+      "pair": "pt-en",
+      "level": "a1"
+    },
+    "exchanges": [
+      {"order": 1, "bot": "Qual é o horário do seu voo?", "options": ["My flight is at three o'clock.", "I like pizza.", "The hotel is expensive."], "correct": 0},
+      {"order": 2, "bot": "Onde é o portão de embarque?", "options": ["I am tired.", "The boarding gate is number five.", "I want to buy a book."], "correct": 1},
+      {"order": 3, "bot": "Você tem sua passagem?", "options": ["I don't like coffee.", "The weather is cold.", "Yes, I have my ticket."], "correct": 2},
+      {"order": 4, "bot": "Quantas malas você tem?", "options": ["I am from Spain.", "I have two suitcases.", "The food is delicious."], "correct": 1},
+      {"order": 5, "bot": "O voo está atrasado?", "options": ["I need help.", "I am a student.", "I don't know."], "correct": 2},
+      {"order": 6, "bot": "Pode mostrar seu passaporte?", "options": ["The airport is big.", "Here is my passport.", "I want to sleep."], "correct": 1},
+      {"order": 7, "bot": "Onde fica o balcão de informações?", "options": ["The information desk is over there.", "I am very happy.", "My phone is broken."], "correct": 0},
+      {"order": 8, "bot": "Você precisa de ajuda com a bagagem?", "options": ["I am thirsty.", "The movie is interesting.", "No, thank you."], "correct": 2}
+    ]
+  },
+  {
+    "pack": {
+      "title": "Tourism & Directions",
+      "scenario": "tourism",
+      "difficulty": "easy",
+      "bot_language": "pt",
+      "user_language": "en",
+      "pair": "pt-en",
+      "level": "a1"
+    },
+    "exchanges": [
+      {"order": 1, "bot": "Onde fica o museu?", "options": ["I am very tired.", "The museum is next to the park.", "I want to buy a ticket."], "correct": 1},
+      {"order": 2, "bot": "Quanto custa a entrada?", "options": ["It is ten dollars.", "I like museums.", "The bus is red."], "correct": 0},
+      {"order": 3, "bot": "Que horas o museu abre?", "options": ["I am from Brazil.", "The hotel is far.", "It opens at nine o'clock."], "correct": 2},
+      {"order": 4, "bot": "Você quer um guia turístico?", "options": ["No, I don't need one.", "I am hungry.", "The weather is hot."], "correct": 0},
+      {"order": 5, "bot": "Como chego à praça central?", "options": ["I like to dance.", "The food is good.", "Go straight and turn left."], "correct": 2},
+      {"order": 6, "bot": "Onde posso comprar um mapa?", "options": ["I don't have money.", "You can buy it at the store.", "I am a tourist."], "correct": 1},
+      {"order": 7, "bot": "Qual é o melhor restaurante aqui?", "options": ["I am twenty years old.", "The car is blue.", "I don't know."], "correct": 2},
+      {"order": 8, "bot": "Você gostou da visita?", "options": ["Yes, I liked it very much.", "I need to go home.", "The train is late."], "correct": 0}
+    ]
+  },
+  {
+    "pack": {
+      "title": "School & Work",
+      "scenario": "school",
+      "difficulty": "easy",
+      "bot_language": "pt",
+      "user_language": "en",
+      "pair": "pt-en",
+      "level": "a1"
+    },
+    "exchanges": [
+      {"order": 1, "bot": "Qual é o seu nome?", "options": ["My name is Maria.", "I am a teacher.", "The school is big."], "correct": 0},
+      {"order": 2, "bot": "O que você faz?", "options": ["I like to study.", "I am a student.", "The office is closed."], "correct": 1},
+      {"order": 3, "bot": "Onde fica o seu escritório?", "options": ["I am very busy.", "I want to go home.", "The office is on the second floor."], "correct": 2},
+      {"order": 4, "bot": "Que horas você começa a trabalhar?", "options": ["I start at eight o'clock.", "I am tired.", "The book is on the table."], "correct": 0},
+      {"order": 5, "bot": "Você gosta da sua escola?", "options": ["I like it a lot.", "No, I don't like coffee.", "The weather is nice."], "correct": 0},
+      {"order": 6, "bot": "Quantos alunos têm na sua turma?", "options": ["I am from Portugal.", "There are twenty students.", "The class is interesting."], "correct": 1},
+      {"order": 7, "bot": "Você tem tarefa de casa?", "options": ["Yes, I have homework.", "I like to play football.", "The computer is new."], "correct": 0},
+      {"order": 8, "bot": "Onde fica a biblioteca?", "options": ["I don't speak English.", "I want to buy a pen.", "The library is behind the school."], "correct": 2}
+    ]
+  },
+  {
+    "pack": {
+      "title": "Daily Routine",
+      "scenario": "daily",
+      "difficulty": "easy",
+      "bot_language": "pt",
+      "user_language": "en",
+      "pair": "pt-en",
+      "level": "a1"
+    },
+    "exchanges": [
+      {"order": 1, "bot": "Que horas você acorda?", "options": ["I am very sleepy.", "The sun is bright.", "I wake up at seven o'clock."], "correct": 2},
+      {"order": 2, "bot": "O que você toma no café da manhã?", "options": ["I drink coffee and eat bread.", "I like to run.", "The morning is beautiful."], "correct": 0},
+      {"order": 3, "bot": "Como está o tempo hoje?", "options": ["I am very happy.", "It is sunny today.", "The day is long."], "correct": 1},
+      {"order": 4, "bot": "O que você faz à tarde?", "options": ["I don't like rain.", "The sky is blue.", "I go to work."], "correct": 2},
+      {"order": 5, "bot": "Que horas você janta?", "options": ["I have dinner at eight o'clock.", "I am very hungry.", "The restaurant is open."], "correct": 0},
+      {"order": 6, "bot": "Você gosta de assistir televisão?", "options": ["I like to run.", "Yes, I like watching TV.", "The show is boring."], "correct": 1},
+      {"order": 7, "bot": "Que horas você vai dormir?", "options": ["I am very tired.", "The bed is comfortable.", "I go to sleep at ten o'clock."], "correct": 2},
+      {"order": 8, "bot": "Você pratica exercícios?", "options": ["Yes, I exercise every day.", "I like to read books.", "The gym is closed."], "correct": 0}
+    ]
+  },
+  {
+    "pack": {
+      "title": "Emergency",
+      "scenario": "emergency",
+      "difficulty": "easy",
+      "bot_language": "pt",
+      "user_language": "en",
+      "pair": "pt-en",
+      "level": "a1"
+    },
+    "exchanges": [
+      {"order": 1, "bot": "Você precisa de ajuda?", "options": ["Yes, I need help.", "No, I don't like it.", "The car is fast."], "correct": 0},
+      {"order": 2, "bot": "Onde fica o hospital mais próximo?", "options": ["I am very sick.", "The nearest hospital is over there.", "I want to go home."], "correct": 1},
+      {"order": 3, "bot": "Chame uma ambulância!", "options": ["I like hospitals.", "The doctor is busy.", "I am calling an ambulance."], "correct": 2},
+      {"order": 4, "bot": "Você está machucado?", "options": ["Yes, I am hurt.", "No, I don't speak Portuguese.", "The pain is gone."], "correct": 0},
+      {"order": 5, "bot": "Onde é a delegacia?", "options": ["I am afraid.", "The police station is on Main Street.", "The police is nice."], "correct": 1},
+      {"order": 6, "bot": "Você viu um acidente?", "options": ["No, I don't like accidents.", "The road is dangerous.", "Yes, I saw an accident."], "correct": 2},
+      {"order": 7, "bot": "Qual é o seu número de telefone?", "options": ["My phone number is 123-456.", "I don't have a phone.", "The battery is dead."], "correct": 0},
+      {"order": 8, "bot": "Fique calmo, a ajuda está chegando.", "options": ["I am very scared.", "Thank you.", "The help is late."], "correct": 1}
+    ]
+  },
+  {
+    "pack": {
+      "title": "Meeting & Business",
+      "scenario": "meeting",
+      "difficulty": "easy",
+      "bot_language": "pt",
+      "user_language": "en",
+      "pair": "pt-en",
+      "level": "a1"
+    },
+    "exchanges": [
+      {"order": 1, "bot": "Que horas é a reunião?", "options": ["I am very busy.", "The meeting is at two o'clock.", "The office is closed."], "correct": 1},
+      {"order": 2, "bot": "Onde é a sala de reuniões?", "options": ["The meeting room is on the third floor.", "I like meetings.", "The room is big."], "correct": 0},
+      {"order": 3, "bot": "Você tem a apresentação pronta?", "options": ["Yes, the presentation is ready.", "No, I don't like presentations.", "The computer is slow."], "correct": 0},
+      {"order": 4, "bot": "Qual é o prazo do projeto?", "options": ["I am working hard.", "The project is interesting.", "The deadline is next Friday."], "correct": 2},
+      {"order": 5, "bot": "Quantas pessoas vão à reunião?", "options": ["There are five people.", "I don't know the answer.", "The team is great."], "correct": 0},
+      {"order": 6, "bot": "Você precisa de café?", "options": ["I don't drink water.", "The coffee is hot.", "Yes, I would like some coffee."], "correct": 2},
+      {"order": 7, "bot": "O que você acha do projeto?", "options": ["I am very tired.", "I think it is very good.", "The budget is small."], "correct": 1},
+      {"order": 8, "bot": "Vamos marcar a próxima reunião?", "options": ["Yes, let's schedule it.", "No, I don't like meetings.", "The calendar is full."], "correct": 0}
+    ]
+  },
+  {
+    "pack": {
+      "title": "Café & Restaurant",
+      "scenario": "cafe",
+      "difficulty": "easy",
+      "bot_language": "pt",
+      "user_language": "en",
+      "pair": "pt-en",
+      "level": "a1"
+    },
+    "exchanges": [
+      {"order": 1, "bot": "O que você quer pedir?", "options": ["I want a sandwich and coffee.", "I am very hungry.", "The menu is big."], "correct": 0},
+      {"order": 2, "bot": "Você prefere suco ou refrigerante?", "options": ["I don't like drinks.", "The glass is empty.", "I prefer juice."], "correct": 2},
+      {"order": 3, "bot": "Quanto custa este prato?", "options": ["I am very thirsty.", "The food is delicious.", "It costs fifteen dollars."], "correct": 2},
+      {"order": 4, "bot": "Onde está o cardápio?", "options": ["The menu is on the table.", "I can't see it.", "I want to order."], "correct": 0},
+      {"order": 5, "bot": "Você quer sobremesa?", "options": ["I don't like sweets.", "Yes, I want dessert.", "The cake is tasty."], "correct": 1},
+      {"order": 6, "bot": "Mesa para quantas pessoas?", "options": ["I am alone.", "The restaurant is full.", "A table for two, please."], "correct": 2},
+      {"order": 7, "bot": "Você gostou da refeição?", "options": ["Yes, it was delicious.", "No, I don't like the waiter.", "The bill is expensive."], "correct": 0},
+      {"order": 8, "bot": "Pode trazer a conta, por favor?", "options": ["I don't have money.", "Yes, here is the bill.", "The service is good."], "correct": 1}
+    ]
+  }
+]

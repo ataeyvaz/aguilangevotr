@@ -1,0 +1,57 @@
+{
+  "id": "en-lesson-2",
+  "lang": "en",
+  "lessonNumber": 2,
+  "title": "Ben/O/Onlar — Varım!",
+  "subtitle": "To Be: am / is / are",
+  "formula": "I + am | He/She/It + is | You/We/They + are",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "I am a student.", "tr": "Ben bir öğrenciyim." },
+    { "type": "correct", "sentence": "She is happy.", "tr": "O mutlu." },
+    { "type": "correct", "sentence": "They are at school.", "tr": "Onlar okuldalar." },
+    { "type": "wrong", "sentence": "I is tired.", "tr": "", "note": "I ile sadece 'am' kullanılır!" },
+    { "type": "wrong", "sentence": "She are tall.", "tr": "", "note": "She ile sadece 'is' kullanılır!" }
+  ],
+  "inputSentences": [
+    { "text": "I am ten years old.", "tr": "Ben on yaşındayım." },
+    { "text": "He is my friend.", "tr": "O benim arkadaşım." },
+    { "text": "She is a teacher.", "tr": "O bir öğretmen." },
+    { "text": "We are at the park.", "tr": "Biz parkta." },
+    { "text": "They are very happy.", "tr": "Onlar çok mutlu." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "I ___ a student.",
+      "answer": "am",
+      "hint": "I → am"
+    },
+    {
+      "type": "build",
+      "words": ["happy", "is", "She"],
+      "answer": ["She", "is", "happy"],
+      "tr": "O mutlu."
+    },
+    {
+      "type": "fill",
+      "sentence": "They ___ at home.",
+      "answer": "are",
+      "hint": "They → are"
+    },
+    {
+      "type": "build",
+      "words": ["are", "best", "We", "friends"],
+      "answer": ["We", "are", "best", "friends"],
+      "tr": "Biz en iyi arkadaşlarız."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Yeni bir arkadaşla tanışıyorsun",
+    "lines": [
+      { "role": "A", "text": "Hi! I am Sara. I am twelve years old.", "tr": "Merhaba! Ben Sara'yım. On iki yaşındayım." },
+      { "role": "B", "text": "Nice to meet you! I am Tom. I am a student.", "tr": "Tanıştığımıza sevindim! Ben Tom'um. Öğrenciyim." },
+      { "role": "A", "text": "Are you from here?", "tr": "Buradan mısın?" },
+      { "role": "B", "text": "Yes, I am. My family is from this city.", "tr": "Evet. Ailem bu şehirden." }
+    ]
+  }
+}

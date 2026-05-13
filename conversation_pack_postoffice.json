@@ -1,0 +1,47 @@
+{
+  "scenario": "post office",
+  "language": "pt",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "O que você gostaria de enviar hoje?",
+      "expected": "Quero enviar uma carta para o Brasil.",
+      "hint": "Say you want to send a letter to Brazil"
+    },
+    {
+      "bot": "Qual é o peso do seu pacote?",
+      "expected": "O pacote pesa dois quilos.",
+      "hint": "Say the package weighs two kilograms"
+    },
+    {
+      "bot": "Você quer envio normal ou expresso?",
+      "expected": "Quero o envio expresso, por favor.",
+      "hint": "Say you want express shipping"
+    },
+    {
+      "bot": "Você precisa de selos?",
+      "expected": "Sim, preciso de três selos.",
+      "hint": "Say you need three stamps"
+    },
+    {
+      "bot": "Qual é o endereço de destino?",
+      "expected": "O endereço é Rua das Flores, 123, São Paulo.",
+      "hint": "Provide the destination address"
+    },
+    {
+      "bot": "Você quer fazer seguro para o pacote?",
+      "expected": "Sim, quero fazer seguro de cem dólares.",
+      "hint": "Say you want insurance for one hundred dollars"
+    },
+    {
+      "bot": "Gostaria de alugar uma caixa postal?",
+      "expected": "Não, obrigado. Não preciso de caixa postal.",
+      "hint": "Decline the post office box offer"
+    },
+    {
+      "bot": "Você tem tudo pronto para o envio internacional?",
+      "expected": "Sim, preenchi a declaração alfandegária.",
+      "hint": "Say you filled out the customs declaration"
+    }
+  ]
+}

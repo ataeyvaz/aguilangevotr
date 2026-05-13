@@ -1,0 +1,90 @@
+{
+  "id": "market-a1",
+  "title": "Markette Alışveriş",
+  "emoji": "🛒",
+  "level": "A1",
+  "category": "daily",
+  "roles": ["Kartal", "Emir"],
+  "lines": [
+    {
+      "speaker": "Kartal",
+      "en": "Hello! Good morning!",
+      "tr": "Merhaba! Günaydın!",
+      "de": "Hallo! Guten Morgen!",
+      "es": "¡Hola! ¡Buenos días!",
+      "hint": "Günaydın diye selamla"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Good morning! How can I help you?",
+      "tr": "Günaydın! Sana nasıl yardımcı olabilirim?",
+      "de": "Guten Morgen! Wie kann ich dir helfen?",
+      "es": "¡Buenos días! ¿Cómo puedo ayudarte?",
+      "hint": "Yardım teklif et"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I want to buy some apples, please.",
+      "tr": "Biraz elma satın almak istiyorum, lütfen.",
+      "de": "Ich möchte ein paar Äpfel kaufen, bitte.",
+      "es": "Quiero comprar algunas manzanas, por favor.",
+      "hint": "Ne istediğini söyle"
+    },
+    {
+      "speaker": "Emir",
+      "en": "How many apples do you want?",
+      "tr": "Kaç tane elma istiyorsun?",
+      "de": "Wie viele Äpfel möchtest du?",
+      "es": "¿Cuántas manzanas quieres?",
+      "hint": "Kaç tane diye sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Five apples, please. And one banana.",
+      "tr": "Beş elma, lütfen. Ve bir muz.",
+      "de": "Fünf Äpfel, bitte. Und eine Banane.",
+      "es": "Cinco manzanas, por favor. Y un plátano.",
+      "hint": "Sayıyı ve ikinci ürünü söyle"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Okay! Do you want anything else?",
+      "tr": "Tamam! Başka bir şey istiyor musun?",
+      "de": "Okay! Möchtest du noch etwas?",
+      "es": "¡De acuerdo! ¿Quieres algo más?",
+      "hint": "Başka ihtiyaç var mı diye sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Yes, I need some water too.",
+      "tr": "Evet, biraz suya da ihtiyacım var.",
+      "de": "Ja, ich brauche auch etwas Wasser.",
+      "es": "Sí, también necesito agua.",
+      "hint": "Evet, bir şey daha ekle"
+    },
+    {
+      "speaker": "Emir",
+      "en": "That is three euros fifty, please.",
+      "tr": "Bu üç elli lira olur, lütfen.",
+      "de": "Das macht drei Euro fünfzig, bitte.",
+      "es": "Son tres euros cincuenta, por favor.",
+      "hint": "Fiyatı söyle"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Here you are. Thank you very much!",
+      "tr": "Buyrun. Çok teşekkür ederim!",
+      "de": "Hier bitte. Vielen Dank!",
+      "es": "Aquí tienes. ¡Muchas gracias!",
+      "hint": "Parayı ver ve teşekkür et"
+    },
+    {
+      "speaker": "Emir",
+      "en": "You are welcome! Have a nice day!",
+      "tr": "Rica ederim! İyi günler!",
+      "de": "Bitte sehr! Einen schönen Tag noch!",
+      "es": "¡De nada! ¡Que tengas un buen día!",
+      "hint": "Karşılık ver ve iyi günler dile"
+    }
+  ]
+}

@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Stop!",
+    "tr": "Dur!",
+    "level": "A2"
+  },
+  {
+    "en": "I ran.",
+    "tr": "Koştum.",
+    "level": "A2"
+  },
+  {
+    "en": "I won.",
+    "tr": "Kazandım.",
+    "level": "A2"
+  },
+  {
+    "en": "Oh no!",
+    "tr": "Oh hayır!",
+    "level": "A2"
+  },
+  {
+    "en": "Ask me.",
+    "tr": "Bana sor.",
+    "level": "A2"
+  },
+  {
+    "en": "Eat up.",
+    "tr": "Silip süpür.",
+    "level": "A2"
+  },
+  {
+    "en": "Got it!",
+    "tr": "Anladım!",
+    "level": "A2"
+  },
+  {
+    "en": "Got it?",
+    "tr": "Anladın mı?",
+    "level": "A2"
+  },
+  {
+    "en": "He ran.",
+    "tr": "O koştu.",
+    "level": "A2"
+  },
+  {
+    "en": "Hop in.",
+    "tr": "Atla.",
+    "level": "A2"
+  },
+  {
+    "en": "I fell.",
+    "tr": "Ben düştüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I knit.",
+    "tr": "Örgü örüyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I left.",
+    "tr": "Ben ayrıldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I paid.",
+    "tr": "Ödedim.",
+    "level": "A2"
+  },
+  {
+    "en": "I pass.",
+    "tr": "Ben yokum.",
+    "level": "A2"
+  },
+  {
+    "en": "I quit.",
+    "tr": "Ben istifa ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I swim.",
+    "tr": "Yüzerim.",
+    "level": "A2"
+  },
+  {
+    "en": "I work.",
+    "tr": "Çalışıyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm OK.",
+    "tr": "Ben iyiyim.",
+    "level": "A2"
+  },
+  {
+    "en": "Try it.",
+    "tr": "Bunu dene.",
+    "level": "A2"
+  },
+  {
+    "en": "We ate.",
+    "tr": "Biz yemek yedik.",
+    "level": "A2"
+  },
+  {
+    "en": "We try.",
+    "tr": "Biz deneriz.",
+    "level": "A2"
+  },
+  {
+    "en": "We won.",
+    "tr": "Biz kazandık.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask Tom.",
+    "tr": "Tom'a sor.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask him.",
+    "tr": "Ona sor.",
+    "level": "A2"
+  },
+  {
+    "en": "Be calm.",
+    "tr": "Sakin olun.",
+    "level": "A2"
+  },
+  {
+    "en": "Be cool.",
+    "tr": "Sakin ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Be fair.",
+    "tr": "Adil ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Be kind.",
+    "tr": "Nazik ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Beat it.",
+    "tr": "Defol.",
+    "level": "A2"
+  },
+  {
+    "en": "Burn it.",
+    "tr": "Yak onu.",
+    "level": "A2"
+  },
+  {
+    "en": "Bury it.",
+    "tr": "Onu göm.",
+    "level": "A2"
+  },
+  {
+    "en": "Call me.",
+    "tr": "Ara beni.",
+    "level": "A2"
+  },
+  {
+    "en": "Drop it!",
+    "tr": "Kapat şu konuyu artık!",
+    "level": "A2"
+  },
+  {
+    "en": "Fold it.",
+    "tr": "Onu katla.",
+    "level": "A2"
+  },
+  {
+    "en": "Go away!",
+    "tr": "Defol.",
+    "level": "A2"
+  },
+  {
+    "en": "Go away.",
+    "tr": "Defol.",
+    "level": "A2"
+  },
+  {
+    "en": "Go back.",
+    "tr": "Geri dön.",
+    "level": "A2"
+  },
+  {
+    "en": "Go slow.",
+    "tr": "Yavaş git.",
+    "level": "A2"
+  },
+  {
+    "en": "Hang on!",
+    "tr": "Dayan!",
+    "level": "A2"
+  },
+  {
+    "en": "He came.",
+    "tr": "Geldi.",
+    "level": "A2"
+  },
+  {
+    "en": "He runs.",
+    "tr": "O koşar.",
+    "level": "A2"
+  },
+  {
+    "en": "Hi, Tom.",
+    "tr": "Merhaba, Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Hold it!",
+    "tr": "Olduğun yerde kal!",
+    "level": "A2"
+  },
+  {
+    "en": "Hold on.",
+    "tr": "Bekle.",
+    "level": "A2"
+  },
+  {
+    "en": "I agree.",
+    "tr": "Kabul ediyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I bowed.",
+    "tr": "Eğildim.",
+    "level": "A2"
+  },
+  {
+    "en": "I cried.",
+    "tr": "Ağladım.",
+    "level": "A2"
+  },
+  {
+    "en": "I dozed.",
+    "tr": "Uyudum.",
+    "level": "A2"
+  },
+  {
+    "en": "I drive.",
+    "tr": "Araba kullanırım.",
+    "level": "A2"
+  },
+  {
+    "en": "I drove.",
+    "tr": "Araba sürdüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I moved.",
+    "tr": "Taşındım.",
+    "level": "A2"
+  },
+  {
+    "en": "I slept.",
+    "tr": "Ben uyudum.",
+    "level": "A2"
+  },
+  {
+    "en": "I smoke.",
+    "tr": "Ben sigara içiyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I snore.",
+    "tr": "Horladım.",
+    "level": "A2"
+  },
+  {
+    "en": "I stood.",
+    "tr": "Durdum.",
+    "level": "A2"
+  },
+  {
+    "en": "I swore.",
+    "tr": "Ben yemin ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I tried.",
+    "tr": "Denedim.",
+    "level": "A2"
+  },
+  {
+    "en": "I waved.",
+    "tr": "El salladım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll go.",
+    "tr": "Gideceğim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm bad.",
+    "tr": "Ben kötüyüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm hot.",
+    "tr": "Ben sıcaklıyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm new.",
+    "tr": "Ben yeniyim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm old.",
+    "tr": "Ben yaşlıyım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm sad.",
+    "tr": "Ben üzgünüm.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep it.",
+    "tr": "Onu sakla.",
+    "level": "A2"
+  },
+  {
+    "en": "Kill it.",
+    "tr": "Öldür onu.",
+    "level": "A2"
+  },
+  {
+    "en": "Kiss me.",
+    "tr": "Beni öp.",
+    "level": "A2"
+  },
+  {
+    "en": "Lock it.",
+    "tr": "Onu kilitle.",
+    "level": "A2"
+  },
+  {
+    "en": "Look up.",
+    "tr": "Yukarı bak.",
+    "level": "A2"
+  },
+  {
+    "en": "Open it.",
+    "tr": "Açınız.",
+    "level": "A2"
+  },
+  {
+    "en": "Open up.",
+    "tr": "Açın.",
+    "level": "A2"
+  },
+  {
+    "en": "Pull it.",
+    "tr": "Onu çek.",
+    "level": "A2"
+  },
+  {
+    "en": "Push it.",
+    "tr": "Onu ittir.",
+    "level": "A2"
+  },
+  {
+    "en": "Quit it!",
+    "tr": "Kes şunu!",
+    "level": "A2"
+  },
+  {
+    "en": "Show me.",
+    "tr": "Bana göster.",
+    "level": "A2"
+  },
+  {
+    "en": "Skip it.",
+    "tr": "Unut gitsin.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop it.",
+    "tr": "Kes şunu!",
+    "level": "A2"
+  },
+  {
+    "en": "Tell me.",
+    "tr": "Söyle bana.",
+    "level": "A2"
+  },
+  {
+    "en": "We care.",
+    "tr": "Biz önemseriz.",
+    "level": "A2"
+  },
+  {
+    "en": "We lost.",
+    "tr": "Biz kaybettik.",
+    "level": "A2"
+  },
+  {
+    "en": "Who ate?",
+    "tr": "Kim yemek yedi?",
+    "level": "A2"
+  },
+  {
+    "en": "Who ran?",
+    "tr": "Kim koştu?",
+    "level": "A2"
+  },
+  {
+    "en": "Who won?",
+    "tr": "Kim kazandı?",
+    "level": "A2"
+  },
+  {
+    "en": "You won.",
+    "tr": "Sen kazandın.",
+    "level": "A2"
+  },
+  {
+    "en": "Add milk.",
+    "tr": "Süt ekleyin.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask them.",
+    "tr": "Onlara sor.",
+    "level": "A2"
+  },
+  {
+    "en": "Be brave.",
+    "tr": "Cesur ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Be brief.",
+    "tr": "Kısa kesin.",
+    "level": "A2"
+  },
+  {
+    "en": "Be quick.",
+    "tr": "Hızlı ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Be quiet.",
+    "tr": "Sessiz ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Be still.",
+    "tr": "Sakin ol!",
+    "level": "A2"
+  },
+  {
+    "en": "Beats me.",
+    "tr": "Beni aşar.",
+    "level": "A2"
+  },
+  {
+    "en": "Bye, Tom.",
+    "tr": "Hoşça kal, Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Call Tom.",
+    "tr": "Tom'u ara.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't go.",
+    "tr": "Gitme.",
+    "level": "A2"
+  },
+  {
+    "en": "Drive on.",
+    "tr": "Sürmeye devam et.",
+    "level": "A2"
+  },
+  {
+    "en": "Fix this.",
+    "tr": "Bunu düzelt.",
+    "level": "A2"
+  },
+  {
+    "en": "Go ahead.",
+    "tr": "Devam et.",
+    "level": "A2"
+  },
+  {
+    "en": "Grab him.",
+    "tr": "Yakala onu.",
+    "level": "A2"
+  },
+  {
+    "en": "Have fun.",
+    "tr": "Eğlenmenize bakın.",
+    "level": "A2"
+  },
+  {
+    "en": "He spoke.",
+    "tr": "O konuştu.",
+    "level": "A2"
+  },
+  {
+    "en": "He tried.",
+    "tr": "O denedi.",
+    "level": "A2"
+  },
+  {
+    "en": "He tries.",
+    "tr": "O dener.",
+    "level": "A2"
+  },
+  {
+    "en": "Help Tom.",
+    "tr": "Tom'a yardım et.",
+    "level": "A2"
+  },
+  {
+    "en": "Hi, guys.",
+    "tr": "Merhaba, millet.",
+    "level": "A2"
+  },
+  {
+    "en": "How cute!",
+    "tr": "Ne kadar sevimli!",
+    "level": "A2"
+  },
+  {
+    "en": "How deep?",
+    "tr": "Ne kadar derin?",
+    "level": "A2"
+  },
+  {
+    "en": "Humor me.",
+    "tr": "Beni idare et.",
+    "level": "A2"
+  },
+  {
+    "en": "I agreed.",
+    "tr": "Ben katıldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I burped.",
+    "tr": "Ben geğirdim.",
+    "level": "A2"
+  },
+  {
+    "en": "I danced.",
+    "tr": "Dans ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I failed.",
+    "tr": "Başarısız oldum.",
+    "level": "A2"
+  },
+  {
+    "en": "I forgot.",
+    "tr": "Unuttum.",
+    "level": "A2"
+  },
+  {
+    "en": "I gasped.",
+    "tr": "Nefes nefese kaldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I goofed.",
+    "tr": "Gaf yaptım.",
+    "level": "A2"
+  },
+  {
+    "en": "I helped.",
+    "tr": "Yardım ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I jumped.",
+    "tr": "Atladım.",
+    "level": "A2"
+  },
+  {
+    "en": "I looked.",
+    "tr": "Baktım.",
+    "level": "A2"
+  },
+  {
+    "en": "I moaned.",
+    "tr": "Ben inledim.",
+    "level": "A2"
+  },
+  {
+    "en": "I nodded.",
+    "tr": "Kafamı salladım.",
+    "level": "A2"
+  },
+  {
+    "en": "I obeyed.",
+    "tr": "Ben itaat ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I paused.",
+    "tr": "Duraksadım.",
+    "level": "A2"
+  },
+  {
+    "en": "I played.",
+    "tr": "Ben oynadım.",
+    "level": "A2"
+  },
+  {
+    "en": "I prayed.",
+    "tr": "Dua ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I refuse.",
+    "tr": "Reddediyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I resign.",
+    "tr": "İstifa ediyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I shaved.",
+    "tr": "Tıraş oldum.",
+    "level": "A2"
+  },
+  {
+    "en": "I smiled.",
+    "tr": "Ben gülümsedim.",
+    "level": "A2"
+  },
+  {
+    "en": "I stayed.",
+    "tr": "Kaldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I talked.",
+    "tr": "Konuştum.",
+    "level": "A2"
+  },
+  {
+    "en": "I waited.",
+    "tr": "Ben bekledim.",
+    "level": "A2"
+  },
+  {
+    "en": "I winked.",
+    "tr": "Göz kırptım.",
+    "level": "A2"
+  },
+  {
+    "en": "I yawned.",
+    "tr": "Esnedim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll ask.",
+    "tr": "Soracağım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll pay.",
+    "tr": "Ödeyeceğim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll try.",
+    "tr": "Deneyeceğim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm easy.",
+    "tr": "Ben kolayım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm fast.",
+    "tr": "Ben hızlıyım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm good.",
+    "tr": "Ben iyiyim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm here.",
+    "tr": "Buradayım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm home.",
+    "tr": "Evdeyim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm late.",
+    "tr": "Ben geciktim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm slow.",
+    "tr": "Ben yavaşım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm tall.",
+    "tr": "Ben uzun boyluyum.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm thin.",
+    "tr": "Ben zayıfım.",
+    "level": "A2"
+  },
+  {
+    "en": "It helps.",
+    "tr": "Bu yardımcı olur.",
+    "level": "A2"
+  },
+  {
+    "en": "It hurts.",
+    "tr": "O acıtıyor.",
+    "level": "A2"
+  },
+  {
+    "en": "It's Tom.",
+    "tr": "O Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "It's fun.",
+    "tr": "O eğlenceli.",
+    "level": "A2"
+  },
+  {
+    "en": "It's odd.",
+    "tr": "Bu garip.",
+    "level": "A2"
+  },
+  {
+    "en": "Leave me.",
+    "tr": "Bırak beni.",
+    "level": "A2"
+  },
+  {
+    "en": "Leave us.",
+    "tr": "Bizi bırak.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's go!",
+    "tr": "Gidelim!",
+    "level": "A2"
+  },
+  {
+    "en": "Let's go.",
+    "tr": "Gidelim!",
+    "level": "A2"
+  },
+  {
+    "en": "Look out!",
+    "tr": "Dikkat et!",
+    "level": "A2"
+  },
+  {
+    "en": "Marry me.",
+    "tr": "Evlen benimle.",
+    "level": "A2"
+  },
+  {
+    "en": "Nice job!",
+    "tr": "Aferin!",
+    "level": "A2"
+  },
+  {
+    "en": "Say when.",
+    "tr": "Yeter de.",
+    "level": "A2"
+  },
+  {
+    "en": "She came.",
+    "tr": "Geldi.",
+    "level": "A2"
+  },
+  {
+    "en": "She died.",
+    "tr": "O vefat etti.",
+    "level": "A2"
+  },
+  {
+    "en": "She left.",
+    "tr": "O gitti.",
+    "level": "A2"
+  },
+  {
+    "en": "She runs.",
+    "tr": "Koşuyor.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit down!",
+    "tr": "Otur!",
+    "level": "A2"
+  },
+  {
+    "en": "Stand by.",
+    "tr": "Yanında ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Stand up!",
+    "tr": "Ayağa kalk!",
+    "level": "A2"
+  },
+  {
+    "en": "Stop Tom.",
+    "tr": "Tom'u durdur.",
+    "level": "A2"
+  },
+  {
+    "en": "Take Tom.",
+    "tr": "Tom'u al.",
+    "level": "A2"
+  },
+  {
+    "en": "Tell Tom.",
+    "tr": "Tom'a söyle.",
+    "level": "A2"
+  },
+  {
+    "en": "They won.",
+    "tr": "Onlar kazandı.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom left.",
+    "tr": "Tom gitti.",
+    "level": "A2"
+  },
+  {
+    "en": "Too late.",
+    "tr": "Çok geç.",
+    "level": "A2"
+  },
+  {
+    "en": "Touch it.",
+    "tr": "Ona dokun.",
+    "level": "A2"
+  },
+  {
+    "en": "Try hard.",
+    "tr": "Elinden geldiğince çabala.",
+    "level": "A2"
+  },
+  {
+    "en": "Try some.",
+    "tr": "Bir dene.",
+    "level": "A2"
+  },
+  {
+    "en": "Visit us.",
+    "tr": "Bize uğrayın.",
+    "level": "A2"
+  },
+  {
+    "en": "Watch me.",
+    "tr": "Beni izle.",
+    "level": "A2"
+  },
+  {
+    "en": "Watch us.",
+    "tr": "Bizi izle.",
+    "level": "A2"
+  },
+  {
+    "en": "We agree.",
+    "tr": "Biz aynı fikirdeyiz.",
+    "level": "A2"
+  },
+  {
+    "en": "We tried.",
+    "tr": "Biz denedik.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll go.",
+    "tr": "Biz gideceğiz.",
+    "level": "A2"
+  },
+  {
+    "en": "What fun!",
+    "tr": "Ne eğlenceli!",
+    "level": "A2"
+  },
+  {
+    "en": "Who came?",
+    "tr": "Kim geldi?",
+    "level": "A2"
+  },
+  {
+    "en": "Who died?",
+    "tr": "Kim öldü?",
+    "level": "A2"
+  },
+  {
+    "en": "Who fell?",
+    "tr": "Kim düştü?",
+    "level": "A2"
+  },
+  {
+    "en": "Who paid?",
+    "tr": "Kim ödedi?",
+    "level": "A2"
+  },
+  {
+    "en": "Who quit?",
+    "tr": "Kim terk etti?",
+    "level": "A2"
+  },
+  {
+    "en": "Who swam?",
+    "tr": "Kim yüzdü?",
+    "level": "A2"
+  },
+  {
+    "en": "Who's he?",
+    "tr": "O kim?",
+    "level": "A2"
+  },
+  {
+    "en": "You lost.",
+    "tr": "Kaybettin.",
+    "level": "A2"
+  },
+  {
+    "en": "After you.",
+    "tr": "Önce siz buyurun.",
+    "level": "A2"
+  },
+  {
+    "en": "Answer me.",
+    "tr": "Bana cevap ver.",
+    "level": "A2"
+  },
+  {
+    "en": "Be seated.",
+    "tr": "Oturun.",
+    "level": "A2"
+  },
+  {
+    "en": "Bless you.",
+    "tr": "Çok yaşa!",
+    "level": "A2"
+  },
+  {
+    "en": "Call home!",
+    "tr": "Evi ara!",
+    "level": "A2"
+  },
+  {
+    "en": "Catch him.",
+    "tr": "Yakala onu.",
+    "level": "A2"
+  },
+  {
+    "en": "Come back.",
+    "tr": "Geri dön!",
+    "level": "A2"
+  },
+  {
+    "en": "Come over.",
+    "tr": "Buraya gel.",
+    "level": "A2"
+  },
+  {
+    "en": "Come soon.",
+    "tr": "Yakında gel.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't ask.",
+    "tr": "Sorma.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't run.",
+    "tr": "Koşma.",
+    "level": "A2"
+  },
+  {
+    "en": "Excuse me.",
+    "tr": "Affedersiniz.",
+    "level": "A2"
+  },
+  {
+    "en": "Feel this.",
+    "tr": "Bunu hisset.",
+    "level": "A2"
+  },
+  {
+    "en": "Follow me.",
+    "tr": "Beni izle.",
+    "level": "A2"
+  },
+  {
+    "en": "Follow us.",
+    "tr": "Bizi izle.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget it!",
+    "tr": "Boşver!",
+    "level": "A2"
+  },
+  {
+    "en": "Forget it.",
+    "tr": "Unut gitsin.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget me.",
+    "tr": "Beni unut.",
+    "level": "A2"
+  },
+  {
+    "en": "Get a job.",
+    "tr": "Bir iş bul.",
+    "level": "A2"
+  },
+  {
+    "en": "Go inside.",
+    "tr": "İçeriye git.",
+    "level": "A2"
+  },
+  {
+    "en": "Good luck.",
+    "tr": "İyi şanslar.",
+    "level": "A2"
+  },
+  {
+    "en": "Grab that.",
+    "tr": "Onu tut.",
+    "level": "A2"
+  },
+  {
+    "en": "Grab this.",
+    "tr": "Bunu tut.",
+    "level": "A2"
+  },
+  {
+    "en": "Have some.",
+    "tr": "Biraz al.",
+    "level": "A2"
+  },
+  {
+    "en": "He shaved.",
+    "tr": "O tıraş oldu.",
+    "level": "A2"
+  },
+  {
+    "en": "He smiled.",
+    "tr": "O gülümsedi.",
+    "level": "A2"
+  },
+  {
+    "en": "He's fast.",
+    "tr": "O hızlı.",
+    "level": "A2"
+  },
+  {
+    "en": "He's good.",
+    "tr": "O iyi.",
+    "level": "A2"
+  },
+  {
+    "en": "He's tall.",
+    "tr": "O uzun boylu.",
+    "level": "A2"
+  },
+  {
+    "en": "Head west.",
+    "tr": "Batıya doğru gidin.",
+    "level": "A2"
+  },
+  {
+    "en": "Hide here.",
+    "tr": "Buraya saklan.",
+    "level": "A2"
+  },
+  {
+    "en": "Hold this.",
+    "tr": "Bunu tut.",
+    "level": "A2"
+  },
+  {
+    "en": "How awful!",
+    "tr": "Ne iğrenç!",
+    "level": "A2"
+  },
+  {
+    "en": "How weird!",
+    "tr": "Ne kadar tuhaf!",
+    "level": "A2"
+  },
+  {
+    "en": "I approve.",
+    "tr": "Ben onaylıyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I belched.",
+    "tr": "Geğirdim.",
+    "level": "A2"
+  },
+  {
+    "en": "I blinked.",
+    "tr": "Ben göz kırptım.",
+    "level": "A2"
+  },
+  {
+    "en": "I changed.",
+    "tr": "Ben değiştim.",
+    "level": "A2"
+  },
+  {
+    "en": "I cheated.",
+    "tr": "Ben aldattım.",
+    "level": "A2"
+  },
+  {
+    "en": "I cheered.",
+    "tr": "Ben neşelendirdim.",
+    "level": "A2"
+  },
+  {
+    "en": "I clapped.",
+    "tr": "Ben alkışladım.",
+    "level": "A2"
+  },
+  {
+    "en": "I coughed.",
+    "tr": "Ben öksürdüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I crashed.",
+    "tr": "Ben düştüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I cringed.",
+    "tr": "Ürktüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I escaped.",
+    "tr": "Ben kaçtım.",
+    "level": "A2"
+  },
+  {
+    "en": "I exhaled.",
+    "tr": "Nefesimi verdim.",
+    "level": "A2"
+  },
+  {
+    "en": "I fainted.",
+    "tr": "Ben bayıldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I frowned.",
+    "tr": "Ben kaşlarımı çattım.",
+    "level": "A2"
+  },
+  {
+    "en": "I giggled.",
+    "tr": "Ben kıkır kıkır güldüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I gloated.",
+    "tr": "Ben zevkle seyrettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I grinned.",
+    "tr": "Ben sırıttım.",
+    "level": "A2"
+  },
+  {
+    "en": "I groaned.",
+    "tr": "Ben inledim.",
+    "level": "A2"
+  },
+  {
+    "en": "I grunted.",
+    "tr": "Ben homurdandım.",
+    "level": "A2"
+  },
+  {
+    "en": "I hurried.",
+    "tr": "Ben acele ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I inhaled.",
+    "tr": "Nefes aldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I laughed.",
+    "tr": "Güldüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I noticed.",
+    "tr": "Fark ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I prepaid.",
+    "tr": "Önceden peşin ödedim.",
+    "level": "A2"
+  },
+  {
+    "en": "I promise.",
+    "tr": "Söz veriyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I relaxed.",
+    "tr": "Ben rahatladım.",
+    "level": "A2"
+  },
+  {
+    "en": "I retired.",
+    "tr": "Ben emekli oldum.",
+    "level": "A2"
+  },
+  {
+    "en": "I shouted.",
+    "tr": "Ben bağırdım.",
+    "level": "A2"
+  },
+  {
+    "en": "I slipped.",
+    "tr": "Ben kaydım.",
+    "level": "A2"
+  },
+  {
+    "en": "I sneezed.",
+    "tr": "Ben hapşırdım.",
+    "level": "A2"
+  },
+  {
+    "en": "I stopped.",
+    "tr": "Ben durdum.",
+    "level": "A2"
+  },
+  {
+    "en": "I sweated.",
+    "tr": "Ben terledim.",
+    "level": "A2"
+  },
+  {
+    "en": "I tripped.",
+    "tr": "Ben tribe girdim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'd agree.",
+    "tr": "Ben katılıyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll call.",
+    "tr": "Arayacağım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll come.",
+    "tr": "Gideceğim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll cook.",
+    "tr": "Yemek pişireceğim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll help.",
+    "tr": "Ben yardım edeceğim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll stop.",
+    "tr": "Durduracağım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll walk.",
+    "tr": "Yürüyeceğim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll work.",
+    "tr": "Ben çalışacağım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm angry.",
+    "tr": "Öfkeliyim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm bored.",
+    "tr": "Sıkıldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm early.",
+    "tr": "Erkenciyim.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm happy.",
+    "tr": "Ben mutluyum.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm right.",
+    "tr": "Ben haklıyım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm short.",
+    "tr": "Ben kısayım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm small.",
+    "tr": "Ben küçüğüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm tired.",
+    "tr": "Ben yorgunum.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm young.",
+    "tr": "Ben gencim.",
+    "level": "A2"
+  },
+  {
+    "en": "It burned.",
+    "tr": "O yandı.",
+    "level": "A2"
+  },
+  {
+    "en": "It failed.",
+    "tr": "Bu başarısız oldu.",
+    "level": "A2"
+  },
+  {
+    "en": "It snowed.",
+    "tr": "Kar yağdı.",
+    "level": "A2"
+  },
+  {
+    "en": "It stinks.",
+    "tr": "Bu kötü kokuyor.",
+    "level": "A2"
+  },
+  {
+    "en": "It worked.",
+    "tr": "O çalıştı.",
+    "level": "A2"
+  },
+  {
+    "en": "It's cool.",
+    "tr": "Hava serin.",
+    "level": "A2"
+  },
+  {
+    "en": "It's dark.",
+    "tr": "Hava karanlık.",
+    "level": "A2"
+  },
+  {
+    "en": "It's dead.",
+    "tr": "O öldü.",
+    "level": "A2"
+  },
+  {
+    "en": "It's done!",
+    "tr": "O bitti!",
+    "level": "A2"
+  },
+  {
+    "en": "It's done.",
+    "tr": "O bitti!",
+    "level": "A2"
+  },
+  {
+    "en": "It's easy.",
+    "tr": "Bu kolay.",
+    "level": "A2"
+  },
+  {
+    "en": "It's evil.",
+    "tr": "O kötü.",
+    "level": "A2"
+  },
+  {
+    "en": "It's fair.",
+    "tr": "O adil.",
+    "level": "A2"
+  },
+  {
+    "en": "It's fine.",
+    "tr": "Bu iyi.",
+    "level": "A2"
+  },
+  {
+    "en": "It's free.",
+    "tr": "O ücretsizdir.",
+    "level": "A2"
+  },
+  {
+    "en": "It's gone.",
+    "tr": "O gitmiş.",
+    "level": "A2"
+  },
+  {
+    "en": "It's hard.",
+    "tr": "Bu zor.",
+    "level": "A2"
+  },
+  {
+    "en": "It's hers.",
+    "tr": "O onun.",
+    "level": "A2"
+  },
+  {
+    "en": "It's huge.",
+    "tr": "O kocaman.",
+    "level": "A2"
+  },
+  {
+    "en": "It's late.",
+    "tr": "Geç oldu.",
+    "level": "A2"
+  },
+  {
+    "en": "It's lost.",
+    "tr": "Kayıp.",
+    "level": "A2"
+  },
+  {
+    "en": "It's mine.",
+    "tr": "O benimki.",
+    "level": "A2"
+  },
+  {
+    "en": "It's okay.",
+    "tr": "Sorun değil.",
+    "level": "A2"
+  },
+  {
+    "en": "It's open.",
+    "tr": "O açık.",
+    "level": "A2"
+  },
+  {
+    "en": "It's ours.",
+    "tr": "O bizim.",
+    "level": "A2"
+  },
+  {
+    "en": "It's over.",
+    "tr": "Bu bitti.",
+    "level": "A2"
+  },
+  {
+    "en": "It's real.",
+    "tr": "O gerçek.",
+    "level": "A2"
+  },
+  {
+    "en": "It's sand.",
+    "tr": "O kum.",
+    "level": "A2"
+  },
+  {
+    "en": "It's true!",
+    "tr": "Doğru!",
+    "level": "A2"
+  },
+  {
+    "en": "It's true.",
+    "tr": "Evet.",
+    "level": "A2"
+  },
+  {
+    "en": "It's warm.",
+    "tr": "Hava sıcak.",
+    "level": "A2"
+  },
+  {
+    "en": "It's work.",
+    "tr": "O iştir.",
+    "level": "A2"
+  },
+  {
+    "en": "Just swim.",
+    "tr": "Sadece yüz.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep that.",
+    "tr": "Onu sakla.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep them.",
+    "tr": "Onları tut.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep this.",
+    "tr": "Bunu sakla.",
+    "level": "A2"
+  },
+  {
+    "en": "Kill them.",
+    "tr": "Onları öldür.",
+    "level": "A2"
+  },
+  {
+    "en": "Leave now.",
+    "tr": "Şimdi çık.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's ask.",
+    "tr": "Soralım.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's see.",
+    "tr": "Bir görelim.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's try.",
+    "tr": "Deneyelim!",
+    "level": "A2"
+  },
+  {
+    "en": "Lie still.",
+    "tr": "Hareketsiz yat.",
+    "level": "A2"
+  },
+  {
+    "en": "Look away.",
+    "tr": "Yüzünü yana çevir.",
+    "level": "A2"
+  },
+  {
+    "en": "Look back!",
+    "tr": "Arkana bak!",
+    "level": "A2"
+  },
+  {
+    "en": "Look back.",
+    "tr": "Arkana bak!",
+    "level": "A2"
+  },
+  {
+    "en": "Loosen it.",
+    "tr": "Gevşet.",
+    "level": "A2"
+  },
+  {
+    "en": "Nice shot!",
+    "tr": "Güzel atış!",
+    "level": "A2"
+  },
+  {
+    "en": "Of course!",
+    "tr": "Tabii ki!",
+    "level": "A2"
+  },
+  {
+    "en": "Of course.",
+    "tr": "Elbette.",
+    "level": "A2"
+  },
+  {
+    "en": "Open fire!",
+    "tr": "Ateş serbest!",
+    "level": "A2"
+  },
+  {
+    "en": "Pardon me?",
+    "tr": "Affedersiniz?",
+    "level": "A2"
+  },
+  {
+    "en": "Say hello.",
+    "tr": "Merhaba de.",
+    "level": "A2"
+  },
+  {
+    "en": "Search me.",
+    "tr": "Nereden bileyim?",
+    "level": "A2"
+  },
+  {
+    "en": "See above.",
+    "tr": "Yukarıya bakın.",
+    "level": "A2"
+  },
+  {
+    "en": "See below.",
+    "tr": "Aşağıya bakın.",
+    "level": "A2"
+  },
+  {
+    "en": "Seize him!",
+    "tr": "Yakala onu.",
+    "level": "A2"
+  },
+  {
+    "en": "She cried.",
+    "tr": "O ağladı.",
+    "level": "A2"
+  },
+  {
+    "en": "She tried.",
+    "tr": "O çabaladı.",
+    "level": "A2"
+  },
+  {
+    "en": "She walks.",
+    "tr": "O yürür.",
+    "level": "A2"
+  },
+  {
+    "en": "Sign this.",
+    "tr": "Bunu imzala.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit still.",
+    "tr": "Kıpırdamadan otur.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit tight.",
+    "tr": "Otur oturduğun yerde.",
+    "level": "A2"
+  },
+  {
+    "en": "Slow down!",
+    "tr": "Yavaşla!",
+    "level": "A2"
+  },
+  {
+    "en": "Start now.",
+    "tr": "Şimdi başla.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay here.",
+    "tr": "Burada kal!",
+    "level": "A2"
+  },
+  {
+    "en": "Stay home.",
+    "tr": "Evde kalın.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay thin.",
+    "tr": "Zayıf kal.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop here.",
+    "tr": "Burada dur.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop that!",
+    "tr": "Kes şunu!",
+    "level": "A2"
+  },
+  {
+    "en": "Stop that.",
+    "tr": "Durdur şunu.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop them.",
+    "tr": "Onları durdur.",
+    "level": "A2"
+  },
+  {
+    "en": "Take care!",
+    "tr": "Kendine iyi bak!",
+    "level": "A2"
+  },
+  {
+    "en": "Take mine.",
+    "tr": "Benimkini al.",
+    "level": "A2"
+  },
+  {
+    "en": "Take over.",
+    "tr": "Yönetimi devral.",
+    "level": "A2"
+  },
+  {
+    "en": "That's OK.",
+    "tr": "O iyi.",
+    "level": "A2"
+  },
+  {
+    "en": "That's it.",
+    "tr": "Hepsi bu kadar.",
+    "level": "A2"
+  },
+  {
+    "en": "That's me.",
+    "tr": "Benim.",
+    "level": "A2"
+  },
+  {
+    "en": "They fell.",
+    "tr": "Onlar düştü.",
+    "level": "A2"
+  },
+  {
+    "en": "They left.",
+    "tr": "Onlar gitti.",
+    "level": "A2"
+  },
+  {
+    "en": "They lied.",
+    "tr": "Onlar yalan söyledi.",
+    "level": "A2"
+  },
+  {
+    "en": "They lost.",
+    "tr": "Onlar kaybetti.",
+    "level": "A2"
+  },
+  {
+    "en": "They swam.",
+    "tr": "Yüzdüler.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom'll go.",
+    "tr": "Tom gidecek.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's sad.",
+    "tr": "Tom üzgün.",
+    "level": "A2"
+  },
+  {
+    "en": "Try again.",
+    "tr": "Tekrar dene.",
+    "level": "A2"
+  },
+  {
+    "en": "Turn left.",
+    "tr": "Sola dön.",
+    "level": "A2"
+  },
+  {
+    "en": "Unlock it.",
+    "tr": "Onun kilidini aç.",
+    "level": "A2"
+  },
+  {
+    "en": "Wait here.",
+    "tr": "Burada bekle.",
+    "level": "A2"
+  },
+  {
+    "en": "We agreed.",
+    "tr": "Biz uzlaştık.",
+    "level": "A2"
+  },
+  {
+    "en": "We failed.",
+    "tr": "Biz başarısız olduk.",
+    "level": "A2"
+  },
+  {
+    "en": "We forgot.",
+    "tr": "Biz unuttuk.",
+    "level": "A2"
+  },
+  {
+    "en": "We fought.",
+    "tr": "Biz savaştık.",
+    "level": "A2"
+  },
+  {
+    "en": "We prayed.",
+    "tr": "Dua ettik.",
+    "level": "A2"
+  },
+  {
+    "en": "We smiled.",
+    "tr": "Biz gülümsedik.",
+    "level": "A2"
+  },
+  {
+    "en": "We talked.",
+    "tr": "Konuştuk.",
+    "level": "A2"
+  },
+  {
+    "en": "We waited.",
+    "tr": "Bekledik.",
+    "level": "A2"
+  },
+  {
+    "en": "We walked.",
+    "tr": "Yürüdük.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll see.",
+    "tr": "Göreceğiz.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll try.",
+    "tr": "Deneyeceğiz.",
+    "level": "A2"
+  },
+  {
+    "en": "We're shy.",
+    "tr": "Biz utangacız.",
+    "level": "A2"
+  },
+  {
+    "en": "What's on?",
+    "tr": "Ne oluyor?",
+    "level": "A2"
+  },
+  {
+    "en": "Who cares?",
+    "tr": "Kimin umurunda?",
+    "level": "A2"
+  },
+  {
+    "en": "Who drove?",
+    "tr": "Kim sürdü?",
+    "level": "A2"
+  },
+  {
+    "en": "Who knows?",
+    "tr": "Kim bilir?",
+    "level": "A2"
+  },
+  {
+    "en": "Who spoke?",
+    "tr": "Kim konuştu?",
+    "level": "A2"
+  },
+  {
+    "en": "Who stood?",
+    "tr": "Kim ayakta durdu?",
+    "level": "A2"
+  },
+  {
+    "en": "Who'll go?",
+    "tr": "Kim gidecek?",
+    "level": "A2"
+  },
+  {
+    "en": "Who's she?",
+    "tr": "O kim?",
+    "level": "A2"
+  },
+  {
+    "en": "Write Tom.",
+    "tr": "Tom'a yaz.",
+    "level": "A2"
+  },
+  {
+    "en": "You drive.",
+    "tr": "Sen sür.",
+    "level": "A2"
+  },
+  {
+    "en": "You idiot!",
+    "tr": "Seni aptal!",
+    "level": "A2"
+  },
+  {
+    "en": "You start.",
+    "tr": "Sen başla.",
+    "level": "A2"
+  },
+  {
+    "en": "You stink.",
+    "tr": "Pis kokuyorsun.",
+    "level": "A2"
+  },
+  {
+    "en": "You tried.",
+    "tr": "Sen çabaladın.",
+    "level": "A2"
+  },
+  {
+    "en": "You're OK.",
+    "tr": "Sen iyisin.",
+    "level": "A2"
+  },
+  {
+    "en": "Answer Tom.",
+    "tr": "Tom'a cevap ver.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask anyone.",
+    "tr": "Birine sor.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask around.",
+    "tr": "Çevrene sor.",
+    "level": "A2"
+  },
+  {
+    "en": "Be content.",
+    "tr": "Hayatından memnun ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Be patient.",
+    "tr": "Sabırlı ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Be serious.",
+    "tr": "Ciddi ol.",
+    "level": "A2"
+  },
+  {
+    "en": "Breathe in.",
+    "tr": "Nefes alın.",
+    "level": "A2"
+  },
+  {
+    "en": "Bring food.",
+    "tr": "Yiyecek getir.",
+    "level": "A2"
+  },
+  {
+    "en": "Bring help.",
+    "tr": "Yardım getir.",
+    "level": "A2"
+  },
+  {
+    "en": "Carry this.",
+    "tr": "Bunu taşıyın.",
+    "level": "A2"
+  },
+  {
+    "en": "Catch this.",
+    "tr": "Bunu yakala.",
+    "level": "A2"
+  },
+  {
+    "en": "Check that.",
+    "tr": "Onu kontrol et.",
+    "level": "A2"
+  },
+  {
+    "en": "Check this.",
+    "tr": "Bunu kontrol et.",
+    "level": "A2"
+  },
+  {
+    "en": "Choose one.",
+    "tr": "Birini seçin.",
+    "level": "A2"
+  },
+  {
+    "en": "Come alone.",
+    "tr": "Yalnız gel.",
+    "level": "A2"
+  },
+  {
+    "en": "Come along.",
+    "tr": "Bizimle gel.",
+    "level": "A2"
+  },
+  {
+    "en": "Come clean.",
+    "tr": "İtiraf et.",
+    "level": "A2"
+  },
+  {
+    "en": "Come early.",
+    "tr": "Erken gel.",
+    "level": "A2"
+  },
+  {
+    "en": "Come quick!",
+    "tr": "Çabuk gelin.",
+    "level": "A2"
+  },
+  {
+    "en": "Destroy it.",
+    "tr": "Onu yok et.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't come.",
+    "tr": "Gelme.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't look.",
+    "tr": "Bakma.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't stop.",
+    "tr": "Durma.",
+    "level": "A2"
+  },
+  {
+    "en": "Eat slowly.",
+    "tr": "Yavaş ye.",
+    "level": "A2"
+  },
+  {
+    "en": "Examine it.",
+    "tr": "Onu inceleyin.",
+    "level": "A2"
+  },
+  {
+    "en": "Face facts!",
+    "tr": "Gerçeklerle yüzleş!",
+    "level": "A2"
+  },
+  {
+    "en": "Find a job.",
+    "tr": "Bir iş bul.",
+    "level": "A2"
+  },
+  {
+    "en": "Follow him.",
+    "tr": "Onu izle.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget Tom.",
+    "tr": "Tom'u unut.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget him.",
+    "tr": "Onu unut.",
+    "level": "A2"
+  },
+  {
+    "en": "Forgive us.",
+    "tr": "Bizi bağışla.",
+    "level": "A2"
+  },
+  {
+    "en": "Get inside.",
+    "tr": "İçeri gir.",
+    "level": "A2"
+  },
+  {
+    "en": "Go outside.",
+    "tr": "Çık dışarı.",
+    "level": "A2"
+  },
+  {
+    "en": "Have faith.",
+    "tr": "İnançlı ol.",
+    "level": "A2"
+  },
+  {
+    "en": "He got a D.",
+    "tr": "O bir D aldı.",
+    "level": "A2"
+  },
+  {
+    "en": "He laughed.",
+    "tr": "O güldü.",
+    "level": "A2"
+  },
+  {
+    "en": "Head north.",
+    "tr": "Kuzeye doğru.",
+    "level": "A2"
+  },
+  {
+    "en": "Hello, Tom.",
+    "tr": "Merhaba, Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Hold still.",
+    "tr": "Kıpırdama.",
+    "level": "A2"
+  },
+  {
+    "en": "How absurd!",
+    "tr": "Ne kadar saçma!",
+    "level": "A2"
+  },
+  {
+    "en": "How boring!",
+    "tr": "Ne sıkıcı!",
+    "level": "A2"
+  },
+  {
+    "en": "How clever!",
+    "tr": "Ne zeki!",
+    "level": "A2"
+  },
+  {
+    "en": "How lovely!",
+    "tr": "Ne kadar hoş!",
+    "level": "A2"
+  },
+  {
+    "en": "How tragic!",
+    "tr": "Ne trajik!",
+    "level": "A2"
+  },
+  {
+    "en": "How's work?",
+    "tr": "İş nasıl?",
+    "level": "A2"
+  },
+  {
+    "en": "I canceled.",
+    "tr": "Ben iptal ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I chuckled.",
+    "tr": "Ben kıkır kıkır güldüm.",
+    "level": "A2"
+  },
+  {
+    "en": "I disagree.",
+    "tr": "Ben katılmıyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I exercise.",
+    "tr": "Alıştırma yapıyorum.",
+    "level": "A2"
+  },
+  {
+    "en": "I flinched.",
+    "tr": "Geri çekildim.",
+    "level": "A2"
+  },
+  {
+    "en": "I just ate.",
+    "tr": "Daha yeni yemek yedim.",
+    "level": "A2"
+  },
+  {
+    "en": "I listened.",
+    "tr": "Dinledim.",
+    "level": "A2"
+  },
+  {
+    "en": "I panicked.",
+    "tr": "Ben panikledim.",
+    "level": "A2"
+  },
+  {
+    "en": "I promised.",
+    "tr": "Söz verdim.",
+    "level": "A2"
+  },
+  {
+    "en": "I relented.",
+    "tr": "Ben merhamet ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I resigned.",
+    "tr": "İstifa ettim.",
+    "level": "A2"
+  },
+  {
+    "en": "I screamed.",
+    "tr": "Ben çığlık attım.",
+    "level": "A2"
+  },
+  {
+    "en": "I shivered.",
+    "tr": "Ben titredim.",
+    "level": "A2"
+  },
+  {
+    "en": "I shrugged.",
+    "tr": "Ben omuz silktim.",
+    "level": "A2"
+  },
+  {
+    "en": "I squinted.",
+    "tr": "Ben şaşı oldum.",
+    "level": "A2"
+  },
+  {
+    "en": "I survived.",
+    "tr": "Ben hayatta kaldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I whistled.",
+    "tr": "Ben ıslık çaldım.",
+    "level": "A2"
+  },
+  {
+    "en": "I work out.",
+    "tr": "Ben dışarıda çalışırım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'd buy it.",
+    "tr": "Onu alırdım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll stand.",
+    "tr": "Ben ayakta duracağım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll start.",
+    "tr": "Başlayacağım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll write.",
+    "tr": "Yazacağım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm a cook.",
+    "tr": "Ben bir aşçıyım.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm inside.",
+    "tr": "İçerideyim.",
+    "level": "A2"
+  },
+  {
+    "en": "Ignore him.",
+    "tr": "Onu görmezden gel.",
+    "level": "A2"
+  },
+  {
+    "en": "It happens.",
+    "tr": "Bu olur.",
+    "level": "A2"
+  },
+  {
+    "en": "It matters.",
+    "tr": "O önemli.",
+    "level": "A2"
+  },
+  {
+    "en": "It'll work.",
+    "tr": "Bu işe yarayacak.",
+    "level": "A2"
+  },
+  {
+    "en": "It's Tom's.",
+    "tr": "Bu Tom'unki.",
+    "level": "A2"
+  },
+  {
+    "en": "It's alive.",
+    "tr": "O yaşıyor.",
+    "level": "A2"
+  },
+  {
+    "en": "It's awful.",
+    "tr": "O korkunç.",
+    "level": "A2"
+  },
+  {
+    "en": "It's begun.",
+    "tr": "O başladı.",
+    "level": "A2"
+  },
+  {
+    "en": "It's blank.",
+    "tr": "Bu boş.",
+    "level": "A2"
+  },
+  {
+    "en": "It's bogus.",
+    "tr": "Bu sahte.",
+    "level": "A2"
+  },
+  {
+    "en": "It's bulky.",
+    "tr": "Bu hantal.",
+    "level": "A2"
+  },
+  {
+    "en": "It's cheap.",
+    "tr": "O ucuz.",
+    "level": "A2"
+  },
+  {
+    "en": "It's clean.",
+    "tr": "O temiz.",
+    "level": "A2"
+  },
+  {
+    "en": "It's clear.",
+    "tr": "Bu açık.",
+    "level": "A2"
+  },
+  {
+    "en": "It's close.",
+    "tr": "Bu yakın.",
+    "level": "A2"
+  },
+  {
+    "en": "It's early.",
+    "tr": "Vakit erken.",
+    "level": "A2"
+  },
+  {
+    "en": "It's empty.",
+    "tr": "O boş.",
+    "level": "A2"
+  },
+  {
+    "en": "It's great.",
+    "tr": "Bu harika.",
+    "level": "A2"
+  },
+  {
+    "en": "It's magic.",
+    "tr": "Bu sihirdir.",
+    "level": "A2"
+  },
+  {
+    "en": "It's phony.",
+    "tr": "Bu sahtedir.",
+    "level": "A2"
+  },
+  {
+    "en": "It's quiet.",
+    "tr": "Bu sessiz.",
+    "level": "A2"
+  },
+  {
+    "en": "It's ready.",
+    "tr": "Bu hazır.",
+    "level": "A2"
+  },
+  {
+    "en": "It's right.",
+    "tr": "O doğru.",
+    "level": "A2"
+  },
+  {
+    "en": "It's scary.",
+    "tr": "O korkutucu.",
+    "level": "A2"
+  },
+  {
+    "en": "It's shiny.",
+    "tr": "O parlak.",
+    "level": "A2"
+  },
+  {
+    "en": "It's stuck.",
+    "tr": "O sıkışmış.",
+    "level": "A2"
+  },
+  {
+    "en": "It's sweet.",
+    "tr": "Bu tatlı.",
+    "level": "A2"
+  },
+  {
+    "en": "It's taboo.",
+    "tr": "Bu bir tabu.",
+    "level": "A2"
+  },
+  {
+    "en": "It's weird.",
+    "tr": "O tuhaf.",
+    "level": "A2"
+  },
+  {
+    "en": "It's windy.",
+    "tr": "Hava rüzgarlı.",
+    "level": "A2"
+  },
+  {
+    "en": "It's wrong.",
+    "tr": "Bu yanlış.",
+    "level": "A2"
+  },
+  {
+    "en": "It's yours.",
+    "tr": "Bu senin.",
+    "level": "A2"
+  },
+  {
+    "en": "Just leave.",
+    "tr": "Sadece bırak.",
+    "level": "A2"
+  },
+  {
+    "en": "Just relax.",
+    "tr": "Rahatınıza bakın.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep still.",
+    "tr": "Kıpırdama!",
+    "level": "A2"
+  },
+  {
+    "en": "Let me pay.",
+    "tr": "Ben ödeyeyim.",
+    "level": "A2"
+  },
+  {
+    "en": "Let me try.",
+    "tr": "Denememe izin ver.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's play.",
+    "tr": "Oyun oynayalım.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's walk.",
+    "tr": "Yürüyelim.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's work.",
+    "tr": "Çalışalım.",
+    "level": "A2"
+  },
+  {
+    "en": "Look ahead.",
+    "tr": "Önüne bak.",
+    "level": "A2"
+  },
+  {
+    "en": "Look alert.",
+    "tr": "Uyanık görün.",
+    "level": "A2"
+  }
+]

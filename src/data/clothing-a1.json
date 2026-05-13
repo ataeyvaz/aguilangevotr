@@ -1,0 +1,894 @@
+{
+  "category": "clothing",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "hat",
+          "emoji": "🎩",
+          "word": "hat",
+          "tr": "şapka",
+          "pron": "hæt",
+          "level": "a1"
+        },
+        {
+          "id": "jacket",
+          "emoji": "🧥",
+          "word": "jacket",
+          "tr": "ceket",
+          "pron": "ˈdʒækɪt",
+          "level": "a1"
+        },
+        {
+          "id": "jeans",
+          "emoji": "👖",
+          "word": "jeans",
+          "tr": "kot pantolon",
+          "pron": "dʒiːnz",
+          "level": "a1"
+        },
+        {
+          "id": "shirt",
+          "emoji": "👕",
+          "word": "shirt",
+          "tr": "gömlek",
+          "pron": "ʃɜːt",
+          "level": "a1"
+        },
+        {
+          "id": "shoe",
+          "emoji": "👟",
+          "word": "shoe",
+          "tr": "ayakkabı",
+          "pron": "ʃuː",
+          "level": "a1"
+        },
+        {
+          "id": "skirt",
+          "emoji": "👗",
+          "word": "skirt",
+          "tr": "etek",
+          "pron": "skɜːt",
+          "level": "a1"
+        },
+        {
+          "id": "sock",
+          "emoji": "🧦",
+          "word": "sock",
+          "tr": "çorap",
+          "pron": "sɒk",
+          "level": "a1"
+        },
+        {
+          "id": "suit",
+          "emoji": "🤵",
+          "word": "suit",
+          "tr": "takım elbise",
+          "pron": "suːt",
+          "level": "a1"
+        },
+        {
+          "id": "tie",
+          "emoji": "👔",
+          "word": "tie",
+          "tr": "kravat",
+          "pron": "taɪ",
+          "level": "a1"
+        },
+        {
+          "id": "trousers",
+          "emoji": "👖",
+          "word": "trousers",
+          "tr": "pantolon",
+          "pron": "ˈtraʊzəz",
+          "level": "a1"
+        },
+        {
+          "id": "coat",
+          "emoji": "🧣",
+          "word": "coat",
+          "tr": "palto",
+          "pron": "kəʊt",
+          "level": "a1"
+        },
+        {
+          "id": "dress",
+          "emoji": "👗",
+          "word": "dress",
+          "tr": "elbise",
+          "pron": "drɛs",
+          "level": "a1"
+        },
+        {
+          "id": "glasses",
+          "emoji": "👓",
+          "word": "glasses",
+          "tr": "gözlük",
+          "pron": "ˈɡlɑːsɪz",
+          "level": "a1"
+        },
+        {
+          "id": "glove",
+          "emoji": "🧤",
+          "word": "glove",
+          "tr": "eldiven",
+          "pron": "ɡlʌv",
+          "level": "a1"
+        },
+        {
+          "id": "scarf",
+          "emoji": "🧣",
+          "word": "scarf",
+          "tr": "atkı",
+          "pron": "skɑːf",
+          "level": "a1"
+        },
+        {
+          "id": "boot",
+          "emoji": "👢",
+          "word": "boot",
+          "tr": "çizme",
+          "pron": "buːt",
+          "level": "a1"
+        },
+        {
+          "id": "belt",
+          "emoji": "🔗",
+          "word": "belt",
+          "tr": "kemer",
+          "pron": "bɛlt",
+          "level": "a2"
+        },
+        {
+          "id": "cap",
+          "emoji": "🧢",
+          "word": "cap",
+          "tr": "kasket",
+          "pron": "kæp",
+          "level": "a2"
+        },
+        {
+          "id": "collar",
+          "emoji": "👔",
+          "word": "collar",
+          "tr": "yaka",
+          "pron": "ˈkɒlər",
+          "level": "a2"
+        },
+        {
+          "id": "costume",
+          "emoji": "🎭",
+          "word": "costume",
+          "tr": "kostüm",
+          "pron": "ˈkɒstjuːm",
+          "level": "a2"
+        },
+        {
+          "id": "heel",
+          "emoji": "👠",
+          "word": "heel",
+          "tr": "topuk",
+          "pron": "hiːl",
+          "level": "a2"
+        },
+        {
+          "id": "pocket",
+          "emoji": "🧥",
+          "word": "pocket",
+          "tr": "cep",
+          "pron": "ˈpɒkɪt",
+          "level": "a2"
+        },
+        {
+          "id": "shorts",
+          "emoji": "🩳",
+          "word": "shorts",
+          "tr": "şort",
+          "pron": "ʃɔːts",
+          "level": "a2"
+        },
+        {
+          "id": "sleeve",
+          "emoji": "👕",
+          "word": "sleeve",
+          "tr": "kol / yen",
+          "pron": "sliːv",
+          "level": "a2"
+        },
+        {
+          "id": "uniform",
+          "emoji": "👮",
+          "word": "uniform",
+          "tr": "üniforma",
+          "pron": "ˈjuːnɪfɔːm",
+          "level": "a2"
+        },
+        {
+          "id": "underwear",
+          "emoji": "🩲",
+          "word": "underwear",
+          "tr": "iç çamaşırı",
+          "pron": "ˈʌndəwɛər",
+          "level": "a2"
+        },
+        {
+          "id": "zip",
+          "emoji": "🤐",
+          "word": "zip",
+          "tr": "fermuar",
+          "pron": "zɪp",
+          "level": "a2"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "hat",
+          "emoji": "🎩",
+          "word": "Hut",
+          "tr": "şapka",
+          "pron": "huːt",
+          "level": "a1"
+        },
+        {
+          "id": "jacket",
+          "emoji": "🧥",
+          "word": "Jacke",
+          "tr": "ceket",
+          "pron": "ˈjakə",
+          "level": "a1"
+        },
+        {
+          "id": "jeans",
+          "emoji": "👖",
+          "word": "Jeans",
+          "tr": "kot pantolon",
+          "pron": "dʒiːns",
+          "level": "a1"
+        },
+        {
+          "id": "shirt",
+          "emoji": "👕",
+          "word": "Hemd",
+          "tr": "gömlek",
+          "pron": "hɛmt",
+          "level": "a1"
+        },
+        {
+          "id": "shoe",
+          "emoji": "👟",
+          "word": "Schuh",
+          "tr": "ayakkabı",
+          "pron": "ʃuː",
+          "level": "a1"
+        },
+        {
+          "id": "skirt",
+          "emoji": "👗",
+          "word": "Rock",
+          "tr": "etek",
+          "pron": "rɔk",
+          "level": "a1"
+        },
+        {
+          "id": "sock",
+          "emoji": "🧦",
+          "word": "Socke",
+          "tr": "çorap",
+          "pron": "ˈzɔkə",
+          "level": "a1"
+        },
+        {
+          "id": "suit",
+          "emoji": "🤵",
+          "word": "Anzug",
+          "tr": "takım elbise",
+          "pron": "ˈantsʊk",
+          "level": "a1"
+        },
+        {
+          "id": "tie",
+          "emoji": "👔",
+          "word": "Krawatte",
+          "tr": "kravat",
+          "pron": "kraˈvatə",
+          "level": "a1"
+        },
+        {
+          "id": "trousers",
+          "emoji": "👖",
+          "word": "Hose",
+          "tr": "pantolon",
+          "pron": "ˈhoːzə",
+          "level": "a1"
+        },
+        {
+          "id": "coat",
+          "emoji": "🧣",
+          "word": "Mantel",
+          "tr": "palto",
+          "pron": "ˈmantəl",
+          "level": "a1"
+        },
+        {
+          "id": "dress",
+          "emoji": "👗",
+          "word": "Kleid",
+          "tr": "elbise",
+          "pron": "klaɪt",
+          "level": "a1"
+        },
+        {
+          "id": "glasses",
+          "emoji": "👓",
+          "word": "Brille",
+          "tr": "gözlük",
+          "pron": "ˈbrɪlə",
+          "level": "a1"
+        },
+        {
+          "id": "glove",
+          "emoji": "🧤",
+          "word": "Handschuh",
+          "tr": "eldiven",
+          "pron": "ˈhantʃuː",
+          "level": "a1"
+        },
+        {
+          "id": "scarf",
+          "emoji": "🧣",
+          "word": "Schal",
+          "tr": "atkı",
+          "pron": "ʃaːl",
+          "level": "a1"
+        },
+        {
+          "id": "boot",
+          "emoji": "👢",
+          "word": "Stiefel",
+          "tr": "çizme",
+          "pron": "ˈʃtiːfəl",
+          "level": "a1"
+        },
+        {
+          "id": "belt",
+          "emoji": "🔗",
+          "word": "Gürtel",
+          "tr": "kemer",
+          "pron": "ˈɡʏrtəl",
+          "level": "a2"
+        },
+        {
+          "id": "cap",
+          "emoji": "🧢",
+          "word": "Mütze",
+          "tr": "kasket",
+          "pron": "ˈmʏtsə",
+          "level": "a2"
+        },
+        {
+          "id": "collar",
+          "emoji": "👔",
+          "word": "Kragen",
+          "tr": "yaka",
+          "pron": "ˈkraːɡən",
+          "level": "a2"
+        },
+        {
+          "id": "costume",
+          "emoji": "🎭",
+          "word": "Kostüm",
+          "tr": "kostüm",
+          "pron": "kɔsˈtyːm",
+          "level": "a2"
+        },
+        {
+          "id": "heel",
+          "emoji": "👠",
+          "word": "Absatz",
+          "tr": "topuk",
+          "pron": "ˈapzats",
+          "level": "a2"
+        },
+        {
+          "id": "pocket",
+          "emoji": "🧥",
+          "word": "Tasche",
+          "tr": "cep",
+          "pron": "ˈtaʃə",
+          "level": "a2"
+        },
+        {
+          "id": "shorts",
+          "emoji": "🩳",
+          "word": "Shorts",
+          "tr": "şort",
+          "pron": "ʃɔrts",
+          "level": "a2"
+        },
+        {
+          "id": "sleeve",
+          "emoji": "👕",
+          "word": "Ärmel",
+          "tr": "kol / yen",
+          "pron": "ˈɛrmɛl",
+          "level": "a2"
+        },
+        {
+          "id": "uniform",
+          "emoji": "👮",
+          "word": "Uniform",
+          "tr": "üniforma",
+          "pron": "uniˈfɔrm",
+          "level": "a2"
+        },
+        {
+          "id": "underwear",
+          "emoji": "🩲",
+          "word": "Unterwäsche",
+          "tr": "iç çamaşırı",
+          "pron": "ˈʊntərˌvɛʃə",
+          "level": "a2"
+        },
+        {
+          "id": "zip",
+          "emoji": "🤐",
+          "word": "Reißverschluss",
+          "tr": "fermuar",
+          "pron": "ˈraɪsfɛrʃlʊs",
+          "level": "a2"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "hat",
+          "emoji": "🎩",
+          "word": "sombrero",
+          "tr": "şapka",
+          "pron": "somˈbrero",
+          "level": "a1"
+        },
+        {
+          "id": "jacket",
+          "emoji": "🧥",
+          "word": "chaqueta",
+          "tr": "ceket",
+          "pron": "tʃaˈketa",
+          "level": "a1"
+        },
+        {
+          "id": "jeans",
+          "emoji": "👖",
+          "word": "vaqueros",
+          "tr": "kot pantolon",
+          "pron": "baˈkeros",
+          "level": "a1"
+        },
+        {
+          "id": "shirt",
+          "emoji": "👕",
+          "word": "camisa",
+          "tr": "gömlek",
+          "pron": "kaˈmisa",
+          "level": "a1"
+        },
+        {
+          "id": "shoe",
+          "emoji": "👟",
+          "word": "zapato",
+          "tr": "ayakkabı",
+          "pron": "θaˈpato",
+          "level": "a1"
+        },
+        {
+          "id": "skirt",
+          "emoji": "👗",
+          "word": "falda",
+          "tr": "etek",
+          "pron": "ˈfalda",
+          "level": "a1"
+        },
+        {
+          "id": "sock",
+          "emoji": "🧦",
+          "word": "calcetín",
+          "tr": "çorap",
+          "pron": "kalθeˈtin",
+          "level": "a1"
+        },
+        {
+          "id": "suit",
+          "emoji": "🤵",
+          "word": "traje",
+          "tr": "takım elbise",
+          "pron": "ˈtraxe",
+          "level": "a1"
+        },
+        {
+          "id": "tie",
+          "emoji": "👔",
+          "word": "corbata",
+          "tr": "kravat",
+          "pron": "korˈbata",
+          "level": "a1"
+        },
+        {
+          "id": "trousers",
+          "emoji": "👖",
+          "word": "pantalones",
+          "tr": "pantolon",
+          "pron": "pantaˈlones",
+          "level": "a1"
+        },
+        {
+          "id": "coat",
+          "emoji": "🧣",
+          "word": "abrigo",
+          "tr": "palto",
+          "pron": "aˈbriɣo",
+          "level": "a1"
+        },
+        {
+          "id": "dress",
+          "emoji": "👗",
+          "word": "vestido",
+          "tr": "elbise",
+          "pron": "besˈtiðo",
+          "level": "a1"
+        },
+        {
+          "id": "glasses",
+          "emoji": "👓",
+          "word": "gafas",
+          "tr": "gözlük",
+          "pron": "ˈɡafas",
+          "level": "a1"
+        },
+        {
+          "id": "glove",
+          "emoji": "🧤",
+          "word": "guante",
+          "tr": "eldiven",
+          "pron": "ˈɡwante",
+          "level": "a1"
+        },
+        {
+          "id": "scarf",
+          "emoji": "🧣",
+          "word": "bufanda",
+          "tr": "atkı",
+          "pron": "buˈfanda",
+          "level": "a1"
+        },
+        {
+          "id": "boot",
+          "emoji": "👢",
+          "word": "bota",
+          "tr": "çizme",
+          "pron": "ˈbota",
+          "level": "a1"
+        },
+        {
+          "id": "belt",
+          "emoji": "🔗",
+          "word": "cinturón",
+          "tr": "kemer",
+          "pron": "θintuˈron",
+          "level": "a2"
+        },
+        {
+          "id": "cap",
+          "emoji": "🧢",
+          "word": "gorra",
+          "tr": "kasket",
+          "pron": "ˈɡora",
+          "level": "a2"
+        },
+        {
+          "id": "collar",
+          "emoji": "👔",
+          "word": "cuello",
+          "tr": "yaka",
+          "pron": "ˈkweʎo",
+          "level": "a2"
+        },
+        {
+          "id": "costume",
+          "emoji": "🎭",
+          "word": "disfraz",
+          "tr": "kostüm",
+          "pron": "disˈfraθ",
+          "level": "a2"
+        },
+        {
+          "id": "heel",
+          "emoji": "👠",
+          "word": "tacón",
+          "tr": "topuk",
+          "pron": "taˈkon",
+          "level": "a2"
+        },
+        {
+          "id": "pocket",
+          "emoji": "🧥",
+          "word": "bolsillo",
+          "tr": "cep",
+          "pron": "bolˈsiʎo",
+          "level": "a2"
+        },
+        {
+          "id": "shorts",
+          "emoji": "🩳",
+          "word": "pantalones cortos",
+          "tr": "şort",
+          "pron": "pantaˈlones ˈkortos",
+          "level": "a2"
+        },
+        {
+          "id": "sleeve",
+          "emoji": "👕",
+          "word": "manga",
+          "tr": "kol / yen",
+          "pron": "ˈmaŋɡa",
+          "level": "a2"
+        },
+        {
+          "id": "uniform",
+          "emoji": "👮",
+          "word": "uniforme",
+          "tr": "üniforma",
+          "pron": "uniˈforme",
+          "level": "a2"
+        },
+        {
+          "id": "underwear",
+          "emoji": "🩲",
+          "word": "ropa interior",
+          "tr": "iç çamaşırı",
+          "pron": "ˈropa inteˈrjor",
+          "level": "a2"
+        },
+        {
+          "id": "zip",
+          "emoji": "🤐",
+          "word": "cremallera",
+          "tr": "fermuar",
+          "pron": "kremaˈʎera",
+          "level": "a2"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "hat",
+          "emoji": "🎩",
+          "word": "chapéu",
+          "tr": "şapka",
+          "pron": "ʃaˈpew",
+          "level": "a1"
+        },
+        {
+          "id": "jacket",
+          "emoji": "🧥",
+          "word": "jaqueta",
+          "tr": "ceket",
+          "pron": "ʒaˈkɛta",
+          "level": "a1"
+        },
+        {
+          "id": "jeans",
+          "emoji": "👖",
+          "word": "jeans",
+          "tr": "kot pantolon",
+          "pron": "ˈdʒĩʃ",
+          "level": "a1"
+        },
+        {
+          "id": "shirt",
+          "emoji": "👕",
+          "word": "camisa",
+          "tr": "gömlek",
+          "pron": "kaˈmiza",
+          "level": "a1"
+        },
+        {
+          "id": "shoe",
+          "emoji": "👟",
+          "word": "sapato",
+          "tr": "ayakkabı",
+          "pron": "saˈpatu",
+          "level": "a1"
+        },
+        {
+          "id": "skirt",
+          "emoji": "👗",
+          "word": "saia",
+          "tr": "etek",
+          "pron": "ˈsaja",
+          "level": "a1"
+        },
+        {
+          "id": "sock",
+          "emoji": "🧦",
+          "word": "meia",
+          "tr": "çorap",
+          "pron": "ˈmeja",
+          "level": "a1"
+        },
+        {
+          "id": "suit",
+          "emoji": "🤵",
+          "word": "terno",
+          "tr": "takım elbise",
+          "pron": "ˈtɛʁnu",
+          "level": "a1"
+        },
+        {
+          "id": "tie",
+          "emoji": "👔",
+          "word": "gravata",
+          "tr": "kravat",
+          "pron": "ɡɾaˈvata",
+          "level": "a1"
+        },
+        {
+          "id": "trousers",
+          "emoji": "👖",
+          "word": "calça",
+          "tr": "pantolon",
+          "pron": "ˈkawsa",
+          "level": "a1"
+        },
+        {
+          "id": "coat",
+          "emoji": "🧣",
+          "word": "casaco",
+          "tr": "palto",
+          "pron": "kaˈzaku",
+          "level": "a1"
+        },
+        {
+          "id": "dress",
+          "emoji": "👗",
+          "word": "vestido",
+          "tr": "elbise",
+          "pron": "veʃˈtʃidu",
+          "level": "a1"
+        },
+        {
+          "id": "glasses",
+          "emoji": "👓",
+          "word": "óculos",
+          "tr": "gözlük",
+          "pron": "ˈɔkulus",
+          "level": "a1"
+        },
+        {
+          "id": "glove",
+          "emoji": "🧤",
+          "word": "luva",
+          "tr": "eldiven",
+          "pron": "ˈluva",
+          "level": "a1"
+        },
+        {
+          "id": "scarf",
+          "emoji": "🧣",
+          "word": "cachecol",
+          "tr": "atkı",
+          "pron": "kaʃɨˈkɔw",
+          "level": "a1"
+        },
+        {
+          "id": "boot",
+          "emoji": "👢",
+          "word": "bota",
+          "tr": "çizme",
+          "pron": "ˈbɔta",
+          "level": "a1"
+        },
+        {
+          "id": "belt",
+          "emoji": "🔗",
+          "word": "cinto",
+          "tr": "kemer",
+          "pron": "ˈsĩtu",
+          "level": "a2"
+        },
+        {
+          "id": "cap",
+          "emoji": "🧢",
+          "word": "boné",
+          "tr": "kasket",
+          "pron": "boˈnɛ",
+          "level": "a2"
+        },
+        {
+          "id": "collar",
+          "emoji": "👔",
+          "word": "gola",
+          "tr": "yaka",
+          "pron": "ˈɡɔla",
+          "level": "a2"
+        },
+        {
+          "id": "costume",
+          "emoji": "🎭",
+          "word": "fantasia",
+          "tr": "kostüm",
+          "pron": "fɐ̃taˈzia",
+          "level": "a2"
+        },
+        {
+          "id": "heel",
+          "emoji": "👠",
+          "word": "salto",
+          "tr": "topuk",
+          "pron": "ˈsawtu",
+          "level": "a2"
+        },
+        {
+          "id": "pocket",
+          "emoji": "🧥",
+          "word": "bolso",
+          "tr": "cep",
+          "pron": "ˈbowsu",
+          "level": "a2"
+        },
+        {
+          "id": "shorts",
+          "emoji": "🩳",
+          "word": "shorts",
+          "tr": "şort",
+          "pron": "ˈʃoʁtʃiʃ",
+          "level": "a2"
+        },
+        {
+          "id": "sleeve",
+          "emoji": "👕",
+          "word": "manga",
+          "tr": "kol / yen",
+          "pron": "ˈmɐ̃ɡa",
+          "level": "a2"
+        },
+        {
+          "id": "uniform",
+          "emoji": "👮",
+          "word": "uniforme",
+          "tr": "üniforma",
+          "pron": "uniˈfɔʁmi",
+          "level": "a2"
+        },
+        {
+          "id": "underwear",
+          "emoji": "🩲",
+          "word": "cueca",
+          "tr": "iç çamaşırı",
+          "pron": "ˈkwɛka",
+          "level": "a2"
+        },
+        {
+          "id": "zip",
+          "emoji": "🤐",
+          "word": "zíper",
+          "tr": "fermuar",
+          "pron": "ˈzipeʁ",
+          "level": "a2"
+        }
+      ]
+    }
+  }
+}

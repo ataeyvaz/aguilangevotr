@@ -1,0 +1,508 @@
+{
+  "words": [
+    {
+      "id": "ability",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "ability",
+      "es": "habilidad",
+      "pt": "habilidade",
+      "pron": "əˈbɪlɪti"
+    },
+    {
+      "id": "advantage",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "advantage",
+      "es": "ventaja",
+      "pt": "vantagem",
+      "pron": "ədˈvɑːntɪdʒ"
+    },
+    {
+      "id": "anxious",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "anxious",
+      "es": "ansioso",
+      "pt": "ansioso",
+      "pron": "ˈæŋkʃəs"
+    },
+    {
+      "id": "apply",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "apply",
+      "es": "solicitar",
+      "pt": "candidatar-se",
+      "pron": "əˈplaɪ"
+    },
+    {
+      "id": "avoid",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "avoid",
+      "es": "evitar",
+      "pt": "evitar",
+      "pron": "əˈvɔɪd"
+    },
+    {
+      "id": "brave",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "brave",
+      "es": "valiente",
+      "pt": "corajoso",
+      "pron": "breɪv"
+    },
+    {
+      "id": "capable",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "capable",
+      "es": "capaz",
+      "pt": "capaz",
+      "pron": "ˈkeɪpəbl"
+    },
+    {
+      "id": "career",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "career",
+      "es": "carrera",
+      "pt": "carreira",
+      "pron": "kəˈrɪər"
+    },
+    {
+      "id": "challenge",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "challenge",
+      "es": "desafío",
+      "pt": "desafio",
+      "pron": "ˈtʃælɪndʒ"
+    },
+    {
+      "id": "communicate",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "communicate",
+      "es": "comunicar",
+      "pt": "comunicar",
+      "pron": "kəˈmjuːnɪkeɪt"
+    },
+    {
+      "id": "community",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "community",
+      "es": "comunidad",
+      "pt": "comunidade",
+      "pron": "kəˈmjuːnɪti"
+    },
+    {
+      "id": "compare",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "compare",
+      "es": "comparar",
+      "pt": "comparar",
+      "pron": "kəmˈpeər"
+    },
+    {
+      "id": "complain",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "complain",
+      "es": "quejarse",
+      "pt": "reclamar",
+      "pron": "kəmˈpleɪn"
+    },
+    {
+      "id": "confidence",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "confidence",
+      "es": "confianza",
+      "pt": "confiança",
+      "pron": "ˈkɒnfɪdəns"
+    },
+    {
+      "id": "confident",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "confident",
+      "es": "seguro",
+      "pt": "confiante",
+      "pron": "ˈkɒnfɪdənt"
+    },
+    {
+      "id": "consider",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "consider",
+      "es": "considerar",
+      "pt": "considerar",
+      "pron": "kənˈsɪdər"
+    },
+    {
+      "id": "culture",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "culture",
+      "es": "cultura",
+      "pt": "cultura",
+      "pron": "ˈkʌltʃər"
+    },
+    {
+      "id": "curious",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "curious",
+      "es": "curioso",
+      "pt": "curioso",
+      "pron": "ˈkjʊəriəs"
+    },
+    {
+      "id": "decision",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "decision",
+      "es": "decisión",
+      "pt": "decisão",
+      "pron": "dɪˈsɪʒən"
+    },
+    {
+      "id": "develop",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "develop",
+      "es": "desarrollar",
+      "pt": "desenvolver",
+      "pron": "dɪˈveləp"
+    },
+    {
+      "id": "disappointed",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "disappointed",
+      "es": "decepcionado",
+      "pt": "decepcionado",
+      "pron": "ˌdɪsəˈpɔɪntɪd"
+    },
+    {
+      "id": "discuss",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "discuss",
+      "es": "discutir",
+      "pt": "discutir",
+      "pron": "dɪˈskʌs"
+    },
+    {
+      "id": "environment",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "environment",
+      "es": "medio ambiente",
+      "pt": "meio ambiente",
+      "pron": "ɪnˈvaɪrənmənt"
+    },
+    {
+      "id": "essential",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "essential",
+      "es": "esencial",
+      "pt": "essencial",
+      "pron": "ɪˈsenʃəl"
+    },
+    {
+      "id": "experience",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "experience",
+      "es": "experiencia",
+      "pt": "experiência",
+      "pron": "ɪkˈspɪəriəns"
+    },
+    {
+      "id": "flexible",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "flexible",
+      "es": "flexible",
+      "pt": "flexível",
+      "pron": "ˈfleksɪbl"
+    },
+    {
+      "id": "freedom",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "freedom",
+      "es": "libertad",
+      "pt": "liberdade",
+      "pron": "ˈfriːdəm"
+    },
+    {
+      "id": "generous",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "generous",
+      "es": "generoso",
+      "pt": "generoso",
+      "pron": "ˈdʒenərəs"
+    },
+    {
+      "id": "honest",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "honest",
+      "es": "honesto",
+      "pt": "honesto",
+      "pron": "ˈɒnɪst"
+    },
+    {
+      "id": "improve",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "improve",
+      "es": "mejorar",
+      "pt": "melhorar",
+      "pron": "ɪmˈpruːv"
+    },
+    {
+      "id": "independent",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "independent",
+      "es": "independiente",
+      "pt": "independente",
+      "pron": "ˌɪndɪˈpendənt"
+    },
+    {
+      "id": "knowledge",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "knowledge",
+      "es": "conocimiento",
+      "pt": "conhecimento",
+      "pron": "ˈnɒlɪdʒ"
+    },
+    {
+      "id": "lifestyle",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "lifestyle",
+      "es": "estilo de vida",
+      "pt": "estilo de vida",
+      "pron": "ˈlaɪfstaɪl"
+    },
+    {
+      "id": "manage",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "manage",
+      "es": "gestionar",
+      "pt": "gerenciar",
+      "pron": "ˈmænɪdʒ"
+    },
+    {
+      "id": "memory",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "memory",
+      "es": "memoria",
+      "pt": "memória",
+      "pron": "ˈmeməri"
+    },
+    {
+      "id": "mistake",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "mistake",
+      "es": "error",
+      "pt": "erro",
+      "pron": "mɪˈsteɪk"
+    },
+    {
+      "id": "nervous",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "nervous",
+      "es": "nervioso",
+      "pt": "nervoso",
+      "pron": "ˈnɜːrvəs"
+    },
+    {
+      "id": "obvious",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "obvious",
+      "es": "obvio",
+      "pt": "óbvio",
+      "pron": "ˈɒbviəs"
+    },
+    {
+      "id": "opportunity",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "opportunity",
+      "es": "oportunidad",
+      "pt": "oportunidade",
+      "pron": "ˌɒpəˈtjuːnɪti"
+    },
+    {
+      "id": "organize",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "organize",
+      "es": "organizar",
+      "pt": "organizar",
+      "pron": "ˈɔːrɡənaɪz"
+    },
+    {
+      "id": "perform",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "perform",
+      "es": "actuar",
+      "pt": "atuar",
+      "pron": "pərˈfɔːrm"
+    },
+    {
+      "id": "powerful",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "powerful",
+      "es": "poderoso",
+      "pt": "poderoso",
+      "pron": "ˈpaʊərfl"
+    },
+    {
+      "id": "progress",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "progress",
+      "es": "progreso",
+      "pt": "progresso",
+      "pron": "ˈprɒɡres"
+    },
+    {
+      "id": "proud",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "proud",
+      "es": "orgulloso",
+      "pt": "orgulhoso",
+      "pron": "praʊd"
+    },
+    {
+      "id": "provide",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "provide",
+      "es": "proporcionar",
+      "pt": "fornecer",
+      "pron": "prəˈvaɪd"
+    },
+    {
+      "id": "realistic",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "realistic",
+      "es": "realista",
+      "pt": "realista",
+      "pron": "ˌriːəˈlɪstɪk"
+    },
+    {
+      "id": "reduce",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "reduce",
+      "es": "reducir",
+      "pt": "reduzir",
+      "pron": "rɪˈduːs"
+    },
+    {
+      "id": "relationship",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "relationship",
+      "es": "relación",
+      "pt": "relacionamento",
+      "pron": "rɪˈleɪʃənʃɪp"
+    },
+    {
+      "id": "responsible",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "responsible",
+      "es": "responsable",
+      "pt": "responsável",
+      "pron": "rɪˈspɒnsɪbl"
+    },
+    {
+      "id": "serious",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "serious",
+      "es": "serio",
+      "pt": "sério",
+      "pron": "ˈsɪəriəs"
+    },
+    {
+      "id": "skill",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "skill",
+      "es": "habilidad",
+      "pt": "habilidade",
+      "pron": "skɪl"
+    },
+    {
+      "id": "successful",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "successful",
+      "es": "exitoso",
+      "pt": "bem-sucedido",
+      "pron": "səkˈsesfəl"
+    },
+    {
+      "id": "support",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "support",
+      "es": "apoyar",
+      "pt": "apoiar",
+      "pron": "səˈpɔːrt"
+    },
+    {
+      "id": "tradition",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "tradition",
+      "es": "tradición",
+      "pt": "tradição",
+      "pron": "trəˈdɪʃən"
+    },
+    {
+      "id": "typical",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "typical",
+      "es": "típico",
+      "pt": "típico",
+      "pron": "ˈtɪpɪkəl"
+    },
+    {
+      "id": "worth",
+      "emoji": "📚",
+      "level": "b1",
+      "en": "worth",
+      "es": "valioso",
+      "pt": "valioso",
+      "pron": "wɜːrθ"
+    }
+  ]
+}

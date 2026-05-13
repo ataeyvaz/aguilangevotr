@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Wow!",
+    "de": "Potzdonner!",
+    "level": "B2"
+  },
+  {
+    "en": "Duck!",
+    "de": "Kopf runter!",
+    "level": "B2"
+  },
+  {
+    "en": "Fire!",
+    "de": "Feuer!",
+    "level": "B2"
+  },
+  {
+    "en": "Hide.",
+    "de": "Versteck dich!",
+    "level": "B2"
+  },
+  {
+    "en": "Stay.",
+    "de": "Bleib!",
+    "level": "B2"
+  },
+  {
+    "en": "Wait!",
+    "de": "Warte!",
+    "level": "B2"
+  },
+  {
+    "en": "Wait.",
+    "de": "Warte.",
+    "level": "B2"
+  },
+  {
+    "en": "Begin.",
+    "de": "Fang an.",
+    "level": "B2"
+  },
+  {
+    "en": "Hurry!",
+    "de": "Beeil dich!",
+    "level": "B2"
+  },
+  {
+    "en": "Relax.",
+    "de": "Entspann dich.",
+    "level": "B2"
+  },
+  {
+    "en": "Shoot!",
+    "de": "Feuer!",
+    "level": "B2"
+  },
+  {
+    "en": "Smile.",
+    "de": "Lächeln!",
+    "level": "B2"
+  },
+  {
+    "en": "Attack!",
+    "de": "Angriff!",
+    "level": "B2"
+  },
+  {
+    "en": "Cheers!",
+    "de": "Zum Wohl!",
+    "level": "B2"
+  },
+  {
+    "en": "Exhale.",
+    "de": "Ausatmen!",
+    "level": "B2"
+  },
+  {
+    "en": "Freeze!",
+    "de": "Keine Bewegung!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm 19.",
+    "de": "Ich bin 19 Jahre alt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm up.",
+    "de": "Ich bin wach.",
+    "level": "B2"
+  },
+  {
+    "en": "Inhale.",
+    "de": "Einatmen!",
+    "level": "B2"
+  },
+  {
+    "en": "Listen.",
+    "de": "Hört zu.",
+    "level": "B2"
+  },
+  {
+    "en": "Really?",
+    "de": "Wirklich?",
+    "level": "B2"
+  },
+  {
+    "en": "Thanks!",
+    "de": "Danke!",
+    "level": "B2"
+  },
+  {
+    "en": "Thanks.",
+    "de": "Danke!",
+    "level": "B2"
+  },
+  {
+    "en": "Awesome!",
+    "de": "Fantastisch!",
+    "level": "B2"
+  },
+  {
+    "en": "Get Tom.",
+    "de": "Hol Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Get out!",
+    "de": "Raus!",
+    "level": "B2"
+  },
+  {
+    "en": "Get out.",
+    "de": "Geh raus.",
+    "level": "B2"
+  },
+  {
+    "en": "Hit Tom.",
+    "de": "Schlage Tom!",
+    "level": "B2"
+  },
+  {
+    "en": "Hug Tom.",
+    "de": "Umarme Tom!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm fat.",
+    "de": "Ich bin fett.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hit!",
+    "de": "Ich wurde getroffen!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ill.",
+    "de": "Ich bin krank!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm mad.",
+    "de": "Ich bin sauer.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm shy.",
+    "de": "Ich bin schüchtern.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm wet.",
+    "de": "Ich bin nass.",
+    "level": "B2"
+  },
+  {
+    "en": "Lie low.",
+    "de": "Leg dich hin!",
+    "level": "B2"
+  },
+  {
+    "en": "Perfect!",
+    "de": "Perfekt!",
+    "level": "B2"
+  },
+  {
+    "en": "Say aah.",
+    "de": "Sag „Ah!“",
+    "level": "B2"
+  },
+  {
+    "en": "Shut up!",
+    "de": "Halt’s Maul!",
+    "level": "B2"
+  },
+  {
+    "en": "So long.",
+    "de": "Bis später!",
+    "level": "B2"
+  },
+  {
+    "en": "Tom ate.",
+    "de": "Tom aß.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom hid.",
+    "de": "Thomas versteckte sich.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom ran.",
+    "de": "Tom rannte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom won.",
+    "de": "Tom hat gewonnen.",
+    "level": "B2"
+  },
+  {
+    "en": "Wait up.",
+    "de": "Warte mal!",
+    "level": "B2"
+  },
+  {
+    "en": "Wake up!",
+    "de": "Wach auf!",
+    "level": "B2"
+  },
+  {
+    "en": "Wake up.",
+    "de": "Wach auf!",
+    "level": "B2"
+  },
+  {
+    "en": "Wash up.",
+    "de": "Wasch dir die Hände.",
+    "level": "B2"
+  },
+  {
+    "en": "Welcome.",
+    "de": "Willkommen!",
+    "level": "B2"
+  },
+  {
+    "en": "All rise.",
+    "de": "Alle aufstehen!",
+    "level": "B2"
+  },
+  {
+    "en": "Back off.",
+    "de": "Komm nicht näher!",
+    "level": "B2"
+  },
+  {
+    "en": "Cheer up!",
+    "de": "Kopf hoch!",
+    "level": "B2"
+  },
+  {
+    "en": "Cool off!",
+    "de": "Reg dich ab!",
+    "level": "B2"
+  },
+  {
+    "en": "Find Tom.",
+    "de": "Finde Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Fire Tom.",
+    "de": "Feuert Tom!",
+    "level": "B2"
+  },
+  {
+    "en": "Get away!",
+    "de": "Geh weg!",
+    "level": "B2"
+  },
+  {
+    "en": "Get down!",
+    "de": "Runter!",
+    "level": "B2"
+  },
+  {
+    "en": "Get down.",
+    "de": "Komm runter.",
+    "level": "B2"
+  },
+  {
+    "en": "Get lost!",
+    "de": "Geh weg!",
+    "level": "B2"
+  },
+  {
+    "en": "Get lost.",
+    "de": "Schleich dich!",
+    "level": "B2"
+  },
+  {
+    "en": "Get real!",
+    "de": "Jetzt mal ernsthaft!",
+    "level": "B2"
+  },
+  {
+    "en": "Grab Tom.",
+    "de": "Hol Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "He's Tom.",
+    "de": "Er ist Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Hurry up.",
+    "de": "Beeil dich!",
+    "level": "B2"
+  },
+  {
+    "en": "I get by.",
+    "de": "Ich komme klar.",
+    "level": "B2"
+  },
+  {
+    "en": "I'd jump.",
+    "de": "Ich würde springen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a DJ.",
+    "de": "Ich bin DJ.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm back.",
+    "de": "Ich bin wieder da.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm bald.",
+    "de": "Ich bin glatzköpfig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm busy.",
+    "de": "Ich bin beschäftigt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm cool.",
+    "de": "Ich bin cool.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm deaf.",
+    "de": "Ich bin taub.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm fair.",
+    "de": "Ich bin gerecht.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm fine.",
+    "de": "Mir geht's gut.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm free.",
+    "de": "Ich bin frei.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm full.",
+    "de": "Ich bin satt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hurt.",
+    "de": "Ich bin verletzt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm lost.",
+    "de": "Ich habe mich verirrt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm mean.",
+    "de": "Ich bin gemein.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm next.",
+    "de": "Ich bin der Nächste.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm okay.",
+    "de": "Es geht mir gut.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm rich.",
+    "de": "Ich bin reich.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm safe.",
+    "de": "Ich bin sicher.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sick.",
+    "de": "Ich bin krank!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sure.",
+    "de": "Ich bin sicher.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm tidy.",
+    "de": "Ich bin ordentlich.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ugly.",
+    "de": "Ich bin hässlich.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm weak.",
+    "de": "Ich bin schwach.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm well.",
+    "de": "Mir geht es gut.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep out!",
+    "de": "Eintritt verboten!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep out.",
+    "de": "Komm nicht herein.",
+    "level": "B2"
+  },
+  {
+    "en": "Kill Tom.",
+    "de": "Töte Thomas!",
+    "level": "B2"
+  },
+  {
+    "en": "Kiss Tom.",
+    "de": "Küsse Tom!",
+    "level": "B2"
+  },
+  {
+    "en": "Nonsense!",
+    "de": "Unsinn!",
+    "level": "B2"
+  },
+  {
+    "en": "Save Tom.",
+    "de": "Rette Tom!",
+    "level": "B2"
+  },
+  {
+    "en": "Speak up!",
+    "de": "Sprich lauter!",
+    "level": "B2"
+  },
+  {
+    "en": "Speed up.",
+    "de": "Leg mal ’n Zahn zu!",
+    "level": "B2"
+  },
+  {
+    "en": "Terrific!",
+    "de": "Hervorragend!",
+    "level": "B2"
+  },
+  {
+    "en": "Tom came.",
+    "de": "Tom kam.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom died.",
+    "de": "Tom ist gestorben.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom fell.",
+    "de": "Tom fiel.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom knew.",
+    "de": "Tom wusste es.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom lied.",
+    "de": "Tom hat gelogen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom lies.",
+    "de": "Tom lügt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom lost.",
+    "de": "Tom hat verloren.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom paid.",
+    "de": "Tom hat gezahlt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom quit.",
+    "de": "Tom hat aufgehört.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom sang.",
+    "de": "Tom sang.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom spit.",
+    "de": "Thomas spuckte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom swam.",
+    "de": "Tom schwamm.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom went.",
+    "de": "Tom ging.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom wept.",
+    "de": "Tom weinte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's up.",
+    "de": "Tom ist auf.",
+    "level": "B2"
+  },
+  {
+    "en": "Warn Tom.",
+    "de": "Warnen Sie Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Aim. Fire!",
+    "de": "Zielen. Feuer!",
+    "level": "B2"
+  },
+  {
+    "en": "Amen, Tom.",
+    "de": "Amen, Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Birds fly.",
+    "de": "Vögel fliegen.",
+    "level": "B2"
+  },
+  {
+    "en": "Calm down!",
+    "de": "Beruhige dich!",
+    "level": "B2"
+  },
+  {
+    "en": "Calm down.",
+    "de": "Beruhige dich!",
+    "level": "B2"
+  },
+  {
+    "en": "Catch Tom.",
+    "de": "Fang Tom!",
+    "level": "B2"
+  },
+  {
+    "en": "Chill out.",
+    "de": "Entspann dich.",
+    "level": "B2"
+  },
+  {
+    "en": "Cool down.",
+    "de": "Beruhige dich!",
+    "level": "B2"
+  },
+  {
+    "en": "Dogs bark.",
+    "de": "Hunde bellen.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't cry.",
+    "de": "Weine nicht!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't die.",
+    "de": "Stirb nicht!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't lie.",
+    "de": "Lüge nicht!",
+    "level": "B2"
+  },
+  {
+    "en": "Fantastic!",
+    "de": "Fantastisch!",
+    "level": "B2"
+  },
+  {
+    "en": "Get ready.",
+    "de": "Mach dich bereit!",
+    "level": "B2"
+  },
+  {
+    "en": "Goodnight.",
+    "de": "Gute Nacht.",
+    "level": "B2"
+  },
+  {
+    "en": "Hands off.",
+    "de": "Hände weg!",
+    "level": "B2"
+  },
+  {
+    "en": "He's a DJ.",
+    "de": "Er ist DJ.",
+    "level": "B2"
+  },
+  {
+    "en": "He's busy.",
+    "de": "Er hat zu tun.",
+    "level": "B2"
+  },
+  {
+    "en": "He's lazy.",
+    "de": "Er ist träge.",
+    "level": "B2"
+  },
+  {
+    "en": "He's rich.",
+    "de": "Er ist reich.",
+    "level": "B2"
+  },
+  {
+    "en": "He's sexy.",
+    "de": "Er ist sexy.",
+    "level": "B2"
+  },
+  {
+    "en": "Here's $5.",
+    "de": "Hier sind fünf Dollar.",
+    "level": "B2"
+  },
+  {
+    "en": "Hold fire.",
+    "de": "Nicht schießen!",
+    "level": "B2"
+  },
+  {
+    "en": "Humor Tom.",
+    "de": "Lass Tom doch seinen Willen.",
+    "level": "B2"
+  },
+  {
+    "en": "I fear so.",
+    "de": "Ich fürchte, ja.",
+    "level": "B2"
+  },
+  {
+    "en": "I gave up.",
+    "de": "Ich habe aufgegeben.",
+    "level": "B2"
+  },
+  {
+    "en": "I got mad.",
+    "de": "Ich wurde wütend.",
+    "level": "B2"
+  },
+  {
+    "en": "I hit Tom.",
+    "de": "Ich habe Tom geschlagen.",
+    "level": "B2"
+  },
+  {
+    "en": "I hope so.",
+    "de": "Das hoffe ich.",
+    "level": "B2"
+  },
+  {
+    "en": "I hung up.",
+    "de": "Ich habe aufgelegt.",
+    "level": "B2"
+  },
+  {
+    "en": "I may win.",
+    "de": "Vielleicht gewinne ich.",
+    "level": "B2"
+  },
+  {
+    "en": "I met Tom.",
+    "de": "Ich habe Tom getroffen.",
+    "level": "B2"
+  },
+  {
+    "en": "I saw Tom.",
+    "de": "Ich habe Tom gesehen.",
+    "level": "B2"
+  },
+  {
+    "en": "I sped up.",
+    "de": "Ich beschleunigte.",
+    "level": "B2"
+  },
+  {
+    "en": "I woke up.",
+    "de": "Ich wachte auf.",
+    "level": "B2"
+  },
+  {
+    "en": "I'd leave.",
+    "de": "Ich würde gehen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll fail.",
+    "de": "Ich werde scheitern.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll live.",
+    "de": "Ich werde leben.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll obey.",
+    "de": "Ich werde gehorchen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll pass.",
+    "de": "Ich passe.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll quit.",
+    "de": "Ich werde aufhören.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll sing.",
+    "de": "Ich werde singen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll stay.",
+    "de": "Ich werde bleiben.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll swim.",
+    "de": "Ich werde schwimmen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll talk.",
+    "de": "Ich werde reden.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll wait.",
+    "de": "Ich werde warten.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a pro.",
+    "de": "Ich bin ein Profi.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a spy.",
+    "de": "Ich bin eine Spionin.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm alone.",
+    "de": "Ich bin allein.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm awake.",
+    "de": "Ich bin wach.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm blind.",
+    "de": "Ich bin blind.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm broke.",
+    "de": "Ich bin knapp bei Kasse.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm crazy.",
+    "de": "Ich bin verrückt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm cured.",
+    "de": "Ich bin geheilt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm drunk.",
+    "de": "Ich bin betrunken.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm dying.",
+    "de": "Ich werde bald sterben.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm first.",
+    "de": "Ich bin Erster.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm fussy.",
+    "de": "Ich bin pingelig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm going.",
+    "de": "Ich gehe jetzt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm lying.",
+    "de": "Ich lüge.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm needy.",
+    "de": "Ich bin bedürftig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm obese.",
+    "de": "Ich bin fett.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm picky.",
+    "de": "Ich bin pingelig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ready!",
+    "de": "Ich bin soweit!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ready.",
+    "de": "Ich bin soweit.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm silly.",
+    "de": "Ich bin albern.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sober.",
+    "de": "Ich bin nüchtern.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm stuck.",
+    "de": "Ich stecke fest.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm tough.",
+    "de": "Ich bin zäh.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm upset.",
+    "de": "Ich bin verärgert.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm wrong.",
+    "de": "Ich habe mich geirrt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm yours.",
+    "de": "Ich gehöre dir.",
+    "level": "B2"
+  },
+  {
+    "en": "I've lost.",
+    "de": "Ich habe verloren.",
+    "level": "B2"
+  },
+  {
+    "en": "Jump down.",
+    "de": "Spring runter!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep away.",
+    "de": "Bleib weg.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep back.",
+    "de": "Bleiben Sie zurück.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep calm.",
+    "de": "Bleib ruhig.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep cool.",
+    "de": "Bleib gelassen!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep down.",
+    "de": "Bleib unten.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep warm.",
+    "de": "Halt dich warm.",
+    "level": "B2"
+  },
+  {
+    "en": "Leave Tom.",
+    "de": "Verlasse Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's fly.",
+    "de": "Lasst uns fliegen!",
+    "level": "B2"
+  },
+  {
+    "en": "Listen up.",
+    "de": "Hör zu.",
+    "level": "B2"
+  },
+  {
+    "en": "Loosen up.",
+    "de": "Mach dich locker!",
+    "level": "B2"
+  },
+  {
+    "en": "Move over.",
+    "de": "Rutsch mal ein Stück!",
+    "level": "B2"
+  },
+  {
+    "en": "Say \"aah.\"",
+    "de": "Sag „Ah!“",
+    "level": "B2"
+  },
+  {
+    "en": "Seriously?",
+    "de": "Wirklich?",
+    "level": "B2"
+  },
+  {
+    "en": "Stay away.",
+    "de": "Bleiben Sie weg.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay back.",
+    "de": "Bleibt zurück!",
+    "level": "B2"
+  },
+  {
+    "en": "Stay calm.",
+    "de": "Bleib ruhig.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay cool.",
+    "de": "Bleib ruhig.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay down!",
+    "de": "Bleib unten!",
+    "level": "B2"
+  },
+  {
+    "en": "Stay down.",
+    "de": "Bleib unten!",
+    "level": "B2"
+  },
+  {
+    "en": "Step back.",
+    "de": "Tritt zurück!",
+    "level": "B2"
+  },
+  {
+    "en": "Time's up.",
+    "de": "Die Zeit ist um.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom began.",
+    "de": "Thomas begann.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom bowed.",
+    "de": "Tom verneigte sich.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cared.",
+    "de": "Tom kümmerte sich.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cares.",
+    "de": "Tom kümmert es.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cooks.",
+    "de": "Tom kocht.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cried.",
+    "de": "Tom weinte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom dived.",
+    "de": "Tom tauchte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom dozed.",
+    "de": "Tom döste.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom drove.",
+    "de": "Tom fuhr.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom froze.",
+    "de": "Tom erstarrte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is up.",
+    "de": "Tom ist auf.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom knelt.",
+    "de": "Tom kniete.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom knits.",
+    "de": "Tom strickt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom knows.",
+    "de": "Tom weiß es.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom moved.",
+    "de": "Tom bewegte sich.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom rocks.",
+    "de": "Tom ist super.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom slept.",
+    "de": "Tom schlief.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom spoke.",
+    "de": "Tom hat gesprochen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom stood.",
+    "de": "Tom stand auf.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom swims.",
+    "de": "Tom schwimmt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom swore.",
+    "de": "Tom fluchte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom tried.",
+    "de": "Tom versuchte es.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom tries.",
+    "de": "Tom versucht es.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom voted.",
+    "de": "Tom hat gewählt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom walks.",
+    "de": "Tom geht zu Fuß.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom waved.",
+    "de": "Tom winkte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom works.",
+    "de": "Tom arbeitet.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's fat.",
+    "de": "Tom ist dick.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's mad.",
+    "de": "Tom ist wütend.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's shy.",
+    "de": "Tom ist schüchtern.",
+    "level": "B2"
+  },
+  {
+    "en": "Trust Tom.",
+    "de": "Vertraue Tom!",
+    "level": "B2"
+  },
+  {
+    "en": "Watch Tom.",
+    "de": "Sieh Tom zu!",
+    "level": "B2"
+  },
+  {
+    "en": "We'll win.",
+    "de": "Wir werden siegen.",
+    "level": "B2"
+  },
+  {
+    "en": "We've won!",
+    "de": "Wir haben gewonnen!",
+    "level": "B2"
+  },
+  {
+    "en": "Well done.",
+    "de": "Gut gemacht.",
+    "level": "B2"
+  },
+  {
+    "en": "What's up?",
+    "de": "Was ist los?",
+    "level": "B2"
+  },
+  {
+    "en": "Wonderful!",
+    "de": "Wunderbar!",
+    "level": "B2"
+  },
+  {
+    "en": "Aim higher.",
+    "de": "Ziel höher!",
+    "level": "B2"
+  },
+  {
+    "en": "All aboard!",
+    "de": "Alle Mann an Bord!",
+    "level": "B2"
+  },
+  {
+    "en": "Birds sing.",
+    "de": "Vögel singen.",
+    "level": "B2"
+  },
+  {
+    "en": "Bottoms up!",
+    "de": "Zum Wohl!",
+    "level": "B2"
+  },
+  {
+    "en": "Bring wine.",
+    "de": "Bring Wein.",
+    "level": "B2"
+  },
+  {
+    "en": "Definitely!",
+    "de": "Auf jeden Fall!",
+    "level": "B2"
+  },
+  {
+    "en": "Dig faster.",
+    "de": "Grab schneller.",
+    "level": "B2"
+  },
+  {
+    "en": "Do men cry?",
+    "de": "Weinen Männer?",
+    "level": "B2"
+  },
+  {
+    "en": "Don't brag.",
+    "de": "Gib nicht so an.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't fire.",
+    "de": "Nicht schießen!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't jump!",
+    "de": "Spring nicht!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't jump.",
+    "de": "Spring nicht!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't move!",
+    "de": "Nicht bewegen!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't move.",
+    "de": "Beweg dich nicht.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't peek.",
+    "de": "Nicht gucken!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't push.",
+    "de": "Nicht schubsen!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't rush.",
+    "de": "Nur nicht so eilig.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't sing.",
+    "de": "Sing nicht.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't talk!",
+    "de": "Nicht reden!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't wait.",
+    "de": "Warte nicht!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't yell.",
+    "de": "Schrei nicht!",
+    "level": "B2"
+  },
+  {
+    "en": "Duty calls.",
+    "de": "Die Pflicht ruft.",
+    "level": "B2"
+  },
+  {
+    "en": "Fill it up.",
+    "de": "Volltanken.",
+    "level": "B2"
+  },
+  {
+    "en": "Fire burns.",
+    "de": "Feuer brennt.",
+    "level": "B2"
+  },
+  {
+    "en": "Fix my toy.",
+    "de": "Reparier mein Spielzeug.",
+    "level": "B2"
+  },
+  {
+    "en": "Follow Tom.",
+    "de": "Folge Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Get a life!",
+    "de": "Hast du nichts anderes zu tun?",
+    "level": "B2"
+  },
+  {
+    "en": "Get a life.",
+    "de": "Hast du nichts anderes zu tun?",
+    "level": "B2"
+  },
+  {
+    "en": "Get moving.",
+    "de": "Beweg dich.",
+    "level": "B2"
+  },
+  {
+    "en": "Get off me.",
+    "de": "Lass mich in Ruhe.",
+    "level": "B2"
+  },
+  {
+    "en": "Go warm up.",
+    "de": "Geht euch aufwärmen!",
+    "level": "B2"
+  },
+  {
+    "en": "God exists.",
+    "de": "Gott existiert.",
+    "level": "B2"
+  },
+  {
+    "en": "He ate out.",
+    "de": "Er ist weggegangen, um zu essen.",
+    "level": "B2"
+  },
+  {
+    "en": "He gave up.",
+    "de": "Er gab auf.",
+    "level": "B2"
+  },
+  {
+    "en": "He hung up.",
+    "de": "Er legte auf.",
+    "level": "B2"
+  },
+  {
+    "en": "He's Swiss.",
+    "de": "Er ist Schweizer.",
+    "level": "B2"
+  },
+  {
+    "en": "He's broke.",
+    "de": "Er ist pleite.",
+    "level": "B2"
+  },
+  {
+    "en": "He's cruel.",
+    "de": "Er ist grausam.",
+    "level": "B2"
+  },
+  {
+    "en": "He's lying.",
+    "de": "Er lügt.",
+    "level": "B2"
+  },
+  {
+    "en": "He's smart.",
+    "de": "Er ist klug.",
+    "level": "B2"
+  },
+  {
+    "en": "Here's Tom.",
+    "de": "Hier ist Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Hold tight.",
+    "de": "Halt dich fest.",
+    "level": "B2"
+  },
+  {
+    "en": "I chew gum.",
+    "de": "Ich kaue Kaugummi.",
+    "level": "B2"
+  },
+  {
+    "en": "I envy Tom.",
+    "de": "Ich beneide Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "I got paid.",
+    "de": "Ich bin bezahlt worden.",
+    "level": "B2"
+  },
+  {
+    "en": "I hate Tom.",
+    "de": "Ich hasse Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "I hate men.",
+    "de": "Ich hasse Männer.",
+    "level": "B2"
+  },
+  {
+    "en": "I knew Tom.",
+    "de": "Ich kannte Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "I made tea.",
+    "de": "Ich habe Tee gemacht.",
+    "level": "B2"
+  },
+  {
+    "en": "I miss Tom.",
+    "de": "Ich vermisse Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "I need Tom.",
+    "de": "Ich brauche Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "I need air.",
+    "de": "Ich brauche Luft.",
+    "level": "B2"
+  },
+  {
+    "en": "I need ice.",
+    "de": "Ich brauche Eis.",
+    "level": "B2"
+  },
+  {
+    "en": "I ran away.",
+    "de": "Ich rannte davon.",
+    "level": "B2"
+  },
+  {
+    "en": "I sat down.",
+    "de": "Ich setzte mich.",
+    "level": "B2"
+  },
+  {
+    "en": "I shot Tom.",
+    "de": "Ich schoss auf Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "I stood up.",
+    "de": "Ich bin aufgestanden.",
+    "level": "B2"
+  },
+  {
+    "en": "I threw up.",
+    "de": "Ich habe gekotzt.",
+    "level": "B2"
+  },
+  {
+    "en": "I told Tom.",
+    "de": "Ich habe es Tom gesagt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'd accept.",
+    "de": "Ich würde es akzeptieren.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll hurry.",
+    "de": "Ich werde mich beeilen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'll shoot.",
+    "de": "Ich werde schießen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm 13 now.",
+    "de": "Ich bin jetzt 13.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a hero.",
+    "de": "Ich bin ein Held.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a monk.",
+    "de": "Ich bin ein Mönch.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a poet.",
+    "de": "Ich bin ein Dichter.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm a wolf.",
+    "de": "Ich bin eine Wölfin.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm afraid.",
+    "de": "Ich habe Angst.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm amazed.",
+    "de": "Ich bin aus allen Wolken gefallen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm amused.",
+    "de": "Ich bin amüsiert.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm anemic.",
+    "de": "Ich habe Blutarmut.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm baking.",
+    "de": "Ich koche gerade.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm biased.",
+    "de": "Ich bin voreingenommen.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm buying.",
+    "de": "Ich bezahle.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm chubby.",
+    "de": "Ich bin pummelig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm coming.",
+    "de": "Ich komme.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm direct.",
+    "de": "Ich bin direkt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm eating.",
+    "de": "Ich esse gerade.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm famous.",
+    "de": "Ich bin berühmt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm faster.",
+    "de": "Ich bin schneller.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm frugal.",
+    "de": "Ich bin genügsam.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm greedy.",
+    "de": "Ich bin gierig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hiding.",
+    "de": "Ich verstecke mich.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm humble.",
+    "de": "Ich bin bescheiden.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hungry!",
+    "de": "Ich bin hungrig!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm hungry.",
+    "de": "Ich bin hungrig!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm immune.",
+    "de": "Ich bin immun.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm lonely.",
+    "de": "Ich bin einsam.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm losing.",
+    "de": "Ich bin am Verlieren.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm mature.",
+    "de": "Ich bin reif.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm moving.",
+    "de": "Ich bewege mich.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm rested.",
+    "de": "Ich bin ausgeruht.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm ruined.",
+    "de": "Ich bin ruiniert.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm scared.",
+    "de": "Ich habe Angst.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm single.",
+    "de": "Ich bin ledig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sleepy!",
+    "de": "Ich bin müde!",
+    "level": "B2"
+  },
+  {
+    "en": "I'm sneaky.",
+    "de": "Ich bin hinterlistig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm so fat.",
+    "de": "Ich bin so dick.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm so mad.",
+    "de": "Ich bin so verrückt.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm strong.",
+    "de": "Ich bin stark.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm stupid.",
+    "de": "Ich bin blöd.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm thirty.",
+    "de": "Ich bin dreißig.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm trying.",
+    "de": "Ich versuche es.",
+    "level": "B2"
+  },
+  {
+    "en": "I'm twelve.",
+    "de": "Ich bin zwölf Jahre alt.",
+    "level": "B2"
+  },
+  {
+    "en": "I've eaten.",
+    "de": "Ich habe gegessen.",
+    "level": "B2"
+  },
+  {
+    "en": "I've tried.",
+    "de": "Ich habe es versucht.",
+    "level": "B2"
+  },
+  {
+    "en": "Ignore Tom.",
+    "de": "Ignorier Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Is Tom ill?",
+    "de": "Ist Tom krank?",
+    "level": "B2"
+  },
+  {
+    "en": "Is Tom out?",
+    "de": "Ist Tom draußen?",
+    "level": "B2"
+  },
+  {
+    "en": "Jesus wept.",
+    "de": "Jesus weinte.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep going.",
+    "de": "Mach weiter.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep it up!",
+    "de": "Nicht nachlassen!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep it up.",
+    "de": "Nicht nachlassen!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep notes.",
+    "de": "Mache Notizen.",
+    "level": "B2"
+  },
+  {
+    "en": "Keep quiet!",
+    "de": "Bleib ruhig!",
+    "level": "B2"
+  },
+  {
+    "en": "Keep quiet.",
+    "de": "Bleibt ruhig.",
+    "level": "B2"
+  },
+  {
+    "en": "Leave town.",
+    "de": "Verlassen Sie die Stadt.",
+    "level": "B2"
+  },
+  {
+    "en": "Let Tom go.",
+    "de": "Lass Tom los!",
+    "level": "B2"
+  },
+  {
+    "en": "Let Tom in.",
+    "de": "Lass Tom rein.",
+    "level": "B2"
+  },
+  {
+    "en": "Let me die.",
+    "de": "Lass mich sterben.",
+    "level": "B2"
+  },
+  {
+    "en": "Let me out!",
+    "de": "Lass mich raus!",
+    "level": "B2"
+  },
+  {
+    "en": "Let us out.",
+    "de": "Lass uns heraus!",
+    "level": "B2"
+  },
+  {
+    "en": "Let's pray.",
+    "de": "Lasset uns beten!",
+    "level": "B2"
+  },
+  {
+    "en": "Let's talk.",
+    "de": "Lass uns reden.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's vote.",
+    "de": "Lasst uns abstimmen.",
+    "level": "B2"
+  },
+  {
+    "en": "Let's wait.",
+    "de": "Warten wir.",
+    "level": "B2"
+  },
+  {
+    "en": "Mama cried.",
+    "de": "Mama weinte.",
+    "level": "B2"
+  },
+  {
+    "en": "Nobody ran.",
+    "de": "Niemand lief.",
+    "level": "B2"
+  },
+  {
+    "en": "Oh, really?",
+    "de": "Ach, wirklich?",
+    "level": "B2"
+  },
+  {
+    "en": "Pick it up.",
+    "de": "Hebe es auf.",
+    "level": "B2"
+  },
+  {
+    "en": "Pull me up.",
+    "de": "Zieh mich hoch!",
+    "level": "B2"
+  },
+  {
+    "en": "Quiet down.",
+    "de": "Beruhige dich!",
+    "level": "B2"
+  },
+  {
+    "en": "Row faster.",
+    "de": "Rudere schneller!",
+    "level": "B2"
+  },
+  {
+    "en": "Say cheese.",
+    "de": "Bitte lächeln!",
+    "level": "B2"
+  },
+  {
+    "en": "Scoot over.",
+    "de": "Rutsch mal.",
+    "level": "B2"
+  },
+  {
+    "en": "She's busy.",
+    "de": "Sie ist beschäftigt.",
+    "level": "B2"
+  },
+  {
+    "en": "She's mine.",
+    "de": "Sie gehört mir.",
+    "level": "B2"
+  },
+  {
+    "en": "Sing along.",
+    "de": "Sing mit!",
+    "level": "B2"
+  },
+  {
+    "en": "Stay alert.",
+    "de": "Bleib wachsam.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay awake.",
+    "de": "Bleib wach.",
+    "level": "B2"
+  },
+  {
+    "en": "Stay sharp.",
+    "de": "Bleibt wachsam!",
+    "level": "B2"
+  },
+  {
+    "en": "Step aside.",
+    "de": "Zur Seite.",
+    "level": "B2"
+  },
+  {
+    "en": "That's Tom.",
+    "de": "Das ist Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "That's all.",
+    "de": "Das ist alles.",
+    "level": "B2"
+  },
+  {
+    "en": "That's tea.",
+    "de": "Das ist Tee.",
+    "level": "B2"
+  },
+  {
+    "en": "That's wet.",
+    "de": "Das ist nass.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom agreed.",
+    "de": "Tom stimmte zu.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom agrees.",
+    "de": "Tom ist einverstanden.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom ate it.",
+    "de": "Tom hat’s gegessen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom bit me.",
+    "de": "Tom hat mich gebissen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom braked.",
+    "de": "Tom bremste.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom burped.",
+    "de": "Tom rülpste.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom called.",
+    "de": "Tom hat angerufen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cheats.",
+    "de": "Tom betrügt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cooked.",
+    "de": "Tom kochte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom cursed.",
+    "de": "Thomas fluchte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom danced.",
+    "de": "Tom tanzte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom dances.",
+    "de": "Tom tanzt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom drinks.",
+    "de": "Tom trinkt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom drives.",
+    "de": "Tom fährt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom failed.",
+    "de": "Tom versagte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom forgot.",
+    "de": "Tom vergaß.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom fought.",
+    "de": "Tom kämpfte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom gasped.",
+    "de": "Tom schnappte nach Luft.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom goofed.",
+    "de": "Tom hat einen dummen Fehler gemacht.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom got up.",
+    "de": "Tom stand auf.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom helped.",
+    "de": "Tom half.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom hit me.",
+    "de": "Tom hat mich gehauen!",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is fat.",
+    "de": "Tom ist dick.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is fun.",
+    "de": "Tom ist lustig.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is ill.",
+    "de": "Tom ist krank.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is mad.",
+    "de": "Tom ist wütend.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is odd.",
+    "de": "Tom ist komisch.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is out.",
+    "de": "Tom ist nicht hier.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is shy.",
+    "de": "Tom ist schüchtern.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is sly.",
+    "de": "Tom ist gerissen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom is wet.",
+    "de": "Tom ist nass.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom jumped.",
+    "de": "Tom ist gesprungen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom limped.",
+    "de": "Tom hinkte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom looked.",
+    "de": "Tom schaute.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom moaned.",
+    "de": "Tom ächzte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom nodded.",
+    "de": "Tom nickte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom obeyed.",
+    "de": "Tom gehorchte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom paints.",
+    "de": "Tom malt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom paused.",
+    "de": "Tom hielt inne.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom phoned.",
+    "de": "Tom telefonierte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom prayed.",
+    "de": "Tom betete.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom rested.",
+    "de": "Thomas rastete.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom sat up.",
+    "de": "Tom setzte sich auf.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom saw it.",
+    "de": "Tom sah es.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom saw me.",
+    "de": "Tom sah mich.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom saw us.",
+    "de": "Tom sah uns.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom shaved.",
+    "de": "Tom rasierte sich.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom sighed.",
+    "de": "Tom seufzte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom smiled.",
+    "de": "Tom lächelte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom smoked.",
+    "de": "Tom rauchte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom smokes.",
+    "de": "Tom raucht.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom snores.",
+    "de": "Tom schnarcht.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom sobbed.",
+    "de": "Tom schluchzte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom stayed.",
+    "de": "Tom blieb.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom talked.",
+    "de": "Tom hat gesprochen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom waited.",
+    "de": "Tom wartete.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom walked.",
+    "de": "Tom lief.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom winked.",
+    "de": "Tom zwinkerte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom worked.",
+    "de": "Tom hat gearbeitet.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom yawned.",
+    "de": "Tom gähnte.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom yelled.",
+    "de": "Tom schrie.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom'll cry.",
+    "de": "Tom wird heulen.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom'll die.",
+    "de": "Tom wird sterben.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's busy.",
+    "de": "Tom ist beschäftigt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's deaf.",
+    "de": "Tom ist taub.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's died.",
+    "de": "Tom ist gestorben.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's free.",
+    "de": "Tom hat Zeit.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's glad.",
+    "de": "Tom ist froh.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's gone.",
+    "de": "Tom ist weg.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's hurt.",
+    "de": "Tom ist verletzt.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's mean.",
+    "de": "Tom ist gemein.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's safe.",
+    "de": "Tom ist in Sicherheit.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's sick.",
+    "de": "Tom ist krank.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's ugly.",
+    "de": "Tom ist hässlich.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's weak.",
+    "de": "Tom ist schwach.",
+    "level": "B2"
+  },
+  {
+    "en": "Tom's well.",
+    "de": "Tom geht es gut.",
+    "level": "B2"
+  },
+  {
+    "en": "Tough luck!",
+    "de": "Pech gehabt!",
+    "level": "B2"
+  },
+  {
+    "en": "Turn it up.",
+    "de": "Mach es lauter.",
+    "level": "B2"
+  },
+  {
+    "en": "Wait a bit.",
+    "de": "Wartet ein bisschen.",
+    "level": "B2"
+  },
+  {
+    "en": "Wait a sec.",
+    "de": "Warte mal kurz!",
+    "level": "B2"
+  },
+  {
+    "en": "We all die.",
+    "de": "Wir alle sterben.",
+    "level": "B2"
+  },
+  {
+    "en": "We all lie.",
+    "de": "Wir lügen alle.",
+    "level": "B2"
+  },
+  {
+    "en": "We saw Tom.",
+    "de": "Wir haben Tom gesehen.",
+    "level": "B2"
+  },
+  {
+    "en": "We'll fail.",
+    "de": "Wir werden versagen.",
+    "level": "B2"
+  },
+  {
+    "en": "We'll obey.",
+    "de": "Wir werden gehorchen.",
+    "level": "B2"
+  },
+  {
+    "en": "We'll sing.",
+    "de": "Wir werden singen.",
+    "level": "B2"
+  },
+  {
+    "en": "We'll wait.",
+    "de": "Wir werden warten.",
+    "level": "B2"
+  },
+  {
+    "en": "Who'll row?",
+    "de": "Wer rudert?",
+    "level": "B2"
+  },
+  {
+    "en": "Who's next?",
+    "de": "Wer ist der Nächste?",
+    "level": "B2"
+  },
+  {
+    "en": "Who's sick?",
+    "de": "Wer ist krank?",
+    "level": "B2"
+  },
+  {
+    "en": "Wood burns.",
+    "de": "Holz brennt.",
+    "level": "B2"
+  },
+  {
+    "en": "You've won!",
+    "de": "Du hast gewonnen!",
+    "level": "B2"
+  },
+  {
+    "en": "All is well.",
+    "de": "Alles ist gut.",
+    "level": "B2"
+  },
+  {
+    "en": "Anyone hurt?",
+    "de": "Ist jemand verletzt?",
+    "level": "B2"
+  },
+  {
+    "en": "Bake a cake.",
+    "de": "Back einen Kuchen.",
+    "level": "B2"
+  },
+  {
+    "en": "Boys do cry.",
+    "de": "Jungen weinen sehr wohl.",
+    "level": "B2"
+  },
+  {
+    "en": "Break it up!",
+    "de": "Teile es auf!",
+    "level": "B2"
+  },
+  {
+    "en": "Breathe out.",
+    "de": "Atme aus.",
+    "level": "B2"
+  },
+  {
+    "en": "Bring a hat.",
+    "de": "Hol einen Hut.",
+    "level": "B2"
+  },
+  {
+    "en": "Comfort Tom.",
+    "de": "Tröste Tom.",
+    "level": "B2"
+  },
+  {
+    "en": "Contact Tom.",
+    "de": "Setz dich mit Tom in Verbindung.",
+    "level": "B2"
+  },
+  {
+    "en": "Did Tom cry?",
+    "de": "Hat Tom geweint?",
+    "level": "B2"
+  },
+  {
+    "en": "Did Tom die?",
+    "de": "Ist Tom gestorben?",
+    "level": "B2"
+  },
+  {
+    "en": "Don't blink.",
+    "de": "Nicht blinzeln!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't cheat.",
+    "de": "Betrüge nicht.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't fight.",
+    "de": "Streitet euch nicht.",
+    "level": "B2"
+  },
+  {
+    "en": "Don't laugh.",
+    "de": "Nicht lachen!",
+    "level": "B2"
+  },
+  {
+    "en": "Don't leave!",
+    "de": "Gehe nicht weg!",
+    "level": "B2"
+  }
+]

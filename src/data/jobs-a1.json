@@ -1,0 +1,768 @@
+{
+  "category": "jobs",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "actor",
+          "emoji": "🎭",
+          "word": "actor",
+          "tr": "aktör",
+          "pron": "ˈæktər",
+          "level": "a1"
+        },
+        {
+          "id": "chef",
+          "emoji": "👨‍🍳",
+          "word": "chef",
+          "tr": "aşçı",
+          "pron": "ʃɛf",
+          "level": "a1"
+        },
+        {
+          "id": "doctor",
+          "emoji": "👨‍⚕️",
+          "word": "doctor",
+          "tr": "doktor",
+          "pron": "ˈdɒktər",
+          "level": "a1"
+        },
+        {
+          "id": "driver",
+          "emoji": "🚗",
+          "word": "driver",
+          "tr": "şoför",
+          "pron": "ˈdraɪvər",
+          "level": "a1"
+        },
+        {
+          "id": "farmer",
+          "emoji": "👨‍🌾",
+          "word": "farmer",
+          "tr": "çiftçi",
+          "pron": "ˈfɑːmər",
+          "level": "a1"
+        },
+        {
+          "id": "nurse",
+          "emoji": "👩‍⚕️",
+          "word": "nurse",
+          "tr": "hemşire",
+          "pron": "nɜːs",
+          "level": "a1"
+        },
+        {
+          "id": "pilot",
+          "emoji": "✈️",
+          "word": "pilot",
+          "tr": "pilot",
+          "pron": "ˈpaɪlət",
+          "level": "a1"
+        },
+        {
+          "id": "police",
+          "emoji": "👮",
+          "word": "police",
+          "tr": "polis",
+          "pron": "pəˈliːs",
+          "level": "a1"
+        },
+        {
+          "id": "teacher",
+          "emoji": "👨‍🏫",
+          "word": "teacher",
+          "tr": "öğretmen",
+          "pron": "ˈtiːtʃər",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "My teacher is kind.",
+              "tr": "Öğretmenim nazik.",
+              "words": [
+                "My",
+                "teacher",
+                "is",
+                "kind"
+              ]
+            },
+            {
+              "en": "I like my teacher.",
+              "tr": "Öğretmenimden hoşlanıyorum.",
+              "words": [
+                "I",
+                "like",
+                "my",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "waiter",
+          "emoji": "🍽️",
+          "word": "waiter",
+          "tr": "garson",
+          "pron": "ˈweɪtər",
+          "level": "a1"
+        },
+        {
+          "id": "architect",
+          "emoji": "🏗️",
+          "word": "architect",
+          "tr": "mimar",
+          "pron": "ˈɑːkɪtɛkt",
+          "level": "a2"
+        },
+        {
+          "id": "dentist",
+          "emoji": "🦷",
+          "word": "dentist",
+          "tr": "diş hekimi",
+          "pron": "ˈdɛntɪst",
+          "level": "a2"
+        },
+        {
+          "id": "engineer",
+          "emoji": "⚙️",
+          "word": "engineer",
+          "tr": "mühendis",
+          "pron": "ˌɛndʒɪˈnɪər",
+          "level": "a2"
+        },
+        {
+          "id": "journalist",
+          "emoji": "📰",
+          "word": "journalist",
+          "tr": "gazeteci",
+          "pron": "ˈdʒɜːnəlɪst",
+          "level": "a2"
+        },
+        {
+          "id": "lawyer",
+          "emoji": "⚖️",
+          "word": "lawyer",
+          "tr": "avukat",
+          "pron": "ˈlɔːjər",
+          "level": "a2"
+        },
+        {
+          "id": "manager",
+          "emoji": "💼",
+          "word": "manager",
+          "tr": "yönetici",
+          "pron": "ˈmænɪdʒər",
+          "level": "a2"
+        },
+        {
+          "id": "mechanic",
+          "emoji": "🔧",
+          "word": "mechanic",
+          "tr": "tamirci",
+          "pron": "mɪˈkænɪk",
+          "level": "a2"
+        },
+        {
+          "id": "programmer",
+          "emoji": "💻",
+          "word": "programmer",
+          "tr": "programcı",
+          "pron": "ˈprəʊɡræmər",
+          "level": "a2"
+        },
+        {
+          "id": "scientist",
+          "emoji": "🔬",
+          "word": "scientist",
+          "tr": "bilim insanı",
+          "pron": "ˈsaɪəntɪst",
+          "level": "a2"
+        },
+        {
+          "id": "soldier",
+          "emoji": "🪖",
+          "word": "soldier",
+          "tr": "asker",
+          "pron": "ˈsəʊldʒər",
+          "level": "a2"
+        },
+        {
+          "id": "vet",
+          "emoji": "🐾",
+          "word": "vet",
+          "tr": "veteriner",
+          "pron": "vɛt",
+          "level": "a2"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "actor",
+          "emoji": "🎭",
+          "word": "Schauspieler",
+          "tr": "aktör",
+          "pron": "ˈʃaʊʃpiːlər",
+          "level": "a1"
+        },
+        {
+          "id": "chef",
+          "emoji": "👨‍🍳",
+          "word": "Koch",
+          "tr": "aşçı",
+          "pron": "kɔx",
+          "level": "a1"
+        },
+        {
+          "id": "doctor",
+          "emoji": "👨‍⚕️",
+          "word": "Arzt",
+          "tr": "doktor",
+          "pron": "artst",
+          "level": "a1"
+        },
+        {
+          "id": "driver",
+          "emoji": "🚗",
+          "word": "Fahrer",
+          "tr": "şoför",
+          "pron": "ˈfaːrər",
+          "level": "a1"
+        },
+        {
+          "id": "farmer",
+          "emoji": "👨‍🌾",
+          "word": "Bauer",
+          "tr": "çiftçi",
+          "pron": "ˈbaʊər",
+          "level": "a1"
+        },
+        {
+          "id": "nurse",
+          "emoji": "👩‍⚕️",
+          "word": "Krankenschwester",
+          "tr": "hemşire",
+          "pron": "ˈkraŋkənʃvɛstər",
+          "level": "a1"
+        },
+        {
+          "id": "pilot",
+          "emoji": "✈️",
+          "word": "Pilot",
+          "tr": "pilot",
+          "pron": "piˈloːt",
+          "level": "a1"
+        },
+        {
+          "id": "police",
+          "emoji": "👮",
+          "word": "Polizist",
+          "tr": "polis",
+          "pron": "poliˈtsɪst",
+          "level": "a1"
+        },
+        {
+          "id": "teacher",
+          "emoji": "👨‍🏫",
+          "word": "Lehrer",
+          "tr": "öğretmen",
+          "pron": "ˈleːrər",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "My teacher is kind.",
+              "tr": "Öğretmenim nazik.",
+              "words": [
+                "My",
+                "teacher",
+                "is",
+                "kind"
+              ]
+            },
+            {
+              "en": "I like my teacher.",
+              "tr": "Öğretmenimden hoşlanıyorum.",
+              "words": [
+                "I",
+                "like",
+                "my",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "waiter",
+          "emoji": "🍽️",
+          "word": "Kellner",
+          "tr": "garson",
+          "pron": "ˈkɛlnər",
+          "level": "a1"
+        },
+        {
+          "id": "architect",
+          "emoji": "🏗️",
+          "word": "Architekt",
+          "tr": "mimar",
+          "pron": "arçiˈtɛkt",
+          "level": "a2"
+        },
+        {
+          "id": "dentist",
+          "emoji": "🦷",
+          "word": "Zahnarzt",
+          "tr": "diş hekimi",
+          "pron": "ˈtsaːnaːrtst",
+          "level": "a2"
+        },
+        {
+          "id": "engineer",
+          "emoji": "⚙️",
+          "word": "Ingenieur",
+          "tr": "mühendis",
+          "pron": "ɪnʒɛˈnjøːr",
+          "level": "a2"
+        },
+        {
+          "id": "journalist",
+          "emoji": "📰",
+          "word": "Journalist",
+          "tr": "gazeteci",
+          "pron": "ʒurnaˈlɪst",
+          "level": "a2"
+        },
+        {
+          "id": "lawyer",
+          "emoji": "⚖️",
+          "word": "Rechtsanwalt",
+          "tr": "avukat",
+          "pron": "ˈrɛçtsanvalt",
+          "level": "a2"
+        },
+        {
+          "id": "manager",
+          "emoji": "💼",
+          "word": "Manager",
+          "tr": "yönetici",
+          "pron": "ˈmɛnɪdʒər",
+          "level": "a2"
+        },
+        {
+          "id": "mechanic",
+          "emoji": "🔧",
+          "word": "Mechaniker",
+          "tr": "tamirci",
+          "pron": "meˈçaːnɪkər",
+          "level": "a2"
+        },
+        {
+          "id": "programmer",
+          "emoji": "💻",
+          "word": "Programmierer",
+          "tr": "programcı",
+          "pron": "proɡraˈmiːrər",
+          "level": "a2"
+        },
+        {
+          "id": "scientist",
+          "emoji": "🔬",
+          "word": "Wissenschaftler",
+          "tr": "bilim insanı",
+          "pron": "ˈvɪsənʃaftlər",
+          "level": "a2"
+        },
+        {
+          "id": "soldier",
+          "emoji": "🪖",
+          "word": "Soldat",
+          "tr": "asker",
+          "pron": "zolˈdaːt",
+          "level": "a2"
+        },
+        {
+          "id": "vet",
+          "emoji": "🐾",
+          "word": "Tierarzt",
+          "tr": "veteriner",
+          "pron": "ˈtiːraːrtst",
+          "level": "a2"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "actor",
+          "emoji": "🎭",
+          "word": "actor",
+          "tr": "aktör",
+          "pron": "akˈtor",
+          "level": "a1"
+        },
+        {
+          "id": "chef",
+          "emoji": "👨‍🍳",
+          "word": "cocinero",
+          "tr": "aşçı",
+          "pron": "koθiˈnero",
+          "level": "a1"
+        },
+        {
+          "id": "doctor",
+          "emoji": "👨‍⚕️",
+          "word": "médico",
+          "tr": "doktor",
+          "pron": "ˈmeðiko",
+          "level": "a1"
+        },
+        {
+          "id": "driver",
+          "emoji": "🚗",
+          "word": "conductor",
+          "tr": "şoför",
+          "pron": "konˈduktor",
+          "level": "a1"
+        },
+        {
+          "id": "farmer",
+          "emoji": "👨‍🌾",
+          "word": "agricultor",
+          "tr": "çiftçi",
+          "pron": "aɣrikulˈtor",
+          "level": "a1"
+        },
+        {
+          "id": "nurse",
+          "emoji": "👩‍⚕️",
+          "word": "enfermero",
+          "tr": "hemşire",
+          "pron": "enferˈmero",
+          "level": "a1"
+        },
+        {
+          "id": "pilot",
+          "emoji": "✈️",
+          "word": "piloto",
+          "tr": "pilot",
+          "pron": "piˈloto",
+          "level": "a1"
+        },
+        {
+          "id": "police",
+          "emoji": "👮",
+          "word": "policía",
+          "tr": "polis",
+          "pron": "poliˈθia",
+          "level": "a1"
+        },
+        {
+          "id": "teacher",
+          "emoji": "👨‍🏫",
+          "word": "profesor",
+          "tr": "öğretmen",
+          "pron": "profeˈsor",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "My teacher is kind.",
+              "tr": "Öğretmenim nazik.",
+              "words": [
+                "My",
+                "teacher",
+                "is",
+                "kind"
+              ]
+            },
+            {
+              "en": "I like my teacher.",
+              "tr": "Öğretmenimden hoşlanıyorum.",
+              "words": [
+                "I",
+                "like",
+                "my",
+                "teacher"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "waiter",
+          "emoji": "🍽️",
+          "word": "camarero",
+          "tr": "garson",
+          "pron": "kamaˈrero",
+          "level": "a1"
+        },
+        {
+          "id": "architect",
+          "emoji": "🏗️",
+          "word": "arquitecto",
+          "tr": "mimar",
+          "pron": "arkiˈtekto",
+          "level": "a2"
+        },
+        {
+          "id": "dentist",
+          "emoji": "🦷",
+          "word": "dentista",
+          "tr": "diş hekimi",
+          "pron": "denˈtista",
+          "level": "a2"
+        },
+        {
+          "id": "engineer",
+          "emoji": "⚙️",
+          "word": "ingeniero",
+          "tr": "mühendis",
+          "pron": "inxeˈnjero",
+          "level": "a2"
+        },
+        {
+          "id": "journalist",
+          "emoji": "📰",
+          "word": "periodista",
+          "tr": "gazeteci",
+          "pron": "perjoˈðista",
+          "level": "a2"
+        },
+        {
+          "id": "lawyer",
+          "emoji": "⚖️",
+          "word": "abogado",
+          "tr": "avukat",
+          "pron": "aβoˈɣaðo",
+          "level": "a2"
+        },
+        {
+          "id": "manager",
+          "emoji": "💼",
+          "word": "gerente",
+          "tr": "yönetici",
+          "pron": "xeˈrente",
+          "level": "a2"
+        },
+        {
+          "id": "mechanic",
+          "emoji": "🔧",
+          "word": "mecánico",
+          "tr": "tamirci",
+          "pron": "meˈkaniko",
+          "level": "a2"
+        },
+        {
+          "id": "programmer",
+          "emoji": "💻",
+          "word": "programador",
+          "tr": "programcı",
+          "pron": "proɣramaˈðor",
+          "level": "a2"
+        },
+        {
+          "id": "scientist",
+          "emoji": "🔬",
+          "word": "científico",
+          "tr": "bilim insanı",
+          "pron": "θjenˈtifiko",
+          "level": "a2"
+        },
+        {
+          "id": "soldier",
+          "emoji": "🪖",
+          "word": "soldado",
+          "tr": "asker",
+          "pron": "solˈdaðo",
+          "level": "a2"
+        },
+        {
+          "id": "vet",
+          "emoji": "🐾",
+          "word": "veterinario",
+          "tr": "veteriner",
+          "pron": "βeteriˈnarjo",
+          "level": "a2"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "actor",
+          "emoji": "🎭",
+          "word": "ator",
+          "tr": "aktör",
+          "pron": "aˈtoʁ",
+          "level": "a1"
+        },
+        {
+          "id": "chef",
+          "emoji": "👨‍🍳",
+          "word": "chef",
+          "tr": "aşçı",
+          "pron": "ˈʃɛf",
+          "level": "a1"
+        },
+        {
+          "id": "doctor",
+          "emoji": "👨‍⚕️",
+          "word": "médico",
+          "tr": "doktor",
+          "pron": "ˈmɛdʒiku",
+          "level": "a1"
+        },
+        {
+          "id": "driver",
+          "emoji": "🚗",
+          "word": "motorista",
+          "tr": "şoför",
+          "pron": "motoˈɾiʃta",
+          "level": "a1"
+        },
+        {
+          "id": "farmer",
+          "emoji": "👨‍🌾",
+          "word": "fazendeiro",
+          "tr": "çiftçi",
+          "pron": "fazẽˈdejɾu",
+          "level": "a1"
+        },
+        {
+          "id": "nurse",
+          "emoji": "👩‍⚕️",
+          "word": "enfermeiro",
+          "tr": "hemşire",
+          "pron": "ẽfeʁˈmejɾu",
+          "level": "a1"
+        },
+        {
+          "id": "pilot",
+          "emoji": "✈️",
+          "word": "piloto",
+          "tr": "pilot",
+          "pron": "piˈlotu",
+          "level": "a1"
+        },
+        {
+          "id": "police",
+          "emoji": "👮",
+          "word": "policial",
+          "tr": "polis",
+          "pron": "poliˈsjaw",
+          "level": "a1"
+        },
+        {
+          "id": "teacher",
+          "emoji": "👨‍🏫",
+          "word": "professor",
+          "tr": "öğretmen",
+          "pron": "pɾofeˈsoʁ",
+          "level": "a1"
+        },
+        {
+          "id": "waiter",
+          "emoji": "🍽️",
+          "word": "garçom",
+          "tr": "garson",
+          "pron": "ɡaʁˈsõ",
+          "level": "a1"
+        },
+        {
+          "id": "architect",
+          "emoji": "🏗️",
+          "word": "arquiteto",
+          "tr": "mimar",
+          "pron": "aʁkiˈtɛtu",
+          "level": "a2"
+        },
+        {
+          "id": "dentist",
+          "emoji": "🦷",
+          "word": "dentista",
+          "tr": "diş hekimi",
+          "pron": "dẽˈtʃiʃta",
+          "level": "a2"
+        },
+        {
+          "id": "engineer",
+          "emoji": "⚙️",
+          "word": "engenheiro",
+          "tr": "mühendis",
+          "pron": "ẽʒeˈɲejɾu",
+          "level": "a2"
+        },
+        {
+          "id": "journalist",
+          "emoji": "📰",
+          "word": "jornalista",
+          "tr": "gazeteci",
+          "pron": "ʒoʁnaˈliʃta",
+          "level": "a2"
+        },
+        {
+          "id": "lawyer",
+          "emoji": "⚖️",
+          "word": "advogado",
+          "tr": "avukat",
+          "pron": "advoˈɡadu",
+          "level": "a2"
+        },
+        {
+          "id": "manager",
+          "emoji": "💼",
+          "word": "gerente",
+          "tr": "yönetici",
+          "pron": "ʒeˈɾẽtʃi",
+          "level": "a2"
+        },
+        {
+          "id": "mechanic",
+          "emoji": "🔧",
+          "word": "mecânico",
+          "tr": "tamirci",
+          "pron": "meˈkɐniku",
+          "level": "a2"
+        },
+        {
+          "id": "programmer",
+          "emoji": "💻",
+          "word": "programador",
+          "tr": "programcı",
+          "pron": "pɾoɡɾamaˈdoʁ",
+          "level": "a2"
+        },
+        {
+          "id": "scientist",
+          "emoji": "🔬",
+          "word": "cientista",
+          "tr": "bilim insanı",
+          "pron": "siẽˈtʃiʃta",
+          "level": "a2"
+        },
+        {
+          "id": "soldier",
+          "emoji": "🪖",
+          "word": "soldado",
+          "tr": "asker",
+          "pron": "sowˈdadu",
+          "level": "a2"
+        },
+        {
+          "id": "vet",
+          "emoji": "🐾",
+          "word": "veterinário",
+          "tr": "veteriner",
+          "pron": "vetɛɾiˈnaɾiu",
+          "level": "a2"
+        }
+      ]
+    }
+  }
+}

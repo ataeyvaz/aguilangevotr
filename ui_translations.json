@@ -1,0 +1,506 @@
+{
+  "learn": {
+    "en": "Learn",
+    "es": "Aprender",
+    "pt": "Aprender",
+    "tr": "Öğren"
+  },
+  "words": {
+    "en": "Words",
+    "es": "Palabras",
+    "pt": "Palavras",
+    "tr": "Kelimeler"
+  },
+  "grammar": {
+    "en": "Grammar",
+    "es": "Gramática",
+    "pt": "Gramática",
+    "tr": "Dilbilgisi"
+  },
+  "dialogues": {
+    "en": "Dialogues",
+    "es": "Diálogos",
+    "pt": "Diálogos",
+    "tr": "Diyaloglar"
+  },
+  "quiz": {
+    "en": "Quiz",
+    "es": "Cuestionario",
+    "pt": "Questionário",
+    "tr": "Test"
+  },
+  "games": {
+    "en": "Games",
+    "es": "Juegos",
+    "pt": "Jogos",
+    "tr": "Oyunlar"
+  },
+  "dictionary": {
+    "en": "Dictionary",
+    "es": "Diccionario",
+    "pt": "Dicionário",
+    "tr": "Sozluk"
+  },
+  "searchWord": {
+    "en": "Search word...",
+    "es": "Buscar palabra...",
+    "pt": "Buscar palavra...",
+    "tr": "Kelime ara..."
+  },
+  "search": {
+    "en": "Search",
+    "es": "Buscar",
+    "pt": "Buscar",
+    "tr": "Ara"
+  },
+  "levels": {
+    "en": "Levels",
+    "es": "Niveles",
+    "pt": "Níveis",
+    "tr": "Seviyeler"
+  },
+  "profile": {
+    "en": "Profile",
+    "es": "Perfil",
+    "pt": "Perfil",
+    "tr": "Profil"
+  },
+  "settings": {
+    "en": "Settings",
+    "es": "Configuración",
+    "pt": "Configurações",
+    "tr": "Ayarlar"
+  },
+  "dashboard": {
+    "en": "Dashboard",
+    "es": "Panel de control",
+    "pt": "Painel de controle",
+    "tr": "Gösterge Paneli"
+  },
+  "statistics": {
+    "en": "Statistics",
+    "es": "Estadísticas",
+    "pt": "Estatísticas",
+    "tr": "İstatistikler"
+  },
+  "my words": {
+    "en": "My Words",
+    "es": "Mis palabras",
+    "pt": "Minhas palavras",
+    "tr": "Kelimelerim"
+  },
+  "login": {
+    "en": "Login",
+    "es": "Iniciar sesión",
+    "pt": "Entrar",
+    "tr": "Giriş Yap"
+  },
+  "logout": {
+    "en": "Logout",
+    "es": "Cerrar sesión",
+    "pt": "Sair",
+    "tr": "Çıkış Yap"
+  },
+  "start": {
+    "en": "Start",
+    "es": "Comenzar",
+    "pt": "Começar",
+    "tr": "Basla"
+  },
+  "continue": {
+    "en": "Continue",
+    "es": "Continuar",
+    "pt": "Continuar",
+    "tr": "Devam Et"
+  },
+  "next": {
+    "en": "Next",
+    "es": "Siguiente",
+    "pt": "Próximo",
+    "tr": "Sonraki"
+  },
+  "back": {
+    "en": "Back",
+    "es": "Atrás",
+    "pt": "Voltar",
+    "tr": "Geri"
+  },
+  "finish": {
+    "en": "Finish",
+    "es": "Finalizar",
+    "pt": "Finalizar",
+    "tr": "Bitir"
+  },
+  "correct": {
+    "en": "Correct",
+    "es": "Correcto",
+    "pt": "Correto",
+    "tr": "Dogru"
+  },
+  "wrong": {
+    "en": "Wrong",
+    "es": "Incorrecto",
+    "pt": "Incorreto",
+    "tr": "Yanlis"
+  },
+  "skip": {
+    "en": "Skip",
+    "es": "Omitir",
+    "pt": "Pular",
+    "tr": "Atla"
+  },
+  "easy": {
+    "en": "Easy",
+    "es": "Fácil",
+    "pt": "Fácil",
+    "tr": "Kolay"
+  },
+  "hard": {
+    "en": "Hard",
+    "es": "Difícil",
+    "pt": "Difícil",
+    "tr": "Zor"
+  },
+  "study now": {
+    "en": "Study Now",
+    "es": "Estudiar ahora",
+    "pt": "Estudar agora",
+    "tr": "Şimdi Çalış"
+  },
+  "show answer": {
+    "en": "Show Answer",
+    "es": "Mostrar respuesta",
+    "pt": "Mostrar resposta",
+    "tr": "Cevabı Göster"
+  },
+  "start learning": {
+    "en": "Start Learning",
+    "es": "Comenzar a aprender",
+    "pt": "Começar a aprender",
+    "tr": "Öğrenmeye Başla"
+  },
+  "start test": {
+    "en": "Start Test",
+    "es": "Comenzar prueba",
+    "pt": "Iniciar teste",
+    "tr": "Testi Başlat"
+  },
+  "well done": {
+    "en": "Well Done",
+    "es": "Bien hecho",
+    "pt": "Muito bem",
+    "tr": "Aferin!"
+  },
+  "keep going": {
+    "en": "Keep Going",
+    "es": "Sigue así",
+    "pt": "Continue assim",
+    "tr": "Devam Et!"
+  },
+  "daily goal": {
+    "en": "Daily Goal",
+    "es": "Objetivo diario",
+    "pt": "Meta diária",
+    "tr": "Gunluk Hedef"
+  },
+  "streak": {
+    "en": "Streak",
+    "es": "Racha",
+    "pt": "Sequência",
+    "tr": "Seri"
+  },
+  "points": {
+    "en": "Points",
+    "es": "Puntos",
+    "pt": "Pontos",
+    "tr": "Puan"
+  },
+  "level": {
+    "en": "Level",
+    "es": "Nivel",
+    "pt": "Nível",
+    "tr": "Seviye"
+  },
+  "progress": {
+    "en": "Progress",
+    "es": "Progreso",
+    "pt": "Progresso",
+    "tr": "Ilerleme"
+  },
+  "mastered": {
+    "en": "Mastered",
+    "es": "Dominado",
+    "pt": "Dominado",
+    "tr": "Ustalaşıldı"
+  },
+  "learning": {
+    "en": "Learning",
+    "es": "Aprendiendo",
+    "pt": "Aprendendo",
+    "tr": "Öğreniliyor"
+  },
+  "review": {
+    "en": "Review",
+    "es": "Repasar",
+    "pt": "Revisar",
+    "tr": "Tekrar"
+  },
+  "new": {
+    "en": "New",
+    "es": "Nuevo",
+    "pt": "Novo",
+    "tr": "Yeni"
+  },
+  "what do you want to study": {
+    "en": "What do you want to study?",
+    "es": "¿Qué quieres estudiar?",
+    "pt": "O que você quer estudar?",
+    "tr": "Ne çalışmak istiyorsun?"
+  },
+  "daily word cards and quiz": {
+    "en": "Daily word cards and quiz",
+    "es": "Tarjetas de palabras diarias y cuestionario",
+    "pt": "Cartões de palavras diárias e questionário",
+    "tr": "Günlük kelime kartları ve test"
+  },
+  "grammar lessons and exercises": {
+    "en": "Grammar lessons and exercises",
+    "es": "Lecciones y ejercicios de gramática",
+    "pt": "Lições e exercícios de gramática",
+    "tr": "Dilbilgisi dersleri ve alıştırmalar"
+  },
+  "conversation scenarios": {
+    "en": "Conversation scenarios",
+    "es": "Escenarios de conversación",
+    "pt": "Cenários de conversação",
+    "tr": "Konuşma senaryoları"
+  },
+  "test your knowledge": {
+    "en": "Test your knowledge",
+    "es": "Pon a prueba tus conocimientos",
+    "pt": "Teste seus conhecimentos",
+    "tr": "Bilgini test et"
+  },
+  "select language": {
+    "en": "Select Language",
+    "es": "Seleccionar idioma",
+    "pt": "Selecionar idioma",
+    "tr": "Dil Seç"
+  },
+  "select age": {
+    "en": "Select Age",
+    "es": "Seleccionar edad",
+    "pt": "Selecionar idade",
+    "tr": "Yaş Seç"
+  },
+  "child": {
+    "en": "Child",
+    "es": "Niño",
+    "pt": "Criança",
+    "tr": "Çocuk"
+  },
+  "adult": {
+    "en": "Adult",
+    "es": "Adulto",
+    "pt": "Adulto",
+    "tr": "Yetiskin"
+  },
+  "english": {
+    "en": "English",
+    "es": "Inglés",
+    "pt": "Inglês",
+    "tr": "İngilizce"
+  },
+  "spanish": {
+    "en": "Spanish",
+    "es": "Español",
+    "pt": "Espanhol",
+    "tr": "İspanyolca"
+  },
+  "portuguese": {
+    "en": "Portuguese",
+    "es": "Portugués",
+    "pt": "Português",
+    "tr": "Portekizce"
+  },
+  "parent panel": {
+    "en": "Parent Panel",
+    "es": "Panel de padres",
+    "pt": "Painel dos pais",
+    "tr": "Ebeveyn Paneli"
+  },
+  "pin code": {
+    "en": "PIN Code",
+    "es": "Código PIN",
+    "pt": "Código PIN",
+    "tr": "PIN Kodu"
+  },
+  "default pin": {
+    "en": "Default PIN",
+    "es": "PIN predeterminado",
+    "pt": "PIN padrão",
+    "tr": "Varsayilan PIN"
+  },
+  "a1 beginner": {
+    "en": "A1 Beginner",
+    "es": "A1 Principiante",
+    "pt": "A1 Iniciante",
+    "tr": "A1 Başlangıç"
+  },
+  "a2 elementary": {
+    "en": "A2 Elementary",
+    "es": "A2 Elemental",
+    "pt": "A2 Elementar",
+    "tr": "A2 Temel"
+  },
+  "your level is": {
+    "en": "Your level is",
+    "es": "Tu nivel es",
+    "pt": "Seu nível é",
+    "tr": "Seviyeniz:"
+  },
+  "words learned": {
+    "en": "Words Learned",
+    "es": "Palabras aprendidas",
+    "pt": "Palavras aprendidas",
+    "tr": "Öğrenilen Kelimeler"
+  },
+  "days streak": {
+    "en": "Days Streak",
+    "es": "Racha de días",
+    "pt": "Sequência de dias",
+    "tr": "Gunluk Seri"
+  },
+  "correct answers": {
+    "en": "Correct Answers",
+    "es": "Respuestas correctas",
+    "pt": "Respostas corretas",
+    "tr": "Doğru Cevaplar"
+  },
+  "placement test": {
+    "en": "Placement Test",
+    "es": "Prueba de nivel",
+    "pt": "Teste de nivelamento",
+    "tr": "Seviye Testi"
+  },
+  "question of": {
+    "en": "Question of",
+    "es": "Pregunta de",
+    "pt": "Pergunta de",
+    "tr": "Soru"
+  },
+  "choose the correct answer": {
+    "en": "Choose the correct answer",
+    "es": "Elige la respuesta correcta",
+    "pt": "Escolha a resposta correta",
+    "tr": "Doğru cevabı seçin"
+  },
+  "goal completed": {
+    "en": "Goal Completed!",
+    "es": "¡Meta completada!",
+    "pt": "Meta concluída!",
+    "tr": "Hedef Tamamlandı!"
+  },
+  "continue learning": {
+    "en": "Continue Learning →",
+    "es": "Continuar aprendiendo →",
+    "pt": "Continuar aprendendo →",
+    "tr": "Öğrenmeye Devam Et →"
+  },
+  "categories": {
+    "en": "Categories",
+    "es": "Categorías",
+    "pt": "Categorias",
+    "tr": "Kategoriler"
+  },
+  "see all": {
+    "en": "See all →",
+    "es": "Ver todo →",
+    "pt": "Ver tudo →",
+    "tr": "Tümünü Gör →"
+  },
+  "select category": {
+    "en": "Select Category",
+    "es": "Seleccionar categoría",
+    "pt": "Selecionar categoria",
+    "tr": "Kategori Seç"
+  },
+  "search categories": {
+    "en": "Search categories...",
+    "es": "Buscar categorías...",
+    "pt": "Pesquisar categorias...",
+    "tr": "Kategorilerde ara..."
+  },
+  "complete n flash cards": {
+    "en": "Complete {n} flash cards",
+    "es": "Completa {n} tarjetas",
+    "pt": "Complete {n} cartões",
+    "tr": "{n} kart tamamla"
+  },
+  "listen": {
+    "en": "Listen",
+    "es": "Escuchar",
+    "pt": "Ouvir",
+    "tr": "Dinle"
+  },
+  "tap to see meaning": {
+    "en": "Tap to see meaning",
+    "es": "Toca para ver el significado",
+    "pt": "Toque para ver o significado",
+    "tr": "Anlamı görmek için dokun"
+  },
+  "say it": {
+    "en": "Say it",
+    "es": "Dilo",
+    "pt": "Diga",
+    "tr": "Soyle"
+  },
+  "view visited words": {
+    "en": "View visited words",
+    "es": "Ver palabras visitadas",
+    "pt": "Ver palavras visitadas",
+    "tr": "Gezilen kelimeleri gör"
+  },
+  "i got it": {
+    "en": "I Got It ✓",
+    "es": "Lo entendí ✓",
+    "pt": "Entendi ✓",
+    "tr": "Anladım ✓"
+  },
+  "previous": {
+    "en": "← Previous",
+    "es": "← Anterior",
+    "pt": "← Anterior",
+    "tr": "← Önceki"
+  },
+  "last 7 days": {
+    "en": "Last 7 Days",
+    "es": "Últimos 7 días",
+    "pt": "Últimos 7 dias",
+    "tr": "Son 7 Gun"
+  },
+  "great job": {
+    "en": "Great job!",
+    "es": "¡Buen trabajo!",
+    "pt": "Ótimo trabalho!",
+    "tr": "Harika iş!"
+  },
+  "due today": {
+    "en": "due",
+    "es": "pendientes",
+    "pt": "pendentes",
+    "tr": "bekliyor"
+  },
+  "words need review": {
+    "en": "words need review — let's practice! 💪",
+    "es": "palabras necesitan repaso — ¡practiquemos! 💪",
+    "pt": "palavras precisam de revisão — vamos praticar! 💪",
+    "tr": "kelime tekrar bekliyor — hadi pratik yapalım! 💪"
+  },
+  "come back tomorrow": {
+    "en": "Come back tomorrow to keep your streak! 🚀",
+    "es": "¡Vuelve mañana para mantener tu racha! 🚀",
+    "pt": "Volte amanhã para manter sua sequência! 🚀",
+    "tr": "Seriyi sürdürmek için yarın geri gel! 🚀"
+  }
+}

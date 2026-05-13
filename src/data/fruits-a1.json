@@ -1,0 +1,734 @@
+{
+  "category": "fruits",
+  "level": "a1",
+  "translations": {
+    "en": {
+      "label": "English",
+      "flag": "🇬🇧",
+      "words": [
+        {
+          "id": "apple",
+          "emoji": "🍎",
+          "word": "apple",
+          "tr": "elma",
+          "pron": "ˈæpəl",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The apple is red.",
+              "tr": "Elma kırmızı.",
+              "words": [
+                "The",
+                "apple",
+                "is",
+                "red"
+              ]
+            },
+            {
+              "en": "I eat an apple.",
+              "tr": "Bir elma yiyorum.",
+              "words": [
+                "I",
+                "eat",
+                "an",
+                "apple"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "banana",
+          "emoji": "🍌",
+          "word": "banana",
+          "tr": "muz",
+          "pron": "bəˈnænə",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The banana is yellow.",
+              "tr": "Muz sarı.",
+              "words": [
+                "The",
+                "banana",
+                "is",
+                "yellow"
+              ]
+            },
+            {
+              "en": "I like bananas.",
+              "tr": "Muzları severim.",
+              "words": [
+                "I",
+                "like",
+                "bananas"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "orange",
+          "emoji": "🍊",
+          "word": "orange",
+          "tr": "portakal",
+          "pron": "ˈɒrɪndʒ",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The orange is sweet.",
+              "tr": "Portakal tatlı.",
+              "words": [
+                "The",
+                "orange",
+                "is",
+                "sweet"
+              ]
+            },
+            {
+              "en": "I drink orange juice.",
+              "tr": "Portakal suyu içiyorum.",
+              "words": [
+                "I",
+                "drink",
+                "orange",
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "strawberry",
+          "emoji": "🍓",
+          "word": "strawberry",
+          "tr": "çilek",
+          "pron": "ˈstrɔːbəri",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The strawberry is red.",
+              "tr": "Çilek kırmızı.",
+              "words": [
+                "The",
+                "strawberry",
+                "is",
+                "red"
+              ]
+            },
+            {
+              "en": "I love strawberries.",
+              "tr": "Çilekleri seviyorum.",
+              "words": [
+                "I",
+                "love",
+                "strawberries"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grape",
+          "emoji": "🍇",
+          "word": "grape",
+          "tr": "üzüm",
+          "pron": "ɡreɪp",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The grapes are purple.",
+              "tr": "Üzümler mor.",
+              "words": [
+                "The",
+                "grapes",
+                "are",
+                "purple"
+              ]
+            },
+            {
+              "en": "I eat grapes.",
+              "tr": "Üzüm yiyorum.",
+              "words": [
+                "I",
+                "eat",
+                "grapes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "watermelon",
+          "emoji": "🍉",
+          "word": "watermelon",
+          "tr": "karpuz",
+          "pron": "ˈwɔːtərmelən",
+          "level": "a1"
+        },
+        {
+          "id": "cherry",
+          "emoji": "🍒",
+          "word": "cherry",
+          "tr": "kiraz",
+          "pron": "ˈtʃɛri",
+          "level": "a1"
+        },
+        {
+          "id": "pear",
+          "emoji": "🍐",
+          "word": "pear",
+          "tr": "armut",
+          "pron": "pɛr",
+          "level": "a1"
+        },
+        {
+          "id": "lemon",
+          "emoji": "🍋",
+          "word": "lemon",
+          "tr": "limon",
+          "pron": "ˈlɛmən",
+          "level": "a1"
+        },
+        {
+          "id": "pineapple",
+          "emoji": "🍍",
+          "word": "pineapple",
+          "tr": "ananas",
+          "pron": "ˈpaɪnæpəl",
+          "level": "a1"
+        },
+        {
+          "id": "peach",
+          "emoji": "🍑",
+          "word": "peach",
+          "tr": "şeftali",
+          "pron": "piːtʃ",
+          "level": "a1"
+        },
+        {
+          "id": "mango",
+          "emoji": "🥭",
+          "word": "mango",
+          "tr": "mango",
+          "pron": "ˈmæŋɡoʊ",
+          "level": "a1"
+        }
+      ]
+    },
+    "de": {
+      "label": "Deutsch",
+      "flag": "🇩🇪",
+      "words": [
+        {
+          "id": "apple",
+          "emoji": "🍎",
+          "word": "Apfel",
+          "tr": "elma",
+          "pron": "ˈapfəl",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "Der Apfel ist rot.",
+              "tr": "Elma kırmızı.",
+              "words": [
+                "Der",
+                "Apfel",
+                "ist",
+                "rot"
+              ]
+            },
+            {
+              "text": "Ich esse einen Apfel.",
+              "tr": "Bir elma yiyorum.",
+              "words": [
+                "Ich",
+                "esse",
+                "einen",
+                "Apfel"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "banana",
+          "emoji": "🍌",
+          "word": "Banane",
+          "tr": "muz",
+          "pron": "baˈnaːnə",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The banana is yellow.",
+              "tr": "Muz sarı.",
+              "words": [
+                "The",
+                "banana",
+                "is",
+                "yellow"
+              ]
+            },
+            {
+              "en": "I like bananas.",
+              "tr": "Muzları severim.",
+              "words": [
+                "I",
+                "like",
+                "bananas"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "orange",
+          "emoji": "🍊",
+          "word": "Orange",
+          "tr": "portakal",
+          "pron": "oˈraŋʒə",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The orange is sweet.",
+              "tr": "Portakal tatlı.",
+              "words": [
+                "The",
+                "orange",
+                "is",
+                "sweet"
+              ]
+            },
+            {
+              "en": "I drink orange juice.",
+              "tr": "Portakal suyu içiyorum.",
+              "words": [
+                "I",
+                "drink",
+                "orange",
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "strawberry",
+          "emoji": "🍓",
+          "word": "Erdbeere",
+          "tr": "çilek",
+          "pron": "ˈɛrtbeːrə",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The strawberry is red.",
+              "tr": "Çilek kırmızı.",
+              "words": [
+                "The",
+                "strawberry",
+                "is",
+                "red"
+              ]
+            },
+            {
+              "en": "I love strawberries.",
+              "tr": "Çilekleri seviyorum.",
+              "words": [
+                "I",
+                "love",
+                "strawberries"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grape",
+          "emoji": "🍇",
+          "word": "Traube",
+          "tr": "üzüm",
+          "pron": "ˈtraʊbə",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The grapes are purple.",
+              "tr": "Üzümler mor.",
+              "words": [
+                "The",
+                "grapes",
+                "are",
+                "purple"
+              ]
+            },
+            {
+              "en": "I eat grapes.",
+              "tr": "Üzüm yiyorum.",
+              "words": [
+                "I",
+                "eat",
+                "grapes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "watermelon",
+          "emoji": "🍉",
+          "word": "Wassermelone",
+          "tr": "karpuz",
+          "pron": "ˈvasərmeloːnə",
+          "level": "a1"
+        },
+        {
+          "id": "cherry",
+          "emoji": "🍒",
+          "word": "Kirsche",
+          "tr": "kiraz",
+          "pron": "ˈkɪrʃə",
+          "level": "a1"
+        },
+        {
+          "id": "pear",
+          "emoji": "🍐",
+          "word": "Birne",
+          "tr": "armut",
+          "pron": "ˈbɪrnə",
+          "level": "a1"
+        },
+        {
+          "id": "lemon",
+          "emoji": "🍋",
+          "word": "Zitrone",
+          "tr": "limon",
+          "pron": "tsɪˈtroːnə",
+          "level": "a1"
+        },
+        {
+          "id": "pineapple",
+          "emoji": "🍍",
+          "word": "Ananas",
+          "tr": "ananas",
+          "pron": "ˈananas",
+          "level": "a1"
+        },
+        {
+          "id": "peach",
+          "emoji": "🍑",
+          "word": "Pfirsich",
+          "tr": "şeftali",
+          "pron": "ˈpfɪrzɪç",
+          "level": "a1"
+        },
+        {
+          "id": "mango",
+          "emoji": "🥭",
+          "word": "Mango",
+          "tr": "mango",
+          "pron": "ˈmaŋɡo",
+          "level": "a1"
+        }
+      ]
+    },
+    "es": {
+      "label": "Español",
+      "flag": "🇪🇸",
+      "words": [
+        {
+          "id": "apple",
+          "emoji": "🍎",
+          "word": "manzana",
+          "tr": "elma",
+          "pron": "manˈθana",
+          "level": "a1",
+          "sentences": [
+            {
+              "text": "La manzana es roja.",
+              "tr": "Elma kırmızı.",
+              "words": [
+                "La",
+                "manzana",
+                "es",
+                "roja"
+              ]
+            },
+            {
+              "text": "Como una manzana.",
+              "tr": "Bir elma yiyorum.",
+              "words": [
+                "Como",
+                "una",
+                "manzana"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "banana",
+          "emoji": "🍌",
+          "word": "plátano",
+          "tr": "muz",
+          "pron": "ˈplatano",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The banana is yellow.",
+              "tr": "Muz sarı.",
+              "words": [
+                "The",
+                "banana",
+                "is",
+                "yellow"
+              ]
+            },
+            {
+              "en": "I like bananas.",
+              "tr": "Muzları severim.",
+              "words": [
+                "I",
+                "like",
+                "bananas"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "orange",
+          "emoji": "🍊",
+          "word": "naranja",
+          "tr": "portakal",
+          "pron": "naˈranxa",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The orange is sweet.",
+              "tr": "Portakal tatlı.",
+              "words": [
+                "The",
+                "orange",
+                "is",
+                "sweet"
+              ]
+            },
+            {
+              "en": "I drink orange juice.",
+              "tr": "Portakal suyu içiyorum.",
+              "words": [
+                "I",
+                "drink",
+                "orange",
+                "juice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "strawberry",
+          "emoji": "🍓",
+          "word": "fresa",
+          "tr": "çilek",
+          "pron": "ˈfresa",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The strawberry is red.",
+              "tr": "Çilek kırmızı.",
+              "words": [
+                "The",
+                "strawberry",
+                "is",
+                "red"
+              ]
+            },
+            {
+              "en": "I love strawberries.",
+              "tr": "Çilekleri seviyorum.",
+              "words": [
+                "I",
+                "love",
+                "strawberries"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "grape",
+          "emoji": "🍇",
+          "word": "uva",
+          "tr": "üzüm",
+          "pron": "ˈuba",
+          "level": "a1",
+          "sentences": [
+            {
+              "en": "The grapes are purple.",
+              "tr": "Üzümler mor.",
+              "words": [
+                "The",
+                "grapes",
+                "are",
+                "purple"
+              ]
+            },
+            {
+              "en": "I eat grapes.",
+              "tr": "Üzüm yiyorum.",
+              "words": [
+                "I",
+                "eat",
+                "grapes"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "watermelon",
+          "emoji": "🍉",
+          "word": "sandía",
+          "tr": "karpuz",
+          "pron": "sanˈdia",
+          "level": "a1"
+        },
+        {
+          "id": "cherry",
+          "emoji": "🍒",
+          "word": "cereza",
+          "tr": "kiraz",
+          "pron": "θeˈreθa",
+          "level": "a1"
+        },
+        {
+          "id": "pear",
+          "emoji": "🍐",
+          "word": "pera",
+          "tr": "armut",
+          "pron": "ˈpera",
+          "level": "a1"
+        },
+        {
+          "id": "lemon",
+          "emoji": "🍋",
+          "word": "limón",
+          "tr": "limon",
+          "pron": "liˈmon",
+          "level": "a1"
+        },
+        {
+          "id": "pineapple",
+          "emoji": "🍍",
+          "word": "piña",
+          "tr": "ananas",
+          "pron": "ˈpiɲa",
+          "level": "a1"
+        },
+        {
+          "id": "peach",
+          "emoji": "🍑",
+          "word": "melocotón",
+          "tr": "şeftali",
+          "pron": "melokoˈton",
+          "level": "a1"
+        },
+        {
+          "id": "mango",
+          "emoji": "🥭",
+          "word": "mango",
+          "tr": "mango",
+          "pron": "ˈmaŋɡo",
+          "level": "a1"
+        }
+      ]
+    },
+    "pt": {
+      "label": "Português",
+      "flag": "🇧🇷",
+      "words": [
+        {
+          "id": "apple",
+          "emoji": "🍎",
+          "word": "maçã",
+          "tr": "elma",
+          "pron": "maˈsɐ̃",
+          "level": "a1"
+        },
+        {
+          "id": "banana",
+          "emoji": "🍌",
+          "word": "banana",
+          "tr": "muz",
+          "pron": "baˈnɐna",
+          "level": "a1"
+        },
+        {
+          "id": "orange",
+          "emoji": "🍊",
+          "word": "laranja",
+          "tr": "portakal",
+          "pron": "laˈɾɐ̃ʒa",
+          "level": "a1"
+        },
+        {
+          "id": "strawberry",
+          "emoji": "🍓",
+          "word": "morango",
+          "tr": "çilek",
+          "pron": "moˈɾɐ̃ɡu",
+          "level": "a1"
+        },
+        {
+          "id": "grape",
+          "emoji": "🍇",
+          "word": "uva",
+          "tr": "üzüm",
+          "pron": "ˈuva",
+          "level": "a1"
+        },
+        {
+          "id": "watermelon",
+          "emoji": "🍉",
+          "word": "melancia",
+          "tr": "karpuz",
+          "pron": "melɐ̃ˈsia",
+          "level": "a1"
+        },
+        {
+          "id": "cherry",
+          "emoji": "🍒",
+          "word": "cereja",
+          "tr": "kiraz",
+          "pron": "seˈɾeʒa",
+          "level": "a1"
+        },
+        {
+          "id": "pear",
+          "emoji": "🍐",
+          "word": "pera",
+          "tr": "armut",
+          "pron": "ˈpɛɾa",
+          "level": "a1"
+        },
+        {
+          "id": "lemon",
+          "emoji": "🍋",
+          "word": "limão",
+          "tr": "limon",
+          "pron": "liˈmɐ̃w",
+          "level": "a1"
+        },
+        {
+          "id": "pineapple",
+          "emoji": "🍍",
+          "word": "abacaxi",
+          "tr": "ananas",
+          "pron": "abakaˈʃi",
+          "level": "a1"
+        },
+        {
+          "id": "peach",
+          "emoji": "🍑",
+          "word": "pêssego",
+          "tr": "şeftali",
+          "pron": "ˈpesɨɡu",
+          "level": "a1"
+        },
+        {
+          "id": "mango",
+          "emoji": "🥭",
+          "word": "manga",
+          "tr": "mango",
+          "pron": "ˈmɐ̃ɡa",
+          "level": "a1"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4466 @@
+[
+  {
+    "word": "be",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Talking about feelings and states",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Como você está se sentindo hoje?",
+        "options": [
+          "I am happy today.",
+          "I have happy today.",
+          "I do happy today.",
+          "I sleep happy today."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Be' no presente é 'am/is/are'.",
+        "feedback_wrong": "The answer is: I am happy today."
+      },
+      {
+        "bot": "Onde você está agora?",
+        "options": [
+          "I am at home now.",
+          "I have at home now.",
+          "I do at home now.",
+          "I eat at home now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Am' é usado para a primeira pessoa.",
+        "feedback_wrong": "The answer is: I am at home now."
+      },
+      {
+        "bot": "Qual é a sua profissão?",
+        "options": [
+          "I am a student.",
+          "I have a student.",
+          "I do a student.",
+          "I run a student."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Am' para identidade e profissão.",
+        "feedback_wrong": "The answer is: I am a student."
+      }
+    ]
+  },
+  {
+    "word": "be",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past and future forms of 'be'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Onde você estava ontem à noite?",
+        "options": [
+          "I was at the cinema yesterday.",
+          "I were at the cinema yesterday.",
+          "I have been at the cinema yesterday.",
+          "I am at the cinema yesterday."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! 'Was' é o passado de 'am/is'.",
+        "feedback_wrong": "The answer is: I was at the cinema yesterday."
+      },
+      {
+        "bot": "Você já foi aos Estados Unidos?",
+        "options": [
+          "Yes, I have been to the US once.",
+          "Yes, I went to the US yesterday.",
+          "No, I never go to the US because I sleep.",
+          "No, I am going to the US now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Been to' para experiências de vida.",
+        "feedback_wrong": "The answer is: Yes, I have been to the US once."
+      },
+      {
+        "bot": "O que você vai ser quando crescer?",
+        "options": [
+          "I am going to be a doctor.",
+          "I go to be a doctor when I grow up.",
+          "I was a doctor when I grow up.",
+          "I have been a doctor when I grow up."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Going to be' para planos futuros.",
+        "feedback_wrong": "The answer is: I am going to be a doctor."
+      }
+    ]
+  },
+  {
+    "word": "be",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'be'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Estou sendo muito exigente com o projeto, mas quero que fique perfeito.",
+        "options": [
+          "You're doing great, attention to detail is important.",
+          "You should stop being a project and rest.",
+          "You should be the project instead of working.",
+          "You should sleep with the project under your pillow."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Being' aqui expressa comportamento temporário.",
+        "feedback_wrong": "The answer is: You're doing great, attention to detail is important."
+      },
+      {
+        "bot": "Você conhece a expressão 'be on cloud nine'?",
+        "options": [
+          "Yes, it means to be extremely happy.",
+          "Yes, it means to be on a cloud eating ice cream.",
+          "No, but I know 'be on cloud sleep'.",
+          "No, I prefer being on the ground."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É uma expressão para felicidade extrema.",
+        "feedback_wrong": "The answer is: Yes, it means to be extremely happy."
+      },
+      {
+        "bot": "The meeting is being held online this week due to the storm.",
+        "options": [
+          "That makes sense, safety first.",
+          "That makes sense, the meeting is holding the storm.",
+          "That's weird, meetings can't be held online.",
+          "That's funny, the storm is holding the meeting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Being held' é voz passiva para eventos.",
+        "feedback_wrong": "The answer is: That makes sense, safety first."
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Talking about possessions",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você tem na sua mochila?",
+        "options": [
+          "I have a book in my backpack.",
+          "I am a book in my backpack.",
+          "I do a book in my backpack.",
+          "I eat a book in my backpack."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Have' significa ter.",
+        "feedback_wrong": "The answer is: I have a book in my backpack."
+      },
+      {
+        "bot": "Você tem um carro?",
+        "options": [
+          "Yes, I have a car.",
+          "Yes, I am a car.",
+          "No, I do a car.",
+          "No, I sleep in a car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Have' para posse.",
+        "feedback_wrong": "The answer is: Yes, I have a car."
+      },
+      {
+        "bot": "Quantos irmãos você tem?",
+        "options": [
+          "I have two brothers.",
+          "I am two brothers.",
+          "I do two brothers.",
+          "I run two brothers."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Have' para relacionamentos familiares.",
+        "feedback_wrong": "The answer is: I have two brothers."
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Present perfect with 'have'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já visitou o Brasil?",
+        "options": [
+          "Yes, I have visited Brazil twice.",
+          "Yes, I visited Brazil yesterday.",
+          "No, I never visit Brazil because I sleep.",
+          "No, I am visiting Brazil now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have visited Brazil twice."
+      },
+      {
+        "bot": "O que você tinha no café da manhã?",
+        "options": [
+          "I had eggs and toast for breakfast.",
+          "I have eggs and toast for breakfast.",
+          "I am having eggs and toast for breakfast.",
+          "I do eggs and toast for breakfast."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Had' é o passado de 'have'.",
+        "feedback_wrong": "The answer is: I had eggs and toast for breakfast."
+      },
+      {
+        "bot": "Você já fez um curso de inglês?",
+        "options": [
+          "Yes, I have taken an English course.",
+          "Yes, I took an English course yesterday.",
+          "No, I never take courses because I sleep.",
+          "No, I am taking a course now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Have taken' para experiências passadas.",
+        "feedback_wrong": "The answer is: Yes, I have taken an English course."
+      }
+    ]
+  },
+  {
+    "word": "have",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'have'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Estou tendo um dia muito difícil no trabalho hoje.",
+        "options": [
+          "I'm sorry to hear that. Do you want to talk about it?",
+          "You should have a day off and sleep.",
+          "You should have the work instead of the day.",
+          "You should eat the day to feel better."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Having a day' expressa experiências temporárias.",
+        "feedback_wrong": "The answer is: I'm sorry to hear that. Do you want to talk about it?"
+      },
+      {
+        "bot": "Você conhece a expressão 'have your cake and eat it too'?",
+        "options": [
+          "Yes, it means to want two incompatible things.",
+          "Yes, it means to eat cake while having cake.",
+          "No, but I know 'have your sleep and eat it too'.",
+          "No, I prefer having cake without eating it."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre querer tudo sem abrir mão de nada.",
+        "feedback_wrong": "The answer is: Yes, it means to want two incompatible things."
+      },
+      {
+        "bot": "The project has a lot of potential, but we need more time.",
+        "options": [
+          "I agree, let's extend the deadline.",
+          "I agree, the project has a lot of cake.",
+          "I agree, we should eat the project's potential.",
+          "I agree, the project should sleep more."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Have potential' significa ter potencial.",
+        "feedback_wrong": "The answer is: I agree, let's extend the deadline."
+      }
+    ]
+  },
+  {
+    "word": "do",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Daily routines",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você faz de manhã?",
+        "options": [
+          "I do my homework in the morning.",
+          "I am my homework in the morning.",
+          "I have my homework in the morning.",
+          "I eat my homework in the morning."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Do' para tarefas e rotinas.",
+        "feedback_wrong": "The answer is: I do my homework in the morning."
+      },
+      {
+        "bot": "Você faz exercícios físicos?",
+        "options": [
+          "Yes, I do exercise every day.",
+          "Yes, I am exercise every day.",
+          "No, I have exercise every day.",
+          "No, I sleep during exercise."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Do' para atividades gerais.",
+        "feedback_wrong": "The answer is: Yes, I do exercise every day."
+      },
+      {
+        "bot": "O que você faz no fim de semana?",
+        "options": [
+          "I do sports on weekends.",
+          "I am sports on weekends.",
+          "I have sports on weekends.",
+          "I run sports on weekends."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Do' para esportes e atividades.",
+        "feedback_wrong": "The answer is: I do sports on weekends."
+      }
+    ]
+  },
+  {
+    "word": "do",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past actions with 'do'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você fez no fim de semana passado?",
+        "options": [
+          "I did my homework last weekend.",
+          "I have done my homework last weekend.",
+          "I do my homework every weekend.",
+          "I am doing my homework now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! 'Did' é o passado de 'do'.",
+        "feedback_wrong": "The answer is: I did my homework last weekend."
+      },
+      {
+        "bot": "Você já fez voluntariado?",
+        "options": [
+          "Yes, I have done volunteer work before.",
+          "Yes, I did volunteer work yesterday.",
+          "No, I never do volunteer work because I sleep.",
+          "No, I am doing volunteer work now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have done volunteer work before."
+      },
+      {
+        "bot": "O que você está fazendo agora?",
+        "options": [
+          "I am doing my homework now.",
+          "I do my homework every day.",
+          "I did my homework yesterday.",
+          "I have done my homework already."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! Present continuous para ações em curso.",
+        "feedback_wrong": "The answer is: I am doing my homework now."
+      }
+    ]
+  },
+  {
+    "word": "do",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'do'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I'm done with this project, I can't do it anymore.",
+        "options": [
+          "Take a break, you've been working hard.",
+          "You should eat the project instead of doing it.",
+          "You should sleep with the project under your bed.",
+          "You should run away from the project."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Done with' significa terminar algo.",
+        "feedback_wrong": "The answer is: Take a break, you've been working hard."
+      },
+      {
+        "bot": "Você conhece a expressão 'do the trick'?",
+        "options": [
+          "Yes, it means to solve a problem.",
+          "Yes, it means to do a magic trick.",
+          "No, but I know 'do the sleep'.",
+          "No, I prefer doing tricks with a ball."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre resolver algo que não funcionava.",
+        "feedback_wrong": "The answer is: Yes, it means to solve a problem."
+      },
+      {
+        "bot": "We need to do away with old habits if we want to improve.",
+        "options": [
+          "I agree, let's adopt better habits.",
+          "I agree, let's eat old habits.",
+          "I agree, we should sleep with old habits.",
+          "I agree, old habits should run away."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Do away with' significa eliminar algo.",
+        "feedback_wrong": "The answer is: I agree, let's adopt better habits."
+      }
+    ]
+  },
+  {
+    "word": "say",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Simple conversations",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você diz quando chega em casa?",
+        "options": [
+          "I say 'hello' when I get home.",
+          "I eat 'hello' when I get home.",
+          "I do 'hello' when I get home.",
+          "I sleep 'hello' when I get home."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Say' significa dizer.",
+        "feedback_wrong": "The answer is: I say 'hello' when I get home."
+      },
+      {
+        "bot": "Você diz 'bom dia' em inglês?",
+        "options": [
+          "Yes, I say 'good morning'.",
+          "Yes, I eat 'good morning'.",
+          "No, I do 'good morning' instead.",
+          "No, I sleep during 'good morning'."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Say' para palavras e frases.",
+        "feedback_wrong": "The answer is: Yes, I say 'good morning'."
+      },
+      {
+        "bot": "O que o professor disse na aula?",
+        "options": [
+          "The teacher said to study hard.",
+          "The teacher ate to study hard.",
+          "The teacher did to study hard.",
+          "The teacher slept to study hard."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Said' é o passado de 'say'.",
+        "feedback_wrong": "The answer is: The teacher said to study hard."
+      }
+    ]
+  },
+  {
+    "word": "say",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Reported speech with 'say'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que ele disse quando você ligou?",
+        "options": [
+          "He said he was busy.",
+          "He says he is busy every day.",
+          "He has said he is busy before.",
+          "He is saying he is busy now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! 'Said' para discurso reportado no passado.",
+        "feedback_wrong": "The answer is: He said he was busy."
+      },
+      {
+        "bot": "Você já disse a verdade para seus pais?",
+        "options": [
+          "Yes, I have told the truth before.",
+          "Yes, I told the truth yesterday.",
+          "No, I never tell the truth because I sleep.",
+          "No, I am telling the truth now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have told the truth before."
+      },
+      {
+        "bot": "O que eles estão dizendo sobre o novo filme?",
+        "options": [
+          "They are saying the movie is great.",
+          "They say the movie is great every day.",
+          "They said the movie was great yesterday.",
+          "They have said the movie is great before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! Present continuous para opiniões atuais.",
+        "feedback_wrong": "The answer is: They are saying the movie is great."
+      }
+    ]
+  },
+  {
+    "word": "say",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'say'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I wouldn't say no to a cup of coffee right now.",
+        "options": [
+          "I'll make you one right away!",
+          "You should say no to coffee and sleep.",
+          "You should eat the coffee instead of saying no.",
+          "You should run away from the coffee."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Wouldn't say no' significa aceitar algo.",
+        "feedback_wrong": "The answer is: I'll make you one right away!"
+      },
+      {
+        "bot": "Você conhece a expressão 'say the word'?",
+        "options": [
+          "Yes, it means to give permission or order.",
+          "Yes, it means to say a single word.",
+          "No, but I know 'say the sleep'.",
+          "No, I prefer saying sentences instead of words."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre autorizar algo com uma palavra.",
+        "feedback_wrong": "The answer is: Yes, it means to give permission or order."
+      },
+      {
+        "bot": "Let's just say we had a disagreement, but it's over now.",
+        "options": [
+          "I'm glad you resolved it.",
+          "I'm glad you ate the disagreement.",
+          "I'm glad you slept during the disagreement.",
+          "I'm glad you ran away from the disagreement."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Let's just say' para ser evasivo.",
+        "feedback_wrong": "The answer is: I'm glad you resolved it."
+      }
+    ]
+  },
+  {
+    "word": "get",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Getting objects",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você pega para ir à escola?",
+        "options": [
+          "I get my backpack for school.",
+          "I eat my backpack for school.",
+          "I do my backpack for school.",
+          "I sleep with my backpack for school."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Get' significa pegar ou obter.",
+        "feedback_wrong": "The answer is: I get my backpack for school."
+      },
+      {
+        "bot": "Você pega o ônibus para o trabalho?",
+        "options": [
+          "Yes, I get the bus to work.",
+          "Yes, I eat the bus to work.",
+          "No, I do the bus to work.",
+          "No, I sleep on the bus to work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Get' para transporte.",
+        "feedback_wrong": "The answer is: Yes, I get the bus to work."
+      },
+      {
+        "bot": "O que você pegou no supermercado?",
+        "options": [
+          "I got milk at the supermarket.",
+          "I eat milk at the supermarket.",
+          "I do milk at the supermarket.",
+          "I sleep with milk at the supermarket."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Got' é o passado de 'get'.",
+        "feedback_wrong": "The answer is: I got milk at the supermarket."
+      }
+    ]
+  },
+  {
+    "word": "get",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Getting experiences",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já pegou um resfriado este ano?",
+        "options": [
+          "Yes, I have gotten a cold this year.",
+          "Yes, I got a cold yesterday.",
+          "No, I never get colds because I sleep.",
+          "No, I am getting a cold now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências recentes.",
+        "feedback_wrong": "The answer is: Yes, I have gotten a cold this year."
+      },
+      {
+        "bot": "O que você está pegando na loja?",
+        "options": [
+          "I am getting a new shirt.",
+          "I get a new shirt every month.",
+          "I got a new shirt yesterday.",
+          "I have gotten a new shirt before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para ações em curso.",
+        "feedback_wrong": "The answer is: I am getting a new shirt."
+      },
+      {
+        "bot": "Como você chegou em casa ontem?",
+        "options": [
+          "I got home by taxi yesterday.",
+          "I get home by taxi every day.",
+          "I have gotten home by taxi before.",
+          "I am getting home by taxi now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Got' para chegada no passado.",
+        "feedback_wrong": "The answer is: I got home by taxi yesterday."
+      }
+    ]
+  },
+  {
+    "word": "get",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'get'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I'm getting ahead of myself, let's finish the first step first.",
+        "options": [
+          "You're right, let's take it one step at a time.",
+          "You're right, you should run ahead of yourself.",
+          "You're right, you should eat ahead of yourself.",
+          "You're right, you should sleep ahead of yourself."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Getting ahead' significa antecipar-se.",
+        "feedback_wrong": "The answer is: You're right, let's take it one step at a time."
+      },
+      {
+        "bot": "Você conhece a expressão 'get the ball rolling'?",
+        "options": [
+          "Yes, it means to start something.",
+          "Yes, it means to play with a ball.",
+          "No, but I know 'get the sleep rolling'.",
+          "No, I prefer getting the ball to eat."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre iniciar um processo.",
+        "feedback_wrong": "The answer is: Yes, it means to start something."
+      },
+      {
+        "bot": "Don't get me wrong, I like your idea, but it needs work.",
+        "options": [
+          "I understand, I'll improve it.",
+          "I understand, you should eat me wrong.",
+          "I understand, you should sleep on me wrong.",
+          "I understand, you should run away from me wrong."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Get me wrong' significa entender errado.",
+        "feedback_wrong": "The answer is: I understand, I'll improve it."
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Making simple things",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você faz no artesanato?",
+        "options": [
+          "I make a card for my friend.",
+          "I eat a card for my friend.",
+          "I do a card for my friend.",
+          "I sleep with a card for my friend."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Make' significa criar ou fazer.",
+        "feedback_wrong": "The answer is: I make a card for my friend."
+      },
+      {
+        "bot": "Você faz bolo em casa?",
+        "options": [
+          "Yes, I make cake at home.",
+          "Yes, I eat cake at home.",
+          "No, I do cake at home.",
+          "No, I sleep with cake at home."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Make' para comida e objetos.",
+        "feedback_wrong": "The answer is: Yes, I make cake at home."
+      },
+      {
+        "bot": "O que você fez para o jantar?",
+        "options": [
+          "I made pasta for dinner.",
+          "I eat pasta for dinner.",
+          "I do pasta for dinner.",
+          "I sleep with pasta for dinner."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Made' é o passado de 'make'.",
+        "feedback_wrong": "The answer is: I made pasta for dinner."
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Making decisions and plans",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já tomou uma decisão difícil?",
+        "options": [
+          "Yes, I have made a hard decision before.",
+          "Yes, I made a hard decision yesterday.",
+          "No, I never make decisions because I sleep.",
+          "No, I am making a decision now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have made a hard decision before."
+      },
+      {
+        "bot": "O que você está fazendo para o aniversário dela?",
+        "options": [
+          "I am making a cake for her birthday.",
+          "I make a cake for her birthday every year.",
+          "I made a cake for her birthday last year.",
+          "I have made a cake for her birthday before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para planos em curso.",
+        "feedback_wrong": "The answer is: I am making a cake for her birthday."
+      },
+      {
+        "bot": "Como você se sente quando faz um erro?",
+        "options": [
+          "I feel bad when I make a mistake.",
+          "I feel bad when I eat a mistake.",
+          "I feel bad when I do a mistake.",
+          "I feel bad when I sleep with a mistake."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Make a mistake' é uma expressão comum.",
+        "feedback_wrong": "The answer is: I feel bad when I make a mistake."
+      }
+    ]
+  },
+  {
+    "word": "make",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'make'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "You make a good point, I hadn't thought of that.",
+        "options": [
+          "Thank you, I'm glad you agree.",
+          "Thank you, I make good points every day.",
+          "Thank you, you should eat my good point.",
+          "Thank you, you should sleep on my good point."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Make a point' significa argumentar bem.",
+        "feedback_wrong": "The answer is: Thank you, I'm glad you agree."
+      },
+      {
+        "bot": "Você conhece a expressão 'make ends meet'?",
+        "options": [
+          "Yes, it means to have enough money to survive.",
+          "Yes, it means to tie the ends of a rope.",
+          "No, but I know 'make ends sleep'.",
+          "No, I prefer making ends eat."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre ganhar o suficiente para viver.",
+        "feedback_wrong": "The answer is: Yes, it means to have enough money to survive."
+      },
+      {
+        "bot": "Let's make up for lost time and finish this today.",
+        "options": [
+          "Great idea, let's work hard.",
+          "Great idea, let's eat the lost time.",
+          "Great idea, let's sleep on the lost time.",
+          "Great idea, let's run away from the lost time."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Make up for' significa compensar algo.",
+        "feedback_wrong": "The answer is: Great idea, let's work hard."
+      }
+    ]
+  },
+  {
+    "word": "know",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Knowing people and facts",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você conhece o novo aluno?",
+        "options": [
+          "Yes, I know the new student.",
+          "Yes, I eat the new student.",
+          "No, I do the new student.",
+          "No, I sleep with the new student."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Know' significa conhecer ou saber.",
+        "feedback_wrong": "The answer is: Yes, I know the new student."
+      },
+      {
+        "bot": "O que você sabe sobre o Brasil?",
+        "options": [
+          "I know Brazil is a big country.",
+          "I eat Brazil is a big country.",
+          "I do Brazil is a big country.",
+          "I sleep with Brazil is a big country."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Know' para fatos e informações.",
+        "feedback_wrong": "The answer is: I know Brazil is a big country."
+      },
+      {
+        "bot": "Você sabia que ele se mudou?",
+        "options": [
+          "Yes, I knew he moved.",
+          "Yes, I eat he moved.",
+          "No, I do he moved.",
+          "No, I sleep when he moved."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Knew' é o passado de 'know'.",
+        "feedback_wrong": "The answer is: Yes, I knew he moved."
+      }
+    ]
+  },
+  {
+    "word": "know",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Knowing experiences",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já soube de alguém que fala 5 idiomas?",
+        "options": [
+          "Yes, I have known someone who speaks 5 languages.",
+          "Yes, I knew someone who speaks 5 languages yesterday.",
+          "No, I never know people who speak languages because I sleep.",
+          "No, I am knowing someone who speaks 5 languages now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have known someone who speaks 5 languages."
+      },
+      {
+        "bot": "O que você está sabendo sobre a festa?",
+        "options": [
+          "I am knowing the party is cancelled.",
+          "I know the party is cancelled every time.",
+          "I knew the party was cancelled yesterday.",
+          "I have known the party is cancelled before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Know' é um verbo de estado, não usa continuous.",
+        "feedback_wrong": "The answer is: I am knowing the party is cancelled."
+      },
+      {
+        "bot": "Como você soube da notícia?",
+        "options": [
+          "I knew the news from my friend.",
+          "I know the news from my friend every day.",
+          "I have known the news from my friend before.",
+          "I am knowing the news from my friend now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Knew' para descobertas no passado.",
+        "feedback_wrong": "The answer is: I knew the news from my friend."
+      }
+    ]
+  },
+  {
+    "word": "know",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'know'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I know it like the back of my hand, I've worked here for years.",
+        "options": [
+          "That's great, you're very experienced.",
+          "That's great, you should eat the back of your hand.",
+          "That's great, you should sleep on the back of your hand.",
+          "That's great, you should run with the back of your hand."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Know like the back of my hand' significa conhecer muito bem.",
+        "feedback_wrong": "The answer is: That's great, you're very experienced."
+      },
+      {
+        "bot": "Você conhece a expressão 'know the ropes'?",
+        "options": [
+          "Yes, it means to know how to do a job well.",
+          "Yes, it means to know how to tie ropes.",
+          "No, but I know 'know the sleep'.",
+          "No, I prefer knowing the ropes to eat."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre conhecer o funcionamento de algo.",
+        "feedback_wrong": "The answer is: Yes, it means to know how to do a job well."
+      },
+      {
+        "bot": "You don't know the half of it, it was much worse.",
+        "options": [
+          "I'm sorry to hear that, tell me more.",
+          "I'm sorry to hear that, you should eat the half of it.",
+          "I'm sorry to hear that, you should sleep on the half of it.",
+          "I'm sorry to hear that, you should run away from the half of it."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Don't know the half of it' significa que a situação é pior.",
+        "feedback_wrong": "The answer is: I'm sorry to hear that, tell me more."
+      }
+    ]
+  },
+  {
+    "word": "think",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Simple opinions",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você acha do filme?",
+        "options": [
+          "I think the movie is great.",
+          "I eat the movie is great.",
+          "I do the movie is great.",
+          "I sleep with the movie is great."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Think' significa achar ou pensar.",
+        "feedback_wrong": "The answer is: I think the movie is great."
+      },
+      {
+        "bot": "Você acha que vai chover amanhã?",
+        "options": [
+          "Yes, I think it will rain tomorrow.",
+          "Yes, I eat it will rain tomorrow.",
+          "No, I do it will rain tomorrow.",
+          "No, I sleep when it rains tomorrow."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Think' para opiniões e previsões.",
+        "feedback_wrong": "The answer is: Yes, I think it will rain tomorrow."
+      },
+      {
+        "bot": "O que você pensou da aula?",
+        "options": [
+          "I thought the class was interesting.",
+          "I eat the class was interesting.",
+          "I do the class was interesting.",
+          "I sleep with the class was interesting."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Thought' é o passado de 'think'.",
+        "feedback_wrong": "The answer is: I thought the class was interesting."
+      }
+    ]
+  },
+  {
+    "word": "think",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past and present thoughts",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você pensou quando viu o presente?",
+        "options": [
+          "I thought it was a great gift.",
+          "I think it is a great gift every day.",
+          "I have thought it is a great gift before.",
+          "I am thinking it is a great gift now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! 'Thought' para pensamentos no passado.",
+        "feedback_wrong": "The answer is: I thought it was a great gift."
+      },
+      {
+        "bot": "Você já pensou em mudar de emprego?",
+        "options": [
+          "Yes, I have thought about changing jobs.",
+          "Yes, I thought about changing jobs yesterday.",
+          "No, I never think about jobs because I sleep.",
+          "No, I am thinking about changing jobs now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present perfect para pensamentos passados.",
+        "feedback_wrong": "The answer is: Yes, I have thought about changing jobs."
+      },
+      {
+        "bot": "O que você está pensando agora?",
+        "options": [
+          "I am thinking about my next vacation.",
+          "I think about my next vacation every day.",
+          "I thought about my next vacation yesterday.",
+          "I have thought about my next vacation before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! Present continuous para pensamentos em curso.",
+        "feedback_wrong": "The answer is: I am thinking about my next vacation."
+      }
+    ]
+  },
+  {
+    "word": "think",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'think'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I think outside the box, that's why I solve problems quickly.",
+        "options": [
+          "That's a great skill to have.",
+          "That's a great skill to eat.",
+          "That's a great skill to sleep with.",
+          "That's a great skill to run with."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Think outside the box' significa pensar criativamente.",
+        "feedback_wrong": "The answer is: That's a great skill to have."
+      },
+      {
+        "bot": "Você conhece a expressão 'think twice'?",
+        "options": [
+          "Yes, it means to consider carefully before acting.",
+          "Yes, it means to think two times.",
+          "No, but I know 'think sleep'.",
+          "No, I prefer thinking once instead of twice."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre refletir bem antes de decidir.",
+        "feedback_wrong": "The answer is: Yes, it means to consider carefully before acting."
+      },
+      {
+        "bot": "Don't think too much about it, just go for it.",
+        "options": [
+          "You're right, I'll just do it.",
+          "You're right, I'll eat it instead of thinking.",
+          "You're right, I'll sleep on it instead of thinking.",
+          "You're right, I'll run away from it instead of thinking."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Think too much' significa overthinking.",
+        "feedback_wrong": "The answer is: You're right, I'll just do it."
+      }
+    ]
+  },
+  {
+    "word": "see",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Seeing objects and people",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você vê na imagem?",
+        "options": [
+          "I see a dog in the picture.",
+          "I eat a dog in the picture.",
+          "I do a dog in the picture.",
+          "I sleep with a dog in the picture."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'See' significa ver.",
+        "feedback_wrong": "The answer is: I see a dog in the picture."
+      },
+      {
+        "bot": "Você vê seus avós todo fim de semana?",
+        "options": [
+          "Yes, I see my grandparents every weekend.",
+          "Yes, I eat my grandparents every weekend.",
+          "No, I do my grandparents every weekend.",
+          "No, I sleep with my grandparents every weekend."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'See' para pessoas e lugares.",
+        "feedback_wrong": "The answer is: Yes, I see my grandparents every weekend."
+      },
+      {
+        "bot": "O que você viu no zoológico?",
+        "options": [
+          "I saw lions at the zoo.",
+          "I eat lions at the zoo.",
+          "I do lions at the zoo.",
+          "I sleep with lions at the zoo."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Saw' é o passado de 'see'.",
+        "feedback_wrong": "The answer is: I saw lions at the zoo."
+      }
+    ]
+  },
+  {
+    "word": "see",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Seeing experiences",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já viu o mar?",
+        "options": [
+          "Yes, I have seen the sea before.",
+          "Yes, I saw the sea yesterday.",
+          "No, I never see the sea because I sleep.",
+          "No, I am seeing the sea now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have seen the sea before."
+      },
+      {
+        "bot": "O que você está vendo na rua?",
+        "options": [
+          "I am seeing a car accident on the street.",
+          "I see a car accident on the street every day.",
+          "I saw a car accident on the street yesterday.",
+          "I have seen a car accident on the street before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para ações em curso.",
+        "feedback_wrong": "The answer is: I am seeing a car accident on the street."
+      },
+      {
+        "bot": "Como você viu o acidente?",
+        "options": [
+          "I saw the accident when I was walking.",
+          "I see the accident when I walk every day.",
+          "I have seen the accident before.",
+          "I am seeing the accident now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Saw' para eventos passados.",
+        "feedback_wrong": "The answer is: I saw the accident when I was walking."
+      }
+    ]
+  },
+  {
+    "word": "see",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'see'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I see your point, that makes sense now.",
+        "options": [
+          "I'm glad I could explain it clearly.",
+          "I'm glad I could eat your point.",
+          "I'm glad I could sleep on your point.",
+          "I'm glad I could run away from your point."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'See your point' significa entender o argumento.",
+        "feedback_wrong": "The answer is: I'm glad I could explain it clearly."
+      },
+      {
+        "bot": "Você conhece a expressão 'see eye to eye'?",
+        "options": [
+          "Yes, it means to agree completely.",
+          "Yes, it means to look into someone's eyes.",
+          "No, but I know 'see sleep to sleep'.",
+          "No, I prefer seeing with my ears."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre concordar totalmente com alguém.",
+        "feedback_wrong": "The answer is: Yes, it means to agree completely."
+      },
+      {
+        "bot": "Let's see what happens, maybe it will work out.",
+        "options": [
+          "I hope so, let's wait and see.",
+          "I hope so, let's eat and see.",
+          "I hope so, let's sleep and see.",
+          "I hope so, let's run and see."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Let's see' significa esperar para descobrir.",
+        "feedback_wrong": "The answer is: I hope so, let's wait and see."
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Inviting friends over",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você vem à minha festa?",
+        "options": [
+          "Yes, I come to your party.",
+          "Yes, I eat your party.",
+          "No, I sleep during parties.",
+          "No, I come to the moon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Come' significa vir.",
+        "feedback_wrong": "The answer is: Yes, I come to your party."
+      },
+      {
+        "bot": "Quando você vem à escola?",
+        "options": [
+          "I come to school at 8 AM.",
+          "I come to school in my sleep.",
+          "I come to school on the roof.",
+          "I come to school with an elephant."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Come' para locais e eventos.",
+        "feedback_wrong": "The answer is: I come to school at 8 AM."
+      },
+      {
+        "bot": "De onde você vem?",
+        "options": [
+          "I come from home.",
+          "I come from the refrigerator.",
+          "I come from sleeping.",
+          "I come from the sky."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Come from' significa vir de.",
+        "feedback_wrong": "The answer is: I come from home."
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past visits and arrivals",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Quando você veio a esta cidade?",
+        "options": [
+          "I came to this city last year.",
+          "I come to this city last year.",
+          "I have come to this city last year.",
+          "I am coming to this city last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! 'Came' é o passado de 'come'.",
+        "feedback_wrong": "The answer is: I came to this city last year."
+      },
+      {
+        "bot": "O pacote já chegou?",
+        "options": [
+          "No, it hasn't come yet.",
+          "No, it didn't come yet.",
+          "No, it doesn't come yet.",
+          "No, it isn't coming yet."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present perfect para eventos recentes.",
+        "feedback_wrong": "The answer is: No, it hasn't come yet."
+      },
+      {
+        "bot": "Você virá à reunião amanhã?",
+        "options": [
+          "Yes, I will come to the meeting.",
+          "Yes, I come to the meeting every day.",
+          "Yes, I came to the meeting yesterday.",
+          "No, I prefer sleeping at meetings."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Will come' para o futuro.",
+        "feedback_wrong": "The answer is: Yes, I will come to the meeting."
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Phrasal verbs with 'come'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "A ideia surgiu durante o almoço hoje.",
+        "options": [
+          "That's interesting! How did everyone react?",
+          "That's interesting! Did the idea literally jump up?",
+          "That's weird, ideas can't come up from lunch.",
+          "That's funny, lunch should stay in the stomach."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Come up' significa surgir ou ser mencionado.",
+        "feedback_wrong": "The answer is: That's interesting! How did everyone react?"
+      },
+      {
+        "bot": "Você conhece a expressão 'come rain or shine'?",
+        "options": [
+          "Yes, it means no matter what happens.",
+          "Yes, it means to come outside when it rains.",
+          "No, but I know 'come snow or sun'.",
+          "No, I prefer staying inside when it rains."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre persistência independente do clima.",
+        "feedback_wrong": "The answer is: Yes, it means no matter what happens."
+      },
+      {
+        "bot": "Don't come down too hard on him; he's still learning.",
+        "options": [
+          "You're right, I'll be more patient with him.",
+          "You're right, I should push him down gently.",
+          "You're right, he should come down from the ceiling.",
+          "You're right, falling down is not good for him."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Come down hard' significa criticar severamente.",
+        "feedback_wrong": "The answer is: You're right, I'll be more patient with him."
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the ice cream shop",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você quer comer?",
+        "options": [
+          "I want to eat ice cream.",
+          "I want to sleep ice cream.",
+          "I want to run ice cream.",
+          "I want to eat the moon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Want' significa querer.",
+        "feedback_wrong": "The answer is: I want to eat ice cream."
+      },
+      {
+        "bot": "Você quer jogar futebol?",
+        "options": [
+          "Yes, I want to play soccer.",
+          "Yes, I want to eat soccer.",
+          "No, I want to sleep during soccer.",
+          "No, I want to run away from soccer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Want to' para desejos.",
+        "feedback_wrong": "The answer is: Yes, I want to play soccer."
+      },
+      {
+        "bot": "O que você quer fazer amanhã?",
+        "options": [
+          "I want to go to the park.",
+          "I want to eat the park.",
+          "I want to sleep inside the park.",
+          "I want to become a park."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Want to go' significa querer ir.",
+        "feedback_wrong": "The answer is: I want to go to the park."
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Wishes and desires",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você sempre quis fazer na vida?",
+        "options": [
+          "I have always wanted to travel the world.",
+          "I always wanted to travel the world.",
+          "I want to travel the world every day.",
+          "I am wanting to travel the world now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para desejos de vida.",
+        "feedback_wrong": "The answer is: I have always wanted to travel the world."
+      },
+      {
+        "bot": "O que você queria ser quando criança?",
+        "options": [
+          "I wanted to be a doctor.",
+          "I want to be a doctor when I grow up.",
+          "I have wanted to be a doctor.",
+          "I am wanting to be a doctor."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Past tense para sonhos de infância.",
+        "feedback_wrong": "The answer is: I wanted to be a doctor."
+      },
+      {
+        "bot": "Você quer que eu te ajude com isso?",
+        "options": [
+          "Yes, I would like some help, please.",
+          "Yes, I wanted help yesterday.",
+          "No, I want to sleep instead of help.",
+          "No, I don't like help, I like running."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Would like' é mais formal que 'want'.",
+        "feedback_wrong": "The answer is: Yes, I would like some help, please."
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Advanced expressions with 'want'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I don't want to burst your bubble, but that plan might not work.",
+        "options": [
+          "I appreciate the honesty. Let me reconsider it.",
+          "Why would you burst my bubble? That's dangerous!",
+          "I don't want bubbles, I want a solid plan.",
+          "You should pop bubbles instead of talking."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Burst your bubble' significa destruir ilusões.",
+        "feedback_wrong": "The answer is: I appreciate the honesty. Let me reconsider it."
+      },
+      {
+        "bot": "Você conhece 'want for nothing'?",
+        "options": [
+          "Yes, it means to have everything you need.",
+          "Yes, it means to want zero things.",
+          "No, but I know 'want for something'.",
+          "No, I prefer wanting many things."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! Significa não carecer de nada.",
+        "feedback_wrong": "The answer is: Yes, it means to have everything you need."
+      },
+      {
+        "bot": "The cat's out of the bag, and now everyone wants answers.",
+        "options": [
+          "I understand. Let's address their concerns.",
+          "I understand. Now the cat wants to answer questions.",
+          "That's weird, cats can't talk or answer.",
+          "That's funny, the cat should sleep instead of answering."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Cat's out of the bag' significa segredo revelado.",
+        "feedback_wrong": "The answer is: I understand. Let's address their concerns."
+      }
+    ]
+  },
+  {
+    "word": "look",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Describing appearance",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Como ele se parece?",
+        "options": [
+          "He looks tall and friendly.",
+          "He eats tall and friendly.",
+          "He does tall and friendly.",
+          "He sleeps tall and friendly."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Look' para aparência.",
+        "feedback_wrong": "The answer is: He looks tall and friendly."
+      },
+      {
+        "bot": "Você olha para a tela o dia todo?",
+        "options": [
+          "Yes, I look at the screen all day.",
+          "Yes, I eat the screen all day.",
+          "No, I do the screen all day.",
+          "No, I sleep with the screen all day."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Look at' para direção do olhar.",
+        "feedback_wrong": "The answer is: Yes, I look at the screen all day."
+      },
+      {
+        "bot": "O que você viu quando olhou pela janela?",
+        "options": [
+          "I saw a bird when I looked out the window.",
+          "I ate a bird when I looked out the window.",
+          "I did a bird when I looked out the window.",
+          "I slept with a bird when I looked out the window."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Looked' é o passado de 'look'.",
+        "feedback_wrong": "The answer is: I saw a bird when I looked out the window."
+      }
+    ]
+  },
+  {
+    "word": "look",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Looking for things",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você está procurando?",
+        "options": [
+          "I am looking for my keys.",
+          "I look for my keys every day.",
+          "I looked for my keys yesterday.",
+          "I have looked for my keys before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! 'Looking for' para busca em curso.",
+        "feedback_wrong": "The answer is: I am looking for my keys."
+      },
+      {
+        "bot": "Você já procurou seu passaporte?",
+        "options": [
+          "Yes, I have looked for my passport.",
+          "Yes, I looked for my passport yesterday.",
+          "No, I never look for passports because I sleep.",
+          "No, I am looking for my passport now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present perfect para buscas passadas.",
+        "feedback_wrong": "The answer is: Yes, I have looked for my passport."
+      },
+      {
+        "bot": "Onde você procurou as chaves?",
+        "options": [
+          "I looked for the keys in the drawer.",
+          "I look for the keys in the drawer every day.",
+          "I have looked for the keys in the drawer before.",
+          "I am looking for the keys in the drawer now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Looked for' para buscas no passado.",
+        "feedback_wrong": "The answer is: I looked for the keys in the drawer."
+      }
+    ]
+  },
+  {
+    "word": "look",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'look'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I'm looking forward to the vacation next month.",
+        "options": [
+          "Me too, it will be amazing!",
+          "Me too, I will eat the vacation.",
+          "Me too, I will sleep during the vacation.",
+          "Me too, I will run during the vacation."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Look forward to' significa antecipar com alegria.",
+        "feedback_wrong": "The answer is: Me too, it will be amazing!"
+      },
+      {
+        "bot": "Você conhece a expressão 'look on the bright side'?",
+        "options": [
+          "Yes, it means to focus on the positive.",
+          "Yes, it means to look at the sunny side.",
+          "No, but I know 'look on the sleep side'.",
+          "No, I prefer looking at the dark side."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre ver o lado bom das coisas.",
+        "feedback_wrong": "The answer is: Yes, it means to focus on the positive."
+      },
+      {
+        "bot": "Don't look down on him just because he's young.",
+        "options": [
+          "You're right, age doesn't define skill.",
+          "You're right, he should look down from the ceiling.",
+          "You're right, looking down is dangerous.",
+          "You're right, he should sleep instead of looking down."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Look down on' significa desprezar alguém.",
+        "feedback_wrong": "The answer is: You're right, age doesn't define skill."
+      }
+    ]
+  },
+  {
+    "word": "use",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Using everyday objects",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você usa para escrever?",
+        "options": [
+          "I use a pen to write.",
+          "I eat a pen to write.",
+          "I do a pen to write.",
+          "I sleep with a pen to write."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Use' significa usar.",
+        "feedback_wrong": "The answer is: I use a pen to write."
+      },
+      {
+        "bot": "Você usa computador no trabalho?",
+        "options": [
+          "Yes, I use a computer at work.",
+          "Yes, I eat a computer at work.",
+          "No, I do a computer at work.",
+          "No, I sleep with a computer at work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Use' para ferramentas e objetos.",
+        "feedback_wrong": "The answer is: Yes, I use a computer at work."
+      },
+      {
+        "bot": "O que você usou na aula de arte?",
+        "options": [
+          "I used paint in art class.",
+          "I ate paint in art class.",
+          "I did paint in art class.",
+          "I slept with paint in art class."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Used' é o passado de 'use'.",
+        "feedback_wrong": "The answer is: I used paint in art class."
+      }
+    ]
+  },
+  {
+    "word": "use",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Using technology",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já usou um tablet?",
+        "options": [
+          "Yes, I have used a tablet before.",
+          "Yes, I used a tablet yesterday.",
+          "No, I never use tablets because I sleep.",
+          "No, I am using a tablet now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have used a tablet before."
+      },
+      {
+        "bot": "O que você está usando para estudar?",
+        "options": [
+          "I am using an app to study.",
+          "I use an app to study every day.",
+          "I used an app to study yesterday.",
+          "I have used an app to study before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para uso em curso.",
+        "feedback_wrong": "The answer is: I am using an app to study."
+      },
+      {
+        "bot": "Como você usava para chegar à escola?",
+        "options": [
+          "I used to walk to school.",
+          "I use to walk to school every day.",
+          "I have used to walk to school before.",
+          "I am using to walk to school now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Used to' para hábitos passados.",
+        "feedback_wrong": "The answer is: I used to walk to school."
+      }
+    ]
+  },
+  {
+    "word": "use",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'use'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I'm used to waking up early, I've done it for years.",
+        "options": [
+          "That's a great habit to have.",
+          "That's a great habit to eat.",
+          "That's a great habit to sleep with.",
+          "That's a great habit to run with."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Be used to' significa estar acostumado.",
+        "feedback_wrong": "The answer is: That's a great habit to have."
+      },
+      {
+        "bot": "Você conhece a expressão 'use your head'?",
+        "options": [
+          "Yes, it means to think carefully.",
+          "Yes, it means to use your head as a tool.",
+          "No, but I know 'use your sleep'.",
+          "No, I prefer using my feet instead."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre usar o raciocínio.",
+        "feedback_wrong": "The answer is: Yes, it means to think carefully."
+      },
+      {
+        "bot": "Don't use up all the milk, we need some for breakfast.",
+        "options": [
+          "Sorry, I'll buy more later.",
+          "Sorry, I'll eat the rest of the milk.",
+          "Sorry, I'll sleep with the milk.",
+          "Sorry, I'll run away with the milk."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Use up' significa consumir completamente.",
+        "feedback_wrong": "The answer is: Sorry, I'll buy more later."
+      }
+    ]
+  },
+  {
+    "word": "find",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Finding lost objects",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você achou no chão?",
+        "options": [
+          "I found a coin on the floor.",
+          "I ate a coin on the floor.",
+          "I did a coin on the floor.",
+          "I slept with a coin on the floor."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Find' significa achar ou encontrar.",
+        "feedback_wrong": "The answer is: I found a coin on the floor."
+      },
+      {
+        "bot": "Você acha fácil aprender inglês?",
+        "options": [
+          "Yes, I find English easy to learn.",
+          "Yes, I eat English easy to learn.",
+          "No, I do English easy to learn.",
+          "No, I sleep when I learn English."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Find' para opiniões sobre dificuldade.",
+        "feedback_wrong": "The answer is: Yes, I find English easy to learn."
+      },
+      {
+        "bot": "Onde você achou suas chaves?",
+        "options": [
+          "I found my keys in the bag.",
+          "I ate my keys in the bag.",
+          "I did my keys in the bag.",
+          "I slept with my keys in the bag."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Found' é o passado de 'find'.",
+        "feedback_wrong": "The answer is: I found my keys in the bag."
+      }
+    ]
+  },
+  {
+    "word": "find",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Finding information",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já achou informações na internet?",
+        "options": [
+          "Yes, I have found information online.",
+          "Yes, I found information online yesterday.",
+          "No, I never find information because I sleep.",
+          "No, I am finding information now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have found information online."
+      },
+      {
+        "bot": "O que você está achando sobre o novo livro?",
+        "options": [
+          "I am finding the new book very interesting.",
+          "I find the new book very interesting every day.",
+          "I found the new book very interesting yesterday.",
+          "I have found the new book very interesting before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para descobertas em curso.",
+        "feedback_wrong": "The answer is: I am finding the new book very interesting."
+      },
+      {
+        "bot": "Como você achou o endereço da loja?",
+        "options": [
+          "I found the store address on Google Maps.",
+          "I find the store address on Google Maps every day.",
+          "I have found the store address on Google Maps before.",
+          "I am finding the store address on Google Maps now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Found' para descobertas no passado.",
+        "feedback_wrong": "The answer is: I found the store address on Google Maps."
+      }
+    ]
+  },
+  {
+    "word": "find",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'find'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I found out he was lying about his age.",
+        "options": [
+          "That's not good, honesty is important.",
+          "That's not good, you should eat his lies.",
+          "That's not good, you should sleep on his lies.",
+          "That's not good, you should run away from his lies."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Find out' significa descobrir algo.",
+        "feedback_wrong": "The answer is: That's not good, honesty is important."
+      },
+      {
+        "bot": "Você conhece a expressão 'find your feet'?",
+        "options": [
+          "Yes, it means to become comfortable in a new situation.",
+          "Yes, it means to find your own feet.",
+          "No, but I know 'find your sleep'.",
+          "No, I prefer finding my hands instead."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre se adaptar a algo novo.",
+        "feedback_wrong": "The answer is: Yes, it means to become comfortable in a new situation."
+      },
+      {
+        "bot": "You'll find your way, just keep trying.",
+        "options": [
+          "Thank you, I won't give up.",
+          "Thank you, I will eat my way.",
+          "Thank you, I will sleep on my way.",
+          "Thank you, I will run away from my way."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Find your way' significa encontrar o caminho certo.",
+        "feedback_wrong": "The answer is: Thank you, I won't give up."
+      }
+    ]
+  },
+  {
+    "word": "tell",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Telling simple things",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você me diz sobre o filme?",
+        "options": [
+          "I tell you the movie is great.",
+          "I eat you the movie is great.",
+          "I do you the movie is great.",
+          "I sleep with you the movie is great."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Tell' significa contar ou dizer.",
+        "feedback_wrong": "The answer is: I tell you the movie is great."
+      },
+      {
+        "bot": "Você conta histórias para seus filhos?",
+        "options": [
+          "Yes, I tell stories to my kids.",
+          "Yes, I eat stories to my kids.",
+          "No, I do stories to my kids.",
+          "No, I sleep with stories to my kids."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Tell' para histórias e informações.",
+        "feedback_wrong": "The answer is: Yes, I tell stories to my kids."
+      },
+      {
+        "bot": "O que ele te disse ontem?",
+        "options": [
+          "He told me he was busy.",
+          "He ate me he was busy.",
+          "He did me he was busy.",
+          "He slept with me he was busy."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Told' é o passado de 'tell'.",
+        "feedback_wrong": "The answer is: He told me he was busy."
+      }
+    ]
+  },
+  {
+    "word": "tell",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Telling the truth",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já contou a verdade para um amigo?",
+        "options": [
+          "Yes, I have told the truth to a friend.",
+          "Yes, I told the truth to a friend yesterday.",
+          "No, I never tell the truth because I sleep.",
+          "No, I am telling the truth now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have told the truth to a friend."
+      },
+      {
+        "bot": "O que você está contando para sua mãe?",
+        "options": [
+          "I am telling my mom about my day.",
+          "I tell my mom about my day every day.",
+          "I told my mom about my day yesterday.",
+          "I have told my mom about my day before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para ações em curso.",
+        "feedback_wrong": "The answer is: I am telling my mom about my day."
+      },
+      {
+        "bot": "Como você diz 'obrigado' em inglês?",
+        "options": [
+          "You tell 'thank you' in English.",
+          "You eat 'thank you' in English.",
+          "You do 'thank you' in English.",
+          "You sleep with 'thank you' in English."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Tell' para palavras e frases.",
+        "feedback_wrong": "The answer is: You tell 'thank you' in English."
+      }
+    ]
+  },
+  {
+    "word": "tell",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'tell'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I can tell you're tired, you should rest.",
+        "options": [
+          "You're right, I'll take a break.",
+          "You're right, I'll eat a break.",
+          "You're right, I'll sleep a break.",
+          "You're right, I'll run a break."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Can tell' significa perceber algo.",
+        "feedback_wrong": "The answer is: You're right, I'll take a break."
+      },
+      {
+        "bot": "Você conhece a expressão 'tell it like it is'?",
+        "options": [
+          "Yes, it means to be honest and direct.",
+          "Yes, it means to tell things exactly as they are.",
+          "No, but I know 'tell it like it sleeps'.",
+          "No, I prefer telling it like it's a joke."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre ser sincero e direto.",
+        "feedback_wrong": "The answer is: Yes, it means to be honest and direct."
+      },
+      {
+        "bot": "Time will tell if this plan works.",
+        "options": [
+          "I hope it does, we've worked hard.",
+          "I hope it does, we've eaten hard.",
+          "I hope it does, we've slept hard.",
+          "I hope it does, we've run hard."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Time will tell' significa que o tempo dirá.",
+        "feedback_wrong": "The answer is: I hope it does, we've worked hard."
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the office",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Onde você trabalha?",
+        "options": [
+          "I work in an office.",
+          "I work in the ocean.",
+          "I work when I sleep.",
+          "I work on the moon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Work' significa trabalhar.",
+        "feedback_wrong": "The answer is: I work in an office."
+      },
+      {
+        "bot": "Você gosta do seu trabalho?",
+        "options": [
+          "Yes, I like my work very much.",
+          "Yes, I eat my work every day.",
+          "No, I sleep during work.",
+          "No, I run away from work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Work' para emprego e tarefas.",
+        "feedback_wrong": "The answer is: Yes, I like my work very much."
+      },
+      {
+        "bot": "A que horas você termina o trabalho?",
+        "options": [
+          "I finish work at 5 PM.",
+          "I finish work in the morning.",
+          "I finish work when I eat.",
+          "I finish work on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Finish work' significa terminar o trabalho.",
+        "feedback_wrong": "The answer is: I finish work at 5 PM."
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Work experience and schedule",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Quanto tempo você trabalha aqui?",
+        "options": [
+          "I have worked here for two years.",
+          "I worked here for two years.",
+          "I work here for two years.",
+          "I am working here for two years."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para tempo contínuo.",
+        "feedback_wrong": "The answer is: I have worked here for two years."
+      },
+      {
+        "bot": "O que você estava fazendo quando o chefe chegou?",
+        "options": [
+          "I was working on the report.",
+          "I worked on the report.",
+          "I work on the report every day.",
+          "I am working on the report now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Past continuous para ações interrompidas.",
+        "feedback_wrong": "The answer is: I was working on the report."
+      },
+      {
+        "bot": "Você gostaria de trabalhar de casa?",
+        "options": [
+          "Yes, I would love to work from home.",
+          "Yes, I worked from home yesterday.",
+          "No, I prefer to sleep from home.",
+          "No, I don't like houses, I like offices."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Would love to' para desejos futuros.",
+        "feedback_wrong": "The answer is: Yes, I would love to work from home."
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Work idioms and career talk",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I have a lot on my plate at work right now. Can you help me?",
+        "options": [
+          "Of course! Let me know what you need help with.",
+          "You should eat from a smaller plate at work.",
+          "You should put your plate on the desk and work.",
+          "You should sleep with the plate on your head."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'A lot on my plate' significa estar muito ocupado.",
+        "feedback_wrong": "The answer is: Of course! Let me know what you need help with."
+      },
+      {
+        "bot": "Você conhece a frase 'work like a charm'?",
+        "options": [
+          "Yes, it means something works perfectly.",
+          "Yes, it means to work with magical charms.",
+          "No, but I know 'work like a sleep'.",
+          "No, I prefer working like a robot."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! Significa que algo funciona perfeitamente.",
+        "feedback_wrong": "The answer is: Yes, it means something works perfectly."
+      },
+      {
+        "bot": "The new system is still not working out the way we hoped.",
+        "options": [
+          "Maybe you need to adjust your approach.",
+          "Maybe the system needs to go to the gym to work out.",
+          "Maybe you should work inside the system.",
+          "Maybe the system is sleeping instead of working."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Working out' significa desenvolver com sucesso.",
+        "feedback_wrong": "The answer is: Maybe you need to adjust your approach."
+      }
+    ]
+  },
+  {
+    "word": "call",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Making phone calls",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Quem você liga todo dia?",
+        "options": [
+          "I call my mom every day.",
+          "I eat my mom every day.",
+          "I do my mom every day.",
+          "I sleep with my mom every day."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Call' significa ligar para alguém.",
+        "feedback_wrong": "The answer is: I call my mom every day."
+      },
+      {
+        "bot": "Você ligou para o médico?",
+        "options": [
+          "Yes, I called the doctor.",
+          "Yes, I eat the doctor.",
+          "No, I do the doctor.",
+          "No, I sleep with the doctor."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Called' é o passado de 'call'.",
+        "feedback_wrong": "The answer is: Yes, I called the doctor."
+      },
+      {
+        "bot": "O que você diz quando liga para um amigo?",
+        "options": [
+          "I say 'hello' when I call a friend.",
+          "I eat 'hello' when I call a friend.",
+          "I do 'hello' when I call a friend.",
+          "I sleep with 'hello' when I call a friend."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Call' para comunicação por telefone.",
+        "feedback_wrong": "The answer is: I say 'hello' when I call a friend."
+      }
+    ]
+  },
+  {
+    "word": "call",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past calls and messages",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já ligou para o suporte técnico?",
+        "options": [
+          "Yes, I have called technical support.",
+          "Yes, I called technical support yesterday.",
+          "No, I never call support because I sleep.",
+          "No, I am calling support now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have called technical support."
+      },
+      {
+        "bot": "O que você está ligando para perguntar?",
+        "options": [
+          "I am calling to ask about the job.",
+          "I call to ask about the job every day.",
+          "I called to ask about the job yesterday.",
+          "I have called to ask about the job before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para ligações em curso.",
+        "feedback_wrong": "The answer is: I am calling to ask about the job."
+      },
+      {
+        "bot": "Como você se sente quando ligam para você?",
+        "options": [
+          "I feel happy when someone calls me.",
+          "I feel happy when someone eats me.",
+          "I feel happy when someone does me.",
+          "I feel happy when someone sleeps with me."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Call' para ações de terceiros.",
+        "feedback_wrong": "The answer is: I feel happy when someone calls me."
+      }
+    ]
+  },
+  {
+    "word": "call",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'call'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I call the shots here, so listen to me.",
+        "options": [
+          "Understood, I'll follow your lead.",
+          "Understood, I'll eat your shots.",
+          "Understood, I'll sleep on your shots.",
+          "Understood, I'll run away from your shots."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Call the shots' significa ser o líder.",
+        "feedback_wrong": "The answer is: Understood, I'll follow your lead."
+      },
+      {
+        "bot": "Você conhece a expressão 'call it a day'?",
+        "options": [
+          "Yes, it means to stop working for the day.",
+          "Yes, it means to name the day.",
+          "No, but I know 'call it a sleep'.",
+          "No, I prefer calling it a night instead."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre encerrar as atividades do dia.",
+        "feedback_wrong": "The answer is: Yes, it means to stop working for the day."
+      },
+      {
+        "bot": "We can call on him for help, he's very reliable.",
+        "options": [
+          "Good idea, let's ask him.",
+          "Good idea, let's eat him for help.",
+          "Good idea, let's sleep on him for help.",
+          "Good idea, let's run away with him for help."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Call on' significa recorrer a alguém.",
+        "feedback_wrong": "The answer is: Good idea, let's ask him."
+      }
+    ]
+  },
+  {
+    "word": "try",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Trying new things",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já provou comida japonesa?",
+        "options": [
+          "Yes, I tried Japanese food.",
+          "Yes, I ate Japanese food.",
+          "No, I do Japanese food.",
+          "No, I sleep with Japanese food."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Try' significa experimentar.",
+        "feedback_wrong": "The answer is: Yes, I tried Japanese food."
+      },
+      {
+        "bot": "Você tenta falar inglês todo dia?",
+        "options": [
+          "Yes, I try to speak English every day.",
+          "Yes, I eat to speak English every day.",
+          "No, I do to speak English every day.",
+          "No, I sleep when I speak English."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Try to' para tentar fazer algo.",
+        "feedback_wrong": "The answer is: Yes, I try to speak English every day."
+      },
+      {
+        "bot": "O que você tentou fazer ontem?",
+        "options": [
+          "I tried to fix my bike yesterday.",
+          "I ate to fix my bike yesterday.",
+          "I did to fix my bike yesterday.",
+          "I slept to fix my bike yesterday."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Tried' é o passado de 'try'.",
+        "feedback_wrong": "The answer is: I tried to fix my bike yesterday."
+      }
+    ]
+  },
+  {
+    "word": "try",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Trying experiences",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já tentou aprender um instrumento?",
+        "options": [
+          "Yes, I have tried to learn an instrument.",
+          "Yes, I tried to learn an instrument yesterday.",
+          "No, I never try to learn instruments because I sleep.",
+          "No, I am trying to learn an instrument now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have tried to learn an instrument."
+      },
+      {
+        "bot": "O que você está tentando fazer agora?",
+        "options": [
+          "I am trying to solve this problem.",
+          "I try to solve this problem every day.",
+          "I tried to solve this problem yesterday.",
+          "I have tried to solve this problem before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para tentativas em curso.",
+        "feedback_wrong": "The answer is: I am trying to solve this problem."
+      },
+      {
+        "bot": "Como você tentou resolver o problema?",
+        "options": [
+          "I tried to ask for help.",
+          "I try to ask for help every day.",
+          "I have tried to ask for help before.",
+          "I am trying to ask for help now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Tried to' para tentativas passadas.",
+        "feedback_wrong": "The answer is: I tried to ask for help."
+      }
+    ]
+  },
+  {
+    "word": "try",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'try'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I'm trying my best, but it's still not working.",
+        "options": [
+          "Keep going, you'll get it soon.",
+          "Keep going, you'll eat it soon.",
+          "Keep going, you'll sleep on it soon.",
+          "Keep going, you'll run away from it soon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Trying my best' significa dar o seu melhor.",
+        "feedback_wrong": "The answer is: Keep going, you'll get it soon."
+      },
+      {
+        "bot": "Você conhece a expressão 'try your luck'?",
+        "options": [
+          "Yes, it means to take a risk to get something.",
+          "Yes, it means to test your luck with a game.",
+          "No, but I know 'try your sleep'.",
+          "No, I prefer trying my luck with food."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre arriscar para conseguir algo.",
+        "feedback_wrong": "The answer is: Yes, it means to take a risk to get something."
+      },
+      {
+        "bot": "Don't try this at home, kids!",
+        "options": [
+          "I know, it's dangerous.",
+          "I know, I should eat it at home.",
+          "I know, I should sleep when I try it.",
+          "I know, I should run when I try it."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Try this at home' é um aviso comum.",
+        "feedback_wrong": "The answer is: I know, it's dangerous."
+      }
+    ]
+  },
+  {
+    "word": "ask",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Asking simple questions",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você pergunta ao professor?",
+        "options": [
+          "I ask the teacher about homework.",
+          "I eat the teacher about homework.",
+          "I do the teacher about homework.",
+          "I sleep with the teacher about homework."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Ask' significa perguntar.",
+        "feedback_wrong": "The answer is: I ask the teacher about homework."
+      },
+      {
+        "bot": "Você pede ajuda quando não sabe algo?",
+        "options": [
+          "Yes, I ask for help when I don't know.",
+          "Yes, I eat for help when I don't know.",
+          "No, I do for help when I don't know.",
+          "No, I sleep when I don't know."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Ask for' para pedir algo.",
+        "feedback_wrong": "The answer is: Yes, I ask for help when I don't know."
+      },
+      {
+        "bot": "O que você perguntou ontem?",
+        "options": [
+          "I asked about the test yesterday.",
+          "I ate about the test yesterday.",
+          "I did about the test yesterday.",
+          "I slept about the test yesterday."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Asked' é o passado de 'ask'.",
+        "feedback_wrong": "The answer is: I asked about the test yesterday."
+      }
+    ]
+  },
+  {
+    "word": "ask",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Asking for permission",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já pediu permissão para sair cedo?",
+        "options": [
+          "Yes, I have asked to leave early.",
+          "Yes, I asked to leave early yesterday.",
+          "No, I never ask to leave early because I sleep.",
+          "No, I am asking to leave early now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have asked to leave early."
+      },
+      {
+        "bot": "O que você está pedindo para o seu chefe?",
+        "options": [
+          "I am asking for a raise.",
+          "I ask for a raise every year.",
+          "I asked for a raise last year.",
+          "I have asked for a raise before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para pedidos em curso.",
+        "feedback_wrong": "The answer is: I am asking for a raise."
+      },
+      {
+        "bot": "Como você pede informações na rua?",
+        "options": [
+          "I ask strangers for directions.",
+          "I eat strangers for directions.",
+          "I do strangers for directions.",
+          "I sleep with strangers for directions."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Ask for' para pedir informações.",
+        "feedback_wrong": "The answer is: I ask strangers for directions."
+      }
+    ]
+  },
+  {
+    "word": "ask",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'ask'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I ask a lot of questions, that's how I learn.",
+        "options": [
+          "That's a great way to learn!",
+          "That's a great way to eat!",
+          "That's a great way to sleep!",
+          "That's a great way to run!"
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Ask questions' é fundamental para aprender.",
+        "feedback_wrong": "The answer is: That's a great way to learn!"
+      },
+      {
+        "bot": "Você conhece a expressão 'ask for trouble'?",
+        "options": [
+          "Yes, it means to do something risky that will cause problems.",
+          "Yes, it means to ask for problems directly.",
+          "No, but I know 'ask for sleep'.",
+          "No, I prefer asking for help instead."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre provocar problemas por imprudência.",
+        "feedback_wrong": "The answer is: Yes, it means to do something risky that will cause problems."
+      },
+      {
+        "bot": "Don't ask me, I don't know either.",
+        "options": [
+          "Okay, I'll ask someone else.",
+          "Okay, I'll eat someone else.",
+          "Okay, I'll sleep with someone else.",
+          "Okay, I'll run away with someone else."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Don't ask me' é uma forma de dizer que não sabe.",
+        "feedback_wrong": "The answer is: Okay, I'll ask someone else."
+      }
+    ]
+  },
+  {
+    "word": "need",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Basic needs",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você precisa para a aula?",
+        "options": [
+          "I need a notebook for class.",
+          "I eat a notebook for class.",
+          "I do a notebook for class.",
+          "I sleep with a notebook for class."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Need' significa precisar.",
+        "feedback_wrong": "The answer is: I need a notebook for class."
+      },
+      {
+        "bot": "Você precisa de ajuda com a tarefa?",
+        "options": [
+          "Yes, I need help with homework.",
+          "Yes, I eat help with homework.",
+          "No, I do help with homework.",
+          "No, I sleep with help with homework."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Need' para necessidades básicas.",
+        "feedback_wrong": "The answer is: Yes, I need help with homework."
+      },
+      {
+        "bot": "O que você precisou comprar no supermercado?",
+        "options": [
+          "I needed to buy milk at the supermarket.",
+          "I ate to buy milk at the supermarket.",
+          "I did to buy milk at the supermarket.",
+          "I slept to buy milk at the supermarket."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Needed' é o passado de 'need'.",
+        "feedback_wrong": "The answer is: I needed to buy milk at the supermarket."
+      }
+    ]
+  },
+  {
+    "word": "need",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Needing things in the past",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já precisou de um tradutor?",
+        "options": [
+          "Yes, I have needed a translator before.",
+          "Yes, I needed a translator yesterday.",
+          "No, I never need translators because I sleep.",
+          "No, I am needing a translator now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para necessidades passadas.",
+        "feedback_wrong": "The answer is: Yes, I have needed a translator before."
+      },
+      {
+        "bot": "O que você está precisando agora?",
+        "options": [
+          "I am needing a glass of water.",
+          "I need a glass of water every day.",
+          "I needed a glass of water yesterday.",
+          "I have needed a glass of water before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Need' é verbo de estado, raramente usa continuous.",
+        "feedback_wrong": "The answer is: I am needing a glass of water."
+      },
+      {
+        "bot": "Como você se sente quando precisa de algo urgente?",
+        "options": [
+          "I feel anxious when I need something urgent.",
+          "I feel anxious when I eat something urgent.",
+          "I feel anxious when I do something urgent.",
+          "I feel anxious when I sleep with something urgent."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Need' para urgências.",
+        "feedback_wrong": "The answer is: I feel anxious when I need something urgent."
+      }
+    ]
+  },
+  {
+    "word": "need",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'need'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I need a break, I've been working all day.",
+        "options": [
+          "Take a rest, you deserve it.",
+          "Take a rest, you should eat the break.",
+          "Take a rest, you should sleep on the break.",
+          "Take a rest, you should run with the break."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Need a break' significa precisar de um descanso.",
+        "feedback_wrong": "The answer is: Take a rest, you deserve it."
+      },
+      {
+        "bot": "Você conhece a expressão 'needless to say'?",
+        "options": [
+          "Yes, it means it's obvious and doesn't need to be said.",
+          "Yes, it means it's not necessary to say anything.",
+          "No, but I know 'needless to sleep'.",
+          "No, I prefer saying everything anyway."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre algo óbvio que não precisa ser dito.",
+        "feedback_wrong": "The answer is: Yes, it means it's obvious and doesn't need to be said."
+      },
+      {
+        "bot": "We need to talk about this problem seriously.",
+        "options": [
+          "You're right, let's discuss it now.",
+          "You're right, let's eat it now.",
+          "You're right, let's sleep on it now.",
+          "You're right, let's run away from it now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Need to talk' significa precisar conversar seriamente.",
+        "feedback_wrong": "The answer is: You're right, let's discuss it now."
+      }
+    ]
+  },
+  {
+    "word": "feel",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Feelings and emotions",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Como você se sente hoje?",
+        "options": [
+          "I feel happy today.",
+          "I eat happy today.",
+          "I do happy today.",
+          "I sleep happy today."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Feel' significa sentir.",
+        "feedback_wrong": "The answer is: I feel happy today."
+      },
+      {
+        "bot": "Você se sente cansado depois do trabalho?",
+        "options": [
+          "Yes, I feel tired after work.",
+          "Yes, I eat tired after work.",
+          "No, I do tired after work.",
+          "No, I sleep after work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Feel' para emoções e sensações.",
+        "feedback_wrong": "The answer is: Yes, I feel tired after work."
+      },
+      {
+        "bot": "O que você sentiu quando ganhou o prêmio?",
+        "options": [
+          "I felt excited when I won the prize.",
+          "I ate excited when I won the prize.",
+          "I did excited when I won the prize.",
+          "I slept excited when I won the prize."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Felt' é o passado de 'feel'.",
+        "feedback_wrong": "The answer is: I felt excited when I won the prize."
+      }
+    ]
+  },
+  {
+    "word": "feel",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past feelings",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já se sentiu sozinho?",
+        "options": [
+          "Yes, I have felt lonely before.",
+          "Yes, I felt lonely yesterday.",
+          "No, I never feel lonely because I sleep.",
+          "No, I am feeling lonely now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para sentimentos passados.",
+        "feedback_wrong": "The answer is: Yes, I have felt lonely before."
+      },
+      {
+        "bot": "O que você está sentindo agora?",
+        "options": [
+          "I am feeling a bit sad.",
+          "I feel a bit sad every day.",
+          "I felt a bit sad yesterday.",
+          "I have felt a bit sad before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para sentimentos em curso.",
+        "feedback_wrong": "The answer is: I am feeling a bit sad."
+      },
+      {
+        "bot": "Como você se sentia quando era criança?",
+        "options": [
+          "I felt happy when I was a child.",
+          "I feel happy when I was a child.",
+          "I have felt happy when I was a child.",
+          "I am feeling happy when I was a child."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Felt' para sentimentos no passado.",
+        "feedback_wrong": "The answer is: I felt happy when I was a child."
+      }
+    ]
+  },
+  {
+    "word": "feel",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'feel'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I feel like going out tonight, want to join?",
+        "options": [
+          "Sure, that sounds fun!",
+          "Sure, that sounds like eating!",
+          "Sure, that sounds like sleeping!",
+          "Sure, that sounds like running!"
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Feel like' significa ter vontade de.",
+        "feedback_wrong": "The answer is: Sure, that sounds fun!"
+      },
+      {
+        "bot": "Você conhece a expressão 'feel under the weather'?",
+        "options": [
+          "Yes, it means to feel a bit sick.",
+          "Yes, it means to feel cold outside.",
+          "No, but I know 'feel under the sleep'.",
+          "No, I prefer feeling under the sun."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre sentir-se um pouco doente.",
+        "feedback_wrong": "The answer is: Yes, it means to feel a bit sick."
+      },
+      {
+        "bot": "Don't feel bad about it, it wasn't your fault.",
+        "options": [
+          "Thank you, I feel better now.",
+          "Thank you, I feel like eating now.",
+          "Thank you, I feel like sleeping now.",
+          "Thank you, I feel like running now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Feel bad' significa sentir-se culpado ou triste.",
+        "feedback_wrong": "The answer is: Thank you, I feel better now."
+      }
+    ]
+  },
+  {
+    "word": "become",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Future dreams",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você quer ser quando crescer?",
+        "options": [
+          "I want to become a doctor.",
+          "I want to eat a doctor.",
+          "I want to do a doctor.",
+          "I want to sleep with a doctor."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Become' significa tornar-se.",
+        "feedback_wrong": "The answer is: I want to become a doctor."
+      },
+      {
+        "bot": "Você quer se tornar um professor?",
+        "options": [
+          "Yes, I want to become a teacher.",
+          "Yes, I want to eat a teacher.",
+          "No, I want to do a teacher.",
+          "No, I want to sleep with a teacher."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Become' para profissões e identidade.",
+        "feedback_wrong": "The answer is: Yes, I want to become a teacher."
+      },
+      {
+        "bot": "O que ele se tornou depois da faculdade?",
+        "options": [
+          "He became an engineer after college.",
+          "He ate an engineer after college.",
+          "He did an engineer after college.",
+          "He slept an engineer after college."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Became' é o passado de 'become'.",
+        "feedback_wrong": "The answer is: He became an engineer after college."
+      }
+    ]
+  },
+  {
+    "word": "become",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Becoming experiences",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já se tornou fluente em outro idioma?",
+        "options": [
+          "Yes, I have become fluent in Spanish.",
+          "Yes, I became fluent in Spanish last year.",
+          "No, I never become fluent because I sleep.",
+          "No, I am becoming fluent now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para mudanças de estado.",
+        "feedback_wrong": "The answer is: Yes, I have become fluent in Spanish."
+      },
+      {
+        "bot": "O que você está se tornando agora?",
+        "options": [
+          "I am becoming more confident.",
+          "I become more confident every day.",
+          "I became more confident last year.",
+          "I have become more confident before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para mudanças em curso.",
+        "feedback_wrong": "The answer is: I am becoming more confident."
+      },
+      {
+        "bot": "Como você se sente ao se tornar adulto?",
+        "options": [
+          "I feel excited to become an adult.",
+          "I feel excited to eat an adult.",
+          "I feel excited to do an adult.",
+          "I feel excited to sleep with an adult."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Become' para transições de vida.",
+        "feedback_wrong": "The answer is: I feel excited to become an adult."
+      }
+    ]
+  },
+  {
+    "word": "become",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'become'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "He became a household name after the movie.",
+        "options": [
+          "That's amazing, he's very famous now.",
+          "That's amazing, he's very eaten now.",
+          "That's amazing, he's very slept now.",
+          "That's amazing, he's very run now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Household name' significa muito famoso.",
+        "feedback_wrong": "The answer is: That's amazing, he's very famous now."
+      },
+      {
+        "bot": "Você conhece a expressão 'become of age'?",
+        "options": [
+          "Yes, it means to reach the legal age of adulthood.",
+          "Yes, it means to become old.",
+          "No, but I know 'become of sleep'.",
+          "No, I prefer becoming of age to eat."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre atingir a maioridade.",
+        "feedback_wrong": "The answer is: Yes, it means to reach the legal age of adulthood."
+      },
+      {
+        "bot": "What became of your old toys?",
+        "options": [
+          "I gave them to my younger cousin.",
+          "I gave them to my younger eat.",
+          "I gave them to my younger sleep.",
+          "I gave them to my younger run."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'What became of' significa o que aconteceu com.",
+        "feedback_wrong": "The answer is: I gave them to my younger cousin."
+      }
+    ]
+  },
+  {
+    "word": "leave",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Leaving places",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Quando você sai de casa?",
+        "options": [
+          "I leave home at 7 AM.",
+          "I eat home at 7 AM.",
+          "I do home at 7 AM.",
+          "I sleep home at 7 AM."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Leave' significa sair.",
+        "feedback_wrong": "The answer is: I leave home at 7 AM."
+      },
+      {
+        "bot": "Você sai para o almoço?",
+        "options": [
+          "Yes, I leave for lunch.",
+          "Yes, I eat for lunch.",
+          "No, I do for lunch.",
+          "No, I sleep for lunch."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Leave for' para sair com um destino.",
+        "feedback_wrong": "The answer is: Yes, I leave for lunch."
+      },
+      {
+        "bot": "O que você deixou na mesa?",
+        "options": [
+          "I left my keys on the table.",
+          "I ate my keys on the table.",
+          "I did my keys on the table.",
+          "I slept my keys on the table."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Left' é o passado de 'leave'.",
+        "feedback_wrong": "The answer is: I left my keys on the table."
+      }
+    ]
+  },
+  {
+    "word": "leave",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Leaving experiences",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já saiu do trabalho cedo?",
+        "options": [
+          "Yes, I have left work early before.",
+          "Yes, I left work early yesterday.",
+          "No, I never leave work early because I sleep.",
+          "No, I am leaving work early now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have left work early before."
+      },
+      {
+        "bot": "O que você está deixando para trás?",
+        "options": [
+          "I am leaving my old habits behind.",
+          "I leave my old habits behind every day.",
+          "I left my old habits behind last year.",
+          "I have left my old habits behind before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para ações em curso.",
+        "feedback_wrong": "The answer is: I am leaving my old habits behind."
+      },
+      {
+        "bot": "Como você se sente ao sair de férias?",
+        "options": [
+          "I feel excited when I leave for vacation.",
+          "I feel excited when I eat for vacation.",
+          "I feel excited when I do for vacation.",
+          "I feel excited when I sleep for vacation."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Leave for' para viagens.",
+        "feedback_wrong": "The answer is: I feel excited when I leave for vacation."
+      }
+    ]
+  },
+  {
+    "word": "leave",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'leave'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Leave it to me, I'll handle everything.",
+        "options": [
+          "Thank you, I trust you.",
+          "Thank you, I'll eat it to you.",
+          "Thank you, I'll sleep it to you.",
+          "Thank you, I'll run it to you."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Leave it to me' significa deixar algo a cargo de alguém.",
+        "feedback_wrong": "The answer is: Thank you, I trust you."
+      },
+      {
+        "bot": "Você conhece a expressão 'leave no stone unturned'?",
+        "options": [
+          "Yes, it means to try every possible way to achieve something.",
+          "Yes, it means to not turn over any stones.",
+          "No, but I know 'leave no sleep unturned'.",
+          "No, I prefer leaving stones unturned."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre tentar tudo para conseguir algo.",
+        "feedback_wrong": "The answer is: Yes, it means to try every possible way to achieve something."
+      },
+      {
+        "bot": "Don't leave me hanging, tell me the answer!",
+        "options": [
+          "Sorry, the answer is 42.",
+          "Sorry, I'll eat the answer to you.",
+          "Sorry, I'll sleep the answer to you.",
+          "Sorry, I'll run the answer to you."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Leave me hanging' significa deixar no suspense.",
+        "feedback_wrong": "The answer is: Sorry, the answer is 42."
+      }
+    ]
+  },
+  {
+    "word": "put",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Putting objects away",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Onde você coloca as chaves?",
+        "options": [
+          "I put my keys in the drawer.",
+          "I eat my keys in the drawer.",
+          "I do my keys in the drawer.",
+          "I sleep my keys in the drawer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Put' significa colocar.",
+        "feedback_wrong": "The answer is: I put my keys in the drawer."
+      },
+      {
+        "bot": "Você coloca o lixo para fora?",
+        "options": [
+          "Yes, I put the trash out every day.",
+          "Yes, I eat the trash out every day.",
+          "No, I do the trash out every day.",
+          "No, I sleep with the trash out every day."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Put out' para tirar o lixo.",
+        "feedback_wrong": "The answer is: Yes, I put the trash out every day."
+      },
+      {
+        "bot": "O que você colocou na mochila?",
+        "options": [
+          "I put my book in the backpack.",
+          "I ate my book in the backpack.",
+          "I did my book in the backpack.",
+          "I slept my book in the backpack."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Put' é irregular, passado igual ao presente.",
+        "feedback_wrong": "The answer is: I put my book in the backpack."
+      }
+    ]
+  },
+  {
+    "word": "put",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Putting experiences",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já colocou um adesivo na agenda?",
+        "options": [
+          "Yes, I have put a sticker in my planner.",
+          "Yes, I put a sticker in my planner yesterday.",
+          "No, I never put stickers because I sleep.",
+          "No, I am putting a sticker now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have put a sticker in my planner."
+      },
+      {
+        "bot": "O que você está colocando na parede?",
+        "options": [
+          "I am putting a picture on the wall.",
+          "I put a picture on the wall every day.",
+          "I put a picture on the wall yesterday.",
+          "I have put a picture on the wall before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para ações em curso.",
+        "feedback_wrong": "The answer is: I am putting a picture on the wall."
+      },
+      {
+        "bot": "Como você coloca a mesa para o jantar?",
+        "options": [
+          "I put plates and forks on the table.",
+          "I eat plates and forks on the table.",
+          "I do plates and forks on the table.",
+          "I sleep with plates and forks on the table."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Put' para preparar a mesa.",
+        "feedback_wrong": "The answer is: I put plates and forks on the table."
+      }
+    ]
+  },
+  {
+    "word": "put",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'put'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I put off doing my homework until tomorrow.",
+        "options": [
+          "You should do it now to avoid stress.",
+          "You should eat it now to avoid stress.",
+          "You should sleep on it now to avoid stress.",
+          "You should run away from it now to avoid stress."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Put off' significa adiar algo.",
+        "feedback_wrong": "The answer is: You should do it now to avoid stress."
+      },
+      {
+        "bot": "Você conhece a expressão 'put yourself in my shoes'?",
+        "options": [
+          "Yes, it means to imagine being in someone else's situation.",
+          "Yes, it means to wear my shoes.",
+          "No, but I know 'put yourself in my sleep'.",
+          "No, I prefer putting myself in my hat."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre empatia e se colocar no lugar do outro.",
+        "feedback_wrong": "The answer is: Yes, it means to imagine being in someone else's situation."
+      },
+      {
+        "bot": "Put your money where your mouth is and show me what you can do.",
+        "options": [
+          "Watch me, I'll prove it to you.",
+          "Watch me, I'll eat it to you.",
+          "Watch me, I'll sleep it to you.",
+          "Watch me, I'll run it to you."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Put your money where your mouth is' significa provar com ações.",
+        "feedback_wrong": "The answer is: Watch me, I'll prove it to you."
+      }
+    ]
+  },
+  {
+    "word": "mean",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Meaning of words",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que significa 'hello' em português?",
+        "options": [
+          "It means 'olá' in Portuguese.",
+          "It eats 'olá' in Portuguese.",
+          "It does 'olá' in Portuguese.",
+          "It sleeps 'olá' in Portuguese."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Mean' significa significar.",
+        "feedback_wrong": "The answer is: It means 'olá' in Portuguese."
+      },
+      {
+        "bot": "Você sabe o que 'thank you' significa?",
+        "options": [
+          "Yes, it means 'obrigado'.",
+          "Yes, it eats 'obrigado'.",
+          "No, it does 'obrigado'.",
+          "No, it sleeps 'obrigado'."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Mean' para tradução e significado.",
+        "feedback_wrong": "The answer is: Yes, it means 'obrigado'."
+      },
+      {
+        "bot": "O que 'goodbye' queria dizer?",
+        "options": [
+          "It meant 'tchau'.",
+          "It ate 'tchau'.",
+          "It did 'tchau'.",
+          "It slept 'tchau'."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Meant' é o passado de 'mean'.",
+        "feedback_wrong": "The answer is: It meant 'tchau'."
+      }
+    ]
+  },
+  {
+    "word": "mean",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Meaning of actions",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você quis dizer com isso?",
+        "options": [
+          "I meant that it was a good idea.",
+          "I eat that it was a good idea.",
+          "I do that it was a good idea.",
+          "I sleep that it was a good idea."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! 'Meant' para intenções passadas.",
+        "feedback_wrong": "The answer is: I meant that it was a good idea."
+      },
+      {
+        "bot": "Você já quis dizer algo e foi mal interpretado?",
+        "options": [
+          "Yes, I have meant something and been misunderstood.",
+          "Yes, I meant something and was misunderstood yesterday.",
+          "No, I never mean things because I sleep.",
+          "No, I am meaning something now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have meant something and been misunderstood."
+      },
+      {
+        "bot": "O que você está querendo dizer com esse sorriso?",
+        "options": [
+          "I am meaning that I agree with you.",
+          "I mean that I agree with you every day.",
+          "I meant that I agree with you yesterday.",
+          "I have meant that I agree with you before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Mean' para intenções atuais.",
+        "feedback_wrong": "The answer is: I am meaning that I agree with you."
+      }
+    ]
+  },
+  {
+    "word": "mean",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'mean'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I don't mean to interrupt, but can I say something?",
+        "options": [
+          "Of course, go ahead.",
+          "Of course, go eat.",
+          "Of course, go sleep.",
+          "Of course, go run."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Don't mean to' significa não ter a intenção de.",
+        "feedback_wrong": "The answer is: Of course, go ahead."
+      },
+      {
+        "bot": "Você conhece a expressão 'mean business'?",
+        "options": [
+          "Yes, it means to be serious about what you're doing.",
+          "Yes, it means to mean business things.",
+          "No, but I know 'mean sleep'.",
+          "No, I prefer meaning fun instead of business."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre ser sério e focado em objetivos.",
+        "feedback_wrong": "The answer is: Yes, it means to be serious about what you're doing."
+      },
+      {
+        "bot": "What do you mean, you lost the ticket?",
+        "options": [
+          "I'm sorry, I can't find it anywhere.",
+          "I'm sorry, I can't eat it anywhere.",
+          "I'm sorry, I can't sleep it anywhere.",
+          "I'm sorry, I can't run it anywhere."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'What do you mean' é uma forma de pedir explicações.",
+        "feedback_wrong": "The answer is: I'm sorry, I can't find it anywhere."
+      }
+    ]
+  },
+  {
+    "word": "keep",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Keeping objects",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você guarda na gaveta?",
+        "options": [
+          "I keep my socks in the drawer.",
+          "I eat my socks in the drawer.",
+          "I do my socks in the drawer.",
+          "I sleep my socks in the drawer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Keep' significa guardar ou manter.",
+        "feedback_wrong": "The answer is: I keep my socks in the drawer."
+      },
+      {
+        "bot": "Você mantém um diário?",
+        "options": [
+          "Yes, I keep a diary.",
+          "Yes, I eat a diary.",
+          "No, I do a diary.",
+          "No, I sleep with a diary."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Keep' para manter hábitos.",
+        "feedback_wrong": "The answer is: Yes, I keep a diary."
+      },
+      {
+        "bot": "O que você manteve de segredo?",
+        "options": [
+          "I kept the secret for a long time.",
+          "I ate the secret for a long time.",
+          "I did the secret for a long time.",
+          "I slept the secret for a long time."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Kept' é o passado de 'keep'.",
+        "feedback_wrong": "The answer is: I kept the secret for a long time."
+      }
+    ]
+  },
+  {
+    "word": "keep",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Keeping promises",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já manteve uma promessa difícil?",
+        "options": [
+          "Yes, I have kept a hard promise before.",
+          "Yes, I kept a hard promise yesterday.",
+          "No, I never keep promises because I sleep.",
+          "No, I am keeping a promise now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have kept a hard promise before."
+      },
+      {
+        "bot": "O que você está mantendo em segredo?",
+        "options": [
+          "I am keeping a surprise party a secret.",
+          "I keep a surprise party a secret every day.",
+          "I kept a surprise party a secret last week.",
+          "I have kept a surprise party a secret before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para ações em curso.",
+        "feedback_wrong": "The answer is: I am keeping a surprise party a secret."
+      },
+      {
+        "bot": "Como você mantém o foco no trabalho?",
+        "options": [
+          "I keep focused by turning off my phone.",
+          "I eat focused by turning off my phone.",
+          "I do focused by turning off my phone.",
+          "I sleep focused by turning off my phone."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Keep' para manter um estado.",
+        "feedback_wrong": "The answer is: I keep focused by turning off my phone."
+      }
+    ]
+  },
+  {
+    "word": "keep",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'keep'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Keep up the good work, you're doing great!",
+        "options": [
+          "Thank you, I'll keep trying.",
+          "Thank you, I'll keep eating.",
+          "Thank you, I'll keep sleeping.",
+          "Thank you, I'll keep running."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Keep up' significa manter um esforço positivo.",
+        "feedback_wrong": "The answer is: Thank you, I'll keep trying."
+      },
+      {
+        "bot": "Você conhece a expressão 'keep your chin up'?",
+        "options": [
+          "Yes, it means to stay positive in bad times.",
+          "Yes, it means to keep your chin up physically.",
+          "No, but I know 'keep your sleep up'.",
+          "No, I prefer keeping my head down."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre manter o otimismo em momentos difíceis.",
+        "feedback_wrong": "The answer is: Yes, it means to stay positive in bad times."
+      },
+      {
+        "bot": "Keep an eye on my bag while I go to the bathroom.",
+        "options": [
+          "Sure, I'll watch it for you.",
+          "Sure, I'll eat it for you.",
+          "Sure, I'll sleep it for you.",
+          "Sure, I'll run it for you."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Keep an eye on' significa vigiar ou cuidar de.",
+        "feedback_wrong": "The answer is: Sure, I'll watch it for you."
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the park",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você gosta de correr?",
+        "options": [
+          "Yes, I run every day.",
+          "No, I prefer walking.",
+          "I run on weekends.",
+          "I don't like sports."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Run' significa correr.",
+        "feedback_wrong": "The answer is: Yes, I run every day."
+      },
+      {
+        "bot": "Onde você geralmente corre?",
+        "options": [
+          "I run in the park.",
+          "I run in the kitchen.",
+          "I run in the office.",
+          "I run in the bed."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! Parques são ótimos para correr!",
+        "feedback_wrong": "The answer is: I run in the park."
+      },
+      {
+        "bot": "A que horas você corre?",
+        "options": [
+          "I run in the morning.",
+          "I run at night in my room.",
+          "I run when I sleep.",
+          "I run inside the refrigerator."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! Morning é pela manhã.",
+        "feedback_wrong": "The answer is: I run in the morning."
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Talking about exercise routine",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Quando você começou a correr?",
+        "options": [
+          "I started running last year.",
+          "I will start running tomorrow.",
+          "I run when I was child.",
+          "I starting running now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Usamos 'started' para o passado.",
+        "feedback_wrong": "The answer is: I started running last year."
+      },
+      {
+        "bot": "Você já correu uma maratona?",
+        "options": [
+          "Yes, I have run two marathons.",
+          "Yes, I ran a marathon yesterday.",
+          "No, I never running marathon.",
+          "No, I don't like marathons because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Ótimo! Present perfect é perfeito aqui!",
+        "feedback_wrong": "The answer is: Yes, I have run two marathons."
+      },
+      {
+        "bot": "O que você faz antes de correr?",
+        "options": [
+          "I stretch before running.",
+          "I sleep before running.",
+          "I eat a big meal before running.",
+          "I watch TV before running."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Stretch é esticar.",
+        "feedback_wrong": "The answer is: I stretch before running."
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Discussing fitness goals and idioms",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I've been running regularly, but I think I'm running out of motivation. What should I do?",
+        "options": [
+          "You should set new goals to stay motivated.",
+          "You should run out of the house quickly.",
+          "You should stop running and start sleeping.",
+          "You should run away from your problems."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Running out of' é uma ótima expressão.",
+        "feedback_wrong": "The answer is: You should set new goals to stay motivated."
+      },
+      {
+        "bot": "Você já ouviu o ditado 'run like the wind'?",
+        "options": [
+          "Yes, it means to run very fast.",
+          "Yes, it means to fly like a bird.",
+          "No, but I know 'run like a sleep'.",
+          "No, I prefer walking like the wind."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É uma expressão muito comum.",
+        "feedback_wrong": "The answer is: Yes, it means to run very fast."
+      },
+      {
+        "bot": "My boss runs a tight ship at work, but I still find time to run.",
+        "options": [
+          "That means your boss is very strict but you manage your time well.",
+          "That means your boss sails ships and you run to the port.",
+          "That means your boss runs fast and you run faster.",
+          "That means your boss sleeps on a ship while you run."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Runs a tight ship' é uma expressão brilhante!",
+        "feedback_wrong": "The answer is: That means your boss is very strict but you manage your time well."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the restaurant",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "O que você gosta de comer?",
+        "options": [
+          "I like to eat pizza.",
+          "I like to drink pizza.",
+          "I like to sleep pizza.",
+          "I like to run pizza."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Eat' significa comer.",
+        "feedback_wrong": "The answer is: I like to eat pizza."
+      },
+      {
+        "bot": "Você come café da manhã todo dia?",
+        "options": [
+          "Yes, I eat breakfast every day.",
+          "Yes, I drink breakfast every day.",
+          "No, I sleep during breakfast.",
+          "No, I run to breakfast."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! O café da manhã é a refeição mais importante!",
+        "feedback_wrong": "The answer is: Yes, I eat breakfast every day."
+      },
+      {
+        "bot": "Onde você almoça?",
+        "options": [
+          "I eat lunch at home.",
+          "I eat lunch in the sky.",
+          "I eat lunch when I sleep.",
+          "I eat lunch with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! Home é em casa.",
+        "feedback_wrong": "The answer is: I eat lunch at home."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Healthy eating habits",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já provou comida vegetariana?",
+        "options": [
+          "Yes, I have tried vegetarian food.",
+          "Yes, I tried vegetarian food yesterday.",
+          "No, I never try vegetarian food because I sleep.",
+          "No, I am trying vegetarian food now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have tried vegetarian food."
+      },
+      {
+        "bot": "O que você estava comendo quando eu liguei?",
+        "options": [
+          "I was eating dinner when you called.",
+          "I ate dinner when you called.",
+          "I am eating dinner when you called.",
+          "I eat dinner when you calling me."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Ótimo! Past continuous para ações interrompidas!",
+        "feedback_wrong": "The answer is: I was eating dinner when you called."
+      },
+      {
+        "bot": "Quantas vezes ao dia você come?",
+        "options": [
+          "I eat three times a day.",
+          "I eat in three days.",
+          "I eat when I am sleep.",
+          "I eat with three people."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Three times a day é três vezes ao dia.",
+        "feedback_wrong": "The answer is: I eat three times a day."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Food culture and expressions",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I'm so hungry I could eat a horse! What about you?",
+        "options": [
+          "I'm starving too, let's get some food!",
+          "I eat horses every day for breakfast.",
+          "I'm sleeping because I'm very hungry.",
+          "I could eat the table right now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Eat a horse' é uma expressão hilária!",
+        "feedback_wrong": "The answer is: I'm starving too, let's get some food!"
+      },
+      {
+        "bot": "Você sabe o que significa 'eat your words'?",
+        "options": [
+          "It means to admit you were wrong.",
+          "It means to literally eat a dictionary.",
+          "It means to talk while eating food.",
+          "It means to sleep after eating too much."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É uma expressão sobre admitir erros.",
+        "feedback_wrong": "The answer is: It means to admit you were wrong."
+      },
+      {
+        "bot": "The project is eating up all my time, but I still need to eat properly.",
+        "options": [
+          "You should manage your time better and meal prep.",
+          "You should let the project eat your food too.",
+          "You should eat the project instead of working.",
+          "You should sleep while the project eats time."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Eating up' significa consumir excessivamente!",
+        "feedback_wrong": "The answer is: You should manage your time better and meal prep."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Bedtime routine",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "A que horas você dorme?",
+        "options": [
+          "I sleep at 10 PM.",
+          "I sleep in the morning.",
+          "I sleep when I eat.",
+          "I sleep on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Sleep' significa dormir.",
+        "feedback_wrong": "The answer is: I sleep at 10 PM."
+      },
+      {
+        "bot": "Você dorme bem todas as noites?",
+        "options": [
+          "Yes, I sleep very well.",
+          "Yes, I run very well.",
+          "No, I eat when I am in bed.",
+          "No, I sleep in the kitchen."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! Um sono bom é muito importante!",
+        "feedback_wrong": "The answer is: Yes, I sleep very well."
+      },
+      {
+        "bot": "Onde você dorme?",
+        "options": [
+          "I sleep in my bed.",
+          "I sleep in my car while driving.",
+          "I sleep inside the refrigerator.",
+          "I sleep on the roof."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! Bed é a cama.",
+        "feedback_wrong": "The answer is: I sleep in my bed."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Sleep habits and routines",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Quantas horas você dormiu hoje?",
+        "options": [
+          "I have slept for 8 hours today.",
+          "I slept for 8 hours today.",
+          "I sleep for 8 hours today.",
+          "I am sleeping for 8 hours today."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para ações recentes.",
+        "feedback_wrong": "The answer is: I have slept for 8 hours today."
+      },
+      {
+        "bot": "Você estava dormindo quando o alarme tocou?",
+        "options": [
+          "Yes, I was sleeping deeply.",
+          "Yes, I slept deeply.",
+          "Yes, I sleep deeply every day.",
+          "No, I was eating when it rang."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Ótimo! Past continuous para ações interrompidas!",
+        "feedback_wrong": "The answer is: Yes, I was sleeping deeply."
+      },
+      {
+        "bot": "O que você faz antes de dormir?",
+        "options": [
+          "I read a book before sleeping.",
+          "I run a marathon before sleeping.",
+          "I eat a huge meal before sleeping.",
+          "I watch TV in the morning before sleeping."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Ler antes de dormir é relaxante.",
+        "feedback_wrong": "The answer is: I read a book before sleeping."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Sleep idioms and expressions",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I couldn't sleep a wink last night! I was so worried about the exam.",
+        "options": [
+          "I'm sorry to hear that. Try some relaxation techniques.",
+          "You should sleep with your eyes open next time.",
+          "You should count sheep jumping on the ceiling.",
+          "You should eat more to get sleepy."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Sleep a wink' significa não dormir nada!",
+        "feedback_wrong": "The answer is: I'm sorry to hear that. Try some relaxation techniques."
+      },
+      {
+        "bot": "Você já ouviu 'let sleeping dogs lie'?",
+        "options": [
+          "Yes, it means don't disturb a situation.",
+          "Yes, it means let dogs sleep on the bed.",
+          "No, but I know 'let sleeping cats eat'.",
+          "No, I prefer waking up dogs to play."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre não causar problemas.",
+        "feedback_wrong": "The answer is: Yes, it means don't disturb a situation."
+      },
+      {
+        "bot": "I'm going to sleep on it and give you my answer tomorrow.",
+        "options": [
+          "Good idea! Take your time to decide.",
+          "Good idea! Sleep on the answer tonight.",
+          "You should sleep with the answer under your pillow.",
+          "You should never sleep during decisions."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Sleep on it' significa pensar bem antes de decidir!",
+        "feedback_wrong": "The answer is: Good idea! Take your time to decide."
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Asking for help",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você ajuda em casa?",
+        "options": [
+          "Yes, I help with housework.",
+          "Yes, I eat with housework.",
+          "No, I do with housework.",
+          "No, I sleep with housework."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Help' significa ajudar.",
+        "feedback_wrong": "The answer is: Yes, I help with housework."
+      },
+      {
+        "bot": "O que você ajuda sua mãe a fazer?",
+        "options": [
+          "I help my mom cook dinner.",
+          "I eat my mom cook dinner.",
+          "I do my mom cook dinner.",
+          "I sleep my mom cook dinner."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Help' para tarefas domésticas.",
+        "feedback_wrong": "The answer is: I help my mom cook dinner."
+      },
+      {
+        "bot": "Quem ajudou você com a tarefa?",
+        "options": [
+          "My friend helped me with homework.",
+          "My friend ate me with homework.",
+          "My friend did me with homework.",
+          "My friend slept me with homework."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Helped' é o passado de 'help'.",
+        "feedback_wrong": "The answer is: My friend helped me with homework."
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Helping experiences",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já ajudou alguém a aprender inglês?",
+        "options": [
+          "Yes, I have helped someone learn English.",
+          "Yes, I helped someone learn English yesterday.",
+          "No, I never help people because I sleep.",
+          "No, I am helping someone now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have helped someone learn English."
+      },
+      {
+        "bot": "O que você está ajudando a fazer agora?",
+        "options": [
+          "I am helping to organize the event.",
+          "I help to organize the event every year.",
+          "I helped to organize the event last year.",
+          "I have helped to organize the event before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para ajudas em curso.",
+        "feedback_wrong": "The answer is: I am helping to organize the event."
+      },
+      {
+        "bot": "Como você ajuda o meio ambiente?",
+        "options": [
+          "I help the environment by recycling.",
+          "I eat the environment by recycling.",
+          "I do the environment by recycling.",
+          "I sleep the environment by recycling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Help' para causas sociais e ambientais.",
+        "feedback_wrong": "The answer is: I help the environment by recycling."
+      }
+    ]
+  },
+  {
+    "word": "help",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'help'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "I can't help laughing when I see that video.",
+        "options": [
+          "It's really funny, I laugh too.",
+          "It's really funny, I eat too.",
+          "It's really funny, I sleep too.",
+          "It's really funny, I run too."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Can't help' significa não conseguir evitar.",
+        "feedback_wrong": "The answer is: It's really funny, I laugh too."
+      },
+      {
+        "bot": "Você conhece a expressão 'help yourself'?",
+        "options": [
+          "Yes, it means to serve yourself or take what you need.",
+          "Yes, it means to help yourself physically.",
+          "No, but I know 'help your sleep'.",
+          "No, I prefer helping others instead."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre servir-se ou cuidar de si mesmo.",
+        "feedback_wrong": "The answer is: Yes, it means to serve yourself or take what you need."
+      },
+      {
+        "bot": "Every little bit helps, so donate what you can.",
+        "options": [
+          "I'll donate some money, I hope it helps.",
+          "I'll donate some money, I hope it eats.",
+          "I'll donate some money, I hope it sleeps.",
+          "I'll donate some money, I hope it runs."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Every little bit helps' significa que qualquer ajuda é válida.",
+        "feedback_wrong": "The answer is: I'll donate some money, I hope it helps."
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Simple conversations",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Com quem você conversa todo dia?",
+        "options": [
+          "I talk to my friend every day.",
+          "I eat to my friend every day.",
+          "I do to my friend every day.",
+          "I sleep to my friend every day."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! 'Talk' significa conversar.",
+        "feedback_wrong": "The answer is: I talk to my friend every day."
+      },
+      {
+        "bot": "Você conversa com seus pais à noite?",
+        "options": [
+          "Yes, I talk to my parents at night.",
+          "Yes, I eat to my parents at night.",
+          "No, I do to my parents at night.",
+          "No, I sleep with my parents at night."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Talk to' para conversar com alguém.",
+        "feedback_wrong": "The answer is: Yes, I talk to my parents at night."
+      },
+      {
+        "bot": "O que você conversou com o professor?",
+        "options": [
+          "I talked to the teacher about the test.",
+          "I ate to the teacher about the test.",
+          "I did to the teacher about the test.",
+          "I slept to the teacher about the test."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Talked' é o passado de 'talk'.",
+        "feedback_wrong": "The answer is: I talked to the teacher about the test."
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Talking about past events",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Você já conversou com um nativo de inglês?",
+        "options": [
+          "Yes, I have talked to a native English speaker.",
+          "Yes, I talked to a native English speaker yesterday.",
+          "No, I never talk to natives because I sleep.",
+          "No, I am talking to a native now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Correto! Present perfect para experiências.",
+        "feedback_wrong": "The answer is: Yes, I have talked to a native English speaker."
+      },
+      {
+        "bot": "O que você está conversando com sua irmã?",
+        "options": [
+          "I am talking to my sister about her job.",
+          "I talk to my sister about her job every day.",
+          "I talked to my sister about her job yesterday.",
+          "I have talked to my sister about her job before."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Muito bem! Present continuous para conversas em curso.",
+        "feedback_wrong": "The answer is: I am talking to my sister about her job."
+      },
+      {
+        "bot": "Como você se sente ao conversar em inglês?",
+        "options": [
+          "I feel nervous when I talk in English.",
+          "I feel nervous when I eat in English.",
+          "I feel nervous when I do in English.",
+          "I feel nervous when I sleep in English."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! 'Talk in' para idiomas.",
+        "feedback_wrong": "The answer is: I feel nervous when I talk in English."
+      }
+    ]
+  },
+  {
+    "word": "talk",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'talk'",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "We need to talk about our relationship seriously.",
+        "options": [
+          "I agree, let's sit down and discuss it.",
+          "I agree, let's sit down and eat it.",
+          "I agree, let's sit down and sleep on it.",
+          "I agree, let's sit down and run away from it."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excelente! 'Need to talk' para conversas sérias.",
+        "feedback_wrong": "The answer is: I agree, let's sit down and discuss it."
+      },
+      {
+        "bot": "Você conhece a expressão 'talk the talk'?",
+        "options": [
+          "Yes, it means to speak confidently about something.",
+          "Yes, it means to talk while walking.",
+          "No, but I know 'talk the sleep'.",
+          "No, I prefer walking the walk instead."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfeito! É sobre falar com confiança, mas nem sempre agir.",
+        "feedback_wrong": "The answer is: Yes, it means to speak confidently about something."
+      },
+      {
+        "bot": "Don't talk back to me, I'm your mother!",
+        "options": [
+          "Sorry, I didn't mean to be rude.",
+          "Sorry, I didn't mean to eat you.",
+          "Sorry, I didn't mean to sleep with you.",
+          "Sorry, I didn't mean to run from you."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Incrível! 'Talk back' significa responder com impertinência.",
+        "feedback_wrong": "The answer is: Sorry, I didn't mean to be rude."
+      }
+    ]
+  }
+]

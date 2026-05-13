@@ -1,0 +1,58 @@
+{
+  "id": "de-lesson-1",
+  "lang": "de",
+  "lessonNumber": 1,
+  "title": "Şimdiki Zamanda Eylemler",
+  "subtitle": "Präsens — Geniş Zaman",
+  "formula": "ich/du/er+sie+es / wir/ihr/sie — her özne farklı çekim alır",
+  "formulaVisual": [
+    { "type": "correct", "sentence": "Ich spiele Fußball.", "tr": "Ben futbol oynuyorum." },
+    { "type": "correct", "sentence": "Du spielst Tennis.", "tr": "Sen tenis oynuyorsun." },
+    { "type": "correct", "sentence": "Er spielt Basketball.", "tr": "O basketbol oynuyor." },
+    { "type": "correct", "sentence": "Wir spielen zusammen.", "tr": "Biz birlikte oynuyoruz." },
+    { "type": "wrong", "sentence": "Er spiele Basketball.", "tr": "", "note": "er/sie/es → -t eki alır: spielt!" },
+    { "type": "wrong", "sentence": "Ich spielst Tennis.", "tr": "", "note": "ich → -e eki alır: spiele!" }
+  ],
+  "inputSentences": [
+    { "text": "Ich esse jeden Tag Frühstück.", "tr": "Her gün kahvaltı yaparım." },
+    { "text": "Er arbeitet in einer Schule.", "tr": "O bir okulda çalışır." },
+    { "text": "Sie spielen gerne Spiele.", "tr": "Onlar oyun oynamayı sever." },
+    { "text": "Du trinkst Wasser nach dem Sport.", "tr": "Sen spordan sonra su içersin." },
+    { "text": "Wir lernen zusammen Deutsch.", "tr": "Biz birlikte Almanca öğreniyoruz." }
+  ],
+  "outputExercises": [
+    {
+      "type": "fill",
+      "sentence": "Er ___ (spielen) Gitarre.",
+      "answer": "spielt",
+      "hint": "er/sie/es → fiil kökü + -t"
+    },
+    {
+      "type": "build",
+      "words": ["lerne", "Ich", "Deutsch"],
+      "answer": ["Ich", "lerne", "Deutsch"],
+      "tr": "Ben Almanca öğreniyorum."
+    },
+    {
+      "type": "fill",
+      "sentence": "Wir ___ (trinken) Wasser.",
+      "answer": "trinken",
+      "hint": "wir → fiil kökü + -en"
+    },
+    {
+      "type": "build",
+      "words": ["Du", "schön", "singst"],
+      "answer": ["Du", "singst", "schön"],
+      "tr": "Sen güzel şarkı söylüyorsun."
+    }
+  ],
+  "contextDialogue": {
+    "scene": "Bir arkadaşınla konuşuyorsun",
+    "lines": [
+      { "role": "A", "text": "Was machst du jeden Tag?", "tr": "Her gün ne yapıyorsun?" },
+      { "role": "B", "text": "Ich lerne Deutsch und spiele danach Fußball.", "tr": "Almanca öğreniyorum, sonra futbol oynuyorum." },
+      { "role": "A", "text": "Spielt deine Schwester auch Fußball?", "tr": "Kız kardeşin de futbol oynuyor mu?" },
+      { "role": "B", "text": "Nein, sie liest lieber Bücher.", "tr": "Hayır, o kitap okumayı tercih ediyor." }
+    ]
+  }
+}

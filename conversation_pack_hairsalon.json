@@ -1,0 +1,47 @@
+{
+  "scenario": "hair salon",
+  "language": "pt",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "Olá! Você tem horário marcado?",
+      "expected": "Sim, tenho um horário marcado para as duas horas.",
+      "hint": "Say you have an appointment at 2 PM"
+    },
+    {
+      "bot": "O que você gostaria de fazer hoje?",
+      "expected": "Quero cortar o cabelo e fazer escova.",
+      "hint": "Say you want a haircut and blowout"
+    },
+    {
+      "bot": "Como você quer o corte?",
+      "expected": "Quero um corte curto e moderno.",
+      "hint": "Say you want a short, modern cut"
+    },
+    {
+      "bot": "Você quer lavar o cabelo também?",
+      "expected": "Sim, quero lavar e hidratar o cabelo.",
+      "hint": "Say you want to wash and deep condition"
+    },
+    {
+      "bot": "Qual produto você usa no seu cabelo?",
+      "expected": "Uso um creme para cabelos cacheados.",
+      "hint": "Say you use cream for curly hair"
+    },
+    {
+      "bot": "Você quer fazer as pontas também?",
+      "expected": "Sim, quero fazer luzes no cabelo.",
+      "hint": "Say you want highlights in your hair"
+    },
+    {
+      "bot": "Gostaria de fazer a sobrancelha?",
+      "expected": "Não, obrigada. Só quero o cabelo hoje.",
+      "hint": "Decline the eyebrow service"
+    },
+    {
+      "bot": "Está bom assim ou quer ajustar mais alguma coisa?",
+      "expected": "Está perfeito, obrigada!",
+      "hint": "Say it's perfect, thank you"
+    }
+  ]
+}

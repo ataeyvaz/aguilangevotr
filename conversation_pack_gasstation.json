@@ -1,0 +1,47 @@
+{
+  "scenario": "gas station",
+  "language": "pt",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "Qual tipo de gasolina você quer?",
+      "expected": "Quero colocar gasolina comum, por favor.",
+      "hint": "Say you want regular gasoline"
+    },
+    {
+      "bot": "Quanto você quer colocar?",
+      "expected": "Quero colocar cinquenta dólares de gasolina.",
+      "hint": "Say you want fifty dollars of gas"
+    },
+    {
+      "bot": "Você quer que eu abasteça para você?",
+      "expected": "Sim, por favor. O tanque está vazio.",
+      "hint": "Say yes, the tank is empty"
+    },
+    {
+      "bot": "Você precisa verificar o óleo também?",
+      "expected": "Sim, pode verificar o nível do óleo.",
+      "hint": "Say you want to check the oil level"
+    },
+    {
+      "bot": "O pneu está com pouco ar, quer encher?",
+      "expected": "Sim, pode encher o pneu dianteiro, por favor.",
+      "hint": "Say you want to inflate the front tire"
+    },
+    {
+      "bot": "Você quer algo da loja de conveniência?",
+      "expected": "Sim, quero uma água e um snack, por favor.",
+      "hint": "Say you want water and a snack"
+    },
+    {
+      "bot": "Você prefere pagar no cartão ou em dinheiro?",
+      "expected": "Prefiro pagar no cartão de crédito.",
+      "hint": "Say you prefer to pay with credit card"
+    },
+    {
+      "bot": "Precisa de ajuda com o limpador de para-brisa?",
+      "expected": "Sim, pode completar o líquido limpador, por favor.",
+      "hint": "Say you want to refill the windshield washer fluid"
+    }
+  ]
+}
