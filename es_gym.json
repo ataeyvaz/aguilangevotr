@@ -1,0 +1,47 @@
+{
+  "scenario": "gym",
+  "language": "es",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "¿Quiere inscribirse en el gimnasio?",
+      "expected": "Sí, quiero inscribirme en el gimnasio, por favor.",
+      "hint": "Yes, I want to sign up for the gym, please."
+    },
+    {
+      "bot": "¿Cuál es su rutina de ejercicios?",
+      "expected": "Mi rutina incluye pesas y cardio.",
+      "hint": "My routine includes weights and cardio."
+    },
+    {
+      "bot": "¿Tiene una toalla limpia?",
+      "expected": "Sí, tengo mi toalla limpia aquí.",
+      "hint": "Yes, I have my clean towel here."
+    },
+    {
+      "bot": "¿Necesita ayuda con las máquinas?",
+      "expected": "Sí, no sé cómo usar la caminadora.",
+      "hint": "Yes, I don't know how to use the treadmill."
+    },
+    {
+      "bot": "¿Cuántas veces viene a la semana?",
+      "expected": "Vengo al gimnasio tres veces a la semana.",
+      "hint": "I come to the gym three times a week."
+    },
+    {
+      "bot": "¿Quiere entrenador personal?",
+      "expected": "No, prefiero entrenar solo por ahora.",
+      "hint": "No, I prefer to train alone for now."
+    },
+    {
+      "bot": "¿Dónde están los vestidores?",
+      "expected": "Los vestidores están al fondo a la izquierda.",
+      "hint": "The locker rooms are at the back to the left."
+    },
+    {
+      "bot": "¿Ya terminó su entrenamiento?",
+      "expected": "Sí, acabo de terminar mi entrenamiento.",
+      "hint": "Yes, I just finished my workout."
+    }
+  ]
+}

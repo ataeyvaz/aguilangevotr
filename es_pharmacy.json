@@ -1,0 +1,47 @@
+{
+  "scenario": "pharmacy",
+  "language": "es",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "¿Qué medicamento necesita?",
+      "expected": "Necesito un jarabe para la tos, por favor.",
+      "hint": "I need cough syrup, please."
+    },
+    {
+      "bot": "¿Tiene la receta médica?",
+      "expected": "Sí, aquí tiene la receta de mi doctor.",
+      "hint": "Yes, here is the prescription from my doctor."
+    },
+    {
+      "bot": "¿Cuál es la dosis del medicamento?",
+      "expected": "Tomo una pastilla cada ocho horas.",
+      "hint": "I take one pill every eight hours."
+    },
+    {
+      "bot": "¿Es alérgico a la penicilina?",
+      "expected": "No, no soy alérgico a la penicilina.",
+      "hint": "No, I'm not allergic to penicillin."
+    },
+    {
+      "bot": "¿Tiene seguro médico?",
+      "expected": "Sí, tengo seguro médico, aquí está mi tarjeta.",
+      "hint": "Yes, I have medical insurance, here is my card."
+    },
+    {
+      "bot": "¿Necesita algo más para el dolor?",
+      "expected": "Sí, también quiero pastillas para el dolor de cabeza.",
+      "hint": "Yes, I also want pills for my headache."
+    },
+    {
+      "bot": "¿Cómo se toma este medicamento?",
+      "expected": "Se toma una cucharada antes de dormir.",
+      "hint": "Take one spoonful before going to sleep."
+    },
+    {
+      "bot": "¿Entendió las instrucciones?",
+      "expected": "Sí, entendí perfectamente las instrucciones.",
+      "hint": "Yes, I understood the instructions perfectly."
+    }
+  ]
+}

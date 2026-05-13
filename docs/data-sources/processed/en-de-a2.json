@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Stop!",
+    "de": "Stopp!",
+    "level": "A2"
+  },
+  {
+    "en": "I hid.",
+    "de": "Ich versteckte mich.",
+    "level": "A2"
+  },
+  {
+    "en": "I ran.",
+    "de": "Ich rannte.",
+    "level": "A2"
+  },
+  {
+    "en": "I try.",
+    "de": "Ich versuche es.",
+    "level": "A2"
+  },
+  {
+    "en": "I won!",
+    "de": "Ich hab gewonnen!",
+    "level": "A2"
+  },
+  {
+    "en": "I won.",
+    "de": "Ich habe gewonnen.",
+    "level": "A2"
+  },
+  {
+    "en": "Oh no!",
+    "de": "Oh, Nein!",
+    "level": "A2"
+  },
+  {
+    "en": "Ask me.",
+    "de": "Frag mich!",
+    "level": "A2"
+  },
+  {
+    "en": "Buy it.",
+    "de": "Kauf’s!",
+    "level": "A2"
+  },
+  {
+    "en": "Eat up.",
+    "de": "Iss fertig!",
+    "level": "A2"
+  },
+  {
+    "en": "Got it!",
+    "de": "Verstanden!",
+    "level": "A2"
+  },
+  {
+    "en": "Got it?",
+    "de": "Kapiert?",
+    "level": "A2"
+  },
+  {
+    "en": "He ran.",
+    "de": "Er rannte.",
+    "level": "A2"
+  },
+  {
+    "en": "Hop in.",
+    "de": "Mach mit!",
+    "level": "A2"
+  },
+  {
+    "en": "Hug me.",
+    "de": "Drück mich!",
+    "level": "A2"
+  },
+  {
+    "en": "I care.",
+    "de": "Mir ist es wichtig.",
+    "level": "A2"
+  },
+  {
+    "en": "I fell.",
+    "de": "Ich fiel.",
+    "level": "A2"
+  },
+  {
+    "en": "I fled.",
+    "de": "Ich flüchtete.",
+    "level": "A2"
+  },
+  {
+    "en": "I lied.",
+    "de": "Ich habe gelogen.",
+    "level": "A2"
+  },
+  {
+    "en": "I lost.",
+    "de": "Ich habe verloren.",
+    "level": "A2"
+  },
+  {
+    "en": "I paid.",
+    "de": "Ich habe bezahlt.",
+    "level": "A2"
+  },
+  {
+    "en": "I pass.",
+    "de": "Ich passe.",
+    "level": "A2"
+  },
+  {
+    "en": "I quit.",
+    "de": "Ich kündige.",
+    "level": "A2"
+  },
+  {
+    "en": "I sang.",
+    "de": "Ich sang.",
+    "level": "A2"
+  },
+  {
+    "en": "I spit.",
+    "de": "Ich spuckte.",
+    "level": "A2"
+  },
+  {
+    "en": "I swim.",
+    "de": "Ich schwimme.",
+    "level": "A2"
+  },
+  {
+    "en": "I wept.",
+    "de": "Ich weinte.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm OK.",
+    "de": "Mir geht's gut.",
+    "level": "A2"
+  },
+  {
+    "en": "Try it.",
+    "de": "Versuch’s!",
+    "level": "A2"
+  },
+  {
+    "en": "We try.",
+    "de": "Wir versuchen es.",
+    "level": "A2"
+  },
+  {
+    "en": "We won.",
+    "de": "Wir haben gewonnen.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask Tom.",
+    "de": "Frag Tom!",
+    "level": "A2"
+  },
+  {
+    "en": "Be cool.",
+    "de": "Entspann dich!",
+    "level": "A2"
+  },
+  {
+    "en": "Be fair.",
+    "de": "Sei nicht ungerecht!",
+    "level": "A2"
+  },
+  {
+    "en": "Be kind.",
+    "de": "Sei nett!",
+    "level": "A2"
+  },
+  {
+    "en": "Beat it.",
+    "de": "Geh weg!",
+    "level": "A2"
+  },
+  {
+    "en": "Burn it.",
+    "de": "Verbrenne es!",
+    "level": "A2"
+  },
+  {
+    "en": "Bury it.",
+    "de": "Vergrabe es!",
+    "level": "A2"
+  },
+  {
+    "en": "Call me.",
+    "de": "Ruf mich an.",
+    "level": "A2"
+  },
+  {
+    "en": "Drop it!",
+    "de": "Lasst es fallen!",
+    "level": "A2"
+  },
+  {
+    "en": "Drop it.",
+    "de": "Fallen lassen!",
+    "level": "A2"
+  },
+  {
+    "en": "Feed us.",
+    "de": "Füttere uns!",
+    "level": "A2"
+  },
+  {
+    "en": "Fold it.",
+    "de": "Falte es zusammen!",
+    "level": "A2"
+  },
+  {
+    "en": "Go away!",
+    "de": "Geh weg!",
+    "level": "A2"
+  },
+  {
+    "en": "Go away.",
+    "de": "Geh weg!",
+    "level": "A2"
+  },
+  {
+    "en": "Hang on!",
+    "de": "Nicht nachlassen!",
+    "level": "A2"
+  },
+  {
+    "en": "Hang on.",
+    "de": "Warte!",
+    "level": "A2"
+  },
+  {
+    "en": "He came.",
+    "de": "Er kam.",
+    "level": "A2"
+  },
+  {
+    "en": "He left.",
+    "de": "Er ist gegangen.",
+    "level": "A2"
+  },
+  {
+    "en": "He runs.",
+    "de": "Er rennt.",
+    "level": "A2"
+  },
+  {
+    "en": "Hi, Tom.",
+    "de": "Hallo, Tom!",
+    "level": "A2"
+  },
+  {
+    "en": "Hold it!",
+    "de": "Nicht bewegen!",
+    "level": "A2"
+  },
+  {
+    "en": "Hold it.",
+    "de": "Stehen bleiben!",
+    "level": "A2"
+  },
+  {
+    "en": "Hold on.",
+    "de": "Warten Sie kurz!",
+    "level": "A2"
+  },
+  {
+    "en": "I agree.",
+    "de": "Ich bin einverstanden.",
+    "level": "A2"
+  },
+  {
+    "en": "I cried.",
+    "de": "Ich weinte.",
+    "level": "A2"
+  },
+  {
+    "en": "I drove.",
+    "de": "Ich fuhr!",
+    "level": "A2"
+  },
+  {
+    "en": "I froze.",
+    "de": "Ich fror.",
+    "level": "A2"
+  },
+  {
+    "en": "I snore.",
+    "de": "Ich schnarche.",
+    "level": "A2"
+  },
+  {
+    "en": "I swore.",
+    "de": "Ich habe geschworen.",
+    "level": "A2"
+  },
+  {
+    "en": "I waved.",
+    "de": "Ich winkte.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll go.",
+    "de": "Ich gehe.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm bad.",
+    "de": "Ich bin schlecht.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm hot.",
+    "de": "Mir ist heiß.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm new.",
+    "de": "Ich bin neu.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm old.",
+    "de": "Ich bin alt.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm sad.",
+    "de": "Ich bin traurig.",
+    "level": "A2"
+  },
+  {
+    "en": "Join us.",
+    "de": "Komm mit.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep it.",
+    "de": "Behalt es!",
+    "level": "A2"
+  },
+  {
+    "en": "Kill it.",
+    "de": "Töte es!",
+    "level": "A2"
+  },
+  {
+    "en": "Kiss me.",
+    "de": "Küsst mich.",
+    "level": "A2"
+  },
+  {
+    "en": "Lock it.",
+    "de": "Schließ es ab.",
+    "level": "A2"
+  },
+  {
+    "en": "Open it.",
+    "de": "Öffne es!",
+    "level": "A2"
+  },
+  {
+    "en": "Open up.",
+    "de": "Mach auf!",
+    "level": "A2"
+  },
+  {
+    "en": "Pull it.",
+    "de": "Zieh dran.",
+    "level": "A2"
+  },
+  {
+    "en": "Push it.",
+    "de": "Drück drauf.",
+    "level": "A2"
+  },
+  {
+    "en": "Show me.",
+    "de": "Zeig's mir!",
+    "level": "A2"
+  },
+  {
+    "en": "Stop it.",
+    "de": "Hör auf.",
+    "level": "A2"
+  },
+  {
+    "en": "Tell me.",
+    "de": "Sag es mir.",
+    "level": "A2"
+  },
+  {
+    "en": "We lost.",
+    "de": "Wir haben verloren.",
+    "level": "A2"
+  },
+  {
+    "en": "We swam.",
+    "de": "Wir schwammen.",
+    "level": "A2"
+  },
+  {
+    "en": "Who ate?",
+    "de": "Wer hat gegessen?",
+    "level": "A2"
+  },
+  {
+    "en": "Who ran?",
+    "de": "Wer rannte?",
+    "level": "A2"
+  },
+  {
+    "en": "Who won?",
+    "de": "Wer hat gewonnen?",
+    "level": "A2"
+  },
+  {
+    "en": "You win.",
+    "de": "Du hast gewonnen.",
+    "level": "A2"
+  },
+  {
+    "en": "You won.",
+    "de": "Du hast gewonnen.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask them.",
+    "de": "Frag sie.",
+    "level": "A2"
+  },
+  {
+    "en": "Be brave.",
+    "de": "Sei mutig!",
+    "level": "A2"
+  },
+  {
+    "en": "Be brief.",
+    "de": "Fassen Sie sich kurz.",
+    "level": "A2"
+  },
+  {
+    "en": "Be quiet.",
+    "de": "Sei leise.",
+    "level": "A2"
+  },
+  {
+    "en": "Be still.",
+    "de": "Sei ruhig.",
+    "level": "A2"
+  },
+  {
+    "en": "Call Tom.",
+    "de": "Ruf Tom an!",
+    "level": "A2"
+  },
+  {
+    "en": "Catch me.",
+    "de": "Fang mich!",
+    "level": "A2"
+  },
+  {
+    "en": "Cuff him.",
+    "de": "Leg ihm Handschellen an.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't go.",
+    "de": "Geh nicht.",
+    "level": "A2"
+  },
+  {
+    "en": "Drive on.",
+    "de": "Fahr weiter.",
+    "level": "A2"
+  },
+  {
+    "en": "Fix this.",
+    "de": "Beheben Sie das.",
+    "level": "A2"
+  },
+  {
+    "en": "Go ahead!",
+    "de": "Nur zu!",
+    "level": "A2"
+  },
+  {
+    "en": "Go ahead.",
+    "de": "Mach weiter!",
+    "level": "A2"
+  },
+  {
+    "en": "Grab him.",
+    "de": "Greif ihn dir!",
+    "level": "A2"
+  },
+  {
+    "en": "Have fun.",
+    "de": "Viel Vergnügen!",
+    "level": "A2"
+  },
+  {
+    "en": "He spoke.",
+    "de": "Er sprach.",
+    "level": "A2"
+  },
+  {
+    "en": "He tried.",
+    "de": "Er versuchte es.",
+    "level": "A2"
+  },
+  {
+    "en": "He tries.",
+    "de": "Er versucht es.",
+    "level": "A2"
+  },
+  {
+    "en": "Help Tom.",
+    "de": "Hilf Tom!",
+    "level": "A2"
+  },
+  {
+    "en": "How cute!",
+    "de": "Was ist das nicht süß!",
+    "level": "A2"
+  },
+  {
+    "en": "How deep?",
+    "de": "Wie tief?",
+    "level": "A2"
+  },
+  {
+    "en": "How rude!",
+    "de": "Wie unverschämt!",
+    "level": "A2"
+  },
+  {
+    "en": "Humor me.",
+    "de": "Tu mir den Gefallen.",
+    "level": "A2"
+  },
+  {
+    "en": "I concur.",
+    "de": "Ich bin der gleichen Ansicht.",
+    "level": "A2"
+  },
+  {
+    "en": "I cursed.",
+    "de": "Ich fluchte.",
+    "level": "A2"
+  },
+  {
+    "en": "I gamble.",
+    "de": "Ich spiele.",
+    "level": "A2"
+  },
+  {
+    "en": "I helped.",
+    "de": "Ich half.",
+    "level": "A2"
+  },
+  {
+    "en": "I jumped.",
+    "de": "Ich bin gesprungen.",
+    "level": "A2"
+  },
+  {
+    "en": "I moaned.",
+    "de": "Ich stöhnte.",
+    "level": "A2"
+  },
+  {
+    "en": "I nodded.",
+    "de": "Ich nickte.",
+    "level": "A2"
+  },
+  {
+    "en": "I paused.",
+    "de": "Ich hielt an.",
+    "level": "A2"
+  },
+  {
+    "en": "I prayed.",
+    "de": "Ich betete.",
+    "level": "A2"
+  },
+  {
+    "en": "I refuse.",
+    "de": "Ich weigere mich.",
+    "level": "A2"
+  },
+  {
+    "en": "I resign.",
+    "de": "Ich trete zurück.",
+    "level": "A2"
+  },
+  {
+    "en": "I rested.",
+    "de": "Ich rastete.",
+    "level": "A2"
+  },
+  {
+    "en": "I shaved.",
+    "de": "Ich rasierte mich.",
+    "level": "A2"
+  },
+  {
+    "en": "I smiled.",
+    "de": "Ich lächelte.",
+    "level": "A2"
+  },
+  {
+    "en": "I stayed.",
+    "de": "Ich blieb.",
+    "level": "A2"
+  },
+  {
+    "en": "I waited.",
+    "de": "Ich habe gewartet.",
+    "level": "A2"
+  },
+  {
+    "en": "I winked.",
+    "de": "Ich blinzelte.",
+    "level": "A2"
+  },
+  {
+    "en": "I yawned.",
+    "de": "Ich gähnte.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll pay.",
+    "de": "Ich werde zahlen.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll try.",
+    "de": "Ich werde es versuchen.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm game.",
+    "de": "Ich bin dabei.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm good.",
+    "de": "Mir geht's gut.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm here.",
+    "de": "Ich bin hier.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm home.",
+    "de": "Ich bin zu Hause.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm late.",
+    "de": "Ich komme zu spät.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm tall.",
+    "de": "Ich bin groß.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm thin.",
+    "de": "Ich bin dünn.",
+    "level": "A2"
+  },
+  {
+    "en": "It helps.",
+    "de": "Das hilft.",
+    "level": "A2"
+  },
+  {
+    "en": "It hurts.",
+    "de": "Es tut weh.",
+    "level": "A2"
+  },
+  {
+    "en": "It works.",
+    "de": "Es klappt.",
+    "level": "A2"
+  },
+  {
+    "en": "It's Tom.",
+    "de": "Es ist Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "It's dry.",
+    "de": "Es ist trocken.",
+    "level": "A2"
+  },
+  {
+    "en": "It's tea.",
+    "de": "Das ist Tee.",
+    "level": "A2"
+  },
+  {
+    "en": "Leave us.",
+    "de": "Geh weg!",
+    "level": "A2"
+  },
+  {
+    "en": "Let's go!",
+    "de": "Lass uns gehen!",
+    "level": "A2"
+  },
+  {
+    "en": "Look out!",
+    "de": "Vorsicht!",
+    "level": "A2"
+  },
+  {
+    "en": "Marry me.",
+    "de": "Heirate mich.",
+    "level": "A2"
+  },
+  {
+    "en": "She came.",
+    "de": "Sie kam.",
+    "level": "A2"
+  },
+  {
+    "en": "She left.",
+    "de": "Sie ist gegangen.",
+    "level": "A2"
+  },
+  {
+    "en": "She runs.",
+    "de": "Sie rennt.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit down!",
+    "de": "Setz dich!",
+    "level": "A2"
+  },
+  {
+    "en": "Sit down.",
+    "de": "Setz dich!",
+    "level": "A2"
+  },
+  {
+    "en": "Stand up!",
+    "de": "Stehen Sie auf!",
+    "level": "A2"
+  },
+  {
+    "en": "Stand up.",
+    "de": "Steh auf.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop Tom.",
+    "de": "Halte Tom auf!",
+    "level": "A2"
+  },
+  {
+    "en": "Take Tom.",
+    "de": "Nimm Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Taste it.",
+    "de": "Probier es mal.",
+    "level": "A2"
+  },
+  {
+    "en": "Tell Tom.",
+    "de": "Sag es Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "They won.",
+    "de": "Sie haben gewonnen.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom left.",
+    "de": "Tom ist gegangen.",
+    "level": "A2"
+  },
+  {
+    "en": "Too late.",
+    "de": "Zu spät.",
+    "level": "A2"
+  },
+  {
+    "en": "Touch it.",
+    "de": "Fass es an.",
+    "level": "A2"
+  },
+  {
+    "en": "Trust me!",
+    "de": "Vertraue mir!",
+    "level": "A2"
+  },
+  {
+    "en": "Trust me.",
+    "de": "Vertraue mir.",
+    "level": "A2"
+  },
+  {
+    "en": "Try hard.",
+    "de": "Versuch es richtig!",
+    "level": "A2"
+  },
+  {
+    "en": "Try some.",
+    "de": "Versuch ein bisschen.",
+    "level": "A2"
+  },
+  {
+    "en": "Try this.",
+    "de": "Probier mal!",
+    "level": "A2"
+  },
+  {
+    "en": "Use this.",
+    "de": "Nimm das hier!",
+    "level": "A2"
+  },
+  {
+    "en": "Visit us.",
+    "de": "Besuche uns.",
+    "level": "A2"
+  },
+  {
+    "en": "Watch me.",
+    "de": "Schau mir zu.",
+    "level": "A2"
+  },
+  {
+    "en": "Watch us.",
+    "de": "Beobachte uns.",
+    "level": "A2"
+  },
+  {
+    "en": "We agree.",
+    "de": "Wir stimmen zu.",
+    "level": "A2"
+  },
+  {
+    "en": "We tried.",
+    "de": "Wir haben es versucht.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll go.",
+    "de": "Wir werden gehen.",
+    "level": "A2"
+  },
+  {
+    "en": "What fun!",
+    "de": "Was für ein Spaß!",
+    "level": "A2"
+  },
+  {
+    "en": "Who came?",
+    "de": "Wer ist gekommen?",
+    "level": "A2"
+  },
+  {
+    "en": "Who died?",
+    "de": "Wer ist gestorben?",
+    "level": "A2"
+  },
+  {
+    "en": "Who fell?",
+    "de": "Wer fiel?",
+    "level": "A2"
+  },
+  {
+    "en": "Who lost?",
+    "de": "Wer hat verloren?",
+    "level": "A2"
+  },
+  {
+    "en": "Who quit?",
+    "de": "Wer hat aufgehört?",
+    "level": "A2"
+  },
+  {
+    "en": "Who swam?",
+    "de": "Wer schwamm?",
+    "level": "A2"
+  },
+  {
+    "en": "Who's he?",
+    "de": "Wer ist er?",
+    "level": "A2"
+  },
+  {
+    "en": "You lost.",
+    "de": "Sie haben verloren.",
+    "level": "A2"
+  },
+  {
+    "en": "After you.",
+    "de": "Nach euch.",
+    "level": "A2"
+  },
+  {
+    "en": "Answer me.",
+    "de": "Antworten Sie mir.",
+    "level": "A2"
+  },
+  {
+    "en": "Be seated.",
+    "de": "Setz dich!",
+    "level": "A2"
+  },
+  {
+    "en": "Bless you.",
+    "de": "Gesundheit.",
+    "level": "A2"
+  },
+  {
+    "en": "Buy a gun.",
+    "de": "Leg dir eine Schusswaffe zu!",
+    "level": "A2"
+  },
+  {
+    "en": "Call home!",
+    "de": "Ruf zuhause an!",
+    "level": "A2"
+  },
+  {
+    "en": "Catch him.",
+    "de": "Fang ihn.",
+    "level": "A2"
+  },
+  {
+    "en": "Come back.",
+    "de": "Komm wieder!",
+    "level": "A2"
+  },
+  {
+    "en": "Come over.",
+    "de": "Komm her!",
+    "level": "A2"
+  },
+  {
+    "en": "Come soon.",
+    "de": "Komm bald.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't ask.",
+    "de": "Frag nicht.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't run.",
+    "de": "Lauf nicht.",
+    "level": "A2"
+  },
+  {
+    "en": "Excuse me.",
+    "de": "Es tut mir leid.",
+    "level": "A2"
+  },
+  {
+    "en": "Excuse me?",
+    "de": "Verzeihung?",
+    "level": "A2"
+  },
+  {
+    "en": "Feel this.",
+    "de": "Fühl mal.",
+    "level": "A2"
+  },
+  {
+    "en": "Follow me.",
+    "de": "Folge mir.",
+    "level": "A2"
+  },
+  {
+    "en": "Follow us.",
+    "de": "Folge uns!",
+    "level": "A2"
+  },
+  {
+    "en": "Forget it!",
+    "de": "Vergiss es!",
+    "level": "A2"
+  },
+  {
+    "en": "Forget it.",
+    "de": "Vergiss es.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget me.",
+    "de": "Vergiss mich!",
+    "level": "A2"
+  },
+  {
+    "en": "Go inside.",
+    "de": "Geh rein!",
+    "level": "A2"
+  },
+  {
+    "en": "Grab that.",
+    "de": "Nimm das.",
+    "level": "A2"
+  },
+  {
+    "en": "Grab this.",
+    "de": "Schnapp dir das.",
+    "level": "A2"
+  },
+  {
+    "en": "Have some.",
+    "de": "Nimm dir davon.",
+    "level": "A2"
+  },
+  {
+    "en": "He shaved.",
+    "de": "Er rasierte sich.",
+    "level": "A2"
+  },
+  {
+    "en": "He smiled.",
+    "de": "Er lächelte.",
+    "level": "A2"
+  },
+  {
+    "en": "He's fast.",
+    "de": "Er ist schnell.",
+    "level": "A2"
+  },
+  {
+    "en": "He's good.",
+    "de": "Er ist gut.",
+    "level": "A2"
+  },
+  {
+    "en": "Head east.",
+    "de": "Fahr Richtung Osten.",
+    "level": "A2"
+  },
+  {
+    "en": "Hold this.",
+    "de": "Halt das!",
+    "level": "A2"
+  },
+  {
+    "en": "How awful!",
+    "de": "Schrecklich!",
+    "level": "A2"
+  },
+  {
+    "en": "How weird!",
+    "de": "Wie seltsam!",
+    "level": "A2"
+  },
+  {
+    "en": "I approve.",
+    "de": "Ich bin einverstanden.",
+    "level": "A2"
+  },
+  {
+    "en": "I changed.",
+    "de": "Ich änderte mich.",
+    "level": "A2"
+  },
+  {
+    "en": "I cheated.",
+    "de": "Ich habe geschummelt.",
+    "level": "A2"
+  },
+  {
+    "en": "I clapped.",
+    "de": "Ich klatschte.",
+    "level": "A2"
+  },
+  {
+    "en": "I coughed.",
+    "de": "Ich hustete.",
+    "level": "A2"
+  },
+  {
+    "en": "I escaped.",
+    "de": "Ich entkam.",
+    "level": "A2"
+  },
+  {
+    "en": "I fainted.",
+    "de": "Ich wurde ohnmächtig.",
+    "level": "A2"
+  },
+  {
+    "en": "I frowned.",
+    "de": "Ich runzelte die Stirn.",
+    "level": "A2"
+  },
+  {
+    "en": "I giggled.",
+    "de": "Ich kicherte.",
+    "level": "A2"
+  },
+  {
+    "en": "I hurried.",
+    "de": "Ich habe mich beeilt.",
+    "level": "A2"
+  },
+  {
+    "en": "I laughed.",
+    "de": "Ich lachte.",
+    "level": "A2"
+  },
+  {
+    "en": "I promise.",
+    "de": "Ich versprech's.",
+    "level": "A2"
+  },
+  {
+    "en": "I relaxed.",
+    "de": "Ich entspanne mich.",
+    "level": "A2"
+  },
+  {
+    "en": "I retired.",
+    "de": "Ich ging in Pension.",
+    "level": "A2"
+  },
+  {
+    "en": "I shouted.",
+    "de": "Ich schrie.",
+    "level": "A2"
+  },
+  {
+    "en": "I slipped.",
+    "de": "Ich rutschte aus.",
+    "level": "A2"
+  },
+  {
+    "en": "I sneezed.",
+    "de": "Ich nieste.",
+    "level": "A2"
+  },
+  {
+    "en": "I stopped.",
+    "de": "Ich hörte auf.",
+    "level": "A2"
+  },
+  {
+    "en": "I stutter.",
+    "de": "Ich stottere.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll call.",
+    "de": "Ich werde anrufen.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll come.",
+    "de": "Ich werde kommen.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll cook.",
+    "de": "Ich werde kochen.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll help.",
+    "de": "Ich helfe.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll stop.",
+    "de": "Ich werde aufhören.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll walk.",
+    "de": "Ich gehe zu Fuß.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm angry.",
+    "de": "Ich bin sauer.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm bored.",
+    "de": "Ich bin gelangweilt.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm early.",
+    "de": "Ich bin früh dran.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm happy.",
+    "de": "Ich bin glücklich.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm heavy.",
+    "de": "Ich bin schwer.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm right.",
+    "de": "Ich habe recht.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm sorry.",
+    "de": "Es tut mir leid.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm tired.",
+    "de": "Ich bin müde!",
+    "level": "A2"
+  },
+  {
+    "en": "Ignore it.",
+    "de": "Beachte es gar nicht!",
+    "level": "A2"
+  },
+  {
+    "en": "It burned.",
+    "de": "Es brannte.",
+    "level": "A2"
+  },
+  {
+    "en": "It poured.",
+    "de": "Es schüttete.",
+    "level": "A2"
+  },
+  {
+    "en": "It snowed.",
+    "de": "Es hat geschneit.",
+    "level": "A2"
+  },
+  {
+    "en": "It stinks.",
+    "de": "Da ist doch was faul.",
+    "level": "A2"
+  },
+  {
+    "en": "It worked.",
+    "de": "Es hat geklappt.",
+    "level": "A2"
+  },
+  {
+    "en": "It's cool.",
+    "de": "Es ist kühl.",
+    "level": "A2"
+  },
+  {
+    "en": "It's dark.",
+    "de": "Es ist dunkel.",
+    "level": "A2"
+  },
+  {
+    "en": "It's easy.",
+    "de": "Das ist einfach.",
+    "level": "A2"
+  },
+  {
+    "en": "It's fair.",
+    "de": "Es ist gerecht.",
+    "level": "A2"
+  },
+  {
+    "en": "It's free.",
+    "de": "Es ist frei.",
+    "level": "A2"
+  },
+  {
+    "en": "It's full.",
+    "de": "Es ist voll.",
+    "level": "A2"
+  },
+  {
+    "en": "It's gone.",
+    "de": "Es ist verschwunden.",
+    "level": "A2"
+  },
+  {
+    "en": "It's hard.",
+    "de": "Das ist hart.",
+    "level": "A2"
+  },
+  {
+    "en": "It's late.",
+    "de": "Es ist spät.",
+    "level": "A2"
+  },
+  {
+    "en": "It's mine.",
+    "de": "Es ist meins.",
+    "level": "A2"
+  },
+  {
+    "en": "It's okay.",
+    "de": "Es ist in Ordnung.",
+    "level": "A2"
+  },
+  {
+    "en": "It's open.",
+    "de": "Es ist geöffnet.",
+    "level": "A2"
+  },
+  {
+    "en": "It's ours.",
+    "de": "Es ist unsers.",
+    "level": "A2"
+  },
+  {
+    "en": "It's over.",
+    "de": "Es ist vorbei.",
+    "level": "A2"
+  },
+  {
+    "en": "It's safe.",
+    "de": "Es ist sicher.",
+    "level": "A2"
+  },
+  {
+    "en": "It's sand.",
+    "de": "Es ist Sand.",
+    "level": "A2"
+  },
+  {
+    "en": "It's true.",
+    "de": "Es ist wahr.",
+    "level": "A2"
+  },
+  {
+    "en": "It's work.",
+    "de": "Es ist Arbeit.",
+    "level": "A2"
+  },
+  {
+    "en": "Just swim.",
+    "de": "Schwimm einfach.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep that.",
+    "de": "Behalt’s!",
+    "level": "A2"
+  },
+  {
+    "en": "Keep them.",
+    "de": "Behalte sie.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep this.",
+    "de": "Behalte das!",
+    "level": "A2"
+  },
+  {
+    "en": "Kill them.",
+    "de": "Töte sie!",
+    "level": "A2"
+  },
+  {
+    "en": "Leave now.",
+    "de": "Geh jetzt!",
+    "level": "A2"
+  },
+  {
+    "en": "Let's eat.",
+    "de": "Essen wir etwas!",
+    "level": "A2"
+  },
+  {
+    "en": "Let's see.",
+    "de": "Schauen wir mal.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's try!",
+    "de": "Lasst es uns versuchen!",
+    "level": "A2"
+  },
+  {
+    "en": "Lie still.",
+    "de": "Lieg still und beweg dich nicht.",
+    "level": "A2"
+  },
+  {
+    "en": "Look away.",
+    "de": "Schau weg.",
+    "level": "A2"
+  },
+  {
+    "en": "Look back!",
+    "de": "Schau nach hinten!",
+    "level": "A2"
+  },
+  {
+    "en": "Look back.",
+    "de": "Schau hinter dich.",
+    "level": "A2"
+  },
+  {
+    "en": "Look down.",
+    "de": "Guck runter.",
+    "level": "A2"
+  },
+  {
+    "en": "Loosen it.",
+    "de": "Dreh es auf.",
+    "level": "A2"
+  },
+  {
+    "en": "Nice shot!",
+    "de": "Guter Schuss!",
+    "level": "A2"
+  },
+  {
+    "en": "Of course!",
+    "de": "Natürlich!",
+    "level": "A2"
+  },
+  {
+    "en": "Repeat it.",
+    "de": "Wiederhole es!",
+    "level": "A2"
+  },
+  {
+    "en": "Say hello.",
+    "de": "Sag Hallo.",
+    "level": "A2"
+  },
+  {
+    "en": "See below.",
+    "de": "Siehe unten.",
+    "level": "A2"
+  },
+  {
+    "en": "Seize him!",
+    "de": "Fass ihn!",
+    "level": "A2"
+  },
+  {
+    "en": "She cried.",
+    "de": "Sie weinte.",
+    "level": "A2"
+  },
+  {
+    "en": "She tried.",
+    "de": "Sie hat's versucht.",
+    "level": "A2"
+  },
+  {
+    "en": "She walks.",
+    "de": "Sie geht.",
+    "level": "A2"
+  },
+  {
+    "en": "She's hot.",
+    "de": "Sie ist heiß.",
+    "level": "A2"
+  },
+  {
+    "en": "Sign here.",
+    "de": "Unterschreibe hier.",
+    "level": "A2"
+  },
+  {
+    "en": "Sign this.",
+    "de": "Unterschreiben Sie das.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit still.",
+    "de": "Sitz still.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit tight.",
+    "de": "Harre aus!",
+    "level": "A2"
+  },
+  {
+    "en": "Slow down.",
+    "de": "Mach langsamer.",
+    "level": "A2"
+  },
+  {
+    "en": "Start now.",
+    "de": "Beginnen Sie jetzt.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay home.",
+    "de": "Bleib zu Hause.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay thin.",
+    "de": "Bleib dünn.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop here.",
+    "de": "Hör hier auf.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop that!",
+    "de": "Lass das!",
+    "level": "A2"
+  },
+  {
+    "en": "Stop them.",
+    "de": "Stopp sie.",
+    "level": "A2"
+  },
+  {
+    "en": "Take care!",
+    "de": "Pass auf dich auf!",
+    "level": "A2"
+  },
+  {
+    "en": "Take care.",
+    "de": "Mach's gut.",
+    "level": "A2"
+  },
+  {
+    "en": "Take mine.",
+    "de": "Nimm meins.",
+    "level": "A2"
+  },
+  {
+    "en": "Take over.",
+    "de": "Übernimm du.",
+    "level": "A2"
+  },
+  {
+    "en": "That hurt.",
+    "de": "Das tat weh.",
+    "level": "A2"
+  },
+  {
+    "en": "That's OK.",
+    "de": "Das ist in Ordnung.",
+    "level": "A2"
+  },
+  {
+    "en": "That's it.",
+    "de": "Das war's.",
+    "level": "A2"
+  },
+  {
+    "en": "That's me.",
+    "de": "Das bin ich!",
+    "level": "A2"
+  },
+  {
+    "en": "They fell.",
+    "de": "Sie fielen.",
+    "level": "A2"
+  },
+  {
+    "en": "They lied.",
+    "de": "Sie haben gelogen.",
+    "level": "A2"
+  },
+  {
+    "en": "They lost.",
+    "de": "Sie verloren.",
+    "level": "A2"
+  },
+  {
+    "en": "They swam.",
+    "de": "Sie schwammen.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom'll go.",
+    "de": "Tom wird gehen.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's sad.",
+    "de": "Tom ist traurig.",
+    "level": "A2"
+  },
+  {
+    "en": "Try again.",
+    "de": "Versuchen Sie es noch einmal.",
+    "level": "A2"
+  },
+  {
+    "en": "Unlock it.",
+    "de": "Schließ es auf.",
+    "level": "A2"
+  },
+  {
+    "en": "We agreed.",
+    "de": "Wir waren uns einig.",
+    "level": "A2"
+  },
+  {
+    "en": "We failed.",
+    "de": "Wir sind gescheitert.",
+    "level": "A2"
+  },
+  {
+    "en": "We fasted.",
+    "de": "Wir haben gefastet.",
+    "level": "A2"
+  },
+  {
+    "en": "We forgot.",
+    "de": "Wir haben es vergessen.",
+    "level": "A2"
+  },
+  {
+    "en": "We limped.",
+    "de": "Wir hinkten.",
+    "level": "A2"
+  },
+  {
+    "en": "We prayed.",
+    "de": "Wir haben gebetet.",
+    "level": "A2"
+  },
+  {
+    "en": "We smiled.",
+    "de": "Wir lächelten.",
+    "level": "A2"
+  },
+  {
+    "en": "We talked.",
+    "de": "Wir haben uns unterhalten.",
+    "level": "A2"
+  },
+  {
+    "en": "We waited.",
+    "de": "Wir warteten.",
+    "level": "A2"
+  },
+  {
+    "en": "We walked.",
+    "de": "Wir sind zu Fuß gegangen.",
+    "level": "A2"
+  },
+  {
+    "en": "We yawned.",
+    "de": "Wir gähnten.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll see.",
+    "de": "Wir werden sehen.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll try.",
+    "de": "Wir werden es versuchen.",
+    "level": "A2"
+  },
+  {
+    "en": "We're mad.",
+    "de": "Wir sind verrückt.",
+    "level": "A2"
+  },
+  {
+    "en": "We're shy.",
+    "de": "Wir sind schüchtern.",
+    "level": "A2"
+  },
+  {
+    "en": "What's on?",
+    "de": "Was ist los?",
+    "level": "A2"
+  },
+  {
+    "en": "Who cares?",
+    "de": "Na und?",
+    "level": "A2"
+  },
+  {
+    "en": "Who drove?",
+    "de": "Wer ist gefahren?",
+    "level": "A2"
+  },
+  {
+    "en": "Who spoke?",
+    "de": "Wer hat gesprochen?",
+    "level": "A2"
+  },
+  {
+    "en": "Who stood?",
+    "de": "Wer stand?",
+    "level": "A2"
+  },
+  {
+    "en": "Who'll go?",
+    "de": "Wer geht?",
+    "level": "A2"
+  },
+  {
+    "en": "Who's she?",
+    "de": "Wer ist sie?",
+    "level": "A2"
+  },
+  {
+    "en": "Write Tom.",
+    "de": "Schreibe Tom!",
+    "level": "A2"
+  },
+  {
+    "en": "You drive.",
+    "de": "Du fährst.",
+    "level": "A2"
+  },
+  {
+    "en": "You idiot!",
+    "de": "Du Idiot!",
+    "level": "A2"
+  },
+  {
+    "en": "You smell.",
+    "de": "Du stinkst.",
+    "level": "A2"
+  },
+  {
+    "en": "You start.",
+    "de": "Du fängst an.",
+    "level": "A2"
+  },
+  {
+    "en": "You stink.",
+    "de": "Du stinkst.",
+    "level": "A2"
+  },
+  {
+    "en": "You tried.",
+    "de": "Du hast's versucht.",
+    "level": "A2"
+  },
+  {
+    "en": "You're OK.",
+    "de": "Du bist okay.",
+    "level": "A2"
+  },
+  {
+    "en": "Answer Tom.",
+    "de": "Antworte Tom!",
+    "level": "A2"
+  },
+  {
+    "en": "Ask anyone.",
+    "de": "Frag irgendwen!",
+    "level": "A2"
+  },
+  {
+    "en": "Ask around.",
+    "de": "Frag herum.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask nicely.",
+    "de": "Frag freundlich.",
+    "level": "A2"
+  },
+  {
+    "en": "Be careful!",
+    "de": "Vorsicht!",
+    "level": "A2"
+  },
+  {
+    "en": "Be careful.",
+    "de": "Sei vorsichtig!",
+    "level": "A2"
+  },
+  {
+    "en": "Be patient.",
+    "de": "Sei geduldig!",
+    "level": "A2"
+  },
+  {
+    "en": "Be serious.",
+    "de": "Bleib mal auf dem Boden der Tatsachen!",
+    "level": "A2"
+  },
+  {
+    "en": "Bring food.",
+    "de": "Bring Essen mit.",
+    "level": "A2"
+  },
+  {
+    "en": "Bring help.",
+    "de": "Hol Hilfe.",
+    "level": "A2"
+  },
+  {
+    "en": "Carry this.",
+    "de": "Trag das.",
+    "level": "A2"
+  },
+  {
+    "en": "Check that.",
+    "de": "Prüfe das nach!",
+    "level": "A2"
+  },
+  {
+    "en": "Check this.",
+    "de": "Überprüfen Sie das.",
+    "level": "A2"
+  },
+  {
+    "en": "Choose one.",
+    "de": "Suche eines aus.",
+    "level": "A2"
+  },
+  {
+    "en": "Come alone.",
+    "de": "Komm allein.",
+    "level": "A2"
+  },
+  {
+    "en": "Come along.",
+    "de": "Komm mit.",
+    "level": "A2"
+  },
+  {
+    "en": "Come dance.",
+    "de": "Komm tanzen!",
+    "level": "A2"
+  },
+  {
+    "en": "Come early.",
+    "de": "Kommen Sie frühzeitig.",
+    "level": "A2"
+  },
+  {
+    "en": "Come quick!",
+    "de": "Komm schnell!",
+    "level": "A2"
+  },
+  {
+    "en": "Destroy it.",
+    "de": "Mach es kaputt.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't come.",
+    "de": "Komm nicht.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't help.",
+    "de": "Nicht helfen!",
+    "level": "A2"
+  },
+  {
+    "en": "Don't look.",
+    "de": "Nicht gucken!",
+    "level": "A2"
+  },
+  {
+    "en": "Don't stop.",
+    "de": "Hör nicht auf.",
+    "level": "A2"
+  },
+  {
+    "en": "Eat slowly.",
+    "de": "Iss langsam!",
+    "level": "A2"
+  },
+  {
+    "en": "Examine it.",
+    "de": "Untersuchen Sie es.",
+    "level": "A2"
+  },
+  {
+    "en": "Find a job.",
+    "de": "Such dir einen Job.",
+    "level": "A2"
+  },
+  {
+    "en": "Follow him.",
+    "de": "Folge ihm!",
+    "level": "A2"
+  },
+  {
+    "en": "Forget Tom.",
+    "de": "Vergiss Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget him.",
+    "de": "Vergessen Sie ihn.",
+    "level": "A2"
+  },
+  {
+    "en": "Forgive us.",
+    "de": "Vergib uns.",
+    "level": "A2"
+  },
+  {
+    "en": "Get inside.",
+    "de": "Komm herein.",
+    "level": "A2"
+  },
+  {
+    "en": "Have faith.",
+    "de": "Hab Vertrauen.",
+    "level": "A2"
+  },
+  {
+    "en": "He got a D.",
+    "de": "Er bekam ein „ausreichend“.",
+    "level": "A2"
+  },
+  {
+    "en": "He laughed.",
+    "de": "Er lachte.",
+    "level": "A2"
+  },
+  {
+    "en": "Head north.",
+    "de": "Fahren Sie Richtung Norden.",
+    "level": "A2"
+  },
+  {
+    "en": "Hello, Tom.",
+    "de": "Hallo, Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Hold still.",
+    "de": "Halt still!",
+    "level": "A2"
+  },
+  {
+    "en": "How absurd!",
+    "de": "So ein Unsinn!",
+    "level": "A2"
+  },
+  {
+    "en": "How boring!",
+    "de": "Wie langweilig!",
+    "level": "A2"
+  },
+  {
+    "en": "How clever!",
+    "de": "Wie schlau!",
+    "level": "A2"
+  },
+  {
+    "en": "How lovely!",
+    "de": "Wie nett!",
+    "level": "A2"
+  },
+  {
+    "en": "How tragic!",
+    "de": "Wie tragisch!",
+    "level": "A2"
+  },
+  {
+    "en": "How's work?",
+    "de": "Wie läuft die Arbeit?",
+    "level": "A2"
+  },
+  {
+    "en": "Hurry home.",
+    "de": "Geh schnell nach Hause.",
+    "level": "A2"
+  },
+  {
+    "en": "I canceled.",
+    "de": "Ich habe abgesagt.",
+    "level": "A2"
+  },
+  {
+    "en": "I disagree.",
+    "de": "Ich bin anderer Meinung.",
+    "level": "A2"
+  },
+  {
+    "en": "I just ate.",
+    "de": "Ich habe gerade gegessen.",
+    "level": "A2"
+  },
+  {
+    "en": "I listened.",
+    "de": "Ich hörte zu.",
+    "level": "A2"
+  },
+  {
+    "en": "I misspoke.",
+    "de": "Ich habe mich versprochen.",
+    "level": "A2"
+  },
+  {
+    "en": "I panicked.",
+    "de": "Ich geriet in Panik.",
+    "level": "A2"
+  },
+  {
+    "en": "I promised.",
+    "de": "Ich habe es versprochen.",
+    "level": "A2"
+  },
+  {
+    "en": "I remember.",
+    "de": "Ich erinnere mich.",
+    "level": "A2"
+  },
+  {
+    "en": "I resigned.",
+    "de": "Ich bin zurückgetreten.",
+    "level": "A2"
+  },
+  {
+    "en": "I sell art.",
+    "de": "Ich verkaufe Kunst.",
+    "level": "A2"
+  },
+  {
+    "en": "I shivered.",
+    "de": "Ich zitterte.",
+    "level": "A2"
+  },
+  {
+    "en": "I squinted.",
+    "de": "Ich blinzelte.",
+    "level": "A2"
+  },
+  {
+    "en": "I survived.",
+    "de": "Ich habe überlebt.",
+    "level": "A2"
+  },
+  {
+    "en": "I whistled.",
+    "de": "Ich habe gepfiffen.",
+    "level": "A2"
+  },
+  {
+    "en": "I work out.",
+    "de": "Ich trainiere.",
+    "level": "A2"
+  },
+  {
+    "en": "I'd buy it.",
+    "de": "Ich würde es kaufen.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll stand.",
+    "de": "Ich werde stehen.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll start.",
+    "de": "Ich werde anfangen.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm a cook.",
+    "de": "Ich bin ein Koch.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm better.",
+    "de": "Ich bin besser.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm inside.",
+    "de": "Ich bin drinnen.",
+    "level": "A2"
+  },
+  {
+    "en": "It happens.",
+    "de": "Das passiert!",
+    "level": "A2"
+  },
+  {
+    "en": "It matters.",
+    "de": "Das ist wichtig.",
+    "level": "A2"
+  },
+  {
+    "en": "It'll work.",
+    "de": "Es wird funktionieren.",
+    "level": "A2"
+  },
+  {
+    "en": "It's Tom's.",
+    "de": "Das gehört Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "It's alive.",
+    "de": "Es lebt!",
+    "level": "A2"
+  },
+  {
+    "en": "It's awful.",
+    "de": "Es ist furchtbar.",
+    "level": "A2"
+  },
+  {
+    "en": "It's begun.",
+    "de": "Es hat begonnen.",
+    "level": "A2"
+  },
+  {
+    "en": "It's bogus.",
+    "de": "Das ist gefälscht.",
+    "level": "A2"
+  },
+  {
+    "en": "It's bulky.",
+    "de": "Es ist sperrig.",
+    "level": "A2"
+  },
+  {
+    "en": "It's clean.",
+    "de": "Es ist sauber.",
+    "level": "A2"
+  },
+  {
+    "en": "It's clear.",
+    "de": "Es ist klar.",
+    "level": "A2"
+  },
+  {
+    "en": "It's close.",
+    "de": "Es ist nah.",
+    "level": "A2"
+  },
+  {
+    "en": "It's early.",
+    "de": "Es ist früh.",
+    "level": "A2"
+  },
+  {
+    "en": "It's flour.",
+    "de": "Es ist Mehl.",
+    "level": "A2"
+  },
+  {
+    "en": "It's foggy.",
+    "de": "Es ist neblig.",
+    "level": "A2"
+  },
+  {
+    "en": "It's great.",
+    "de": "Es ist großartig.",
+    "level": "A2"
+  },
+  {
+    "en": "It's ready.",
+    "de": "Es ist bereit.",
+    "level": "A2"
+  },
+  {
+    "en": "It's scary.",
+    "de": "Es ist erschreckend.",
+    "level": "A2"
+  },
+  {
+    "en": "It's shiny.",
+    "de": "Es glänzt.",
+    "level": "A2"
+  },
+  {
+    "en": "It's stuck.",
+    "de": "Es steckt fest.",
+    "level": "A2"
+  },
+  {
+    "en": "It's windy.",
+    "de": "Es ist windig.",
+    "level": "A2"
+  },
+  {
+    "en": "It's yours.",
+    "de": "Es ist deins.",
+    "level": "A2"
+  },
+  {
+    "en": "Just relax.",
+    "de": "Entspann dich einfach!",
+    "level": "A2"
+  },
+  {
+    "en": "Keep still.",
+    "de": "Halt still!",
+    "level": "A2"
+  },
+  {
+    "en": "Let me pay.",
+    "de": "Lass mich bezahlen.",
+    "level": "A2"
+  },
+  {
+    "en": "Let me try.",
+    "de": "Lass mich versuchen.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's help.",
+    "de": "Lass uns helfen.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's walk.",
+    "de": "Lasst uns gehen.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's work.",
+    "de": "Arbeiten wir!",
+    "level": "A2"
+  },
+  {
+    "en": "Look ahead.",
+    "de": "Schau nach vorne.",
+    "level": "A2"
+  },
+  {
+    "en": "Love hurts.",
+    "de": "Liebe tut weh.",
+    "level": "A2"
+  },
+  {
+    "en": "Love lasts.",
+    "de": "Die Liebe bleibt.",
+    "level": "A2"
+  },
+  {
+    "en": "Never mind!",
+    "de": "Mach dir nichts draus!",
+    "level": "A2"
+  },
+  {
+    "en": "No comment.",
+    "de": "Kein Kommentar.",
+    "level": "A2"
+  },
+  {
+    "en": "No kidding?",
+    "de": "Wirklich?",
+    "level": "A2"
+  },
+  {
+    "en": "No problem!",
+    "de": "Kein Problem!",
+    "level": "A2"
+  },
+  {
+    "en": "No problem.",
+    "de": "Kein Problem.",
+    "level": "A2"
+  },
+  {
+    "en": "Once again.",
+    "de": "Noch einmal.",
+    "level": "A2"
+  },
+  {
+    "en": "Replace it.",
+    "de": "Ersetze es.",
+    "level": "A2"
+  },
+  {
+    "en": "Run faster.",
+    "de": "Lauf schneller!",
+    "level": "A2"
+  },
+  {
+    "en": "Say please.",
+    "de": "Sag „bitte“.",
+    "level": "A2"
+  },
+  {
+    "en": "She smiled.",
+    "de": "Sie lächelte.",
+    "level": "A2"
+  },
+  {
+    "en": "Smell this.",
+    "de": "Riech mal.",
+    "level": "A2"
+  },
+  {
+    "en": "Start here.",
+    "de": "Beginne hier.",
+    "level": "A2"
+  },
+  {
+    "en": "Start over.",
+    "de": "Fang noch mal von vorne an.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay close.",
+    "de": "Bleib in der Nähe.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay there.",
+    "de": "Bleib da!",
+    "level": "A2"
+  },
+  {
+    "en": "Stop lying.",
+    "de": "Hören Sie auf zu lügen.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop there.",
+    "de": "Halte dort an.",
+    "level": "A2"
+  },
+  {
+    "en": "Study more.",
+    "de": "Lern mehr.",
+    "level": "A2"
+  },
+  {
+    "en": "Take cover!",
+    "de": "Geh in Deckung!",
+    "level": "A2"
+  },
+  {
+    "en": "Take notes.",
+    "de": "Mache Notizen.",
+    "level": "A2"
+  },
+  {
+    "en": "Take these.",
+    "de": "Nimm das hier.",
+    "level": "A2"
+  },
+  {
+    "en": "Taste this.",
+    "de": "Schmecken Sie das.",
+    "level": "A2"
+  },
+  {
+    "en": "That hurts.",
+    "de": "Das tut weh.",
+    "level": "A2"
+  },
+  {
+    "en": "That'll do.",
+    "de": "Das wird gehen.",
+    "level": "A2"
+  },
+  {
+    "en": "That's bad.",
+    "de": "Das ist mies.",
+    "level": "A2"
+  },
+  {
+    "en": "That's his.",
+    "de": "Das gehört ihm.",
+    "level": "A2"
+  },
+  {
+    "en": "That's new.",
+    "de": "Es ist neu.",
+    "level": "A2"
+  },
+  {
+    "en": "That's sad.",
+    "de": "Das ist betrüblich.",
+    "level": "A2"
+  },
+  {
+    "en": "They agree.",
+    "de": "Sie sind einverstanden.",
+    "level": "A2"
+  },
+  {
+    "en": "They cheat.",
+    "de": "Sie mogeln.",
+    "level": "A2"
+  },
+  {
+    "en": "They slept.",
+    "de": "Sie schliefen.",
+    "level": "A2"
+  },
+  {
+    "en": "They stood.",
+    "de": "Sie standen.",
+    "level": "A2"
+  },
+  {
+    "en": "They tried.",
+    "de": "Sie versuchten es.",
+    "level": "A2"
+  },
+  {
+    "en": "They voted.",
+    "de": "Sie haben abgestimmt.",
+    "level": "A2"
+  },
+  {
+    "en": "They're in.",
+    "de": "Sie sind dabei.",
+    "level": "A2"
+  },
+  {
+    "en": "Think hard.",
+    "de": "Denk scharf nach!",
+    "level": "A2"
+  },
+  {
+    "en": "This'll do.",
+    "de": "Das wird genügen.",
+    "level": "A2"
+  },
+  {
+    "en": "Time flies.",
+    "de": "Die Zeit vergeht wie im Flug.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom'll pay.",
+    "de": "Tom wird bezahlen.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's fast.",
+    "de": "Tom ist schnell.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's here.",
+    "de": "Tom ist hier.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's home.",
+    "de": "Tom ist zu Hause.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's left.",
+    "de": "Tom ist gegangen.",
+    "level": "A2"
+  },
+  {
+    "en": "Try harder.",
+    "de": "Streng dich mehr an.",
+    "level": "A2"
+  },
+  {
+    "en": "Turn right.",
+    "de": "Rechts abbiegen!",
+    "level": "A2"
+  },
+  {
+    "en": "Unscrew it.",
+    "de": "Schraub’s auf!",
+    "level": "A2"
+  },
+  {
+    "en": "Watch this.",
+    "de": "Schau dir das an.",
+    "level": "A2"
+  },
+  {
+    "en": "We buy CDs.",
+    "de": "Wir kaufen CDs.",
+    "level": "A2"
+  },
+  {
+    "en": "We laughed.",
+    "de": "Wir lachten.",
+    "level": "A2"
+  }
+]

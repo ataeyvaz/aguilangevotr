@@ -1,0 +1,47 @@
+{
+  "scenario": "hairsalon",
+  "language": "es",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "¿Quiere un corte de pelo o un peinado?",
+      "expected": "Quiero un corte de pelo corto, por favor.",
+      "hint": "I want a short haircut, please."
+    },
+    {
+      "bot": "¿Tiene cita o es sin cita?",
+      "expected": "Tengo cita a las cuatro de la tarde.",
+      "hint": "I have an appointment at four in the afternoon."
+    },
+    {
+      "bot": "¿Cómo quiere el flequillo?",
+      "expected": "Quiero el flequillo recto, por favor.",
+      "hint": "I want straight bangs, please."
+    },
+    {
+      "bot": "¿Necesita lavado de cabello?",
+      "expected": "Sí, quiero lavado y secado, por favor.",
+      "hint": "Yes, I want wash and dry, please."
+    },
+    {
+      "bot": "¿Usa productos para el cabello?",
+      "expected": "Sí, uso crema para el pelo rizado.",
+      "hint": "Yes, I use cream for curly hair."
+    },
+    {
+      "bot": "¿Cuánto cuesta el corte?",
+      "expected": "El corte cuesta veinte dólares, ¿verdad?",
+      "hint": "The haircut costs twenty dollars, right?"
+    },
+    {
+      "bot": "¿Quiere color o reflejos?",
+      "expected": "No, solo quiero un corte hoy.",
+      "hint": "No, I just want a haircut today."
+    },
+    {
+      "bot": "¿Está satisfecho con el resultado?",
+      "expected": "Sí, me encanta cómo quedó mi pelo.",
+      "hint": "Yes, I love how my hair turned out."
+    }
+  ]
+}

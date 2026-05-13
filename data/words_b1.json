@@ -1,0 +1,612 @@
+[
+  {
+    "word": "achieve",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "əˈtʃiːv",
+    "translations": {
+      "es": { "translation": "lograr", "alt_translations": ["alcanzar"], "example_target": "Ella logró su objetivo después de mucho esfuerzo." },
+      "pt": { "translation": "alcançar", "alt_translations": ["conseguir"], "example_target": "Ela alcançou seu objetivo depois de muito esforço." }
+    }
+  },
+  {
+    "word": "apply",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "əˈplaɪ",
+    "translations": {
+      "es": { "translation": "solicitar", "alt_translations": ["aplicar"], "example_target": "Voy a solicitar ese trabajo mañana." },
+      "pt": { "translation": "candidatar-se", "alt_translations": ["aplicar"], "example_target": "Vou me candidatar a esse emprego amanhã." }
+    }
+  },
+  {
+    "word": "arrange",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "əˈreɪndʒ",
+    "translations": {
+      "es": { "translation": "organizar", "alt_translations": ["arreglar"], "example_target": "Voy a organizar una reunión para el viernes." },
+      "pt": { "translation": "organizar", "alt_translations": ["arranjar"], "example_target": "Vou organizar uma reunião para sexta-feira." }
+    }
+  },
+  {
+    "word": "avoid",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "əˈvɔɪd",
+    "translations": {
+      "es": { "translation": "evitar", "alt_translations": [], "example_target": "Trato de evitar el tráfico en las mañanas." },
+      "pt": { "translation": "evitar", "alt_translations": [], "example_target": "Tento evitar o trânsito de manhã." }
+    }
+  },
+  {
+    "word": "communicate",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "kəˈmjuːnɪkeɪt",
+    "translations": {
+      "es": { "translation": "comunicar", "alt_translations": ["comunicarse"], "example_target": "Es importante comunicarse bien en el trabajo." },
+      "pt": { "translation": "comunicar", "alt_translations": ["comunicar-se"], "example_target": "É importante se comunicar bem no trabalho." }
+    }
+  },
+  {
+    "word": "compare",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "kəmˈpeər",
+    "translations": {
+      "es": { "translation": "comparar", "alt_translations": [], "example_target": "Siempre comparo los precios antes de comprar." },
+      "pt": { "translation": "comparar", "alt_translations": [], "example_target": "Sempre comparo os preços antes de comprar." }
+    }
+  },
+  {
+    "word": "complain",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "kəmˈpleɪn",
+    "translations": {
+      "es": { "translation": "quejarse", "alt_translations": ["reclamar"], "example_target": "Se quejó del mal servicio en el restaurante." },
+      "pt": { "translation": "reclamar", "alt_translations": ["queixar-se"], "example_target": "Ela reclamou do mau serviço no restaurante." }
+    }
+  },
+  {
+    "word": "consider",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "kənˈsɪdər",
+    "translations": {
+      "es": { "translation": "considerar", "alt_translations": [], "example_target": "Considera todas tus opciones antes de decidir." },
+      "pt": { "translation": "considerar", "alt_translations": [], "example_target": "Considere todas as suas opções antes de decidir." }
+    }
+  },
+  {
+    "word": "develop",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "dɪˈveləp",
+    "translations": {
+      "es": { "translation": "desarrollar", "alt_translations": [], "example_target": "Quiero desarrollar mis habilidades en inglés." },
+      "pt": { "translation": "desenvolver", "alt_translations": [], "example_target": "Quero desenvolver minhas habilidades em inglês." }
+    }
+  },
+  {
+    "word": "discuss",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "dɪˈskʌs",
+    "translations": {
+      "es": { "translation": "discutir", "alt_translations": ["hablar sobre"], "example_target": "Vamos a discutir el plan en la reunión." },
+      "pt": { "translation": "discutir", "alt_translations": ["conversar sobre"], "example_target": "Vamos discutir o plano na reunião." }
+    }
+  },
+  {
+    "word": "explain",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "ɪkˈspleɪn",
+    "translations": {
+      "es": { "translation": "explicar", "alt_translations": [], "example_target": "¿Puedes explicar cómo funciona esto?" },
+      "pt": { "translation": "explicar", "alt_translations": [], "example_target": "Você pode explicar como isso funciona?" }
+    }
+  },
+  {
+    "word": "improve",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "ɪmˈpruːv",
+    "translations": {
+      "es": { "translation": "mejorar", "alt_translations": [], "example_target": "Practica cada día para mejorar tu inglés." },
+      "pt": { "translation": "melhorar", "alt_translations": [], "example_target": "Pratique todos os dias para melhorar seu inglês." }
+    }
+  },
+  {
+    "word": "manage",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "ˈmænɪdʒ",
+    "translations": {
+      "es": { "translation": "gestionar", "alt_translations": ["manejar"], "example_target": "Ella sabe manejar bien su tiempo." },
+      "pt": { "translation": "gerenciar", "alt_translations": ["administrar"], "example_target": "Ela sabe administrar bem o seu tempo." }
+    }
+  },
+  {
+    "word": "organize",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "ˈɔːrɡənaɪz",
+    "translations": {
+      "es": { "translation": "organizar", "alt_translations": [], "example_target": "Necesito organizar mi espacio de trabajo." },
+      "pt": { "translation": "organizar", "alt_translations": [], "example_target": "Preciso organizar meu espaço de trabalho." }
+    }
+  },
+  {
+    "word": "perform",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "pərˈfɔːrm",
+    "translations": {
+      "es": { "translation": "actuar", "alt_translations": ["realizar"], "example_target": "El equipo actuó muy bien bajo presión." },
+      "pt": { "translation": "atuar", "alt_translations": ["realizar"], "example_target": "A equipe atuou muito bem sob pressão." }
+    }
+  },
+  {
+    "word": "prepare",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "prɪˈpeər",
+    "translations": {
+      "es": { "translation": "preparar", "alt_translations": [], "example_target": "Necesito prepararme para la entrevista." },
+      "pt": { "translation": "preparar", "alt_translations": [], "example_target": "Preciso me preparar para a entrevista." }
+    }
+  },
+  {
+    "word": "provide",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "prəˈvaɪd",
+    "translations": {
+      "es": { "translation": "proporcionar", "alt_translations": ["proveer"], "example_target": "El gobierno provee servicios de salud gratuitos." },
+      "pt": { "translation": "fornecer", "alt_translations": ["prover"], "example_target": "O governo fornece serviços de saúde gratuitos." }
+    }
+  },
+  {
+    "word": "reduce",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "rɪˈduːs",
+    "translations": {
+      "es": { "translation": "reducir", "alt_translations": [], "example_target": "Quiero reducir el tiempo que paso en el teléfono." },
+      "pt": { "translation": "reduzir", "alt_translations": [], "example_target": "Quero reduzir o tempo que passo no telefone." }
+    }
+  },
+  {
+    "word": "suggest",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "səˈdʒest",
+    "translations": {
+      "es": { "translation": "sugerir", "alt_translations": ["proponer"], "example_target": "Te sugiero estudiar un poco cada día." },
+      "pt": { "translation": "sugerir", "alt_translations": ["propor"], "example_target": "Sugiro que você estude um pouco todos os dias." }
+    }
+  },
+  {
+    "word": "support",
+    "part_of_speech": "verb",
+    "cefr_level": "B1",
+    "ipa": "səˈpɔːrt",
+    "translations": {
+      "es": { "translation": "apoyar", "alt_translations": ["soportar"], "example_target": "Mi familia siempre me apoya en mis decisiones." },
+      "pt": { "translation": "apoiar", "alt_translations": ["suportar"], "example_target": "Minha família sempre me apoia nas minhas decisões." }
+    }
+  },
+  {
+    "word": "ability",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "əˈbɪlɪti",
+    "translations": {
+      "es": { "translation": "habilidad", "alt_translations": ["capacidad"], "example_target": "Tiene una gran habilidad para los idiomas." },
+      "pt": { "translation": "habilidade", "alt_translations": ["capacidade"], "example_target": "Ela tem uma grande habilidade para idiomas." }
+    }
+  },
+  {
+    "word": "advantage",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ədˈvɑːntɪdʒ",
+    "translations": {
+      "es": { "translation": "ventaja", "alt_translations": [], "example_target": "Hablar inglés es una gran ventaja en el trabajo." },
+      "pt": { "translation": "vantagem", "alt_translations": [], "example_target": "Falar inglês é uma grande vantagem no trabalho." }
+    }
+  },
+  {
+    "word": "career",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "kəˈrɪər",
+    "translations": {
+      "es": { "translation": "carrera", "alt_translations": ["profesión"], "example_target": "Quiero construir una buena carrera en medicina." },
+      "pt": { "translation": "carreira", "alt_translations": ["profissão"], "example_target": "Quero construir uma boa carreira na medicina." }
+    }
+  },
+  {
+    "word": "challenge",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˈtʃælɪndʒ",
+    "translations": {
+      "es": { "translation": "desafío", "alt_translations": ["reto"], "example_target": "Aprender inglés es un desafío que vale la pena." },
+      "pt": { "translation": "desafio", "alt_translations": [], "example_target": "Aprender inglês é um desafio que vale a pena." }
+    }
+  },
+  {
+    "word": "community",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "kəˈmjuːnɪti",
+    "translations": {
+      "es": { "translation": "comunidad", "alt_translations": [], "example_target": "Participo activamente en mi comunidad local." },
+      "pt": { "translation": "comunidade", "alt_translations": [], "example_target": "Participo ativamente na minha comunidade local." }
+    }
+  },
+  {
+    "word": "confidence",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˈkɒnfɪdəns",
+    "translations": {
+      "es": { "translation": "confianza", "alt_translations": ["seguridad"], "example_target": "Hablar con nativos aumenta tu confianza." },
+      "pt": { "translation": "confiança", "alt_translations": ["segurança"], "example_target": "Falar com nativos aumenta sua confiança." }
+    }
+  },
+  {
+    "word": "culture",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˈkʌltʃər",
+    "translations": {
+      "es": { "translation": "cultura", "alt_translations": [], "example_target": "La cultura americana es muy diversa e interesante." },
+      "pt": { "translation": "cultura", "alt_translations": [], "example_target": "A cultura americana é muito diversa e interessante." }
+    }
+  },
+  {
+    "word": "decision",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "dɪˈsɪʒən",
+    "translations": {
+      "es": { "translation": "decisión", "alt_translations": [], "example_target": "Fue una decisión difícil pero correcta." },
+      "pt": { "translation": "decisão", "alt_translations": [], "example_target": "Foi uma decisão difícil mas correta." }
+    }
+  },
+  {
+    "word": "environment",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ɪnˈvaɪrənmənt",
+    "translations": {
+      "es": { "translation": "medio ambiente", "alt_translations": ["entorno"], "example_target": "Debemos proteger el medio ambiente para el futuro." },
+      "pt": { "translation": "meio ambiente", "alt_translations": ["ambiente"], "example_target": "Devemos proteger o meio ambiente para o futuro." }
+    }
+  },
+  {
+    "word": "experience",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ɪkˈspɪəriəns",
+    "translations": {
+      "es": { "translation": "experiencia", "alt_translations": [], "example_target": "Tengo tres años de experiencia en este campo." },
+      "pt": { "translation": "experiência", "alt_translations": [], "example_target": "Tenho três anos de experiência nessa área." }
+    }
+  },
+  {
+    "word": "freedom",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˈfriːdəm",
+    "translations": {
+      "es": { "translation": "libertad", "alt_translations": [], "example_target": "La libertad de expresión es un derecho fundamental." },
+      "pt": { "translation": "liberdade", "alt_translations": [], "example_target": "A liberdade de expressão é um direito fundamental." }
+    }
+  },
+  {
+    "word": "knowledge",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˈnɒlɪdʒ",
+    "translations": {
+      "es": { "translation": "conocimiento", "alt_translations": ["saber"], "example_target": "El conocimiento del inglés abre muchas puertas." },
+      "pt": { "translation": "conhecimento", "alt_translations": ["saber"], "example_target": "O conhecimento do inglês abre muitas portas." }
+    }
+  },
+  {
+    "word": "lifestyle",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˈlaɪfstaɪl",
+    "translations": {
+      "es": { "translation": "estilo de vida", "alt_translations": [], "example_target": "Quiero cambiar mi estilo de vida y ser más activo." },
+      "pt": { "translation": "estilo de vida", "alt_translations": [], "example_target": "Quero mudar meu estilo de vida e ser mais ativo." }
+    }
+  },
+  {
+    "word": "memory",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˈmeməri",
+    "translations": {
+      "es": { "translation": "memoria", "alt_translations": ["recuerdo"], "example_target": "Tengo buenos recuerdos de mi infancia." },
+      "pt": { "translation": "memória", "alt_translations": ["lembrança"], "example_target": "Tenho boas lembranças da minha infância." }
+    }
+  },
+  {
+    "word": "mistake",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "mɪˈsteɪk",
+    "translations": {
+      "es": { "translation": "error", "alt_translations": ["equivocación"], "example_target": "Todos cometemos errores cuando aprendemos algo nuevo." },
+      "pt": { "translation": "erro", "alt_translations": ["equívoco"], "example_target": "Todos cometemos erros quando aprendemos algo novo." }
+    }
+  },
+  {
+    "word": "opportunity",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˌɒpəˈtjuːnɪti",
+    "translations": {
+      "es": { "translation": "oportunidad", "alt_translations": [], "example_target": "Esta es una gran oportunidad para crecer." },
+      "pt": { "translation": "oportunidade", "alt_translations": [], "example_target": "Esta é uma grande oportunidade para crescer." }
+    }
+  },
+  {
+    "word": "progress",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "ˈprɒɡres",
+    "translations": {
+      "es": { "translation": "progreso", "alt_translations": ["avance"], "example_target": "Estoy viendo mucho progreso en mi inglés." },
+      "pt": { "translation": "progresso", "alt_translations": ["avanço"], "example_target": "Estou vendo muito progresso no meu inglês." }
+    }
+  },
+  {
+    "word": "relationship",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "rɪˈleɪʃənʃɪp",
+    "translations": {
+      "es": { "translation": "relación", "alt_translations": [], "example_target": "Tengo una buena relación con mis compañeros de trabajo." },
+      "pt": { "translation": "relacionamento", "alt_translations": ["relação"], "example_target": "Tenho um bom relacionamento com meus colegas de trabalho." }
+    }
+  },
+  {
+    "word": "skill",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "skɪl",
+    "translations": {
+      "es": { "translation": "habilidad", "alt_translations": ["destreza"], "example_target": "La comunicación es una habilidad muy importante." },
+      "pt": { "translation": "habilidade", "alt_translations": ["competência"], "example_target": "A comunicação é uma habilidade muito importante." }
+    }
+  },
+  {
+    "word": "tradition",
+    "part_of_speech": "noun",
+    "cefr_level": "B1",
+    "ipa": "trəˈdɪʃən",
+    "translations": {
+      "es": { "translation": "tradición", "alt_translations": [], "example_target": "Respeto mucho las tradiciones de mi familia." },
+      "pt": { "translation": "tradição", "alt_translations": [], "example_target": "Respeito muito as tradições da minha família." }
+    }
+  },
+  {
+    "word": "anxious",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈæŋkʃəs",
+    "translations": {
+      "es": { "translation": "ansioso", "alt_translations": ["nervioso"], "example_target": "Me siento ansioso antes de hablar en público." },
+      "pt": { "translation": "ansioso", "alt_translations": ["nervoso"], "example_target": "Fico ansioso antes de falar em público." }
+    }
+  },
+  {
+    "word": "brave",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "breɪv",
+    "translations": {
+      "es": { "translation": "valiente", "alt_translations": ["audaz"], "example_target": "Fue muy valiente hablar inglés con desconocidos." },
+      "pt": { "translation": "corajoso", "alt_translations": ["valente"], "example_target": "Foi muito corajoso falar inglês com desconhecidos." }
+    }
+  },
+  {
+    "word": "capable",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈkeɪpəbl",
+    "translations": {
+      "es": { "translation": "capaz", "alt_translations": ["competente"], "example_target": "Eres completamente capaz de aprender inglés." },
+      "pt": { "translation": "capaz", "alt_translations": ["competente"], "example_target": "Você é completamente capaz de aprender inglês." }
+    }
+  },
+  {
+    "word": "confident",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈkɒnfɪdənt",
+    "translations": {
+      "es": { "translation": "seguro", "alt_translations": ["confiado"], "example_target": "Me siento más seguro hablando inglés ahora." },
+      "pt": { "translation": "confiante", "alt_translations": ["seguro"], "example_target": "Me sinto mais confiante falando inglês agora." }
+    }
+  },
+  {
+    "word": "curious",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈkjʊəriəs",
+    "translations": {
+      "es": { "translation": "curioso", "alt_translations": [], "example_target": "Los niños curiosos aprenden más rápido." },
+      "pt": { "translation": "curioso", "alt_translations": [], "example_target": "Crianças curiosas aprendem mais rápido." }
+    }
+  },
+  {
+    "word": "disappointed",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˌdɪsəˈpɔɪntɪd",
+    "translations": {
+      "es": { "translation": "decepcionado", "alt_translations": [], "example_target": "Estoy decepcionado con mis resultados del examen." },
+      "pt": { "translation": "decepcionado", "alt_translations": ["desapontado"], "example_target": "Estou decepcionado com meus resultados do exame." }
+    }
+  },
+  {
+    "word": "essential",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ɪˈsenʃəl",
+    "translations": {
+      "es": { "translation": "esencial", "alt_translations": ["fundamental"], "example_target": "El inglés es esencial para trabajar en los EE. UU." },
+      "pt": { "translation": "essencial", "alt_translations": ["fundamental"], "example_target": "O inglês é essencial para trabalhar nos EUA." }
+    }
+  },
+  {
+    "word": "flexible",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈfleksɪbl",
+    "translations": {
+      "es": { "translation": "flexible", "alt_translations": [], "example_target": "Es importante ser flexible en el mundo laboral." },
+      "pt": { "translation": "flexível", "alt_translations": [], "example_target": "É importante ser flexível no mundo do trabalho." }
+    }
+  },
+  {
+    "word": "generous",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈdʒenərəs",
+    "translations": {
+      "es": { "translation": "generoso", "alt_translations": [], "example_target": "Mi vecino es muy generoso con su tiempo." },
+      "pt": { "translation": "generoso", "alt_translations": [], "example_target": "Meu vizinho é muito generoso com seu tempo." }
+    }
+  },
+  {
+    "word": "honest",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈɒnɪst",
+    "translations": {
+      "es": { "translation": "honesto", "alt_translations": ["sincero"], "example_target": "Es mejor ser honesto aunque sea difícil." },
+      "pt": { "translation": "honesto", "alt_translations": ["sincero"], "example_target": "É melhor ser honesto mesmo que seja difícil." }
+    }
+  },
+  {
+    "word": "independent",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˌɪndɪˈpendənt",
+    "translations": {
+      "es": { "translation": "independiente", "alt_translations": [], "example_target": "Mi hija ya es bastante independiente para su edad." },
+      "pt": { "translation": "independente", "alt_translations": [], "example_target": "Minha filha já é bastante independente para sua idade." }
+    }
+  },
+  {
+    "word": "nervous",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈnɜːrvəs",
+    "translations": {
+      "es": { "translation": "nervioso", "alt_translations": [], "example_target": "Siempre me pongo nervioso en las entrevistas de trabajo." },
+      "pt": { "translation": "nervoso", "alt_translations": [], "example_target": "Sempre fico nervoso em entrevistas de emprego." }
+    }
+  },
+  {
+    "word": "obvious",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈɒbviəs",
+    "translations": {
+      "es": { "translation": "obvio", "alt_translations": ["evidente"], "example_target": "Es obvio que necesitas practicar más." },
+      "pt": { "translation": "óbvio", "alt_translations": ["evidente"], "example_target": "É óbvio que você precisa praticar mais." }
+    }
+  },
+  {
+    "word": "powerful",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈpaʊərfl",
+    "translations": {
+      "es": { "translation": "poderoso", "alt_translations": ["potente"], "example_target": "El inglés es un idioma muy poderoso en el mundo." },
+      "pt": { "translation": "poderoso", "alt_translations": ["potente"], "example_target": "O inglês é um idioma muito poderoso no mundo." }
+    }
+  },
+  {
+    "word": "proud",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "praʊd",
+    "translations": {
+      "es": { "translation": "orgulloso", "alt_translations": [], "example_target": "Estoy muy orgulloso de mi progreso en inglés." },
+      "pt": { "translation": "orgulhoso", "alt_translations": [], "example_target": "Estou muito orgulhoso do meu progresso em inglês." }
+    }
+  },
+  {
+    "word": "realistic",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˌriːəˈlɪstɪk",
+    "translations": {
+      "es": { "translation": "realista", "alt_translations": [], "example_target": "Es importante tener expectativas realistas al aprender." },
+      "pt": { "translation": "realista", "alt_translations": [], "example_target": "É importante ter expectativas realistas ao aprender." }
+    }
+  },
+  {
+    "word": "responsible",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "rɪˈspɒnsɪbl",
+    "translations": {
+      "es": { "translation": "responsable", "alt_translations": [], "example_target": "Debes ser responsable con tu tiempo de estudio." },
+      "pt": { "translation": "responsável", "alt_translations": [], "example_target": "Você deve ser responsável com seu tempo de estudo." }
+    }
+  },
+  {
+    "word": "serious",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈsɪəriəs",
+    "translations": {
+      "es": { "translation": "serio", "alt_translations": ["formal"], "example_target": "Es serio cuando se trata de su trabajo." },
+      "pt": { "translation": "sério", "alt_translations": ["formal"], "example_target": "Ele é sério quando se trata do seu trabalho." }
+    }
+  },
+  {
+    "word": "successful",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "səkˈsesfəl",
+    "translations": {
+      "es": { "translation": "exitoso", "alt_translations": ["con éxito"], "example_target": "Fue una entrevista muy exitosa para ella." },
+      "pt": { "translation": "bem-sucedido", "alt_translations": ["exitoso"], "example_target": "Foi uma entrevista muito bem-sucedida para ela." }
+    }
+  },
+  {
+    "word": "typical",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "ˈtɪpɪkəl",
+    "translations": {
+      "es": { "translation": "típico", "alt_translations": ["habitual"], "example_target": "Un día típico incluye trabajo, comida y descanso." },
+      "pt": { "translation": "típico", "alt_translations": ["habitual"], "example_target": "Um dia típico inclui trabalho, comida e descanso." }
+    }
+  },
+  {
+    "word": "worth",
+    "part_of_speech": "adjective",
+    "cefr_level": "B1",
+    "ipa": "wɜːrθ",
+    "translations": {
+      "es": { "translation": "valioso", "alt_translations": ["que vale la pena"], "example_target": "Aprender inglés es un esfuerzo que vale la pena." },
+      "pt": { "translation": "valioso", "alt_translations": ["que vale a pena"], "example_target": "Aprender inglês é um esforço que vale a pena." }
+    }
+  }
+]

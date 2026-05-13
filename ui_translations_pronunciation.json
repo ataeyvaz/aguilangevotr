@@ -1,0 +1,132 @@
+{
+  "pronunciation score": {
+    "en": "Pronunciation Score",
+    "es": "Puntuación de pronunciación",
+    "pt": "Pontuação de pronúncia"
+  },
+  "accuracy": {
+    "en": "Accuracy",
+    "es": "Precisión",
+    "pt": "Precisão"
+  },
+  "well done": {
+    "en": "Well Done",
+    "es": "¡Bien hecho!",
+    "pt": "Muito bem!"
+  },
+  "your pronunciation": {
+    "en": "Your Pronunciation",
+    "es": "Tu pronunciación",
+    "pt": "Sua pronúncia"
+  },
+  "native speaker": {
+    "en": "Native Speaker",
+    "es": "Hablante nativo",
+    "pt": "Falante nativo"
+  },
+  "listen and repeat": {
+    "en": "Listen and Repeat",
+    "es": "Escucha y repite",
+    "pt": "Ouça e repita"
+  },
+  "record yourself": {
+    "en": "Record Yourself",
+    "es": "Graba tu voz",
+    "pt": "Grave sua voz"
+  },
+  "compare with native": {
+    "en": "Compare with Native",
+    "es": "Compara con nativo",
+    "pt": "Compare com nativo"
+  },
+  "try to sound like this": {
+    "en": "Try to Sound Like This",
+    "es": "Intenta sonar así",
+    "pt": "Tente soar assim"
+  },
+  "great pronunciation": {
+    "en": "Great Pronunciation",
+    "es": "¡Gran pronunciación!",
+    "pt": "Ótima pronúncia!"
+  },
+  "keep practicing": {
+    "en": "Keep Practicing",
+    "es": "Sigue practicando",
+    "pt": "Continue praticando"
+  },
+  "pronunciation feedback": {
+    "en": "Pronunciation Feedback",
+    "es": "Retroalimentación de pronunciación",
+    "pt": "Feedback de pronúncia"
+  },
+  "sounds good": {
+    "en": "Sounds Good",
+    "es": "Suena bien",
+    "pt": "Soa bem"
+  },
+  "needs improvement": {
+    "en": "Needs Improvement",
+    "es": "Necesita mejora",
+    "pt": "Precisa de melhoria"
+  },
+  "excellent accent": {
+    "en": "Excellent Accent",
+    "es": "Acento excelente",
+    "pt": "Sotaque excelente"
+  },
+  "almost perfect": {
+    "en": "Almost Perfect",
+    "es": "Casi perfecto",
+    "pt": "Quase perfeito"
+  },
+  "listen carefully first": {
+    "en": "Listen Carefully First",
+    "es": "Escucha con atención primero",
+    "pt": "Ouça com atenção primeiro"
+  },
+  "now you try": {
+    "en": "Now You Try",
+    "es": "Ahora tú",
+    "pt": "Agora você tenta"
+  },
+  "score": {
+    "en": "Score",
+    "es": "Puntuación",
+    "pt": "Pontuação"
+  },
+  "out of 100": {
+    "en": "Out of 100",
+    "es": "De 100",
+    "pt": "De 100"
+  },
+  "very close": {
+    "en": "Very Close",
+    "es": "Muy cerca",
+    "pt": "Muito perto"
+  },
+  "perfect match": {
+    "en": "Perfect Match",
+    "es": "Coincidencia perfecta",
+    "pt": "Correspondência perfeita"
+  },
+  "pronunciation tips": {
+    "en": "Pronunciation Tips",
+    "es": "Consejos de pronunciación",
+    "pt": "Dicas de pronúncia"
+  },
+  "slow down": {
+    "en": "Slow Down",
+    "es": "Habla más despacio",
+    "pt": "Fale mais devagar"
+  },
+  "speak clearly": {
+    "en": "Speak Clearly",
+    "es": "Habla claramente",
+    "pt": "Fale claramente"
+  },
+  "try again slowly": {
+    "en": "Try Again Slowly",
+    "es": "Intenta de nuevo más despacio",
+    "pt": "Tente novamente mais devagar"
+  }
+}

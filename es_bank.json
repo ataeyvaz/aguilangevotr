@@ -1,0 +1,47 @@
+{
+  "scenario": "bank",
+  "language": "es",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "¿Quiere abrir una cuenta de ahorros?",
+      "expected": "Sí, quiero abrir una cuenta de ahorros, por favor.",
+      "hint": "Yes, I want to open a savings account, please."
+    },
+    {
+      "bot": "¿Cuál es su número de cuenta?",
+      "expected": "Mi número de cuenta es 987-654-321.",
+      "hint": "My account number is 987-654-321."
+    },
+    {
+      "bot": "¿Cuánto dinero quiere retirar?",
+      "expected": "Quiero retirar doscientos dólares, por favor.",
+      "hint": "I want to withdraw two hundred dollars, please."
+    },
+    {
+      "bot": "¿Tiene su identificación oficial?",
+      "expected": "Sí, aquí tiene mi licencia de conducir.",
+      "hint": "Yes, here is my driver's license."
+    },
+    {
+      "bot": "¿Necesita ayuda con la transferencia?",
+      "expected": "Sí, no sé cómo hacer una transferencia bancaria.",
+      "hint": "Yes, I don't know how to make a bank transfer."
+    },
+    {
+      "bot": "¿Cuál es el saldo de su cuenta?",
+      "expected": "El saldo de mi cuenta es de mil quinientos dólares.",
+      "hint": "My account balance is one thousand five hundred dollars."
+    },
+    {
+      "bot": "¿Quiere pagar una factura aquí?",
+      "expected": "Sí, quiero pagar mi factura de electricidad.",
+      "hint": "Yes, I want to pay my electricity bill."
+    },
+    {
+      "bot": "¿Tiene tarjeta de débito?",
+      "expected": "Sí, tengo una tarjeta de débito activa.",
+      "hint": "Yes, I have an active debit card."
+    }
+  ]
+}

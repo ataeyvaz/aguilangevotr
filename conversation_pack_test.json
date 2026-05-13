@@ -1,0 +1,1442 @@
+[
+  {
+    "word": "run",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the park",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Te gusta correr?",
+        "options": [
+          "Yes, I run every day.",
+          "No, I prefer walking.",
+          "I run on weekends.",
+          "I don't like sports."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Run' means correr.",
+        "feedback_wrong": "The answer is: Yes, I run every day."
+      },
+      {
+        "bot": "Where do you usually run?",
+        "options": [
+          "I run in the park.",
+          "I run in the kitchen.",
+          "I run in the office.",
+          "I run in the bed."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! Parks are great for running!",
+        "feedback_wrong": "Parks are the best place to run!"
+      },
+      {
+        "bot": "¿A qué hora corres?",
+        "options": [
+          "I run in the morning.",
+          "I run at night in my room.",
+          "I run when I sleep.",
+          "I run inside the refrigerator."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Morning es por la mañana.",
+        "feedback_wrong": "The answer is: I run in the morning."
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Talking about exercise routine",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo empezaste a correr?",
+        "options": [
+          "I started running last year.",
+          "I will start running tomorrow.",
+          "I run when I was child.",
+          "I starting running now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! Usamos 'started' para el pasado.",
+        "feedback_wrong": "The answer is: I started running last year."
+      },
+      {
+        "bot": "Have you ever run a marathon?",
+        "options": [
+          "Yes, I have run two marathons.",
+          "Yes, I ran a marathon yesterday.",
+          "No, I never running marathon.",
+          "No, I don't like marathons because I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Present perfect is perfect here!",
+        "feedback_wrong": "The answer is: Yes, I have run two marathons."
+      },
+      {
+        "bot": "¿Qué haces antes de correr?",
+        "options": [
+          "I stretch before running.",
+          "I sleep before running.",
+          "I eat a big meal before running.",
+          "I watch TV before running."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Stretch es estirar.",
+        "feedback_wrong": "The answer is: I stretch before running."
+      }
+    ]
+  },
+  {
+    "word": "run",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Discussing fitness goals and idioms",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I've been running regularly, but I think I'm running out of motivation. What should I do?",
+        "options": [
+          "You should set new goals to stay motivated.",
+          "You should run out of the house quickly.",
+          "You should stop running and start sleeping.",
+          "You should run away from your problems."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Running out of' is a great idiom to know.",
+        "feedback_wrong": "The answer is: You should set new goals to stay motivated."
+      },
+      {
+        "bot": "¿Has oído el dicho 'run like the wind'?",
+        "options": [
+          "Yes, it means to run very fast.",
+          "Yes, it means to fly like a bird.",
+          "No, but I know 'run like a sleep'.",
+          "No, I prefer walking like the wind."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión muy común.",
+        "feedback_wrong": "The answer is: Yes, it means to run very fast."
+      },
+      {
+        "bot": "My boss runs a tight ship at work, but I still find time to run.",
+        "options": [
+          "That means your boss is very strict but you manage your time well.",
+          "That means your boss sails ships and you run to the port.",
+          "That means your boss runs fast and you run faster.",
+          "That means your boss sleeps on a ship while you run."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Runs a tight ship' is a brilliant idiom!",
+        "feedback_wrong": "The answer is: That means your boss is very strict but you manage your time well."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the restaurant",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Qué te gusta comer?",
+        "options": [
+          "I like to eat pizza.",
+          "I like to drink pizza.",
+          "I like to sleep pizza.",
+          "I like to run pizza."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Eat' means comer.",
+        "feedback_wrong": "The answer is: I like to eat pizza."
+      },
+      {
+        "bot": "Do you eat breakfast every day?",
+        "options": [
+          "Yes, I eat breakfast every day.",
+          "Yes, I drink breakfast every day.",
+          "No, I sleep during breakfast.",
+          "No, I run to breakfast."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! Breakfast is the most important meal!",
+        "feedback_wrong": "The answer is: Yes, I eat breakfast every day."
+      },
+      {
+        "bot": "¿Dónde comes el almuerzo?",
+        "options": [
+          "I eat lunch at home.",
+          "I eat lunch in the sky.",
+          "I eat lunch when I sleep.",
+          "I eat lunch with my car."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Home es en casa.",
+        "feedback_wrong": "The answer is: I eat lunch at home."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Healthy eating habits",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Has probado la comida vegetariana?",
+        "options": [
+          "Yes, I have tried vegetarian food.",
+          "Yes, I tried vegetarian food yesterday.",
+          "No, I never try vegetarian food because I sleep.",
+          "No, I am trying vegetarian food now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! Present perfect for experiences.",
+        "feedback_wrong": "The answer is: Yes, I have tried vegetarian food."
+      },
+      {
+        "bot": "What were you eating when I called you?",
+        "options": [
+          "I was eating dinner when you called.",
+          "I ate dinner when you called.",
+          "I am eating dinner when you called.",
+          "I eat dinner when you calling me."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Past continuous for ongoing actions!",
+        "feedback_wrong": "The answer is: I was eating dinner when you called."
+      },
+      {
+        "bot": "¿Cuántas veces al día comes?",
+        "options": [
+          "I eat three times a day.",
+          "I eat in three days.",
+          "I eat when I am sleep.",
+          "I eat with three people."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Three times a day es tres veces al día.",
+        "feedback_wrong": "The answer is: I eat three times a day."
+      }
+    ]
+  },
+  {
+    "word": "eat",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Food culture and expressions",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I'm so hungry I could eat a horse! What about you?",
+        "options": [
+          "I'm starving too, let's get some food!",
+          "I eat horses every day for breakfast.",
+          "I'm sleeping because I'm very hungry.",
+          "I could eat the table right now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Eat a horse' is a hilarious idiom!",
+        "feedback_wrong": "The answer is: I'm starving too, let's get some food!"
+      },
+      {
+        "bot": "¿Sabes qué significa 'eat your words'?",
+        "options": [
+          "It means to admit you were wrong.",
+          "It means to literally eat a dictionary.",
+          "It means to talk while eating food.",
+          "It means to sleep after eating too much."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre admitir errores.",
+        "feedback_wrong": "The answer is: It means to admit you were wrong."
+      },
+      {
+        "bot": "The project is eating up all my time, but I still need to eat properly.",
+        "options": [
+          "You should manage your time better and meal prep.",
+          "You should let the project eat your food too.",
+          "You should eat the project instead of working.",
+          "You should sleep while the project eats time."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Eating up' means consuming excessively!",
+        "feedback_wrong": "The answer is: You should manage your time better and meal prep."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Bedtime routine",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿A qué hora duermes?",
+        "options": [
+          "I sleep at 10 PM.",
+          "I sleep in the morning.",
+          "I sleep when I eat.",
+          "I sleep on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Sleep' means dormir.",
+        "feedback_wrong": "The answer is: I sleep at 10 PM."
+      },
+      {
+        "bot": "Do you sleep well every night?",
+        "options": [
+          "Yes, I sleep very well.",
+          "Yes, I run very well.",
+          "No, I eat when I am in bed.",
+          "No, I sleep in the kitchen."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! Good sleep is so important!",
+        "feedback_wrong": "The answer is: Yes, I sleep very well."
+      },
+      {
+        "bot": "¿Dónde duermes?",
+        "options": [
+          "I sleep in my bed.",
+          "I sleep in my car while driving.",
+          "I sleep inside the refrigerator.",
+          "I sleep on the roof."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Bed es la cama.",
+        "feedback_wrong": "The answer is: I sleep in my bed."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Sleep habits and routines",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuántas horas has dormido hoy?",
+        "options": [
+          "I have slept for 8 hours today.",
+          "I slept for 8 hours today.",
+          "I sleep for 8 hours today.",
+          "I am sleeping for 8 hours today."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! Present perfect for recent actions.",
+        "feedback_wrong": "The answer is: I have slept for 8 hours today."
+      },
+      {
+        "bot": "Were you sleeping when the alarm rang?",
+        "options": [
+          "Yes, I was sleeping deeply.",
+          "Yes, I slept deeply.",
+          "Yes, I sleep deeply every day.",
+          "No, I was eating when it rang."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Past continuous for interrupted actions!",
+        "feedback_wrong": "The answer is: Yes, I was sleeping deeply."
+      },
+      {
+        "bot": "¿Qué haces antes de dormir?",
+        "options": [
+          "I read a book before sleeping.",
+          "I run a marathon before sleeping.",
+          "I eat a huge meal before sleeping.",
+          "I watch TV in the morning before sleeping."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! Reading before bed is relaxing.",
+        "feedback_wrong": "The answer is: I read a book before sleeping."
+      }
+    ]
+  },
+  {
+    "word": "sleep",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Sleep idioms and expressions",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I couldn't sleep a wink last night! I was so worried about the exam.",
+        "options": [
+          "I'm sorry to hear that. Try some relaxation techniques.",
+          "You should sleep with your eyes open next time.",
+          "You should count sheep jumping on the ceiling.",
+          "You should eat more to get sleepy."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Sleep a wink' means not sleeping at all!",
+        "feedback_wrong": "The answer is: I'm sorry to hear that. Try some relaxation techniques."
+      },
+      {
+        "bot": "¿Has oído 'let sleeping dogs lie'?",
+        "options": [
+          "Yes, it means don't disturb a situation.",
+          "Yes, it means let dogs sleep on the bed.",
+          "No, but I know 'let sleeping cats eat'.",
+          "No, I prefer waking up dogs to play."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es sobre no causar problemas.",
+        "feedback_wrong": "The answer is: Yes, it means don't disturb a situation."
+      },
+      {
+        "bot": "I'm going to sleep on it and give you my answer tomorrow.",
+        "options": [
+          "Good idea! Take your time to decide.",
+          "Good idea! Sleep on the answer tonight.",
+          "You should sleep with the answer under your pillow.",
+          "You should never sleep during decisions."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Sleep on it' means think it over!",
+        "feedback_wrong": "The answer is: Good idea! Take your time to decide."
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the office",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Dónde trabajas?",
+        "options": [
+          "I work in an office.",
+          "I work in the ocean.",
+          "I work when I sleep.",
+          "I work on the moon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Work' means trabajar.",
+        "feedback_wrong": "The answer is: I work in an office."
+      },
+      {
+        "bot": "Do you like your work?",
+        "options": [
+          "Yes, I like my work very much.",
+          "Yes, I eat my work every day.",
+          "No, I sleep during work.",
+          "No, I run away from work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! It's great to enjoy your job!",
+        "feedback_wrong": "The answer is: Yes, I like my work very much."
+      },
+      {
+        "bot": "¿A qué hora terminas el trabajo?",
+        "options": [
+          "I finish work at 5 PM.",
+          "I finish work in the morning.",
+          "I finish work when I eat.",
+          "I finish work on the ceiling."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Finish work es terminar el trabajo.",
+        "feedback_wrong": "The answer is: I finish work at 5 PM."
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Work experience and schedule",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuánto tiempo has trabajado aquí?",
+        "options": [
+          "I have worked here for two years.",
+          "I worked here for two years.",
+          "I work here for two years.",
+          "I am working here for two years."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'For two years' con present perfect.",
+        "feedback_wrong": "The answer is: I have worked here for two years."
+      },
+      {
+        "bot": "What were you doing when the boss arrived?",
+        "options": [
+          "I was working on the report.",
+          "I worked on the report.",
+          "I work on the report every day.",
+          "I am working on the report now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Past continuous for ongoing past actions!",
+        "feedback_wrong": "The answer is: I was working on the report."
+      },
+      {
+        "bot": "¿Te gustaría trabajar desde casa?",
+        "options": [
+          "Yes, I would love to work from home.",
+          "Yes, I worked from home yesterday.",
+          "No, I prefer to sleep from home.",
+          "No, I don't like houses, I like offices."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Would love to' es me encantaría.",
+        "feedback_wrong": "The answer is: Yes, I would love to work from home."
+      }
+    ]
+  },
+  {
+    "word": "work",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Work idioms and career talk",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I have a lot on my plate at work right now. Can you help me?",
+        "options": [
+          "Of course! Let me know what you need help with.",
+          "You should eat from a smaller plate at work.",
+          "You should put your plate on the desk and work.",
+          "You should sleep with the plate on your head."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'A lot on my plate' means very busy!",
+        "feedback_wrong": "The answer is: Of course! Let me know what you need help with."
+      },
+      {
+        "bot": "¿Conoces la frase 'work like a charm'?",
+        "options": [
+          "Yes, it means something works perfectly.",
+          "Yes, it means to work with magical charms.",
+          "No, but I know 'work like a sleep'.",
+          "No, I prefer working like a robot."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Significa que algo funciona perfectamente.",
+        "feedback_wrong": "The answer is: Yes, it means something works perfectly."
+      },
+      {
+        "bot": "The new system is still not working out the way we hoped.",
+        "options": [
+          "Maybe you need to adjust your approach.",
+          "Maybe the system needs to go to the gym to work out.",
+          "Maybe you should work inside the system.",
+          "Maybe the system is sleeping instead of working."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Working out' means developing successfully!",
+        "feedback_wrong": "The answer is: Maybe you need to adjust your approach."
+      }
+    ]
+  },
+  {
+    "word": "go",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Going out with friends",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Adónde vas los fines de semana?",
+        "options": [
+          "I go to the park.",
+          "I go to the refrigerator.",
+          "I go to the moon.",
+          "I go when I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Go' means ir.",
+        "feedback_wrong": "The answer is: I go to the park."
+      },
+      {
+        "bot": "Do you go to school every day?",
+        "options": [
+          "Yes, I go to school every day.",
+          "Yes, I eat school every day.",
+          "No, I sleep in school.",
+          "No, I run to school when I sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! Education is so important!",
+        "feedback_wrong": "The answer is: Yes, I go to school every day."
+      },
+      {
+        "bot": "¿Cómo vas al trabajo?",
+        "options": [
+          "I go by bus.",
+          "I go with a elephant.",
+          "I go inside the bus.",
+          "I go when the bus sleeps."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! By bus es en autobús.",
+        "feedback_wrong": "The answer is: I go by bus."
+      }
+    ]
+  },
+  {
+    "word": "go",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past trips and future plans",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Adónde fuiste de vacaciones el año pasado?",
+        "options": [
+          "I went to the beach last year.",
+          "I go to the beach last year.",
+          "I have gone to the beach last year.",
+          "I am going to the beach last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Went' es el pasado de 'go'.",
+        "feedback_wrong": "The answer is: I went to the beach last year."
+      },
+      {
+        "bot": "Where are you going to go next summer?",
+        "options": [
+          "I am going to visit my family.",
+          "I go to visit my family every summer.",
+          "I visited my family last summer.",
+          "I am visit my family next summer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Future with 'going to' is perfect here!",
+        "feedback_wrong": "The answer is: I am going to visit my family."
+      },
+      {
+        "bot": "¿Has ido alguna vez a París?",
+        "options": [
+          "Yes, I have been to Paris once.",
+          "Yes, I went to Paris yesterday.",
+          "No, I never go to Paris because I sleep.",
+          "No, I am going to Paris now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Been to' para experiencias de vida.",
+        "feedback_wrong": "The answer is: Yes, I have been to Paris once."
+      }
+    ]
+  },
+  {
+    "word": "go",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'go'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "Everything is going downhill lately. I don't know what to do.",
+        "options": [
+          "Don't worry, things will get better soon.",
+          "You should go down the hill quickly!",
+          "You should go live in the valley instead.",
+          "You should sleep at the bottom of the hill."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Going downhill' means deteriorating!",
+        "feedback_wrong": "The answer is: Don't worry, things will get better soon."
+      },
+      {
+        "bot": "¿Sabes qué significa 'go the extra mile'?",
+        "options": [
+          "It means to make an extra effort.",
+          "It means to walk an extra mile every day.",
+          "It means to run instead of walking.",
+          "It means to sleep one more mile away."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es sobre esforzarse más de lo normal.",
+        "feedback_wrong": "The answer is: It means to make an extra effort."
+      },
+      {
+        "bot": "The plan to go green has really taken off in our company.",
+        "options": [
+          "That's great! Sustainability is the future.",
+          "That's great! Now you can go to the green park.",
+          "That's weird, why did the plan grow wings?",
+          "That's funny, plans can't fly like birds."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Go green' means environmental friendliness!",
+        "feedback_wrong": "The answer is: That's great! Sustainability is the future."
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Inviting friends over",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Vienes a mi fiesta?",
+        "options": [
+          "Yes, I come to your party.",
+          "Yes, I eat your party.",
+          "No, I sleep during parties.",
+          "No, I come to the moon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Come' means venir.",
+        "feedback_wrong": "The answer is: Yes, I come to your party."
+      },
+      {
+        "bot": "When do you come to school?",
+        "options": [
+          "I come to school at 8 AM.",
+          "I come to school in my sleep.",
+          "I come to school on the roof.",
+          "I come to school with a elephant."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! 8 AM is a great time to start!",
+        "feedback_wrong": "The answer is: I come to school at 8 AM."
+      },
+      {
+        "bot": "¿De dónde vienes?",
+        "options": [
+          "I come from home.",
+          "I come from the refrigerator.",
+          "I come from sleeping.",
+          "I come from the sky."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Come from es venir de.",
+        "feedback_wrong": "The answer is: I come from home."
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Past visits and arrivals",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cuándo viniste a esta ciudad?",
+        "options": [
+          "I came to this city last year.",
+          "I come to this city last year.",
+          "I have come to this city last year.",
+          "I am coming to this city last year."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Came' es el pasado de 'come'.",
+        "feedback_wrong": "The answer is: I came to this city last year."
+      },
+      {
+        "bot": "Has my package come yet?",
+        "options": [
+          "No, it hasn't come yet.",
+          "No, it didn't come yet.",
+          "No, it doesn't come yet.",
+          "No, it isn't coming yet."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Present perfect for recent events!",
+        "feedback_wrong": "The answer is: No, it hasn't come yet."
+      },
+      {
+        "bot": "¿Vendrás a la reunión mañana?",
+        "options": [
+          "Yes, I will come to the meeting.",
+          "Yes, I come to the meeting every day.",
+          "Yes, I came to the meeting yesterday.",
+          "No, I prefer sleeping at meetings."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Will come' para el futuro.",
+        "feedback_wrong": "The answer is: Yes, I will come to the meeting."
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Phrasal verbs with 'come'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "The project idea came up during our lunch meeting today.",
+        "options": [
+          "That's interesting! How did everyone react?",
+          "That's interesting! Did the idea literally jump up?",
+          "That's weird, ideas can't come up from lunch.",
+          "That's funny, lunch should stay in the stomach."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Came up' means was mentioned or arose!",
+        "feedback_wrong": "The answer is: That's interesting! How did everyone react?"
+      },
+      {
+        "bot": "¿Has oído 'come rain or shine'?",
+        "options": [
+          "Yes, it means no matter what happens.",
+          "Yes, it means to come outside when it rains.",
+          "No, but I know 'come snow or sun'.",
+          "No, I prefer staying inside when it rains."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es una expresión sobre persistencia.",
+        "feedback_wrong": "The answer is: Yes, it means no matter what happens."
+      },
+      {
+        "bot": "Don't come down too hard on him; he's still learning.",
+        "options": [
+          "You're right, I'll be more patient with him.",
+          "You're right, I should push him down gently.",
+          "You're right, he should come down from the ceiling.",
+          "You're right, falling down is not good for him."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Come down hard' means criticize severely!",
+        "feedback_wrong": "The answer is: You're right, I'll be more patient with him."
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the ice cream shop",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Qué quieres comer?",
+        "options": [
+          "I want to eat ice cream.",
+          "I want to sleep ice cream.",
+          "I want to run ice cream.",
+          "I want to eat the moon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Want' means querer.",
+        "feedback_wrong": "The answer is: I want to eat ice cream."
+      },
+      {
+        "bot": "Do you want to play soccer?",
+        "options": [
+          "Yes, I want to play soccer.",
+          "Yes, I want to eat soccer.",
+          "No, I want to sleep during soccer.",
+          "No, I want to run away from soccer."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! Soccer is a fun sport!",
+        "feedback_wrong": "The answer is: Yes, I want to play soccer."
+      },
+      {
+        "bot": "¿Qué quieres hacer mañana?",
+        "options": [
+          "I want to go to the park.",
+          "I want to eat the park.",
+          "I want to sleep inside the park.",
+          "I want to become a park."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Want to go es querer ir.",
+        "feedback_wrong": "The answer is: I want to go to the park."
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Wishes and desires",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Qué has querido hacer toda tu vida?",
+        "options": [
+          "I have always wanted to travel the world.",
+          "I always wanted to travel the world.",
+          "I want to travel the world every day.",
+          "I am wanting to travel the world now."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! Present perfect para deseos de vida.",
+        "feedback_wrong": "The answer is: I have always wanted to travel the world."
+      },
+      {
+        "bot": "What did you want to be when you were a child?",
+        "options": [
+          "I wanted to be a doctor.",
+          "I want to be a doctor when I grow up.",
+          "I have wanted to be a doctor.",
+          "I am wanting to be a doctor."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Past tense for childhood dreams!",
+        "feedback_wrong": "The answer is: I wanted to be a doctor."
+      },
+      {
+        "bot": "¿Quieres que te ayude con eso?",
+        "options": [
+          "Yes, I would like some help, please.",
+          "Yes, I wanted help yesterday.",
+          "No, I want to sleep instead of help.",
+          "No, I don't like help, I like running."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Would like' es más formal que 'want'.",
+        "feedback_wrong": "The answer is: Yes, I would like some help, please."
+      }
+    ]
+  },
+  {
+    "word": "want",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Advanced expressions with 'want'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I don't want to burst your bubble, but that plan might not work.",
+        "options": [
+          "I appreciate the honesty. Let me reconsider it.",
+          "Why would you burst my bubble? That's dangerous!",
+          "I don't want bubbles, I want a solid plan.",
+          "You should pop bubbles instead of talking."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Burst your bubble' means shatter illusions!",
+        "feedback_wrong": "The answer is: I appreciate the honesty. Let me reconsider it."
+      },
+      {
+        "bot": "¿Conoces 'want for nothing'?",
+        "options": [
+          "Yes, it means to have everything you need.",
+          "Yes, it means to want zero things.",
+          "No, but I know 'want for something'.",
+          "No, I prefer wanting many things."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Significa no carecer de nada.",
+        "feedback_wrong": "The answer is: Yes, it means to have everything you need."
+      },
+      {
+        "bot": "The cat's out of the bag, and now everyone wants answers.",
+        "options": [
+          "I understand. Let's address their concerns.",
+          "I understand. Now the cat wants to answer questions.",
+          "That's weird, cats can't talk or answer.",
+          "That's funny, bags are for cats to sleep in."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Cat's out of the bag' means secret is revealed!",
+        "feedback_wrong": "The answer is: I understand. Let's address their concerns."
+      }
+    ]
+  },
+  {
+    "word": "look",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the zoo",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿A qué estás mirando?",
+        "options": [
+          "I am looking at the lions.",
+          "I am looking at the refrigerator.",
+          "I am looking at the moon.",
+          "I am looking at my sleep."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Look' means mirar.",
+        "feedback_wrong": "The answer is: I am looking at the lions."
+      },
+      {
+        "bot": "Do you like to look at the stars?",
+        "options": [
+          "Yes, I love looking at the stars.",
+          "Yes, I love eating the stars.",
+          "No, I look at the ground when I sleep.",
+          "No, stars are for running, not looking."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! The stars are beautiful at night!",
+        "feedback_wrong": "The answer is: Yes, I love looking at the stars."
+      },
+      {
+        "bot": "¿Cómo se ve tu casa?",
+        "options": [
+          "My house looks very nice.",
+          "My house looks like a refrigerator.",
+          "My house looks when I sleep.",
+          "My house looks at me every day."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Looks nice es se ve bonita.",
+        "feedback_wrong": "The answer is: My house looks very nice."
+      }
+    ]
+  },
+  {
+    "word": "look",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Appearance and observation",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Cómo se veía el cielo ayer?",
+        "options": [
+          "It looked very cloudy yesterday.",
+          "It looks very cloudy yesterday.",
+          "It has looked very cloudy yesterday.",
+          "It is looking very cloudy yesterday."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Looked' para el pasado.",
+        "feedback_wrong": "The answer is: It looked very cloudy yesterday."
+      },
+      {
+        "bot": "Have you ever looked for your keys and couldn't find them?",
+        "options": [
+          "Yes, I have looked everywhere for them.",
+          "Yes, I looked for them yesterday.",
+          "No, I never lose my keys when I sleep.",
+          "No, I don't like looking for keys."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! 'Looked for' means searched for!",
+        "feedback_wrong": "The answer is: Yes, I have looked everywhere for them."
+      },
+      {
+        "bot": "¿A quién se parece tu hermano?",
+        "options": [
+          "He looks like my father.",
+          "He looks at my father every day.",
+          "He looks inside my father.",
+          "He looks when my father sleeps."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Look like' es parecerse a.",
+        "feedback_wrong": "The answer is: He looks like my father."
+      }
+    ]
+  },
+  {
+    "word": "look",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Phrasal verbs with 'look'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I'm looking forward to the weekend. How about you?",
+        "options": [
+          "Me too! I can't wait for Saturday.",
+          "Me too! I'm looking at the weekend calendar.",
+          "Me too! I'm looking for the weekend to appear.",
+          "Me too! I look at weekends every day."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Looking forward to' means anticipating eagerly!",
+        "feedback_wrong": "The answer is: Me too! I can't wait for Saturday."
+      },
+      {
+        "bot": "¿Sabes qué significa 'look before you leap'?",
+        "options": [
+          "Yes, it means think carefully before acting.",
+          "Yes, it means look down before you jump.",
+          "No, but I know 'look after you sleep'.",
+          "No, I prefer leaping without looking."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es sobre pensar antes de actuar.",
+        "feedback_wrong": "The answer is: Yes, it means think carefully before acting."
+      },
+      {
+        "bot": "Don't look down on people who are less fortunate than you.",
+        "options": [
+          "You're absolutely right. Everyone deserves respect.",
+          "You're right. I should look up at them instead.",
+          "You're right. Looking down is bad for the neck.",
+          "You're right. People should sleep more, not look."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Look down on' means to despise or scorn!",
+        "feedback_wrong": "The answer is: You're absolutely right. Everyone deserves respect."
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the gift shop",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Me das tu opinión?",
+        "options": [
+          "Yes, I give you my opinion.",
+          "Yes, I eat you my opinion.",
+          "No, I sleep during opinions.",
+          "No, I give you the moon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Give' means dar.",
+        "feedback_wrong": "The answer is: Yes, I give you my opinion."
+      },
+      {
+        "bot": "Do you give gifts on birthdays?",
+        "options": [
+          "Yes, I give gifts to my friends.",
+          "Yes, I give food to my gifts.",
+          "No, I give sleep on birthdays.",
+          "No, I eat gifts instead of giving."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! Gift-giving is so thoughtful!",
+        "feedback_wrong": "The answer is: Yes, I give gifts to my friends."
+      },
+      {
+        "bot": "¿Qué te da tu mamá?",
+        "options": [
+          "My mom gives me love.",
+          "My mom gives me to the store.",
+          "My mom gives me when I sleep.",
+          "My mom gives me to the moon."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Love es el amor.",
+        "feedback_wrong": "The answer is: My mom gives me love."
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Giving and receiving",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Quién te dio este libro?",
+        "options": [
+          "My teacher gave me this book.",
+          "My teacher gives me this book.",
+          "My teacher has given me this book.",
+          "My teacher is giving me this book."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Gave' es el pasado de 'give'.",
+        "feedback_wrong": "The answer is: My teacher gave me this book."
+      },
+      {
+        "bot": "Have you ever given money to charity?",
+        "options": [
+          "Yes, I have given to several charities.",
+          "Yes, I gave to charity yesterday.",
+          "No, I never give money because I sleep.",
+          "No, I don't like charities, I like running."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Charity is a wonderful cause!",
+        "feedback_wrong": "The answer is: Yes, I have given to several charities."
+      },
+      {
+        "bot": "¿Te gusta dar consejos?",
+        "options": [
+          "Yes, I like giving advice to friends.",
+          "Yes, I like giving food to friends.",
+          "No, I prefer sleeping instead of giving.",
+          "No, I give advice only when I run."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Giving advice' es dar consejos.",
+        "feedback_wrong": "The answer is: Yes, I like giving advice to friends."
+      }
+    ]
+  },
+  {
+    "word": "give",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Idioms with 'give'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I give up! This puzzle is too difficult.",
+        "options": [
+          "Don't quit! You can solve it with patience.",
+          "Don't give! You should eat the puzzle instead.",
+          "Don't quit! You should give the puzzle to the moon.",
+          "Don't quit! Puzzles are for sleeping, not solving."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Give up' means to surrender or quit!",
+        "feedback_wrong": "The answer is: Don't quit! You can solve it with patience."
+      },
+      {
+        "bot": "¿Has oído 'give someone the cold shoulder'?",
+        "options": [
+          "Yes, it means to ignore someone deliberately.",
+          "Yes, it means to give someone a cold shoulder to eat.",
+          "No, but I know 'give someone the warm hug'.",
+          "No, I prefer giving shoulders to people."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es sobre ignorar a alguien intencionalmente.",
+        "feedback_wrong": "The answer is: Yes, it means to ignore someone deliberately."
+      },
+      {
+        "bot": "Can you give me a hand with these heavy boxes?",
+        "options": [
+          "Of course! I'd be happy to help you.",
+          "Of course! I'll give you my hand to hold.",
+          "Of course! I'll give the boxes hands too.",
+          "Of course! Boxes don't have hands to give."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Give a hand' means to help someone!",
+        "feedback_wrong": "The answer is: Of course! I'd be happy to help you."
+      }
+    ]
+  },
+  {
+    "word": "take",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "At the bus stop",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Tomas el autobús al trabajo?",
+        "options": [
+          "Yes, I take the bus to work.",
+          "Yes, I eat the bus to work.",
+          "No, I sleep on the bus to work.",
+          "No, I take the moon to work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Take' means tomar.",
+        "feedback_wrong": "The answer is: Yes, I take the bus to work."
+      },
+      {
+        "bot": "Do you take sugar in your coffee?",
+        "options": [
+          "Yes, I take sugar in my coffee.",
+          "Yes, I take coffee in my sugar.",
+          "No, I take sleep in my coffee.",
+          "No, I eat sugar instead of taking."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Perfect! Sweet coffee can be delicious!",
+        "feedback_wrong": "The answer is: Yes, I take sugar in my coffee."
+      },
+      {
+        "bot": "¿Cuánto tiempo tomas para almorzar?",
+        "options": [
+          "I take one hour for lunch.",
+          "I take lunch for one hour.",
+          "I take sleep during lunch.",
+          "I take the moon for lunch."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! Take time es tomar tiempo.",
+        "feedback_wrong": "The answer is: I take one hour for lunch."
+      }
+    ]
+  },
+  {
+    "word": "take",
+    "level": "a2",
+    "difficulty": "medium",
+    "context": "Taking actions and decisions",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¿Tomaste una decisión sobre el trabajo?",
+        "options": [
+          "Yes, I took a decision yesterday.",
+          "Yes, I take a decision every day.",
+          "Yes, I have taken a decision now.",
+          "No, I sleep instead of taking decisions."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Correcto! 'Took' es el pasado de 'take'.",
+        "feedback_wrong": "The answer is: Yes, I took a decision yesterday."
+      },
+      {
+        "bot": "Have you ever taken a flight to another country?",
+        "options": [
+          "Yes, I have taken several flights abroad.",
+          "Yes, I took a flight yesterday.",
+          "No, I never take flights because I sleep.",
+          "No, I don't like flying, I prefer running."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Great! Flying abroad is such an adventure!",
+        "feedback_wrong": "The answer is: Yes, I have taken several flights abroad."
+      },
+      {
+        "bot": "¿Cuánto tiempo te toma llegar al trabajo?",
+        "options": [
+          "It takes me 30 minutes to get to work.",
+          "It take me 30 minutes to get to work.",
+          "It took me 30 minutes to get to work.",
+          "It taking me 30 minutes to get to work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'It takes me' para hablar de duración.",
+        "feedback_wrong": "The answer is: It takes me 30 minutes to get to work."
+      }
+    ]
+  },
+  {
+    "word": "take",
+    "level": "b1",
+    "difficulty": "hard",
+    "context": "Phrasal verbs and idioms with 'take'",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "I can't take it anymore! This noise is driving me crazy.",
+        "options": [
+          "I understand. Let's find a quieter place.",
+          "I understand. You should take the noise to the doctor.",
+          "I understand. Taking things is not good for you.",
+          "I understand. You should sleep to forget noise."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Excellent! 'Can't take it' means can't tolerate it!",
+        "feedback_wrong": "The answer is: I understand. Let's find a quieter place."
+      },
+      {
+        "bot": "¿Sabes qué significa 'take something with a grain of salt'?",
+        "options": [
+          "Yes, it means to be skeptical about something.",
+          "Yes, it means to eat salt with everything.",
+          "No, but I know 'take something with sugar'.",
+          "No, I prefer taking things without salt."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! Es sobre ser escéptico o cauteloso.",
+        "feedback_wrong": "The answer is: Yes, it means to be skeptical about something."
+      },
+      {
+        "bot": "The project is taking shape nicely. We should be done soon.",
+        "options": [
+          "That's great news! Keep up the good work.",
+          "That's great! The project is becoming a shape.",
+          "That's weird, projects don't have shapes.",
+          "That's funny, shapes are for sleeping, not projects."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Amazing! 'Taking shape' means developing or forming!",
+        "feedback_wrong": "The answer is: That's great news! Keep up the good work."
+      }
+    ]
+  }
+]

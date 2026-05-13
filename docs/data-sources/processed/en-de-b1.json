@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Describe Tom.",
+    "de": "Beschreibe Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll allow it.",
+    "de": "Ich erlaube es.",
+    "level": "B1"
+  },
+  {
+    "en": "Science is fun.",
+    "de": "Wissenschaft macht Spaß.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom'll improve.",
+    "de": "Tom wird sich verbessern.",
+    "level": "B1"
+  },
+  {
+    "en": "He gets up at 7.",
+    "de": "Er steht um sieben Uhr auf.",
+    "level": "B1"
+  },
+  {
+    "en": "I hate politics.",
+    "de": "Ich hasse Politik.",
+    "level": "B1"
+  },
+  {
+    "en": "I owe Tom a lot.",
+    "de": "Ich habe Tom viel zu verdanken.",
+    "level": "B1"
+  },
+  {
+    "en": "I recommend Tom.",
+    "de": "Ich empfehle Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom on TV.",
+    "de": "Ich sah Tom im Fernsehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll allow this.",
+    "de": "Ich erlaube das.",
+    "level": "B1"
+  },
+  {
+    "en": "Science is cool.",
+    "de": "Naturwissenschaften sind cool.",
+    "level": "B1"
+  },
+  {
+    "en": "5 is less than 8.",
+    "de": "5 ist weniger als 8.",
+    "level": "B1"
+  },
+  {
+    "en": "Consider it done.",
+    "de": "Betrachte es als erledigt.",
+    "level": "B1"
+  },
+  {
+    "en": "He put up a flag.",
+    "de": "Er hisste die Flagge.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't own a TV.",
+    "de": "Ich besitze keinen Fernseher.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a hug.",
+    "de": "Ich habe Tom umarmt.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a tie.",
+    "de": "Ich gab Tom eine Krawatte.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a tip.",
+    "de": "Ich gab Tom einen Tipp.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave up on Tom.",
+    "de": "Ich hab Tom aufgegeben.",
+    "level": "B1"
+  },
+  {
+    "en": "I got Tom a taxi.",
+    "de": "Ich bestellte Tom ein Taxi.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of gas.",
+    "de": "Mir ging der Sprit aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of ink.",
+    "de": "Mir ging die Tinte aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I require advice.",
+    "de": "Ich benötige einen Rat.",
+    "level": "B1"
+  },
+  {
+    "en": "I said I saw Tom.",
+    "de": "Ich sagte, dass ich Tom gesehen habe.",
+    "level": "B1"
+  },
+  {
+    "en": "Let's discuss it.",
+    "de": "Reden wir drüber!",
+    "level": "B1"
+  },
+  {
+    "en": "That's a problem.",
+    "de": "Das ist ein Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on a tie.",
+    "de": "Tom legte eine Krawatte an.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat on a log.",
+    "de": "Tom saß auf einem Baumstamm.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom will improve.",
+    "de": "Tom wird sich verbessern.",
+    "level": "B1"
+  },
+  {
+    "en": "What's the cause?",
+    "de": "Was ist der Grund?",
+    "level": "B1"
+  },
+  {
+    "en": "You're a problem.",
+    "de": "Du bist ein Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "Add a shot of rum.",
+    "de": "Einen Schuß Rum dazugeben.",
+    "level": "B1"
+  },
+  {
+    "en": "Compare the facts.",
+    "de": "Vergleiche die Fakten!",
+    "level": "B1"
+  },
+  {
+    "en": "Did I wake Tom up?",
+    "de": "Habe ich Tom aufgeweckt?",
+    "level": "B1"
+  },
+  {
+    "en": "I admit I hit Tom.",
+    "de": "Ich gebe zu, daß ich Tom geschlagen habe.",
+    "level": "B1"
+  },
+  {
+    "en": "I am all mixed up.",
+    "de": "Ich bin ganz durcheinander.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a ring.",
+    "de": "Ich habe Tom einen Ring geschenkt.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom my key.",
+    "de": "Ich habe Tom meinen Schlüssel gegeben.",
+    "level": "B1"
+  },
+  {
+    "en": "I got a flat tire.",
+    "de": "Ich habe einen Platten.",
+    "level": "B1"
+  },
+  {
+    "en": "I let Tom kiss me.",
+    "de": "Ich ließ Tom mich küssen.",
+    "level": "B1"
+  },
+  {
+    "en": "I met Tom in jail.",
+    "de": "Ich habe Tom im Gefängnis kennengelernt.",
+    "level": "B1"
+  },
+  {
+    "en": "I owe him 100 yen.",
+    "de": "Ich schulde ihm 100 Yen.",
+    "level": "B1"
+  },
+  {
+    "en": "I owe you so much.",
+    "de": "Ich verdanke dir so viel.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of fuel.",
+    "de": "Mir ging der Treibstoff aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran up the hill.",
+    "de": "Ich rannte den Hügel hinauf.",
+    "level": "B1"
+  },
+  {
+    "en": "I said I'd get it.",
+    "de": "Ich sagte, ich würde es bekommen.",
+    "level": "B1"
+  },
+  {
+    "en": "I sat by his side.",
+    "de": "Ich setzte mich neben ihn.",
+    "level": "B1"
+  },
+  {
+    "en": "I sat next to Tom.",
+    "de": "Ich setzte mich neben Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw you hug Tom.",
+    "de": "Ich habe gesehen, wie du Tom gedrückt hast.",
+    "level": "B1"
+  },
+  {
+    "en": "I sure do hope so.",
+    "de": "Das hoffe ich doch sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "I tidied up a bit.",
+    "de": "Ich habe ein bißchen aufgeräumt.",
+    "level": "B1"
+  },
+  {
+    "en": "I told Tom a joke.",
+    "de": "Ich erzählte Tom einen Witz.",
+    "level": "B1"
+  },
+  {
+    "en": "I took a week off.",
+    "de": "Ich nahm mir eine Woche frei.",
+    "level": "B1"
+  },
+  {
+    "en": "I took my hat off.",
+    "de": "Ich nahm meinen Hut ab.",
+    "level": "B1"
+  },
+  {
+    "en": "I took off my hat.",
+    "de": "Ich nahm meinen Hut ab.",
+    "level": "B1"
+  },
+  {
+    "en": "I took off my wig.",
+    "de": "Ich nahm die Perücke ab.",
+    "level": "B1"
+  },
+  {
+    "en": "I wore a hard hat.",
+    "de": "Ich trug einen Schutzhelm.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm as old as you.",
+    "de": "Ich bin so alt wie du.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm not a lab rat.",
+    "de": "Ich bin kein Versuchskaninchen.",
+    "level": "B1"
+  },
+  {
+    "en": "Leave immediately.",
+    "de": "Raus!",
+    "level": "B1"
+  },
+  {
+    "en": "Solve the problem.",
+    "de": "Löse das Problem!",
+    "level": "B1"
+  },
+  {
+    "en": "That's my problem.",
+    "de": "Das ist mein Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "That's no problem.",
+    "de": "Das ist kein Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ate all of it.",
+    "de": "Tom hat alles aufgegessen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me a hug.",
+    "de": "Tom drückte mich.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me a key.",
+    "de": "Tom gab mir einen Schlüssel.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got mad at me.",
+    "de": "Tom wurde sauer auf mich.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a fake ID.",
+    "de": "Tom hat einen falschen Personalausweis.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a high IQ.",
+    "de": "Tom hat einen hohen IQ.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a war hero.",
+    "de": "Tom ist ein Kriegsheld.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on a coat.",
+    "de": "Tom zog einen Mantel an.",
+    "level": "B1"
+  },
+  {
+    "en": "We got up at dawn.",
+    "de": "Wir standen im Morgengrauen auf.",
+    "level": "B1"
+  },
+  {
+    "en": "We ran out of gas.",
+    "de": "Wir hatten kein Benzin mehr.",
+    "level": "B1"
+  },
+  {
+    "en": "We'll consider it.",
+    "de": "Wir werden es überleben.",
+    "level": "B1"
+  },
+  {
+    "en": "You're my problem.",
+    "de": "Du bist mein Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "Consider the facts.",
+    "de": "Bedenken Sie die Fakten.",
+    "level": "B1"
+  },
+  {
+    "en": "Do it by all means.",
+    "de": "Tu’s auf jeden Fall!",
+    "level": "B1"
+  },
+  {
+    "en": "Get off of my roof.",
+    "de": "Runter von meinem Dach!",
+    "level": "B1"
+  },
+  {
+    "en": "Get out of my life!",
+    "de": "Verschwinde aus meinem Leben!",
+    "level": "B1"
+  },
+  {
+    "en": "Get out of my life.",
+    "de": "Verschwinde aus meinem Leben!",
+    "level": "B1"
+  },
+  {
+    "en": "Get out of the van.",
+    "de": "Steigen Sie aus dem Wagen aus!",
+    "level": "B1"
+  },
+  {
+    "en": "Get rid of the gun.",
+    "de": "Werden Sie die Waffe los.",
+    "level": "B1"
+  },
+  {
+    "en": "Go and wake Tom up.",
+    "de": "Wecke Tom!",
+    "level": "B1"
+  },
+  {
+    "en": "He came out on top.",
+    "de": "Am Ende lag er an der Spitze.",
+    "level": "B1"
+  },
+  {
+    "en": "He took a week off.",
+    "de": "Er nahm sich eine Woche frei.",
+    "level": "B1"
+  },
+  {
+    "en": "He used a fake I.D.",
+    "de": "Er nutzte einen gefälschten Personalausweis.",
+    "level": "B1"
+  },
+  {
+    "en": "I admire Tom a lot.",
+    "de": "Ich bewundere Tom sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need a gun.",
+    "de": "Ich brauche keine Waffe.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need a nap.",
+    "de": "Ich brauche kein Nickerchen.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't talk a lot.",
+    "de": "Ich rede nicht viel.",
+    "level": "B1"
+  },
+  {
+    "en": "I eat before 7 p.m.",
+    "de": "Ich esse vor neunzehn Uhr.",
+    "level": "B1"
+  },
+  {
+    "en": "I envy you so much.",
+    "de": "Ich beneide dich sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "I fell into a hole.",
+    "de": "Ich fiel in ein Loch.",
+    "level": "B1"
+  },
+  {
+    "en": "I felt a deep pain.",
+    "de": "Ich fühlte einen heftigen Schmerz.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a shirt.",
+    "de": "Ich gab Tom ein Leiberl.",
+    "level": "B1"
+  },
+  {
+    "en": "I got my shoes wet.",
+    "de": "Ich habe mir die Schuhe nass gemacht.",
+    "level": "B1"
+  },
+  {
+    "en": "I got off my horse.",
+    "de": "Ich stieg vom Pferd.",
+    "level": "B1"
+  },
+  {
+    "en": "I got teased a lot.",
+    "de": "Ich wurde oft geärgert.",
+    "level": "B1"
+  },
+  {
+    "en": "I got up about six.",
+    "de": "Ich bin ungefähr um sechs aufgestanden.",
+    "level": "B1"
+  },
+  {
+    "en": "I grew up with Tom.",
+    "de": "Ich bin mit Tom zusammen aufgewachsen.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom had fun.",
+    "de": "Ich hoffe, Tom hat Spaß gehabt.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is done.",
+    "de": "Ich hoffe, Tom ist fertig.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is fair.",
+    "de": "Ich hoffe, Tom ist fair.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is safe.",
+    "de": "Ich hoffe, Tom ist sicher.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom says no.",
+    "de": "Ich hoffe, Tom sagt nein.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope we find Tom.",
+    "de": "Ich hoffe, dass wir Tom finden.",
+    "level": "B1"
+  },
+  {
+    "en": "I jog twice a week.",
+    "de": "Ich jogge zweimal in der Woche.",
+    "level": "B1"
+  },
+  {
+    "en": "I kind of miss Tom.",
+    "de": "Ich vermisse Tom irgendwie.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew Tom was shy.",
+    "de": "Ich wusste, dass Tom schüchtern war.",
+    "level": "B1"
+  },
+  {
+    "en": "I love Tom so much.",
+    "de": "Ich liebe Tom so sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "I made Mary a doll.",
+    "de": "Ich habe Maria eine Puppe gemacht.",
+    "level": "B1"
+  },
+  {
+    "en": "I need a long rope.",
+    "de": "Ich brauche ein langes Seil.",
+    "level": "B1"
+  },
+  {
+    "en": "I need a mouse pad.",
+    "de": "Ich brauche ein Mauspad.",
+    "level": "B1"
+  },
+  {
+    "en": "I need to find out.",
+    "de": "Ich muss dahinterkommen.",
+    "level": "B1"
+  },
+  {
+    "en": "I need to lie down.",
+    "de": "Ich muss mich niederlegen.",
+    "level": "B1"
+  },
+  {
+    "en": "I paid Tom in cash.",
+    "de": "Ich bezahlte Tom in bar.",
+    "level": "B1"
+  },
+  {
+    "en": "I picked up a coin.",
+    "de": "Ich hob eine Münze auf.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of ideas.",
+    "de": "Ich habe keine Ideen mehr.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran up the steps.",
+    "de": "Ich lief die Treppe hoch.",
+    "level": "B1"
+  },
+  {
+    "en": "I said I'll get it.",
+    "de": "Ich sagte, ich werde es bekommen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom and Mary.",
+    "de": "Ich sah Tom und Maria.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom doing it.",
+    "de": "Ich sah es Tom machen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw you slap Tom.",
+    "de": "Ich habe gesehen, wie du Tom eine gescheuert hast.",
+    "level": "B1"
+  },
+  {
+    "en": "I sent Tom a video.",
+    "de": "Ich habe Tom ein Video geschickt.",
+    "level": "B1"
+  },
+  {
+    "en": "I stood up for Tom.",
+    "de": "Ich hielt Tom die Stange.",
+    "level": "B1"
+  },
+  {
+    "en": "I swim once a week.",
+    "de": "Ich schwimme einmal pro Woche.",
+    "level": "B1"
+  },
+  {
+    "en": "I told Tom to stay.",
+    "de": "Ich habe Tom gesagt, dass er dableiben soll.",
+    "level": "B1"
+  },
+  {
+    "en": "I took care of Tom.",
+    "de": "Ich kümmerte mich um Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "I turned off my TV.",
+    "de": "Ich habe meinen Fernseher ausgeschaltet.",
+    "level": "B1"
+  },
+  {
+    "en": "I turned the TV up.",
+    "de": "Ich stellte das Fernsehgerät lauter.",
+    "level": "B1"
+  },
+  {
+    "en": "I used to date Tom.",
+    "de": "Ich bin mal mit Tom gegangen.",
+    "level": "B1"
+  },
+  {
+    "en": "I used to hate Tom.",
+    "de": "Früher hasste ich Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "I watch TV all day.",
+    "de": "Ich sehe den ganzen Tag fern.",
+    "level": "B1"
+  },
+  {
+    "en": "I wish I'd met her.",
+    "de": "Ich würde mich gern mit ihr treffen.",
+    "level": "B1"
+  },
+  {
+    "en": "I wrote Tom a card.",
+    "de": "Ich schrieb Tom eine Ansichtskarte.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll do as you say.",
+    "de": "Ich werde es so machen, wie du gesagt hast.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll get rid of it.",
+    "de": "Ich werde es loswerden.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm a professional.",
+    "de": "Ich bin ein Profi.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm glad I'm a man.",
+    "de": "Ich bin froh, ein Mann zu sein.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm stuck in a rut.",
+    "de": "Ich bin in einer Routine gefangen.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm sure Tom is OK.",
+    "de": "Es geht Tom bestimmt gut.",
+    "level": "B1"
+  },
+  {
+    "en": "I've got a problem.",
+    "de": "Ich habe da ein Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "I've got to go out.",
+    "de": "Ich muss rausgehen.",
+    "level": "B1"
+  },
+  {
+    "en": "Jam comes in a jar.",
+    "de": "Marmelade gibt es im Glas.",
+    "level": "B1"
+  },
+  {
+    "en": "Keep me up to date.",
+    "de": "Halte mich auf dem Laufenden.",
+    "level": "B1"
+  },
+  {
+    "en": "Knowledge is power.",
+    "de": "Wissen ist Macht.",
+    "level": "B1"
+  },
+  {
+    "en": "Let us sing a song.",
+    "de": "Lasst uns ein Lied singen!",
+    "level": "B1"
+  },
+  {
+    "en": "May I pay by check?",
+    "de": "Kann ich mit Scheck zahlen?",
+    "level": "B1"
+  },
+  {
+    "en": "May I speak to Tom?",
+    "de": "Kann ich mit Tom sprechen?",
+    "level": "B1"
+  },
+  {
+    "en": "May I use this cup?",
+    "de": "Darf ich diese Tasse benützen?",
+    "level": "B1"
+  },
+  {
+    "en": "Return immediately.",
+    "de": "Komm sofort zurück!",
+    "level": "B1"
+  },
+  {
+    "en": "That's our problem.",
+    "de": "Das ist unser Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ate like a pig.",
+    "de": "Tom fraß wie ein Schwein.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom died in a fire.",
+    "de": "Tom starb in einem Feuer.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me a hint.",
+    "de": "Tom gab mir einen Hinweis.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me a wink.",
+    "de": "Tom zwinkerte mir zu.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gets up at six.",
+    "de": "Tom steht um sechs auf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got me a watch.",
+    "de": "Tom besorgte mir eine Uhr.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got out of bed.",
+    "de": "Tom stand auf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has got a plan.",
+    "de": "Tom hat einen Plan.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit crazy.",
+    "de": "Tom ist etwas verrückt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit dense.",
+    "de": "Tom ist etwas schwer von Kapee.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a bit drunk.",
+    "de": "Tom ist ein bisschen betrunken.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a born poet.",
+    "de": "Tom ist der geborene Dichter.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a great guy.",
+    "de": "Tom ist ein toller Typ.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a lone wolf.",
+    "de": "Tom ist ein Einzelgänger.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a real fool.",
+    "de": "Tom ist ein echter Idiot.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a real jerk.",
+    "de": "Tom ist der letzte Trottel.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a real nerd.",
+    "de": "Tom ist ein echter Nerd.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a real poet.",
+    "de": "Tom ist ein wahrer Poet.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a smart guy.",
+    "de": "Tom ist ein schlauer Kerl.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a tough guy.",
+    "de": "Tom ist ein zäher Kerl.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a true hero.",
+    "de": "Tom ist ein wahrer Held.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a true poet.",
+    "de": "Tom ist ein wahrer Poet.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is mad at Mary.",
+    "de": "Tom ist wütend auf Mary.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is not so sure.",
+    "de": "Tom ist nicht so sicher.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is out of town.",
+    "de": "Tom ist außerhalb der Stadt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is such a jerk.",
+    "de": "Tom ist so ein Blödmann.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is sure to win.",
+    "de": "Tom wird bestimmt gewinnen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom likes it a lot.",
+    "de": "Tom mag das sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lived to be 93.",
+    "de": "Tom wurde 93 Jahre alt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lived to be 97.",
+    "de": "Tom wurde 97 Jahre alt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom made fun of me.",
+    "de": "Tom machte sich über mich lustig.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put his hat on.",
+    "de": "Tom setzte seinen Hut auf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on his hat.",
+    "de": "Tom setzte seinen Hut auf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom said I was fat.",
+    "de": "Tom sagte, ich sei beleibt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat next to me.",
+    "de": "Tom saß neben mir.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sent me a note.",
+    "de": "Tom schickte mir eine Nachricht.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom told me a joke.",
+    "de": "Tom hat mir einen Witz erzählt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom took a day off.",
+    "de": "Tom nahm sich einen Tag frei.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom was a war hero.",
+    "de": "Tom war ein Kriegsheld.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom won a free car.",
+    "de": "Tom hat ein kostenloses Auto gewonnen.",
+    "level": "B1"
+  },
+  {
+    "en": "We got a flat tire.",
+    "de": "Wir haben einen Platten.",
+    "level": "B1"
+  },
+  {
+    "en": "We ran out of fuel.",
+    "de": "Uns ging der Treibstoff aus.",
+    "level": "B1"
+  },
+  {
+    "en": "We sat next to Tom.",
+    "de": "Wir saßen neben Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "What's the problem?",
+    "de": "Wo ist das Problem?",
+    "level": "B1"
+  },
+  {
+    "en": "Why is Tom so busy?",
+    "de": "Warum ist Tom so beschäftigt?",
+    "level": "B1"
+  },
+  {
+    "en": "A kid needs his dad.",
+    "de": "Ein Kind braucht seinen Vater.",
+    "level": "B1"
+  },
+  {
+    "en": "A noise woke her up.",
+    "de": "Ein Geräusch weckte sie auf.",
+    "level": "B1"
+  },
+  {
+    "en": "Act 3 was all right.",
+    "de": "Der dritte Akt war ganz in Ordnung.",
+    "level": "B1"
+  },
+  {
+    "en": "Add a pinch of salt.",
+    "de": "Eine Prise Salz hinzufügen.",
+    "level": "B1"
+  },
+  {
+    "en": "Can you pick up Tom?",
+    "de": "Kannst du Tom abholen?",
+    "level": "B1"
+  },
+  {
+    "en": "Did Tom lie to Mary?",
+    "de": "Hat Tom Maria angelogen?",
+    "level": "B1"
+  },
+  {
+    "en": "Did you pick Tom up?",
+    "de": "Haben Sie Tom abgeholt?",
+    "level": "B1"
+  },
+  {
+    "en": "Do exactly as I say.",
+    "de": "Tun Sie genau, was ich Ihnen sage.",
+    "level": "B1"
+  },
+  {
+    "en": "Don't get mad at me.",
+    "de": "Sei mir nicht böse!",
+    "level": "B1"
+  },
+  {
+    "en": "Feel free to say no.",
+    "de": "Du darfst gerne nein sagen.",
+    "level": "B1"
+  },
+  {
+    "en": "Get Tom out of here.",
+    "de": "Bring Tom hier raus.",
+    "level": "B1"
+  },
+  {
+    "en": "Go and wake Mary up.",
+    "de": "Geh Mary wecken.",
+    "level": "B1"
+  },
+  {
+    "en": "He flew into a rage.",
+    "de": "Er bekam einen Wutanfall.",
+    "level": "B1"
+  },
+  {
+    "en": "He hung up his coat.",
+    "de": "Er hängte seinen Mantel auf.",
+    "level": "B1"
+  },
+  {
+    "en": "He lacks experience.",
+    "de": "Ihm mangelt es an Erfahrung.",
+    "level": "B1"
+  },
+  {
+    "en": "He lent me 30 pesos.",
+    "de": "Er lieh mir dreißig Pesos.",
+    "level": "B1"
+  },
+  {
+    "en": "He made up his mind.",
+    "de": "Er entschied sich.",
+    "level": "B1"
+  },
+  {
+    "en": "He may have said so.",
+    "de": "Das könnte er gesagt haben.",
+    "level": "B1"
+  },
+  {
+    "en": "He runs a shoe shop.",
+    "de": "Er betreibt ein Schuhgeschäft.",
+    "level": "B1"
+  },
+  {
+    "en": "He set off to Paris.",
+    "de": "Er brach nach Paris auf.",
+    "level": "B1"
+  },
+  {
+    "en": "He took off his hat.",
+    "de": "Er nahm seinen Hut ab.",
+    "level": "B1"
+  },
+  {
+    "en": "He won a gold medal.",
+    "de": "Er gewann eine Goldmedaille.",
+    "level": "B1"
+  },
+  {
+    "en": "I asked Tom to sing.",
+    "de": "Ich bat Tom zu singen.",
+    "level": "B1"
+  },
+  {
+    "en": "I asked Tom to wait.",
+    "de": "Ich bat Tom, zu warten.",
+    "level": "B1"
+  },
+  {
+    "en": "I can dance as well.",
+    "de": "Ich kann auch tanzen.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't find my bag.",
+    "de": "Ich kann meine Tasche nicht finden.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't find my key.",
+    "de": "Ich kann meinen Schlüssel nicht finden.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't find my tie.",
+    "de": "Ich finde meine Krawatte nicht.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't get over it.",
+    "de": "Ich komme nicht darüber hinweg.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't swim at all.",
+    "de": "Ich kann überhaupt nicht schwimmen.",
+    "level": "B1"
+  },
+  {
+    "en": "I can't talk to Tom.",
+    "de": "Ich kann nicht mit Tom reden.",
+    "level": "B1"
+  },
+  {
+    "en": "I counted up to 200.",
+    "de": "Ich zählte bis 200.",
+    "level": "B1"
+  },
+  {
+    "en": "I didn't let Tom in.",
+    "de": "Ich habe Tom nicht hereingelassen.",
+    "level": "B1"
+  },
+  {
+    "en": "I didn't lie to Tom.",
+    "de": "Ich habe Tom nicht angelogen.",
+    "level": "B1"
+  },
+  {
+    "en": "I didn't sit by Tom.",
+    "de": "Ich saß nicht neben Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't ever say no.",
+    "de": "Ich sage nie nein.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't go out much.",
+    "de": "Ich gehe nicht oft aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't need an SUV.",
+    "de": "Ich brauche keinen Geländewagen.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't own a horse.",
+    "de": "Ich besitze kein Pferd.",
+    "level": "B1"
+  },
+  {
+    "en": "I don't study a lot.",
+    "de": "Ich lerne nicht viel.",
+    "level": "B1"
+  },
+  {
+    "en": "I eventually agreed.",
+    "de": "Ich willigte schließlich ein.",
+    "level": "B1"
+  },
+  {
+    "en": "I feel a bit lonely.",
+    "de": "Ich fühle mich ein bißchen allein.",
+    "level": "B1"
+  },
+  {
+    "en": "I feel a bit uneasy.",
+    "de": "Ich fühle mich ein wenig unwohl.",
+    "level": "B1"
+  },
+  {
+    "en": "I feel fat and ugly.",
+    "de": "Ich fühle mich dick und häßlich.",
+    "level": "B1"
+  },
+  {
+    "en": "I felt out of place.",
+    "de": "Ich fühlte mich deplatziert.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a chance.",
+    "de": "Ich gab Tom eine Chance.",
+    "level": "B1"
+  },
+  {
+    "en": "I gave Tom a cookie.",
+    "de": "Ich gab Tom einen Keks.",
+    "level": "B1"
+  },
+  {
+    "en": "I got a weird email.",
+    "de": "Ich bekam eine seltsame E-Mail.",
+    "level": "B1"
+  },
+  {
+    "en": "I got that from Tom.",
+    "de": "Das habe ich von Tom bekommen.",
+    "level": "B1"
+  },
+  {
+    "en": "I got up about five.",
+    "de": "Ich stand etwa um fünf auf.",
+    "level": "B1"
+  },
+  {
+    "en": "I grew up in Boston.",
+    "de": "Ich bin in Boston aufgewachsen.",
+    "level": "B1"
+  },
+  {
+    "en": "I guess Tom is sick.",
+    "de": "Ich glaube, dass Tom krank ist.",
+    "level": "B1"
+  },
+  {
+    "en": "I hate being a boss.",
+    "de": "Ich hasse es, den Chef raushängen zu lassen.",
+    "level": "B1"
+  },
+  {
+    "en": "I hate that so much.",
+    "de": "Ich kann das absolut nicht leiden!",
+    "level": "B1"
+  },
+  {
+    "en": "I heard Tom is sick.",
+    "de": "Ich hörte, dass Tom krank ist.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom can swim.",
+    "de": "Ich hoffe, Tom kann schwimmen.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is alive.",
+    "de": "Ich hoffe, Tom lebt.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is alone.",
+    "de": "Ich hoffe, Tom ist allein.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom is tough.",
+    "de": "Ich hoffe, Tom ist hart im Nehmen.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom likes me.",
+    "de": "Ich hoffe, Tom mag mich.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope Tom says yes.",
+    "de": "Ich hoffe, dass Tom ja sagt.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope he isn't ill.",
+    "de": "Ich hoffe, dass er nicht krank ist.",
+    "level": "B1"
+  },
+  {
+    "en": "I hope it isn't Tom.",
+    "de": "Ich hoffe, dass es nicht Tom ist.",
+    "level": "B1"
+  },
+  {
+    "en": "I kind of liked Tom.",
+    "de": "Ich mochte Tom irgendwie.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew Tom was busy.",
+    "de": "Ich wusste, dass Tom beschäftigt war.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew Tom was dead.",
+    "de": "Ich wusste, dass Tom tot war.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew how Tom felt.",
+    "de": "Ich wusste, wie Thomas sich fühlte.",
+    "level": "B1"
+  },
+  {
+    "en": "I knew you'd be mad.",
+    "de": "Ich wusste, dass du dich aufregen würdest!",
+    "level": "B1"
+  },
+  {
+    "en": "I knew you'd get it.",
+    "de": "Ich wusste, du würdest es bekommen.",
+    "level": "B1"
+  },
+  {
+    "en": "I let down the rope.",
+    "de": "Ich ließ das Seil hinunter.",
+    "level": "B1"
+  },
+  {
+    "en": "I live by the river.",
+    "de": "Ich wohne am Fluss.",
+    "level": "B1"
+  },
+  {
+    "en": "I lost sight of Tom.",
+    "de": "Ich habe Tom aus den Augen verloren.",
+    "level": "B1"
+  },
+  {
+    "en": "I made a wrong turn.",
+    "de": "Ich bin falsch abgebogen.",
+    "level": "B1"
+  },
+  {
+    "en": "I met her by chance.",
+    "de": "Ich habe sie zufällig getroffen.",
+    "level": "B1"
+  },
+  {
+    "en": "I met him by chance.",
+    "de": "Ich traf ihn zufällig.",
+    "level": "B1"
+  },
+  {
+    "en": "I miss Boston a lot.",
+    "de": "Ich vermisse Boston sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "I need a bath towel.",
+    "de": "Ich brauche ein Badetuch.",
+    "level": "B1"
+  },
+  {
+    "en": "I need a dozen eggs.",
+    "de": "Ich brauche ein Dutzend Eier.",
+    "level": "B1"
+  },
+  {
+    "en": "I only saw Tom once.",
+    "de": "Ich habe Tom nur einmal gesehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I ran out of breath.",
+    "de": "Mir ging die Luft aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I rarely wear a tie.",
+    "de": "Ich trage selten eine Krawatte.",
+    "level": "B1"
+  },
+  {
+    "en": "I really need a hug.",
+    "de": "Ich brauche wirklich eine Umarmung.",
+    "level": "B1"
+  },
+  {
+    "en": "I recommend caution.",
+    "de": "Ich rate zur Vorsicht.",
+    "level": "B1"
+  },
+  {
+    "en": "I said I'll be fine.",
+    "de": "Ich sagte, es wird mir gut gehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I said we'd get one.",
+    "de": "Ich sagte, wir würden eins bekommen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom at church.",
+    "de": "Ich habe Tom in der Kirche gesehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom in Boston.",
+    "de": "Ich habe Tom in Boston gesehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw Tom with Mary.",
+    "de": "Ich habe Tom mit Maria gesehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw her last week.",
+    "de": "Ich habe sie letzte Woche gesehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw him last week.",
+    "de": "Ich habe ihn letzte Woche gesehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw the boat sink.",
+    "de": "Ich sah das Boot untergehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I saw you smack Tom.",
+    "de": "Ich habe gesehen, wie du Tom eine gescheuert hast.",
+    "level": "B1"
+  },
+  {
+    "en": "I threw my back out.",
+    "de": "Ich habe mir das Kreuz verrissen.",
+    "level": "B1"
+  },
+  {
+    "en": "I took a wrong turn.",
+    "de": "Ich bin falsch abgebogen.",
+    "level": "B1"
+  },
+  {
+    "en": "I took my shirt off.",
+    "de": "Ich zog das Hemd aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I took my shoes off.",
+    "de": "Ich zog meine Schuhe aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I took off my shirt.",
+    "de": "Ich zog das Hemd aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I took off my shoes.",
+    "de": "Ich zog die Schuhe aus.",
+    "level": "B1"
+  },
+  {
+    "en": "I tore up the paper.",
+    "de": "Ich zerriss das Papier.",
+    "level": "B1"
+  },
+  {
+    "en": "I turned off the TV.",
+    "de": "Ich habe den Fernseher ausgeschaltet.",
+    "level": "B1"
+  },
+  {
+    "en": "I turned the TV off.",
+    "de": "Ich habe den Fernseher ausgeschaltet.",
+    "level": "B1"
+  },
+  {
+    "en": "I wanted to hit Tom.",
+    "de": "Ich hätte Tom am liebsten eine runtergehauen.",
+    "level": "B1"
+  },
+  {
+    "en": "I wasn't mad at Tom.",
+    "de": "Ich war Tom nicht böse.",
+    "level": "B1"
+  },
+  {
+    "en": "I watch too much TV.",
+    "de": "Ich sehe zuviel fern.",
+    "level": "B1"
+  },
+  {
+    "en": "I went to visit Tom.",
+    "de": "Ich habe Tom besucht.",
+    "level": "B1"
+  },
+  {
+    "en": "I won't get a raise.",
+    "de": "Ich bekomme keine Gehaltserhöhung.",
+    "level": "B1"
+  },
+  {
+    "en": "I won't let you win.",
+    "de": "Ich werde dich nicht gewinnen lassen.",
+    "level": "B1"
+  },
+  {
+    "en": "I wrote Tom a check.",
+    "de": "Ich habe Tom einen Scheck geschrieben.",
+    "level": "B1"
+  },
+  {
+    "en": "I wrote it all down.",
+    "de": "Ich habe alles aufgeschrieben.",
+    "level": "B1"
+  },
+  {
+    "en": "I'd rather avoid it.",
+    "de": "Ich würde das lieber vermeiden.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll be out of town.",
+    "de": "Ich werde auswärts sein.",
+    "level": "B1"
+  },
+  {
+    "en": "I'll go and get Tom.",
+    "de": "Ich werde Tom holen gehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm Tom, by the way.",
+    "de": "Ich bin übrigens der Tom.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm about to go out.",
+    "de": "Ich gehe gleich raus.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm as tired as you.",
+    "de": "Ich bin genauso müde wie Sie.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm at my wit's end.",
+    "de": "Ich bin mit meinem Latein am Ende.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm giving up on it.",
+    "de": "Ich gebe es auf.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm glad I can't go.",
+    "de": "Ich bin froh, dass ich nicht hingehen kann.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm going to say no.",
+    "de": "Ich werde nein sagen.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm not at all busy.",
+    "de": "Ich bin gar nicht beschäftigt.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm not busy at all.",
+    "de": "Ich bin gar nicht beschäftigt.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm not in any pain.",
+    "de": "Ich habe keine Schmerzen.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm not so sure now.",
+    "de": "Ich bin mir jetzt nicht so sicher.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm not well at all.",
+    "de": "Es geht mir überhaupt nicht gut.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm proud of my son.",
+    "de": "Ich bin stolz auf meinen Sohn.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm so proud of you.",
+    "de": "Ich bin so stolz auf dich!",
+    "level": "B1"
+  },
+  {
+    "en": "I'm so sick of this.",
+    "de": "Ich habe die Nase so voll davon.",
+    "level": "B1"
+  },
+  {
+    "en": "I'm up in the attic.",
+    "de": "Ich bin auf dem Dachboden.",
+    "level": "B1"
+  },
+  {
+    "en": "I've done all I can.",
+    "de": "Ich habe getan, was ich konnte.",
+    "level": "B1"
+  },
+  {
+    "en": "I've got a new plan.",
+    "de": "Ich habe einen neuen Plan.",
+    "level": "B1"
+  },
+  {
+    "en": "I've got to find it.",
+    "de": "Ich muss es finden.",
+    "level": "B1"
+  },
+  {
+    "en": "I've got to go back.",
+    "de": "Ich muss zurückgehen.",
+    "level": "B1"
+  },
+  {
+    "en": "I've seen you on TV.",
+    "de": "Ich habe Sie im Fernsehen gesehen.",
+    "level": "B1"
+  },
+  {
+    "en": "Is Tom going to die?",
+    "de": "Muss Tom sterben?",
+    "level": "B1"
+  },
+  {
+    "en": "It may well be true.",
+    "de": "Es mag wohl wahr sein.",
+    "level": "B1"
+  },
+  {
+    "en": "It pays to tip well.",
+    "de": "Wer gut schmiert, fährt gut.",
+    "level": "B1"
+  },
+  {
+    "en": "It was hard as rock.",
+    "de": "Es war steinhart.",
+    "level": "B1"
+  },
+  {
+    "en": "It's as cold as ice.",
+    "de": "Es ist eiskalt.",
+    "level": "B1"
+  },
+  {
+    "en": "Kids can be so mean.",
+    "de": "Kinder können so gemein sein.",
+    "level": "B1"
+  },
+  {
+    "en": "Let me win for once.",
+    "de": "Lass mich auch einmal gewinnen.",
+    "level": "B1"
+  },
+  {
+    "en": "Mary wore a sun hat.",
+    "de": "Maria trug einen Sonnenhut.",
+    "level": "B1"
+  },
+  {
+    "en": "May I use your desk?",
+    "de": "Darf ich Ihren Schreibtisch benutzen?",
+    "level": "B1"
+  },
+  {
+    "en": "My back hurts a lot.",
+    "de": "Ich habe starke Rückenschmerzen.",
+    "level": "B1"
+  },
+  {
+    "en": "My dad loves my mom.",
+    "de": "Mein Papa hat meine Mama lieb.",
+    "level": "B1"
+  },
+  {
+    "en": "My knee hurts a lot.",
+    "de": "Mein Knie schmerzt sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "No one gave up hope.",
+    "de": "Keiner gab die Hoffnung auf.",
+    "level": "B1"
+  },
+  {
+    "en": "She came out on top.",
+    "de": "Am Ende lag sie vorn.",
+    "level": "B1"
+  },
+  {
+    "en": "Shut up and kiss me.",
+    "de": "Halt die Klappe und küss mich.",
+    "level": "B1"
+  },
+  {
+    "en": "That's my challenge.",
+    "de": "Hier meine Herausforderung.",
+    "level": "B1"
+  },
+  {
+    "en": "That's your problem.",
+    "de": "Das ist dein Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ate a TV dinner.",
+    "de": "Tom hat sich ein Fertiggericht gemacht.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ate at his desk.",
+    "de": "Tom aß am Schreibtisch.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom called me a cab.",
+    "de": "Tom rief mir ein Taxi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom came on his own.",
+    "de": "Tom kam allein.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom came to save me.",
+    "de": "Tom kam, um mich zu retten.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom can swim a mile.",
+    "de": "Tom kann anderthalb Kilometer schwimmen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom died in my arms.",
+    "de": "Tom starb in meinen Armen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom eats like a pig.",
+    "de": "Tom frisst wie ein Schwein.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom found me a taxi.",
+    "de": "Tom suchte mir ein Taxi.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave a big yawn.",
+    "de": "Tom gähnte breit.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave it to Mary.",
+    "de": "Tom gab das Maria.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me his key.",
+    "de": "Tom gab mir seinen Schlüssel.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave me the key.",
+    "de": "Tom gab mir den Schlüssel.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom gave us the key.",
+    "de": "Tom hat uns den Schlüssel gegeben.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got ahead of me.",
+    "de": "Tom überholte mich.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got in the boat.",
+    "de": "Tom stieg ins Boot.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom got off the bus.",
+    "de": "Tom stieg aus dem Bus.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a bald spot.",
+    "de": "Tom hat eine kahle Stelle am Kopf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a cleft lip.",
+    "de": "Tom hat eine Lippenspalte.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a dark past.",
+    "de": "Tom hat eine dunkle Vergangenheit.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a long neck.",
+    "de": "Tom hat einen langen Hals.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a pet mouse.",
+    "de": "Tom hält sich eine Maus als Haustier.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a sore back.",
+    "de": "Tom hat Rückenschmerzen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has a sore knee.",
+    "de": "Tom hat Knieschmerzen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom has got a point.",
+    "de": "Tom hat in gewisser Weise recht.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom helped me a lot.",
+    "de": "Tom hat mir sehr geholfen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom helped us a lot.",
+    "de": "Tom hat uns sehr geholfen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom hid in the barn.",
+    "de": "Tom versteckte sich in der Scheune.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom hid in the shed.",
+    "de": "Tom versteckte sich im Schuppen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is 30 years old.",
+    "de": "Tom ist 30 Jahre alt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a clever kid.",
+    "de": "Tom ist ein kluges Kind.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a con artist.",
+    "de": "Tom ist ein Hochstapler.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a fire eater.",
+    "de": "Tom ist Feuerschlucker.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a little odd.",
+    "de": "Tom ist etwas komisch.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a little shy.",
+    "de": "Tom ist etwas schüchtern.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a normal guy.",
+    "de": "Tom ist ein normaler Typ.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a normal kid.",
+    "de": "Tom ist ein normales Kind.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a risk taker.",
+    "de": "Tom ist ein Wagehals.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a strong guy.",
+    "de": "Tom ist ein starker Kerl.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is a strong kid.",
+    "de": "Tom ist ein starkes Kind.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is about my age.",
+    "de": "Tom ist ungefähr in meinem Alter.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is an FBI agent.",
+    "de": "Tom ist ein FBI-Agent.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is an opera fan.",
+    "de": "Tom ist ein Freund der Oper.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is back in town.",
+    "de": "Tom ist wieder in der Stadt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is free on bail.",
+    "de": "Tom ist gegen Kaution auf freiem Fuß.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is full of hope.",
+    "de": "Tom ist voller Hoffnung.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is full of life.",
+    "de": "Tom steckt voller Leben.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is going to win.",
+    "de": "Tom wird gewinnen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is grown up now.",
+    "de": "Tom ist jetzt erwachsen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is hard to fool.",
+    "de": "Tom ist schwer hinters Licht zu führen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is kind of cute.",
+    "de": "Tom ist irgendwie süß.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is kind to Mary.",
+    "de": "Tom ist gut zu Maria.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is quite a poet.",
+    "de": "Tom ist ein ganz schöner Poet.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is such a loser.",
+    "de": "Tom ist so ein Versager!",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is such a moron.",
+    "de": "Tom ist so ein Schwachkopf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is such a sissy.",
+    "de": "Tom ist so eine Memme!",
+    "level": "B1"
+  },
+  {
+    "en": "Tom is well off now.",
+    "de": "Tom ist jetzt wohlhabend.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lay on his back.",
+    "de": "Tom legte sich auf den Rücken.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom let the cat out.",
+    "de": "Tom ließ die Katze hinaus.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom let the dog out.",
+    "de": "Tom ließ den Hund hinaus.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom likes you a lot.",
+    "de": "Tom mag dich sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lives in a cave.",
+    "de": "Tom wohnt in einer Höhle.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lives in a slum.",
+    "de": "Tom lebt in einem Elendsviertel.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lives on a boat.",
+    "de": "Tom wohnt auf einem Boot.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom lives on a farm.",
+    "de": "Tom lebt auf einem Bauernhof.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom looked up at me.",
+    "de": "Tom sah zu mir hoch.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom looks up to you.",
+    "de": "Tom schaut zu dir auf.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom loves you a lot.",
+    "de": "Tom liebt dich sehr.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom made Mary do it.",
+    "de": "Tom hat Maria dazu gebracht, es zu tun.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom made tea for me.",
+    "de": "Tom hat Tee für mich gemacht.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom may be a genius.",
+    "de": "Tom könnte ein Genie sein.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom now wears a wig.",
+    "de": "Tom trägt jetzt Perücke.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom owes me a favor.",
+    "de": "Tom ist mir einen Gefallen schuldig.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put Mary to bed.",
+    "de": "Tom brachte Maria ins Bett.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put his hand up.",
+    "de": "Tom hob die Hand.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on an apron.",
+    "de": "Tom legte ein Schürze an.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom put on his coat.",
+    "de": "Tom zog seinen Mantel an.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ran out of food.",
+    "de": "Tom ging das Essen aus.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ran out of time.",
+    "de": "Tom lief die Zeit davon.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom ran to the cave.",
+    "de": "Tom lief in die Höhle.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat at his desk.",
+    "de": "Tom saß an seinem Schreibtisch.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom sat on the sofa.",
+    "de": "Tom saß auf dem Sofa.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom says he is rich.",
+    "de": "Tom sagt, er sei reich.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom stuck up for me.",
+    "de": "Tom trat für mich ein.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom taught me a lot.",
+    "de": "Tom hat mir viel beigebracht.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom took a big risk.",
+    "de": "Tom ging ein großes Risiko ein.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom tried to fit in.",
+    "de": "Tom bemühte sich dazuzugehören.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom tried to gag me.",
+    "de": "Tom wollte mich knebeln.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom used to be mean.",
+    "de": "Tom war früher gemein.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom used to be ugly.",
+    "de": "Tom war früher mal hässlich.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom wants a new hat.",
+    "de": "Tom will einen neuen Hut.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom was a real hero.",
+    "de": "Tom war ein echter Held.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom was lost at sea.",
+    "de": "Tom ist auf See verschollen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom was mad at Mary.",
+    "de": "Tom war sauer auf Mary.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom was put in jail.",
+    "de": "Tom wurde ins Gefängnis gesteckt.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom went for a swim.",
+    "de": "Tom ist schwimmen gegangen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom went out to eat.",
+    "de": "Tom ist essen gegangen.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom went to the gym.",
+    "de": "Tom ging zur Turnhalle.",
+    "level": "B1"
+  },
+  {
+    "en": "Tom will go as well.",
+    "de": "Tom geht auch hin.",
+    "level": "B1"
+  },
+  {
+    "en": "We can't let Tom go.",
+    "de": "Wir können Tom nicht gehen lassen.",
+    "level": "B1"
+  },
+  {
+    "en": "We can't let Tom in.",
+    "de": "Wir können Tom nicht hereinlassen.",
+    "level": "B1"
+  },
+  {
+    "en": "We can't lie to Tom.",
+    "de": "Wir können Tom nicht belügen.",
+    "level": "B1"
+  },
+  {
+    "en": "We don't talk a lot.",
+    "de": "Wir reden nicht viel.",
+    "level": "B1"
+  },
+  {
+    "en": "We made up with Tom.",
+    "de": "Wir haben uns mit Tom wieder vertragen.",
+    "level": "B1"
+  },
+  {
+    "en": "We need a win badly.",
+    "de": "Wir brauchen dringend einen Sieg.",
+    "level": "B1"
+  },
+  {
+    "en": "We need an iron bar.",
+    "de": "Wir brauchen eine Eisenstange.",
+    "level": "B1"
+  },
+  {
+    "en": "We need to find Tom.",
+    "de": "Wir müssen Tom finden.",
+    "level": "B1"
+  },
+  {
+    "en": "We ran out of candy.",
+    "de": "Wir haben keine Süßigkeiten mehr.",
+    "level": "B1"
+  },
+  {
+    "en": "We've got a problem.",
+    "de": "Wir haben ein Problem.",
+    "level": "B1"
+  },
+  {
+    "en": "What if Tom says no?",
+    "de": "Was, wenn Tom dagegen ist?",
+    "level": "B1"
+  },
+  {
+    "en": "What if Tom sees me?",
+    "de": "Was, falls Tom mich sieht?",
+    "level": "B1"
+  },
+  {
+    "en": "What's your opinion?",
+    "de": "Was meinst du?",
+    "level": "B1"
+  },
+  {
+    "en": "What's your problem?",
+    "de": "Was haben Sie für ein Problem?",
+    "level": "B1"
+  },
+  {
+    "en": "Why are men so dumb?",
+    "de": "Warum sind Männer so blöd?",
+    "level": "B1"
+  },
+  {
+    "en": "Why is life so hard?",
+    "de": "Warum ist das Leben so schwer?",
+    "level": "B1"
+  },
+  {
+    "en": "Why is math so hard?",
+    "de": "Warum ist Mathe so schwer?",
+    "level": "B1"
+  },
+  {
+    "en": "You need to grow up.",
+    "de": "Werde erwachsen!",
+    "level": "B1"
+  },
+  {
+    "en": "You need to wake up.",
+    "de": "Du musst aufwachen.",
+    "level": "B1"
+  },
+  {
+    "en": "All you need is rest.",
+    "de": "Alles was du brauchst ist Ruhe.",
+    "level": "B1"
+  },
+  {
+    "en": "Birds fly in the sky.",
+    "de": "Vögel fliegen am Himmel.",
+    "level": "B1"
+  },
+  {
+    "en": "Bring me a dry towel.",
+    "de": "Bring mir ein trockenes Handtuch!",
+    "level": "B1"
+  },
+  {
+    "en": "Call 110 immediately.",
+    "de": "Rufen Sie sofort bei der 110 an.",
+    "level": "B1"
+  },
+  {
+    "en": "Could I get some tea?",
+    "de": "Könnte ich Tee bekommen?",
+    "level": "B1"
+  },
+  {
+    "en": "Did Tom get a chance?",
+    "de": "Hat man Tom eine Chance gegeben?",
+    "level": "B1"
+  },
+  {
+    "en": "Did Tom kick you out?",
+    "de": "Hat Tom dich rausgeschmissen?",
+    "level": "B1"
+  },
+  {
+    "en": "Did Tom talk to Mary?",
+    "de": "Hat Tom mit Mary gesprochen?",
+    "level": "B1"
+  },
+  {
+    "en": "Did Tom win the race?",
+    "de": "Hat Tom das Rennen gewonnen?",
+    "level": "B1"
+  },
+  {
+    "en": "Do come by all means.",
+    "de": "Bitte kommen Sie unbedingt!",
+    "level": "B1"
+  },
+  {
+    "en": "Does Tom ever say no?",
+    "de": "Sagt Tom auch mal nein?",
+    "level": "B1"
+  },
+  {
+    "en": "Don't be such a wimp.",
+    "de": "Sei nicht so ein Waschlappen!",
+    "level": "B1"
+  },
+  {
+    "en": "Don't wait up for me.",
+    "de": "Warten Sie nicht auf mich.",
+    "level": "B1"
+  },
+  {
+    "en": "Get Tom out of there.",
+    "de": "Hol Tom von dort raus.",
+    "level": "B1"
+  },
+  {
+    "en": "Get away from me now.",
+    "de": "Lass mich jetzt in Ruhe.",
+    "level": "B1"
+  },
+  {
+    "en": "Get back to the ship.",
+    "de": "Geh zurück zum Schiff.",
+    "level": "B1"
+  },
+  {
+    "en": "Get it ready at once.",
+    "de": "Mach es gleich fertig!",
+    "level": "B1"
+  },
+  {
+    "en": "Get your paws off me.",
+    "de": "Nimm deine Pfoten von mir!",
+    "level": "B1"
+  },
+  {
+    "en": "Go and get some rest.",
+    "de": "Geh und ruh dich etwas aus!",
+    "level": "B1"
+  },
+  {
+    "en": "He acted as my guide.",
+    "de": "Er war mein Führer.",
+    "level": "B1"
+  },
+  {
+    "en": "He began to feel ill.",
+    "de": "Er begann, sich schlecht zu fühlen.",
+    "level": "B1"
+  },
+  {
+    "en": "He cried out in pain.",
+    "de": "Er schrie vor Schmerzen.",
+    "level": "B1"
+  },
+  {
+    "en": "He gets around a lot.",
+    "de": "Er kommt viel herum.",
+    "level": "B1"
+  },
+  {
+    "en": "He got married at 22.",
+    "de": "Er heiratete mit 22.",
+    "level": "B1"
+  },
+  {
+    "en": "He had lost all hope.",
+    "de": "Er hatte jegliche Hoffnung verloren.",
+    "level": "B1"
+  },
+  {
+    "en": "He held up his hands.",
+    "de": "Er hielt die Hände hoch.",
+    "level": "B1"
+  },
+  {
+    "en": "He hit me by mistake.",
+    "de": "Er hat mich aus Versehen geschlagen.",
+    "level": "B1"
+  },
+  {
+    "en": "He is free from care.",
+    "de": "Er hat keine Sorgen.",
+    "level": "B1"
+  },
+  {
+    "en": "He knew it all along.",
+    "de": "Er hatte es schon immer gewusst.",
+    "level": "B1"
+  },
+  {
+    "en": "He laid down the gun.",
+    "de": "Er legte die Pistole nieder.",
+    "level": "B1"
+  },
+  {
+    "en": "He led a simple life.",
+    "de": "Er führte ein einfaches Leben.",
+    "level": "B1"
+  },
+  {
+    "en": "He likes to watch TV.",
+    "de": "Er sieht gern fern.",
+    "level": "B1"
+  },
+  {
+    "en": "He lived a hard life.",
+    "de": "Er hatte ein schweres Leben.",
+    "level": "B1"
+  },
+  {
+    "en": "He lived a long life.",
+    "de": "Er hatte ein langes Leben.",
+    "level": "B1"
+  },
+  {
+    "en": "He made a rude reply.",
+    "de": "Er gab eine unhöfliche Antwort.",
+    "level": "B1"
+  }
+]

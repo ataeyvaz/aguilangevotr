@@ -1,0 +1,47 @@
+{
+  "scenario": "postoffice",
+  "language": "es",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "¿Quiere enviar una carta o un paquete?",
+      "expected": "Quiero enviar un paquete a México, por favor.",
+      "hint": "I want to send a package to Mexico, please."
+    },
+    {
+      "bot": "¿Cuál es la dirección del destinatario?",
+      "expected": "La dirección es Calle Juárez número 45, Ciudad de México.",
+      "hint": "The address is Juárez Street number 45, Mexico City."
+    },
+    {
+      "bot": "¿Necesita sellos para esta carta?",
+      "expected": "Sí, necesito tres sellos, por favor.",
+      "hint": "Yes, I need three stamps, please."
+    },
+    {
+      "bot": "¿Cuánto pesa el paquete?",
+      "expected": "El paquete pesa dos kilogramos.",
+      "hint": "The package weighs two kilograms."
+    },
+    {
+      "bot": "¿Quiere envío express o normal?",
+      "expected": "Quiero envío express, por favor.",
+      "hint": "I want express shipping, please."
+    },
+    {
+      "bot": "¿Hay algo frágil dentro del paquete?",
+      "expected": "Sí, hay una taza de cerámica dentro.",
+      "hint": "Yes, there is a ceramic mug inside."
+    },
+    {
+      "bot": "¿Tiene su identificación para recoger la carta?",
+      "expected": "Sí, aquí tiene mi identificación oficial.",
+      "hint": "Yes, here is my official ID."
+    },
+    {
+      "bot": "¿Quiere rastrear su paquete?",
+      "expected": "Sí, quiero el número de rastreo, por favor.",
+      "hint": "Yes, I want the tracking number, please."
+    }
+  ]
+}

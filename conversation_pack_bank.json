@@ -1,0 +1,47 @@
+{
+  "scenario": "bank",
+  "language": "pt",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "Qual é o seu nome completo?",
+      "expected": "Meu nome completo é Maria Santos.",
+      "hint": "State your full name"
+    },
+    {
+      "bot": "Você gostaria de abrir uma conta?",
+      "expected": "Sim, gostaria de abrir uma conta corrente.",
+      "hint": "Say you'd like to open a checking account"
+    },
+    {
+      "bot": "Qual é o seu número de telefone?",
+      "expected": "Meu número é (123) 456-7890.",
+      "hint": "Provide your phone number"
+    },
+    {
+      "bot": "Você tem um documento com foto?",
+      "expected": "Sim, tenho meu passaporte aqui.",
+      "hint": "Say you have your passport"
+    },
+    {
+      "bot": "Quanto dinheiro você quer depositar hoje?",
+      "expected": "Quero depositar quinhentos dólares.",
+      "hint": "Say you want to deposit five hundred dollars"
+    },
+    {
+      "bot": "Você precisa de ajuda para usar o caixa eletrônico?",
+      "expected": "Sim, pode me explicar como funciona?",
+      "hint": "Ask them to explain how it works"
+    },
+    {
+      "bot": "Gostaria de falar com um gerente sobre empréstimos?",
+      "expected": "Sim, quero saber sobre taxas de juros.",
+      "hint": "Say you want to know about interest rates"
+    },
+    {
+      "bot": "Prefere receber um cartão de débito ou crédito?",
+      "expected": "Prefiro receber um cartão de débito, por favor.",
+      "hint": "Say you prefer a debit card"
+    }
+  ]
+}

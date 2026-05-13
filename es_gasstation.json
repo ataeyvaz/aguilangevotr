@@ -1,0 +1,47 @@
+{
+  "scenario": "gasstation",
+  "language": "es",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "¿Qué tipo de gasolina necesita?",
+      "expected": "Necesito gasolina regular, por favor.",
+      "hint": "I need regular gas, please."
+    },
+    {
+      "bot": "¿Cuánto dinero quiere poner?",
+      "expected": "Quiero poner cuarenta dólares de gasolina.",
+      "hint": "I want to put in forty dollars of gas."
+    },
+    {
+      "bot": "¿Quiere que le llene el tanque?",
+      "expected": "Sí, por favor llene el tanque completo.",
+      "hint": "Yes, please fill the tank completely."
+    },
+    {
+      "bot": "¿Tiene el recibo?",
+      "expected": "Sí, aquí tiene el recibo, gracias.",
+      "hint": "Yes, here is the receipt, thank you."
+    },
+    {
+      "bot": "¿Necesita revisar el aceite?",
+      "expected": "No, el aceite ya fue revisado.",
+      "hint": "No, the oil has already been checked."
+    },
+    {
+      "bot": "¿Dónde está la bomba de aire?",
+      "expected": "La bomba de aire está al lado de la tienda.",
+      "hint": "The air pump is next to the store."
+    },
+    {
+      "bot": "¿Paga con tarjeta o en efectivo?",
+      "expected": "Voy a pagar con tarjeta de crédito, por favor.",
+      "hint": "I'm going to pay with a credit card, please."
+    },
+    {
+      "bot": "¿Quiere algo de la tienda?",
+      "expected": "Sí, quiero una botella de agua, por favor.",
+      "hint": "Yes, I want a bottle of water, please."
+    }
+  ]
+}

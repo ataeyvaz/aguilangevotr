@@ -1,0 +1,272 @@
+[
+  {
+    "word": "happen",
+    "es": "pasar",
+    "es_alt": "ocurrir",
+    "pt": "acontecer",
+    "pt_alt": "ocorrer",
+    "es_example": "Algo pasa aquí.",
+    "pt_example": "Algo acontece aqui."
+  },
+  {
+    "word": "write",
+    "es": "escribir",
+    "es_alt": "",
+    "pt": "escrever",
+    "pt_alt": "",
+    "es_example": "Ella sabe escribir muy bien.",
+    "pt_example": "Ela sabe escrever muito bem."
+  },
+  {
+    "word": "provide",
+    "es": "proporcionar",
+    "es_alt": "ofrecer",
+    "pt": "fornecer",
+    "pt_alt": "oferecer",
+    "es_example": "La empresa proporciona buenos beneficios.",
+    "pt_example": "A empresa fornece bons benefícios."
+  },
+  {
+    "word": "sit",
+    "es": "sentarse",
+    "es_alt": "",
+    "pt": "sentar-se",
+    "pt_alt": "",
+    "es_example": "Vamos a sentarnos en el sofá.",
+    "pt_example": "Vamos sentar no sofá."
+  },
+  {
+    "word": "stand",
+    "es": "ponerse de pie",
+    "es_alt": "pararse",
+    "pt": "levar-se",
+    "pt_alt": "ficar de pé",
+    "es_example": "Él se pone de pie rápidamente.",
+    "pt_example": "Ele se levanta rapidamente."
+  },
+  {
+    "word": "lose",
+    "es": "perder",
+    "es_alt": "",
+    "pt": "perder",
+    "pt_alt": "",
+    "es_example": "No quiero perder este juego.",
+    "pt_example": "Não quero perder este jogo."
+  },
+  {
+    "word": "pay",
+    "es": "pagar",
+    "es_alt": "",
+    "pt": "pagar",
+    "pt_alt": "",
+    "es_example": "Tengo que pagar la cuenta.",
+    "pt_example": "Tenho que pagar a conta."
+  },
+  {
+    "word": "meet",
+    "es": "conocer",
+    "es_alt": "reunirse",
+    "pt": "conhecer",
+    "pt_alt": "encontrar",
+    "es_example": "Me gusta conocer gente nueva.",
+    "pt_example": "Gosto de conhecer pessoas novas."
+  },
+  {
+    "word": "include",
+    "es": "incluir",
+    "es_alt": "",
+    "pt": "incluir",
+    "pt_alt": "",
+    "es_example": "El precio incluye el desayuno.",
+    "pt_example": "O preço inclui o café da manhã."
+  },
+  {
+    "word": "continue",
+    "es": "continuar",
+    "es_alt": "seguir",
+    "pt": "continuar",
+    "pt_alt": "seguir",
+    "es_example": "Vamos a continuar con el trabajo.",
+    "pt_example": "Vamos continuar com o trabalho."
+  },
+  {
+    "word": "set",
+    "es": "establecer",
+    "es_alt": "fijar",
+    "pt": "definir",
+    "pt_alt": "estabelecer",
+    "es_example": "Debemos establecer nuevas reglas.",
+    "pt_example": "Devemos definir novas regras."
+  },
+  {
+    "word": "learn",
+    "es": "aprender",
+    "es_alt": "",
+    "pt": "aprender",
+    "pt_alt": "",
+    "es_example": "Quiero aprender a tocar guitarra.",
+    "pt_example": "Quero aprender a tocar violão."
+  },
+  {
+    "word": "change",
+    "es": "cambiar",
+    "es_alt": "",
+    "pt": "mudar",
+    "pt_alt": "alterar",
+    "es_example": "Todo puede cambiar en un día.",
+    "pt_example": "Tudo pode mudar em um dia."
+  },
+  {
+    "word": "lead",
+    "es": "liderar",
+    "es_alt": "conducir",
+    "pt": "liderar",
+    "pt_alt": "conduzir",
+    "es_example": "Ella sabe liderar equipos.",
+    "pt_example": "Ela sabe liderar equipes."
+  },
+  {
+    "word": "understand",
+    "es": "entender",
+    "es_alt": "comprender",
+    "pt": "entender",
+    "pt_alt": "compreender",
+    "es_example": "Ahora entiendo la lección.",
+    "pt_example": "Agora entendo a lição."
+  },
+  {
+    "word": "watch",
+    "es": "mirar",
+    "es_alt": "observar",
+    "pt": "assistir",
+    "pt_alt": "observar",
+    "es_example": "Vamos a mirar una película.",
+    "pt_example": "Vamos assistir a um filme."
+  },
+  {
+    "word": "follow",
+    "es": "seguir",
+    "es_alt": "",
+    "pt": "seguir",
+    "pt_alt": "",
+    "es_example": "Sigue las instrucciones cuidadosamente.",
+    "pt_example": "Siga as instruções cuidadosamente."
+  },
+  {
+    "word": "stop",
+    "es": "parar",
+    "es_alt": "detenerse",
+    "pt": "parar",
+    "pt_alt": "deter-se",
+    "es_example": "El autobús para aquí.",
+    "pt_example": "O ônibus para aqui."
+  },
+  {
+    "word": "create",
+    "es": "crear",
+    "es_alt": "",
+    "pt": "criar",
+    "pt_alt": "",
+    "es_example": "Vamos a crear algo especial.",
+    "pt_example": "Vamos criar algo especial."
+  },
+  {
+    "word": "speak",
+    "es": "hablar",
+    "es_alt": "",
+    "pt": "falar",
+    "pt_alt": "",
+    "es_example": "Ella habla tres idiomas.",
+    "pt_example": "Ela fala três idiomas."
+  },
+  {
+    "word": "read",
+    "es": "leer",
+    "es_alt": "",
+    "pt": "ler",
+    "pt_alt": "",
+    "es_example": "Me encanta leer libros.",
+    "pt_example": "Adoro ler livros."
+  },
+  {
+    "word": "spend",
+    "es": "gastar",
+    "es_alt": "pasar (tiempo)",
+    "pt": "gastar",
+    "pt_alt": "passar (tempo)",
+    "es_example": "No deberías gastar tanto dinero.",
+    "pt_example": "Você não deveria gastar tanto dinheiro."
+  },
+  {
+    "word": "grow",
+    "es": "crecer",
+    "es_alt": "",
+    "pt": "crescer",
+    "pt_alt": "",
+    "es_example": "Las plantas crecen rápido aquí.",
+    "pt_example": "As plantas crescem rápido aqui."
+  },
+  {
+    "word": "open",
+    "es": "abrir",
+    "es_alt": "",
+    "pt": "abrir",
+    "pt_alt": "",
+    "es_example": "Puedes abrir la ventana.",
+    "pt_example": "Você pode abrir a janela."
+  },
+  {
+    "word": "walk",
+    "es": "caminar",
+    "es_alt": "",
+    "pt": "caminhar",
+    "pt_alt": "andar",
+    "es_example": "Me gusta caminar por el parque.",
+    "pt_example": "Gosto de caminhar pelo parque."
+  },
+  {
+    "word": "win",
+    "es": "ganar",
+    "es_alt": "",
+    "pt": "ganhar",
+    "pt_alt": "",
+    "es_example": "Ellos quieren ganar el campeonato.",
+    "pt_example": "Eles querem ganhar o campeonato."
+  },
+  {
+    "word": "offer",
+    "es": "ofrecer",
+    "es_alt": "",
+    "pt": "oferecer",
+    "pt_alt": "",
+    "es_example": "Te ofrezco mi ayuda.",
+    "pt_example": "Ofereço minha ajuda."
+  },
+  {
+    "word": "remember",
+    "es": "recordar",
+    "es_alt": "",
+    "pt": "lembrar",
+    "pt_alt": "",
+    "es_example": "No puedo recordar su nombre.",
+    "pt_example": "Não consigo lembrar o nome dele."
+  },
+  {
+    "word": "love",
+    "es": "amar",
+    "es_alt": "encantar",
+    "pt": "amar",
+    "pt_alt": "encantar",
+    "es_example": "Te amo con todo mi corazón.",
+    "pt_example": "Te amo com todo meu coração."
+  },
+  {
+    "word": "consider",
+    "es": "considerar",
+    "es_alt": "",
+    "pt": "considerar",
+    "pt_alt": "",
+    "es_example": "Debes considerar todas las opciones.",
+    "pt_example": "Você deve considerar todas as opções."
+  }
+]

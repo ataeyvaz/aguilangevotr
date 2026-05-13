@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Stop!",
+    "es": "¡Parad!",
+    "level": "A2"
+  },
+  {
+    "en": "I hid.",
+    "es": "Me oculté.",
+    "level": "A2"
+  },
+  {
+    "en": "I ran.",
+    "es": "Corrí.",
+    "level": "A2"
+  },
+  {
+    "en": "I try.",
+    "es": "Lo intento.",
+    "level": "A2"
+  },
+  {
+    "en": "I won!",
+    "es": "¡He ganado!",
+    "level": "A2"
+  },
+  {
+    "en": "Oh no!",
+    "es": "¡Oh, no!",
+    "level": "A2"
+  },
+  {
+    "en": "Buy it.",
+    "es": "Cómprela.",
+    "level": "A2"
+  },
+  {
+    "en": "Got it!",
+    "es": "¡Lo tengo!",
+    "level": "A2"
+  },
+  {
+    "en": "Got it?",
+    "es": "¿Lo pillas?",
+    "level": "A2"
+  },
+  {
+    "en": "He ran.",
+    "es": "Él corrió.",
+    "level": "A2"
+  },
+  {
+    "en": "Hop in.",
+    "es": "Métete adentro.",
+    "level": "A2"
+  },
+  {
+    "en": "Hug me.",
+    "es": "Abrázame.",
+    "level": "A2"
+  },
+  {
+    "en": "I care.",
+    "es": "Me preocupo.",
+    "level": "A2"
+  },
+  {
+    "en": "I fell.",
+    "es": "Me caí.",
+    "level": "A2"
+  },
+  {
+    "en": "I fled.",
+    "es": "Huí.",
+    "level": "A2"
+  },
+  {
+    "en": "I left.",
+    "es": "Salí.",
+    "level": "A2"
+  },
+  {
+    "en": "I lied.",
+    "es": "Mentí.",
+    "level": "A2"
+  },
+  {
+    "en": "I lost.",
+    "es": "Perdí.",
+    "level": "A2"
+  },
+  {
+    "en": "I paid.",
+    "es": "Pagué.",
+    "level": "A2"
+  },
+  {
+    "en": "I quit.",
+    "es": "Dimito.",
+    "level": "A2"
+  },
+  {
+    "en": "I sang.",
+    "es": "Canté.",
+    "level": "A2"
+  },
+  {
+    "en": "I wept.",
+    "es": "Lloré.",
+    "level": "A2"
+  },
+  {
+    "en": "I work.",
+    "es": "Estoy trabajando.",
+    "level": "A2"
+  },
+  {
+    "en": "Try it.",
+    "es": "Pruébalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Try me.",
+    "es": "A que sí, ya verás.",
+    "level": "A2"
+  },
+  {
+    "en": "We ate.",
+    "es": "Comimos.",
+    "level": "A2"
+  },
+  {
+    "en": "We try.",
+    "es": "Lo procuramos.",
+    "level": "A2"
+  },
+  {
+    "en": "We won.",
+    "es": "Ganamos.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask Tom.",
+    "es": "Pregúntale a Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask him.",
+    "es": "Pregúntale.",
+    "level": "A2"
+  },
+  {
+    "en": "Be calm.",
+    "es": "Mantente en calma.",
+    "level": "A2"
+  },
+  {
+    "en": "Be cool.",
+    "es": "Estate tranquilo.",
+    "level": "A2"
+  },
+  {
+    "en": "Be fair.",
+    "es": "Sé justo.",
+    "level": "A2"
+  },
+  {
+    "en": "Be kind.",
+    "es": "Sean gentiles.",
+    "level": "A2"
+  },
+  {
+    "en": "Beat it!",
+    "es": "¡Pírate!",
+    "level": "A2"
+  },
+  {
+    "en": "Beat it.",
+    "es": "Pírate.",
+    "level": "A2"
+  },
+  {
+    "en": "Bury it.",
+    "es": "Entiérralo.",
+    "level": "A2"
+  },
+  {
+    "en": "Call me.",
+    "es": "Llamame.",
+    "level": "A2"
+  },
+  {
+    "en": "Call us.",
+    "es": "Llámanos.",
+    "level": "A2"
+  },
+  {
+    "en": "Drop it!",
+    "es": "Suéltalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Fold it.",
+    "es": "Dóblalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Go away!",
+    "es": "¡Vete de aquí!",
+    "level": "A2"
+  },
+  {
+    "en": "Go away.",
+    "es": "¡Vete de aquí!",
+    "level": "A2"
+  },
+  {
+    "en": "Go back.",
+    "es": "Ve atrás.",
+    "level": "A2"
+  },
+  {
+    "en": "Go slow.",
+    "es": "Vaya despacio.",
+    "level": "A2"
+  },
+  {
+    "en": "Hang on!",
+    "es": "¡Espera!",
+    "level": "A2"
+  },
+  {
+    "en": "Hang on.",
+    "es": "Espera.",
+    "level": "A2"
+  },
+  {
+    "en": "He came.",
+    "es": "Él vino.",
+    "level": "A2"
+  },
+  {
+    "en": "He left.",
+    "es": "Se fue.",
+    "level": "A2"
+  },
+  {
+    "en": "Hi, Tom.",
+    "es": "¡Hola, Tom!",
+    "level": "A2"
+  },
+  {
+    "en": "Hold it!",
+    "es": "Espera.",
+    "level": "A2"
+  },
+  {
+    "en": "Hold it.",
+    "es": "Sujétalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Hold on.",
+    "es": "Espera.",
+    "level": "A2"
+  },
+  {
+    "en": "I agree.",
+    "es": "Estoy de acuerdo.",
+    "level": "A2"
+  },
+  {
+    "en": "I bowed.",
+    "es": "Me incliné.",
+    "level": "A2"
+  },
+  {
+    "en": "I cried.",
+    "es": "Lloré.",
+    "level": "A2"
+  },
+  {
+    "en": "I fired.",
+    "es": "Disparé.",
+    "level": "A2"
+  },
+  {
+    "en": "I froze.",
+    "es": "Me congelé.",
+    "level": "A2"
+  },
+  {
+    "en": "I moved.",
+    "es": "Me he mudado.",
+    "level": "A2"
+  },
+  {
+    "en": "I slept.",
+    "es": "Dormí.",
+    "level": "A2"
+  },
+  {
+    "en": "I tried.",
+    "es": "Lo intenté.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll go.",
+    "es": "Iré.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm old.",
+    "es": "Soy viejo.",
+    "level": "A2"
+  },
+  {
+    "en": "Join us.",
+    "es": "Únete a nosotros.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep it.",
+    "es": "Guárdalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Lock it.",
+    "es": "Echa el cerrojo.",
+    "level": "A2"
+  },
+  {
+    "en": "Open up.",
+    "es": "Abre.",
+    "level": "A2"
+  },
+  {
+    "en": "Push it.",
+    "es": "Empújala.",
+    "level": "A2"
+  },
+  {
+    "en": "Show me.",
+    "es": "Muéstramelo.",
+    "level": "A2"
+  },
+  {
+    "en": "Skip it.",
+    "es": "Sáltatelo.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop it.",
+    "es": "Páralo.",
+    "level": "A2"
+  },
+  {
+    "en": "Tell me.",
+    "es": "Dímelo.",
+    "level": "A2"
+  },
+  {
+    "en": "We care.",
+    "es": "Nos preocupamos.",
+    "level": "A2"
+  },
+  {
+    "en": "We lost.",
+    "es": "Perdimos.",
+    "level": "A2"
+  },
+  {
+    "en": "Who ate?",
+    "es": "¿Quién comió?",
+    "level": "A2"
+  },
+  {
+    "en": "Who ran?",
+    "es": "¿Quién corría?",
+    "level": "A2"
+  },
+  {
+    "en": "Who won?",
+    "es": "¿Quién ganó?",
+    "level": "A2"
+  },
+  {
+    "en": "You won.",
+    "es": "Has ganado.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask them.",
+    "es": "Preguntales.",
+    "level": "A2"
+  },
+  {
+    "en": "Be brave.",
+    "es": "Sé fuerte.",
+    "level": "A2"
+  },
+  {
+    "en": "Be brief.",
+    "es": "Sé breve.",
+    "level": "A2"
+  },
+  {
+    "en": "Be quiet.",
+    "es": "Estate quieto.",
+    "level": "A2"
+  },
+  {
+    "en": "Be still.",
+    "es": "No te muevas.",
+    "level": "A2"
+  },
+  {
+    "en": "Call Tom.",
+    "es": "¡Llamalo a Tomás!",
+    "level": "A2"
+  },
+  {
+    "en": "Cuff him.",
+    "es": "Espósale.",
+    "level": "A2"
+  },
+  {
+    "en": "Dig here.",
+    "es": "Excava aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't go.",
+    "es": "No te vayas.",
+    "level": "A2"
+  },
+  {
+    "en": "Drive on.",
+    "es": "Continúa.",
+    "level": "A2"
+  },
+  {
+    "en": "Fix this.",
+    "es": "Arregla esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Go ahead!",
+    "es": "Adelante.",
+    "level": "A2"
+  },
+  {
+    "en": "Go ahead.",
+    "es": "Adelante.",
+    "level": "A2"
+  },
+  {
+    "en": "Good job!",
+    "es": "¡Buen trabajo!",
+    "level": "A2"
+  },
+  {
+    "en": "Grab him.",
+    "es": "Agárralo.",
+    "level": "A2"
+  },
+  {
+    "en": "Have fun.",
+    "es": "Diviértanse.",
+    "level": "A2"
+  },
+  {
+    "en": "He spoke.",
+    "es": "Él habló.",
+    "level": "A2"
+  },
+  {
+    "en": "He tries.",
+    "es": "Él lo intenta.",
+    "level": "A2"
+  },
+  {
+    "en": "Help Tom.",
+    "es": "Ayuda a Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Hi, guys.",
+    "es": "Hola, ¿qué hay?",
+    "level": "A2"
+  },
+  {
+    "en": "How cute!",
+    "es": "¡Qué encanto!",
+    "level": "A2"
+  },
+  {
+    "en": "How deep?",
+    "es": "¿Qué tan profundo?",
+    "level": "A2"
+  },
+  {
+    "en": "Humor me.",
+    "es": "Hazme el favor.",
+    "level": "A2"
+  },
+  {
+    "en": "I agreed.",
+    "es": "Convine.",
+    "level": "A2"
+  },
+  {
+    "en": "I cursed.",
+    "es": "Maldije.",
+    "level": "A2"
+  },
+  {
+    "en": "I failed.",
+    "es": "Fracasé.",
+    "level": "A2"
+  },
+  {
+    "en": "I forgot.",
+    "es": "Lo olvidé.",
+    "level": "A2"
+  },
+  {
+    "en": "I helped.",
+    "es": "Ayudé.",
+    "level": "A2"
+  },
+  {
+    "en": "I jumped.",
+    "es": "Salté.",
+    "level": "A2"
+  },
+  {
+    "en": "I looked.",
+    "es": "Miré.",
+    "level": "A2"
+  },
+  {
+    "en": "I phoned.",
+    "es": "Llamé por teléfono.",
+    "level": "A2"
+  },
+  {
+    "en": "I prayed.",
+    "es": "Recé.",
+    "level": "A2"
+  },
+  {
+    "en": "I refuse.",
+    "es": "Me niego.",
+    "level": "A2"
+  },
+  {
+    "en": "I resign.",
+    "es": "Dimito.",
+    "level": "A2"
+  },
+  {
+    "en": "I shaved.",
+    "es": "Me rasuré.",
+    "level": "A2"
+  },
+  {
+    "en": "I sighed.",
+    "es": "Suspiré.",
+    "level": "A2"
+  },
+  {
+    "en": "I smiled.",
+    "es": "Sonreí.",
+    "level": "A2"
+  },
+  {
+    "en": "I stayed.",
+    "es": "Me quedé.",
+    "level": "A2"
+  },
+  {
+    "en": "I talked.",
+    "es": "Hablé.",
+    "level": "A2"
+  },
+  {
+    "en": "I waited.",
+    "es": "Esperé.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll pay.",
+    "es": "Yo pagaré.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm easy.",
+    "es": "Soy bastante facilón.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm here.",
+    "es": "Estoy aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm home.",
+    "es": "Estoy en casa.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm late.",
+    "es": "Llego tarde.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm thin.",
+    "es": "Soy flaca.",
+    "level": "A2"
+  },
+  {
+    "en": "It broke.",
+    "es": "Se ha roto.",
+    "level": "A2"
+  },
+  {
+    "en": "It helps.",
+    "es": "Eso ayuda.",
+    "level": "A2"
+  },
+  {
+    "en": "It hurts.",
+    "es": "Duele.",
+    "level": "A2"
+  },
+  {
+    "en": "It works.",
+    "es": "Funciona.",
+    "level": "A2"
+  },
+  {
+    "en": "It's Tom.",
+    "es": "Es Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "It's fun.",
+    "es": "Es divertido.",
+    "level": "A2"
+  },
+  {
+    "en": "It's odd.",
+    "es": "Es extraño.",
+    "level": "A2"
+  },
+  {
+    "en": "It's tea.",
+    "es": "Es té.",
+    "level": "A2"
+  },
+  {
+    "en": "Leave it.",
+    "es": "¡Déjalo!",
+    "level": "A2"
+  },
+  {
+    "en": "Leave me.",
+    "es": "Déjame.",
+    "level": "A2"
+  },
+  {
+    "en": "Leave us.",
+    "es": "Déjanos.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's go!",
+    "es": "Vámonos.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's go.",
+    "es": "¡Órale!",
+    "level": "A2"
+  },
+  {
+    "en": "Look out!",
+    "es": "Cuidado.",
+    "level": "A2"
+  },
+  {
+    "en": "Marry me.",
+    "es": "Cásate conmigo.",
+    "level": "A2"
+  },
+  {
+    "en": "She came.",
+    "es": "Ella vino.",
+    "level": "A2"
+  },
+  {
+    "en": "She died.",
+    "es": "Ella murió.",
+    "level": "A2"
+  },
+  {
+    "en": "She left.",
+    "es": "Ella se marchó.",
+    "level": "A2"
+  },
+  {
+    "en": "She runs.",
+    "es": "Ella corre.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit down!",
+    "es": "¡Sentate!",
+    "level": "A2"
+  },
+  {
+    "en": "Sit down.",
+    "es": "Siéntate.",
+    "level": "A2"
+  },
+  {
+    "en": "Stand by.",
+    "es": "Prepárate.",
+    "level": "A2"
+  },
+  {
+    "en": "Stand up!",
+    "es": "¡Parate!",
+    "level": "A2"
+  },
+  {
+    "en": "Stop Tom.",
+    "es": "Detén a Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Take Tom.",
+    "es": "Llévate a Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "Taste it.",
+    "es": "Pruébalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Tell Tom.",
+    "es": "Díselo a Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "They won.",
+    "es": "Ellos ganaron.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom left.",
+    "es": "Tom se fue.",
+    "level": "A2"
+  },
+  {
+    "en": "Too late.",
+    "es": "Demasiado tarde.",
+    "level": "A2"
+  },
+  {
+    "en": "Trust me!",
+    "es": "¡Confía en mí!",
+    "level": "A2"
+  },
+  {
+    "en": "Trust me.",
+    "es": "Confía en mí.",
+    "level": "A2"
+  },
+  {
+    "en": "Try hard.",
+    "es": "Inténtalo de veras.",
+    "level": "A2"
+  },
+  {
+    "en": "Try some.",
+    "es": "Prueba un poco.",
+    "level": "A2"
+  },
+  {
+    "en": "Try this.",
+    "es": "Prueben esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Use this.",
+    "es": "Usa esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Watch me.",
+    "es": "Mírame.",
+    "level": "A2"
+  },
+  {
+    "en": "Watch us.",
+    "es": "Obsérvanos.",
+    "level": "A2"
+  },
+  {
+    "en": "We agree.",
+    "es": "Estamos de acuerdo.",
+    "level": "A2"
+  },
+  {
+    "en": "We tried.",
+    "es": "Lo intentamos.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll go.",
+    "es": "Iremos.",
+    "level": "A2"
+  },
+  {
+    "en": "What fun!",
+    "es": "¡Qué divertido!",
+    "level": "A2"
+  },
+  {
+    "en": "Who came?",
+    "es": "¿Quién vino?",
+    "level": "A2"
+  },
+  {
+    "en": "Who died?",
+    "es": "¿Quién murió?",
+    "level": "A2"
+  },
+  {
+    "en": "Who fell?",
+    "es": "¿Quién se calló?",
+    "level": "A2"
+  },
+  {
+    "en": "Who lost?",
+    "es": "¿Quién perdió?",
+    "level": "A2"
+  },
+  {
+    "en": "Who paid?",
+    "es": "¿Quién pagó?",
+    "level": "A2"
+  },
+  {
+    "en": "Who quit?",
+    "es": "¿Quién se ha ido?",
+    "level": "A2"
+  },
+  {
+    "en": "Who swam?",
+    "es": "¿Quién nadó?",
+    "level": "A2"
+  },
+  {
+    "en": "Who's he?",
+    "es": "¿Quién es él?",
+    "level": "A2"
+  },
+  {
+    "en": "You lost.",
+    "es": "Perdiste.",
+    "level": "A2"
+  },
+  {
+    "en": "After you.",
+    "es": "Después de ti.",
+    "level": "A2"
+  },
+  {
+    "en": "Answer me.",
+    "es": "Respóndeme.",
+    "level": "A2"
+  },
+  {
+    "en": "Be honest.",
+    "es": "Sé sincero.",
+    "level": "A2"
+  },
+  {
+    "en": "Be strong.",
+    "es": "Sé fuerte.",
+    "level": "A2"
+  },
+  {
+    "en": "Bless you.",
+    "es": "Jesús.",
+    "level": "A2"
+  },
+  {
+    "en": "Call home!",
+    "es": "¡Llama a casa!",
+    "level": "A2"
+  },
+  {
+    "en": "Catch him.",
+    "es": "Captúralo.",
+    "level": "A2"
+  },
+  {
+    "en": "Come back.",
+    "es": "Vuelve.",
+    "level": "A2"
+  },
+  {
+    "en": "Come over.",
+    "es": "Venid aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "Come soon.",
+    "es": "Vuelve pronto.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't ask.",
+    "es": "No preguntes.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't run.",
+    "es": "No corras.",
+    "level": "A2"
+  },
+  {
+    "en": "Excuse me.",
+    "es": "Perdone.",
+    "level": "A2"
+  },
+  {
+    "en": "Excuse me?",
+    "es": "¿Perdón?",
+    "level": "A2"
+  },
+  {
+    "en": "Feel this.",
+    "es": "Tienta esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Follow me.",
+    "es": "Sígueme.",
+    "level": "A2"
+  },
+  {
+    "en": "Follow us.",
+    "es": "Síguenos.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget it!",
+    "es": "¡Olvídalo!",
+    "level": "A2"
+  },
+  {
+    "en": "Forget it.",
+    "es": "Déjalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget me.",
+    "es": "Olvídame.",
+    "level": "A2"
+  },
+  {
+    "en": "Go inside.",
+    "es": "Entra.",
+    "level": "A2"
+  },
+  {
+    "en": "Grab that.",
+    "es": "Cógelo.",
+    "level": "A2"
+  },
+  {
+    "en": "Grab this.",
+    "es": "Agarra esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Have some.",
+    "es": "Coge alguno.",
+    "level": "A2"
+  },
+  {
+    "en": "He shaved.",
+    "es": "Él se afeitó.",
+    "level": "A2"
+  },
+  {
+    "en": "He smiled.",
+    "es": "Sonrió.",
+    "level": "A2"
+  },
+  {
+    "en": "He's fast.",
+    "es": "Él es veloz.",
+    "level": "A2"
+  },
+  {
+    "en": "He's good.",
+    "es": "Él es bueno.",
+    "level": "A2"
+  },
+  {
+    "en": "Hold this.",
+    "es": "Sostén esto.",
+    "level": "A2"
+  },
+  {
+    "en": "How awful!",
+    "es": "¡Qué horror!",
+    "level": "A2"
+  },
+  {
+    "en": "How weird!",
+    "es": "¡Qué raro!",
+    "level": "A2"
+  },
+  {
+    "en": "I belched.",
+    "es": "Eructé.",
+    "level": "A2"
+  },
+  {
+    "en": "I changed.",
+    "es": "Cambié.",
+    "level": "A2"
+  },
+  {
+    "en": "I coughed.",
+    "es": "Tosí.",
+    "level": "A2"
+  },
+  {
+    "en": "I cringed.",
+    "es": "Sentí vergüenza.",
+    "level": "A2"
+  },
+  {
+    "en": "I exhaled.",
+    "es": "Exhalé.",
+    "level": "A2"
+  },
+  {
+    "en": "I fainted.",
+    "es": "Perdí la consciencia.",
+    "level": "A2"
+  },
+  {
+    "en": "I grinned.",
+    "es": "Sonreí.",
+    "level": "A2"
+  },
+  {
+    "en": "I hurried.",
+    "es": "Me apuré.",
+    "level": "A2"
+  },
+  {
+    "en": "I kneeled.",
+    "es": "Me arrodillé.",
+    "level": "A2"
+  },
+  {
+    "en": "I laughed.",
+    "es": "Me reí.",
+    "level": "A2"
+  },
+  {
+    "en": "I shouted.",
+    "es": "Grité.",
+    "level": "A2"
+  },
+  {
+    "en": "I sneezed.",
+    "es": "Estornudé.",
+    "level": "A2"
+  },
+  {
+    "en": "I stopped.",
+    "es": "Me detuve.",
+    "level": "A2"
+  },
+  {
+    "en": "I tripped.",
+    "es": "Me tropecé.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll cook.",
+    "es": "Yo cocinaré.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll stop.",
+    "es": "Pararé.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll walk.",
+    "es": "Caminaré.",
+    "level": "A2"
+  },
+  {
+    "en": "I'll work.",
+    "es": "Voy a trabajar.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm angry.",
+    "es": "Estoy enojado.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm happy.",
+    "es": "Soy feliz.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm sorry.",
+    "es": "Lo siento.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm tired.",
+    "es": "Yo estoy cansado.",
+    "level": "A2"
+  },
+  {
+    "en": "Ignore it.",
+    "es": "Ólvidalo.",
+    "level": "A2"
+  },
+  {
+    "en": "It burned.",
+    "es": "Se quemó.",
+    "level": "A2"
+  },
+  {
+    "en": "It failed.",
+    "es": "No lo consiguió.",
+    "level": "A2"
+  },
+  {
+    "en": "It floats.",
+    "es": "Flota.",
+    "level": "A2"
+  },
+  {
+    "en": "It poured.",
+    "es": "Diluviaba.",
+    "level": "A2"
+  },
+  {
+    "en": "It rained.",
+    "es": "Llovió.",
+    "level": "A2"
+  },
+  {
+    "en": "It snowed.",
+    "es": "Nevó.",
+    "level": "A2"
+  },
+  {
+    "en": "It stinks.",
+    "es": "Apesta.",
+    "level": "A2"
+  },
+  {
+    "en": "It worked.",
+    "es": "Funcionó.",
+    "level": "A2"
+  },
+  {
+    "en": "It's cool.",
+    "es": "Está frío.",
+    "level": "A2"
+  },
+  {
+    "en": "It's dark.",
+    "es": "Está oscuro.",
+    "level": "A2"
+  },
+  {
+    "en": "It's done!",
+    "es": "¡Está listo!",
+    "level": "A2"
+  },
+  {
+    "en": "It's fair.",
+    "es": "Es justo.",
+    "level": "A2"
+  },
+  {
+    "en": "It's fine.",
+    "es": "Está perfecto.",
+    "level": "A2"
+  },
+  {
+    "en": "It's free.",
+    "es": "Esto es gratis.",
+    "level": "A2"
+  },
+  {
+    "en": "It's hard.",
+    "es": "Es duro.",
+    "level": "A2"
+  },
+  {
+    "en": "It's hers.",
+    "es": "Es de ella.",
+    "level": "A2"
+  },
+  {
+    "en": "It's late.",
+    "es": "Es tarde.",
+    "level": "A2"
+  },
+  {
+    "en": "It's mine.",
+    "es": "Es mío.",
+    "level": "A2"
+  },
+  {
+    "en": "It's okay.",
+    "es": "Vale.",
+    "level": "A2"
+  },
+  {
+    "en": "It's ours.",
+    "es": "Es nuestro.",
+    "level": "A2"
+  },
+  {
+    "en": "It's over.",
+    "es": "Se terminó.",
+    "level": "A2"
+  },
+  {
+    "en": "It's true!",
+    "es": "¡Es verdad!",
+    "level": "A2"
+  },
+  {
+    "en": "It's true.",
+    "es": "Es verdad.",
+    "level": "A2"
+  },
+  {
+    "en": "It's work.",
+    "es": "Es mi trabajo.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep them.",
+    "es": "Guárdalos.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep this.",
+    "es": "Guarda esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Leave now!",
+    "es": "¡Vete ya!",
+    "level": "A2"
+  },
+  {
+    "en": "Leave now.",
+    "es": "Ahora márchate.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's eat.",
+    "es": "Comamos.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's see.",
+    "es": "A ver.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's try!",
+    "es": "¡Intentémoslo!",
+    "level": "A2"
+  },
+  {
+    "en": "Lie still.",
+    "es": "Túmbate en silencio.",
+    "level": "A2"
+  },
+  {
+    "en": "Look away.",
+    "es": "Mirá para otro lado.",
+    "level": "A2"
+  },
+  {
+    "en": "Look back!",
+    "es": "¡Mira hacia atrás!",
+    "level": "A2"
+  },
+  {
+    "en": "Look back.",
+    "es": "Mira atrás.",
+    "level": "A2"
+  },
+  {
+    "en": "Loosen it.",
+    "es": "Aflójalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Nice shot!",
+    "es": "¡Buen tiro!",
+    "level": "A2"
+  },
+  {
+    "en": "Of course!",
+    "es": "¡Por supuesto!",
+    "level": "A2"
+  },
+  {
+    "en": "Open fire!",
+    "es": "¡Disparad!",
+    "level": "A2"
+  },
+  {
+    "en": "Pardon me?",
+    "es": "¿Perdona?",
+    "level": "A2"
+  },
+  {
+    "en": "Rest here.",
+    "es": "Descansa aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "Say hello.",
+    "es": "Decí hola.",
+    "level": "A2"
+  },
+  {
+    "en": "Search me.",
+    "es": "A mí que me registren.",
+    "level": "A2"
+  },
+  {
+    "en": "See above.",
+    "es": "Véase arriba.",
+    "level": "A2"
+  },
+  {
+    "en": "Seize him!",
+    "es": "¡A por él!",
+    "level": "A2"
+  },
+  {
+    "en": "She tried.",
+    "es": "Ella lo intentó.",
+    "level": "A2"
+  },
+  {
+    "en": "She walks.",
+    "es": "Ella anda.",
+    "level": "A2"
+  },
+  {
+    "en": "She's hot.",
+    "es": "Ella es candente.",
+    "level": "A2"
+  },
+  {
+    "en": "Sign here.",
+    "es": "Firme aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "Sign this.",
+    "es": "Firma esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit still.",
+    "es": "Siéntate y no te muevas.",
+    "level": "A2"
+  },
+  {
+    "en": "Sit tight.",
+    "es": "Tú mantente.",
+    "level": "A2"
+  },
+  {
+    "en": "Slow down.",
+    "es": "Quieto.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay here.",
+    "es": "Quedate acá.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay home.",
+    "es": "Quédate en casa.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay thin.",
+    "es": "Mantente delgado.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop here.",
+    "es": "Pará acá.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop that.",
+    "es": "Para eso.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop them.",
+    "es": "Detenlos.",
+    "level": "A2"
+  },
+  {
+    "en": "Take care!",
+    "es": "¡Cuidate!",
+    "level": "A2"
+  },
+  {
+    "en": "Take care.",
+    "es": "Cuídate.",
+    "level": "A2"
+  },
+  {
+    "en": "Take mine.",
+    "es": "Coge el mío.",
+    "level": "A2"
+  },
+  {
+    "en": "Take over.",
+    "es": "Asume el mando.",
+    "level": "A2"
+  },
+  {
+    "en": "That hurt.",
+    "es": "Esa dolió.",
+    "level": "A2"
+  },
+  {
+    "en": "That's it.",
+    "es": "Eso es.",
+    "level": "A2"
+  },
+  {
+    "en": "That's me.",
+    "es": "Soy yo.",
+    "level": "A2"
+  },
+  {
+    "en": "They fell.",
+    "es": "Cayeron.",
+    "level": "A2"
+  },
+  {
+    "en": "They left.",
+    "es": "Se fueron.",
+    "level": "A2"
+  },
+  {
+    "en": "They lost.",
+    "es": "Perdieron.",
+    "level": "A2"
+  },
+  {
+    "en": "They swam.",
+    "es": "Ellos nadaban.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom'll go.",
+    "es": "Tom irá.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's sad.",
+    "es": "Tom está triste.",
+    "level": "A2"
+  },
+  {
+    "en": "Try again.",
+    "es": "Inténtalo de nuevo.",
+    "level": "A2"
+  },
+  {
+    "en": "Unlock it.",
+    "es": "Abre el candado.",
+    "level": "A2"
+  },
+  {
+    "en": "Wait here.",
+    "es": "Espera aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "We agreed.",
+    "es": "Nos pusimos de acuerdo.",
+    "level": "A2"
+  },
+  {
+    "en": "We failed.",
+    "es": "Fallamos.",
+    "level": "A2"
+  },
+  {
+    "en": "We forgot.",
+    "es": "Nos olvidamos.",
+    "level": "A2"
+  },
+  {
+    "en": "We talked.",
+    "es": "Conversamos.",
+    "level": "A2"
+  },
+  {
+    "en": "We waited.",
+    "es": "Nosotros esperamos.",
+    "level": "A2"
+  },
+  {
+    "en": "We yawned.",
+    "es": "Bostezamos.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll see.",
+    "es": "Veremos.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll try.",
+    "es": "Lo intentaremos.",
+    "level": "A2"
+  },
+  {
+    "en": "Who cares?",
+    "es": "¿A quién le importa?",
+    "level": "A2"
+  },
+  {
+    "en": "Who drove?",
+    "es": "¿Quién condujo?",
+    "level": "A2"
+  },
+  {
+    "en": "Who knows?",
+    "es": "Aabe...",
+    "level": "A2"
+  },
+  {
+    "en": "Who stood?",
+    "es": "¿Quién se quedó?",
+    "level": "A2"
+  },
+  {
+    "en": "Who'll go?",
+    "es": "¿Quién irá?",
+    "level": "A2"
+  },
+  {
+    "en": "Work more.",
+    "es": "Trabaja más.",
+    "level": "A2"
+  },
+  {
+    "en": "Write Tom.",
+    "es": "Escribe a Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "You drive.",
+    "es": "Tú maneja.",
+    "level": "A2"
+  },
+  {
+    "en": "You idiot!",
+    "es": "¡Pedazo de idiota!",
+    "level": "A2"
+  },
+  {
+    "en": "You smell.",
+    "es": "Apestas.",
+    "level": "A2"
+  },
+  {
+    "en": "You start.",
+    "es": "Tú empieza.",
+    "level": "A2"
+  },
+  {
+    "en": "You stink.",
+    "es": "Apestas.",
+    "level": "A2"
+  },
+  {
+    "en": "You tried.",
+    "es": "Lo intentaste.",
+    "level": "A2"
+  },
+  {
+    "en": "You're OK.",
+    "es": "Tú estás perfectamente.",
+    "level": "A2"
+  },
+  {
+    "en": "Answer Tom.",
+    "es": "¡Respóndale a Tomás!",
+    "level": "A2"
+  },
+  {
+    "en": "Ask anyone.",
+    "es": "Pregúntale a cualquiera.",
+    "level": "A2"
+  },
+  {
+    "en": "Ask around.",
+    "es": "Pregunta por aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "Be careful!",
+    "es": "¡Ten cuidado!",
+    "level": "A2"
+  },
+  {
+    "en": "Be careful.",
+    "es": "¡Ten cuidado!",
+    "level": "A2"
+  },
+  {
+    "en": "Be content.",
+    "es": "Estate contento.",
+    "level": "A2"
+  },
+  {
+    "en": "Be patient.",
+    "es": "Sea paciente.",
+    "level": "A2"
+  },
+  {
+    "en": "Be prudent.",
+    "es": "Sé prudente.",
+    "level": "A2"
+  },
+  {
+    "en": "Be serious.",
+    "es": "Sé serio.",
+    "level": "A2"
+  },
+  {
+    "en": "Be sincere.",
+    "es": "Sé sincero.",
+    "level": "A2"
+  },
+  {
+    "en": "Breathe in.",
+    "es": "Inspira.",
+    "level": "A2"
+  },
+  {
+    "en": "Bring food.",
+    "es": "Traed comida.",
+    "level": "A2"
+  },
+  {
+    "en": "Bring help.",
+    "es": "Traed ayuda.",
+    "level": "A2"
+  },
+  {
+    "en": "Carry this.",
+    "es": "Lleva esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Check that.",
+    "es": "Comprobad eso.",
+    "level": "A2"
+  },
+  {
+    "en": "Check this.",
+    "es": "Comprueba esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Choose one.",
+    "es": "Escoge uno.",
+    "level": "A2"
+  },
+  {
+    "en": "Come alone.",
+    "es": "Ven solo.",
+    "level": "A2"
+  },
+  {
+    "en": "Come along.",
+    "es": "Vente.",
+    "level": "A2"
+  },
+  {
+    "en": "Come early.",
+    "es": "Vení temprano.",
+    "level": "A2"
+  },
+  {
+    "en": "Come quick!",
+    "es": "¡Ven rápido!",
+    "level": "A2"
+  },
+  {
+    "en": "Correct it.",
+    "es": "Corrígelo.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't come.",
+    "es": "No vengas.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't look.",
+    "es": "No miréis.",
+    "level": "A2"
+  },
+  {
+    "en": "Don't stop.",
+    "es": "No pares.",
+    "level": "A2"
+  },
+  {
+    "en": "Eat slowly.",
+    "es": "Come despacio.",
+    "level": "A2"
+  },
+  {
+    "en": "Face facts!",
+    "es": "¡Enfréntate a los hechos!",
+    "level": "A2"
+  },
+  {
+    "en": "Follow him.",
+    "es": "Síguele.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget Tom.",
+    "es": "Olvidate de Tomás.",
+    "level": "A2"
+  },
+  {
+    "en": "Forget him.",
+    "es": "Olvídenlo.",
+    "level": "A2"
+  },
+  {
+    "en": "Forgive us.",
+    "es": "Perdónanos.",
+    "level": "A2"
+  },
+  {
+    "en": "Get inside.",
+    "es": "Entra.",
+    "level": "A2"
+  },
+  {
+    "en": "Have faith.",
+    "es": "Ten fe.",
+    "level": "A2"
+  },
+  {
+    "en": "He laughed.",
+    "es": "Él se reía.",
+    "level": "A2"
+  },
+  {
+    "en": "He's happy.",
+    "es": "El está contento.",
+    "level": "A2"
+  },
+  {
+    "en": "Head south.",
+    "es": "Ve al sur.",
+    "level": "A2"
+  },
+  {
+    "en": "Hello, Tom.",
+    "es": "¡Hola, Tom!",
+    "level": "A2"
+  },
+  {
+    "en": "Hold still.",
+    "es": "Quieto.",
+    "level": "A2"
+  },
+  {
+    "en": "How boring!",
+    "es": "¡Qué aburrimiento!",
+    "level": "A2"
+  },
+  {
+    "en": "How lovely!",
+    "es": "¡Qué bonito!",
+    "level": "A2"
+  },
+  {
+    "en": "How spooky!",
+    "es": "¡Qué espeluznante!",
+    "level": "A2"
+  },
+  {
+    "en": "How tragic!",
+    "es": "¡Qué trágico!",
+    "level": "A2"
+  },
+  {
+    "en": "How's work?",
+    "es": "¿Qué tal el trabajo?",
+    "level": "A2"
+  },
+  {
+    "en": "Hurry home.",
+    "es": "Rápido, a casa.",
+    "level": "A2"
+  },
+  {
+    "en": "I chuckled.",
+    "es": "Solté una risita.",
+    "level": "A2"
+  },
+  {
+    "en": "I disagree.",
+    "es": "No estoy de acuerdo.",
+    "level": "A2"
+  },
+  {
+    "en": "I lingered.",
+    "es": "Me quedé.",
+    "level": "A2"
+  },
+  {
+    "en": "I objected.",
+    "es": "Objeté.",
+    "level": "A2"
+  },
+  {
+    "en": "I promised.",
+    "es": "Prometí.",
+    "level": "A2"
+  },
+  {
+    "en": "I remember.",
+    "es": "Me acuerdo.",
+    "level": "A2"
+  },
+  {
+    "en": "I resigned.",
+    "es": "Renuncié.",
+    "level": "A2"
+  },
+  {
+    "en": "I screamed.",
+    "es": "Grité.",
+    "level": "A2"
+  },
+  {
+    "en": "I squinted.",
+    "es": "Entorné los ojos.",
+    "level": "A2"
+  },
+  {
+    "en": "I survived.",
+    "es": "Sobreviví.",
+    "level": "A2"
+  },
+  {
+    "en": "I try hard.",
+    "es": "Lo he intentado con todas mis fuerzas.",
+    "level": "A2"
+  },
+  {
+    "en": "I whistled.",
+    "es": "Silbé.",
+    "level": "A2"
+  },
+  {
+    "en": "I work out.",
+    "es": "Yo hago ejercicio.",
+    "level": "A2"
+  },
+  {
+    "en": "I'd buy it.",
+    "es": "Yo lo compraría.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm a cook.",
+    "es": "Soy cocinero.",
+    "level": "A2"
+  },
+  {
+    "en": "I'm better.",
+    "es": "Yo soy mejor.",
+    "level": "A2"
+  },
+  {
+    "en": "Ignore him.",
+    "es": "No le hagas caso.",
+    "level": "A2"
+  },
+  {
+    "en": "It happens.",
+    "es": "Eso pasa.",
+    "level": "A2"
+  },
+  {
+    "en": "It matters.",
+    "es": "Importa.",
+    "level": "A2"
+  },
+  {
+    "en": "It's Tom's.",
+    "es": "Es de Tom.",
+    "level": "A2"
+  },
+  {
+    "en": "It's alive.",
+    "es": "Está vivo.",
+    "level": "A2"
+  },
+  {
+    "en": "It's begun.",
+    "es": "Ha empezado.",
+    "level": "A2"
+  },
+  {
+    "en": "It's close.",
+    "es": "Está cerca.",
+    "level": "A2"
+  },
+  {
+    "en": "It's empty.",
+    "es": "Está vacío.",
+    "level": "A2"
+  },
+  {
+    "en": "It's great.",
+    "es": "Es estupendo.",
+    "level": "A2"
+  },
+  {
+    "en": "It's ivory.",
+    "es": "Es marfil.",
+    "level": "A2"
+  },
+  {
+    "en": "It's magic.",
+    "es": "Es magia.",
+    "level": "A2"
+  },
+  {
+    "en": "It's quiet.",
+    "es": "Es silencioso.",
+    "level": "A2"
+  },
+  {
+    "en": "It's ready.",
+    "es": "Está listo.",
+    "level": "A2"
+  },
+  {
+    "en": "It's right.",
+    "es": "Vale.",
+    "level": "A2"
+  },
+  {
+    "en": "It's sweet.",
+    "es": "Es dulce.",
+    "level": "A2"
+  },
+  {
+    "en": "It's windy.",
+    "es": "Hace viento.",
+    "level": "A2"
+  },
+  {
+    "en": "It's yours.",
+    "es": "Es suyo.",
+    "level": "A2"
+  },
+  {
+    "en": "Keep still.",
+    "es": "Mantente quieto.",
+    "level": "A2"
+  },
+  {
+    "en": "Let me pay.",
+    "es": "Deja que pague yo.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's play.",
+    "es": "Juguemos.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's walk.",
+    "es": "Caminemos.",
+    "level": "A2"
+  },
+  {
+    "en": "Let's work.",
+    "es": "Trabajemos.",
+    "level": "A2"
+  },
+  {
+    "en": "Look ahead.",
+    "es": "Mirá hacia adelante.",
+    "level": "A2"
+  },
+  {
+    "en": "Love lasts.",
+    "es": "El amor dura.",
+    "level": "A2"
+  },
+  {
+    "en": "Night fell.",
+    "es": "Caía la noche.",
+    "level": "A2"
+  },
+  {
+    "en": "No comment.",
+    "es": "Sin comentarios.",
+    "level": "A2"
+  },
+  {
+    "en": "No kidding?",
+    "es": "¿En serio?",
+    "level": "A2"
+  },
+  {
+    "en": "No problem!",
+    "es": "¡No hay problema!",
+    "level": "A2"
+  },
+  {
+    "en": "No problem.",
+    "es": "Ningún problema.",
+    "level": "A2"
+  },
+  {
+    "en": "Once again.",
+    "es": "De nuevo",
+    "level": "A2"
+  },
+  {
+    "en": "People lie.",
+    "es": "La gente miente.",
+    "level": "A2"
+  },
+  {
+    "en": "Replace it.",
+    "es": "Reemplazadlo.",
+    "level": "A2"
+  },
+  {
+    "en": "Run faster.",
+    "es": "Corre más rápido.",
+    "level": "A2"
+  },
+  {
+    "en": "Say please.",
+    "es": "Di \"por favor\".",
+    "level": "A2"
+  },
+  {
+    "en": "She smiled.",
+    "es": "Sonrió.",
+    "level": "A2"
+  },
+  {
+    "en": "Smell this.",
+    "es": "Huele esto.",
+    "level": "A2"
+  },
+  {
+    "en": "Stand back!",
+    "es": "¡Retrocede!",
+    "level": "A2"
+  },
+  {
+    "en": "Start here.",
+    "es": "Empieza aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "Start over.",
+    "es": "Empieza de nuevo.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay close.",
+    "es": "Mantente cerca.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay still.",
+    "es": "No te muevas.",
+    "level": "A2"
+  },
+  {
+    "en": "Stay there.",
+    "es": "Quédate ahí.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop lying.",
+    "es": "Dejá de mentir.",
+    "level": "A2"
+  },
+  {
+    "en": "Stop there.",
+    "es": "Detente ahí.",
+    "level": "A2"
+  },
+  {
+    "en": "Study more.",
+    "es": "Estudiá más.",
+    "level": "A2"
+  },
+  {
+    "en": "Take cover!",
+    "es": "¡Protégete!",
+    "level": "A2"
+  },
+  {
+    "en": "Take notes.",
+    "es": "Toma notas.",
+    "level": "A2"
+  },
+  {
+    "en": "Take these.",
+    "es": "Llévate estos de aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "Taste this.",
+    "es": "Prueben esto.",
+    "level": "A2"
+  },
+  {
+    "en": "That hurts.",
+    "es": "Eso duele.",
+    "level": "A2"
+  },
+  {
+    "en": "That works.",
+    "es": "Eso funciona.",
+    "level": "A2"
+  },
+  {
+    "en": "That'll do.",
+    "es": "Eso valdrá.",
+    "level": "A2"
+  },
+  {
+    "en": "That's bad.",
+    "es": "Eso es malo.",
+    "level": "A2"
+  },
+  {
+    "en": "That's her.",
+    "es": "Ésa es ella.",
+    "level": "A2"
+  },
+  {
+    "en": "That's him.",
+    "es": "Ése es él.",
+    "level": "A2"
+  },
+  {
+    "en": "That's his.",
+    "es": "Eso le pertenece.",
+    "level": "A2"
+  },
+  {
+    "en": "That's new.",
+    "es": "Es nuevo.",
+    "level": "A2"
+  },
+  {
+    "en": "They agree.",
+    "es": "Están de acuerdo.",
+    "level": "A2"
+  },
+  {
+    "en": "They cheat.",
+    "es": "Engañaron.",
+    "level": "A2"
+  },
+  {
+    "en": "They slept.",
+    "es": "Durmieron.",
+    "level": "A2"
+  },
+  {
+    "en": "They stood.",
+    "es": "Se mantuvieron.",
+    "level": "A2"
+  },
+  {
+    "en": "They tried.",
+    "es": "Lo intentaron.",
+    "level": "A2"
+  },
+  {
+    "en": "They voted.",
+    "es": "Ellos votaron.",
+    "level": "A2"
+  },
+  {
+    "en": "They're in.",
+    "es": "Ellos están dentro.",
+    "level": "A2"
+  },
+  {
+    "en": "This works.",
+    "es": "Esto funciona.",
+    "level": "A2"
+  },
+  {
+    "en": "This'll do.",
+    "es": "Esto valdrá.",
+    "level": "A2"
+  },
+  {
+    "en": "Time flies.",
+    "es": "El tiempo vuela.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom'll pay.",
+    "es": "Tom pagará.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's fast.",
+    "es": "Tom es rápido.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's here.",
+    "es": "Tom está aquí.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's home.",
+    "es": "Tom está en casa.",
+    "level": "A2"
+  },
+  {
+    "en": "Tom's left.",
+    "es": "Tom se ha marchado.",
+    "level": "A2"
+  },
+  {
+    "en": "Try it out.",
+    "es": "Pruébalo.",
+    "level": "A2"
+  },
+  {
+    "en": "Turn right.",
+    "es": "Gira a la derecha.",
+    "level": "A2"
+  },
+  {
+    "en": "Watch this.",
+    "es": "Mira esto.",
+    "level": "A2"
+  },
+  {
+    "en": "We buy CDs.",
+    "es": "Compramos cedés.",
+    "level": "A2"
+  },
+  {
+    "en": "We cheered.",
+    "es": "Aplaudimos.",
+    "level": "A2"
+  },
+  {
+    "en": "We laughed.",
+    "es": "Nos reímos.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll cook.",
+    "es": "Haremos la comida.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll help.",
+    "es": "Ayudaremos.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll walk.",
+    "es": "Nos vamos a caminar.",
+    "level": "A2"
+  },
+  {
+    "en": "We'll work.",
+    "es": "Trabajaremos.",
+    "level": "A2"
+  },
+  {
+    "en": "We're back.",
+    "es": "Hemos vuelto.",
+    "level": "A2"
+  },
+  {
+    "en": "We're busy.",
+    "es": "Estamos ocupados.",
+    "level": "A2"
+  },
+  {
+    "en": "We're calm.",
+    "es": "Estamos calmados.",
+    "level": "A2"
+  },
+  {
+    "en": "We're done.",
+    "es": "Terminamos.",
+    "level": "A2"
+  },
+  {
+    "en": "We're even.",
+    "es": "Estamos a mano.",
+    "level": "A2"
+  },
+  {
+    "en": "We're fine.",
+    "es": "Estamos bien.",
+    "level": "A2"
+  },
+  {
+    "en": "We're lazy.",
+    "es": "Somos perezosos.",
+    "level": "A2"
+  },
+  {
+    "en": "We're lost.",
+    "es": "Estamos perdidos.",
+    "level": "A2"
+  },
+  {
+    "en": "We're poor.",
+    "es": "Somos pobres.",
+    "level": "A2"
+  },
+  {
+    "en": "We're rich.",
+    "es": "Somos ricos.",
+    "level": "A2"
+  },
+  {
+    "en": "We're sick.",
+    "es": "Estamos hartos.",
+    "level": "A2"
+  },
+  {
+    "en": "We're weak.",
+    "es": "Somos débiles.",
+    "level": "A2"
+  },
+  {
+    "en": "What gives?",
+    "es": "¿Qué pasa?",
+    "level": "A2"
+  },
+  {
+    "en": "What's new?",
+    "es": "¿Qué hay de nuevo?",
+    "level": "A2"
+  },
+  {
+    "en": "Who phoned?",
+    "es": "¿Quién llamó por teléfono?",
+    "level": "A2"
+  },
+  {
+    "en": "Who stayed?",
+    "es": "¿Quién se quedó?",
+    "level": "A2"
+  },
+  {
+    "en": "Who waited?",
+    "es": "¿Quién esperó?",
+    "level": "A2"
+  },
+  {
+    "en": "Who yelled?",
+    "es": "¿Quién gritó?",
+    "level": "A2"
+  },
+  {
+    "en": "Who's here?",
+    "es": "¿Quién está aquí?",
+    "level": "A2"
+  },
+  {
+    "en": "Who's that?",
+    "es": "¿Quién es?",
+    "level": "A2"
+  },
+  {
+    "en": "You called?",
+    "es": "¿Llamaste?",
+    "level": "A2"
+  },
+  {
+    "en": "You decide.",
+    "es": "Tú decides.",
+    "level": "A2"
+  },
+  {
+    "en": "You missed.",
+    "es": "Fallaste.",
+    "level": "A2"
+  },
+  {
+    "en": "You'll see.",
+    "es": "Ya verás.",
+    "level": "A2"
+  },
+  {
+    "en": "You're bad.",
+    "es": "Eres mala.",
+    "level": "A2"
+  },
+  {
+    "en": "You're big.",
+    "es": "Eres grande.",
+    "level": "A2"
+  },
+  {
+    "en": "You're old.",
+    "es": "Estás vieja.",
+    "level": "A2"
+  },
+  {
+    "en": "You're sad.",
+    "es": "Estás triste.",
+    "level": "A2"
+  },
+  {
+    "en": "Anyone home?",
+    "es": "¿Hay alguien en casa?",
+    "level": "A2"
+  },
+  {
+    "en": "Ask anybody.",
+    "es": "Pregúntale a cualquiera.",
+    "level": "A2"
+  },
+  {
+    "en": "Be creative.",
+    "es": "Sed creativos.",
+    "level": "A2"
+  },
+  {
+    "en": "Be discreet.",
+    "es": "Sé discreto.",
+    "level": "A2"
+  }
+]

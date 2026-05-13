@@ -1,0 +1,47 @@
+{
+  "scenario": "hospital",
+  "language": "pt",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "Qual é o seu nome, por favor?",
+      "expected": "Meu nome é João Silva.",
+      "hint": "State your name"
+    },
+    {
+      "bot": "Quantos anos você tem?",
+      "expected": "Tenho vinte e cinco anos.",
+      "hint": "State your age"
+    },
+    {
+      "bot": "Onde você está sentindo dor?",
+      "expected": "Estou sentindo dor de cabeça.",
+      "hint": "Say your head hurts"
+    },
+    {
+      "bot": "Você está com febre?",
+      "expected": "Não, não estou com febre.",
+      "hint": "Say you don't have a fever"
+    },
+    {
+      "bot": "Desde quando você está se sentindo mal?",
+      "expected": "Estou me sentindo mal desde ontem.",
+      "hint": "Say you've felt bad since yesterday"
+    },
+    {
+      "bot": "Você tem alergia a algum remédio?",
+      "expected": "Tenho alergia a penicilina.",
+      "hint": "Say you're allergic to penicillin"
+    },
+    {
+      "bot": "Você tem plano de saúde?",
+      "expected": "Sim, tenho plano de saúde.",
+      "hint": "Confirm you have health insurance"
+    },
+    {
+      "bot": "Você precisa de uma ambulância ou pode vir por conta própria?",
+      "expected": "Posso ir ao hospital por conta própria.",
+      "hint": "Say you can go to the hospital on your own"
+    }
+  ]
+}

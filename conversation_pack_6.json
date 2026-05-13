@@ -1,0 +1,692 @@
+[
+  {
+    "pack": {
+      "word": "shopping",
+      "level": "a1",
+      "difficulty": "easy",
+      "context": "Shopping - buying clothes/items, asking price, sizes",
+      "bot_language": "es"
+    },
+    "exchanges": [
+      {
+        "bot": "¿Quieres comprar ropa nueva?",
+        "options": [
+          "Yes, I want to buy new clothes.",
+          "No, I want to buy a fridge.",
+          "I buy the sun.",
+          "I eat clothes."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Ropa' means clothes.",
+        "feedback_wrong": "The answer is: Yes, I want to buy new clothes."
+      },
+      {
+        "bot": "¿Cuánto cuesta esta camisa?",
+        "options": [
+          "It costs 20 euros.",
+          "It costs the moon.",
+          "I eat 20 euros.",
+          "It sleeps 20 euros."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Cuesta' means costs.",
+        "feedback_wrong": "The answer is: It costs 20 euros."
+      },
+      {
+        "bot": "¿Qué talla usas?",
+        "options": [
+          "I wear size medium.",
+          "I wear size moon.",
+          "I eat size medium.",
+          "I sleep size medium."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Talla' means size.",
+        "feedback_wrong": "The answer is: I wear size medium."
+      },
+      {
+        "bot": "¿Quieres probarte los pantalones?",
+        "options": [
+          "Yes, I want to try them on.",
+          "No, I want to try the fridge.",
+          "I try on the sun.",
+          "I eat the pants."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Probarse' means to try on.",
+        "feedback_wrong": "The answer is: Yes, I want to try them on."
+      },
+      {
+        "bot": "¿Tienes efectivo o tarjeta?",
+        "options": [
+          "I have a credit card.",
+          "I have a moon.",
+          "I eat cash.",
+          "I sleep with card."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Tarjeta' means card.",
+        "feedback_wrong": "The answer is: I have a credit card."
+      },
+      {
+        "bot": "¿Dónde está el probador?",
+        "options": [
+          "The fitting room is over there.",
+          "The fitting room is on the moon.",
+          "I eat the fitting room.",
+          "I sleep in the fitting room."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Probadores' means fitting rooms.",
+        "feedback_wrong": "The answer is: The fitting room is over there."
+      },
+      {
+        "bot": "¿Quieres una bolsa para tus compras?",
+        "options": [
+          "Yes, I need a bag please.",
+          "No, I want a fridge bag.",
+          "I eat the bag.",
+          "I sleep in the bag."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Bolsa' means bag.",
+        "feedback_wrong": "The answer is: Yes, I need a bag please."
+      },
+      {
+        "bot": "¿Vuelves a la tienda mañana?",
+        "options": [
+          "Yes, I will come back tomorrow.",
+          "No, I come back to the moon.",
+          "I eat the store tomorrow.",
+          "I sleep in the store."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Mañana' means tomorrow.",
+        "feedback_wrong": "The answer is: Yes, I will come back tomorrow."
+      }
+    ]
+  },
+  {
+    "pack": {
+      "word": "travel_airport",
+      "level": "a1",
+      "difficulty": "easy",
+      "context": "Travel & Airport - check-in, baggage, boarding, directions",
+      "bot_language": "es"
+    },
+    "exchanges": [
+      {
+        "bot": "¿Dónde está el mostrador de facturación?",
+        "options": [
+          "The check-in counter is over there.",
+          "The check-in counter is on the moon.",
+          "I eat the check-in counter.",
+          "I sleep in the counter."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Mostrador de facturación' means check-in counter.",
+        "feedback_wrong": "The answer is: The check-in counter is over there."
+      },
+      {
+        "bot": "¿Cuántas maletas facturas?",
+        "options": [
+          "I am checking two suitcases.",
+          "I am checking the moon.",
+          "I eat two suitcases.",
+          "I sleep with suitcases."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Facturar' means to check (baggage).",
+        "feedback_wrong": "The answer is: I am checking two suitcases."
+      },
+      {
+        "bot": "¿Tienes el pasaporte y el billete?",
+        "options": [
+          "Yes, I have both here.",
+          "No, I have the moon.",
+          "I eat the passport.",
+          "I sleep with the ticket."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Pasaporte' means passport.",
+        "feedback_wrong": "The answer is: Yes, I have both here."
+      },
+      {
+        "bot": "¿Dónde está la puerta de embarque?",
+        "options": [
+          "The boarding gate is gate 12.",
+          "The boarding gate is on the moon.",
+          "I eat the gate.",
+          "I sleep in the gate."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Puerta de embarque' means boarding gate.",
+        "feedback_wrong": "The answer is: The boarding gate is gate 12."
+      },
+      {
+        "bot": "¿Puedo llevar esta maleta de mano?",
+        "options": [
+          "Yes, it fits in the overhead bin.",
+          "No, it fits in the moon.",
+          "I eat the carry-on.",
+          "I sleep with the suitcase."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Maleta de mano' means carry-on luggage.",
+        "feedback_wrong": "The answer is: Yes, it fits in the overhead bin."
+      },
+      {
+        "bot": "¿A qué hora embarcamos?",
+        "options": [
+          "We board at 3 PM.",
+          "We board at moon time.",
+          "I eat 3 PM.",
+          "I sleep at 3 PM."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Embarcar' means to board.",
+        "feedback_wrong": "The answer is: We board at 3 PM."
+      },
+      {
+        "bot": "¿Dónde está la sala de espera?",
+        "options": [
+          "The waiting lounge is near the gate.",
+          "The waiting lounge is on the moon.",
+          "I eat the lounge.",
+          "I sleep in the lounge."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Sala de espera' means waiting lounge.",
+        "feedback_wrong": "The answer is: The waiting lounge is near the gate."
+      },
+      {
+        "bot": "¿Necesitas ayuda con el equipaje?",
+        "options": [
+          "Yes, I need help please.",
+          "No, I need help with the moon.",
+          "I eat the luggage.",
+          "I sleep with the luggage."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Equipaje' means luggage.",
+        "feedback_wrong": "The answer is: Yes, I need help please."
+      }
+    ]
+  },
+  {
+    "pack": {
+      "word": "tourism_directions",
+      "level": "a1",
+      "difficulty": "easy",
+      "context": "Tourism & Directions - asking for directions, museums, tickets",
+      "bot_language": "es"
+    },
+    "exchanges": [
+      {
+        "bot": "¿Dónde está el museo de arte?",
+        "options": [
+          "The art museum is next to the park.",
+          "The art museum is on the moon.",
+          "I eat the museum.",
+          "I sleep in the museum."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Museo de arte' means art museum.",
+        "feedback_wrong": "The answer is: The art museum is next to the park."
+      },
+      {
+        "bot": "¿Cómo llego a la catedral?",
+        "options": [
+          "Go straight and turn left.",
+          "Go straight to the moon.",
+          "I eat the cathedral.",
+          "I sleep in the cathedral."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Catedral' means cathedral.",
+        "feedback_wrong": "The answer is: Go straight and turn left."
+      },
+      {
+        "bot": "¿Cuánto cuesta la entrada al museo?",
+        "options": [
+          "It costs 10 euros.",
+          "It costs the moon.",
+          "I eat 10 euros.",
+          "It sleeps 10 euros."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Entrada' means ticket.",
+        "feedback_wrong": "The answer is: It costs 10 euros."
+      },
+      {
+        "bot": "¿Hay un mapa turístico?",
+        "options": [
+          "Yes, here is a tourist map.",
+          "No, here is a moon map.",
+          "I eat the map.",
+          "I sleep with the map."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Mapa turístico' means tourist map.",
+        "feedback_wrong": "The answer is: Yes, here is a tourist map."
+      },
+      {
+        "bot": "¿Dónde puedo comprar entradas para el tour?",
+        "options": [
+          "You can buy them at the kiosk.",
+          "You can buy them on the moon.",
+          "I eat the tickets.",
+          "I sleep with the kiosk."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Quiosco' means kiosk.",
+        "feedback_wrong": "The answer is: You can buy them at the kiosk."
+      },
+      {
+        "bot": "¿Está lejos la plaza principal?",
+        "options": [
+          "No, it's a 5-minute walk.",
+          "Yes, it's on the moon.",
+          "I eat the square.",
+          "I sleep in the square."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Plaza principal' means main square.",
+        "feedback_wrong": "The answer is: No, it's a 5-minute walk."
+      },
+      {
+        "bot": "¿Puedes recomendarme un restaurante turístico?",
+        "options": [
+          "Yes, try the restaurant on the corner.",
+          "No, try the moon restaurant.",
+          "I eat the restaurant.",
+          "I sleep in the restaurant."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Recomendar' means to recommend.",
+        "feedback_wrong": "The answer is: Yes, try the restaurant on the corner."
+      },
+      {
+        "bot": "¿A qué hora cierra el museo?",
+        "options": [
+          "It closes at 6 PM.",
+          "It closes at moon time.",
+          "I eat 6 PM.",
+          "I sleep at 6 PM."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Cerrar' means to close.",
+        "feedback_wrong": "The answer is: It closes at 6 PM."
+      }
+    ]
+  },
+  {
+    "pack": {
+      "word": "school_work",
+      "level": "a1",
+      "difficulty": "easy",
+      "context": "School & Work - introductions, job, schedule, colleagues",
+      "bot_language": "es"
+    },
+    "exchanges": [
+      {
+        "bot": "¿Cómo te llamas?",
+        "options": [
+          "My name is John.",
+          "My name is Moon.",
+          "I eat John.",
+          "I sleep with name."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! '¿Cómo te llamas?' means what is your name.",
+        "feedback_wrong": "The answer is: My name is John."
+      },
+      {
+        "bot": "¿A qué te dedicas?",
+        "options": [
+          "I am a teacher.",
+          "I am a moon.",
+          "I eat teacher.",
+          "I sleep with job."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! '¿A qué te dedicas?' means what do you do for work.",
+        "feedback_wrong": "The answer is: I am a teacher."
+      },
+      {
+        "bot": "¿Cuál es tu horario de trabajo?",
+        "options": [
+          "I work from 9 AM to 5 PM.",
+          "I work from moon to moon.",
+          "I eat the schedule.",
+          "I sleep with work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Horario' means schedule.",
+        "feedback_wrong": "The answer is: I work from 9 AM to 5 PM."
+      },
+      {
+        "bot": "¿Tienes colegas en tu oficina?",
+        "options": [
+          "Yes, I have five colleagues.",
+          "No, I have moon colleagues.",
+          "I eat colleagues.",
+          "I sleep with colleagues."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Colegas' means colleagues.",
+        "feedback_wrong": "The answer is: Yes, I have five colleagues."
+      },
+      {
+        "bot": "¿Dónde estudiaste?",
+        "options": [
+          "I studied at the university.",
+          "I studied on the moon.",
+          "I eat university.",
+          "I sleep with study."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Estudiar' means to study.",
+        "feedback_wrong": "The answer is: I studied at the university."
+      },
+      {
+        "bot": "¿Cuántos alumnos hay en tu clase?",
+        "options": [
+          "There are 20 students in my class.",
+          "There are 20 moons in my class.",
+          "I eat students.",
+          "I sleep in the class."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Alumnos' means students.",
+        "feedback_wrong": "The answer is: There are 20 students in my class."
+      },
+      {
+        "bot": "¿Te llevas bien con tus compañeros?",
+        "options": [
+          "Yes, we get along very well.",
+          "No, we get along with the moon.",
+          "I eat coworkers.",
+          "I sleep with coworkers."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Llevarse bien' means to get along.",
+        "feedback_wrong": "The answer is: Yes, we get along very well."
+      },
+      {
+        "bot": "¿Cuándo terminas el trabajo hoy?",
+        "options": [
+          "I finish work at 6 PM.",
+          "I finish work at moon time.",
+          "I eat 6 PM.",
+          "I sleep at 6 PM."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Terminar' means to finish.",
+        "feedback_wrong": "The answer is: I finish work at 6 PM."
+      }
+    ]
+  },
+  {
+    "pack": {
+      "word": "daily_routine",
+      "level": "a1",
+      "difficulty": "easy",
+      "context": "Daily Routine - morning, meals, sleep, weather",
+      "bot_language": "es"
+    },
+    "exchanges": [
+      {
+        "bot": "¿A qué hora te despiertas?",
+        "options": [
+          "I wake up at 7 AM.",
+          "I wake up at moon time.",
+          "I eat wake up.",
+          "I sleep at 7 AM."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Despertarse' means to wake up.",
+        "feedback_wrong": "The answer is: I wake up at 7 AM."
+      },
+      {
+        "bot": "¿Qué desayunas por la mañana?",
+        "options": [
+          "I have cereal and milk.",
+          "I have moon and milk.",
+          "I eat breakfast for dinner.",
+          "I sleep with cereal."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Desayunar' means to have breakfast.",
+        "feedback_wrong": "The answer is: I have cereal and milk."
+      },
+      {
+        "bot": "¿Hace buen tiempo hoy?",
+        "options": [
+          "Yes, it's sunny and warm.",
+          "No, it's moony and warm.",
+          "I eat the weather.",
+          "I sleep with the sun."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Tiempo' means weather.",
+        "feedback_wrong": "The answer is: Yes, it's sunny and warm."
+      },
+      {
+        "bot": "¿A qué hora almuerzas?",
+        "options": [
+          "I have lunch at 1 PM.",
+          "I have lunch at moon time.",
+          "I eat lunch for breakfast.",
+          "I sleep at 1 PM."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Almorzar' means to have lunch.",
+        "feedback_wrong": "The answer is: I have lunch at 1 PM."
+      },
+      {
+        "bot": "¿Qué haces después del trabajo?",
+        "options": [
+          "I go to the gym.",
+          "I go to the moon.",
+          "I eat the gym.",
+          "I sleep with work."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Después del trabajo' means after work.",
+        "feedback_wrong": "The answer is: I go to the gym."
+      },
+      {
+        "bot": "¿A qué hora cenamos?",
+        "options": [
+          "We have dinner at 8 PM.",
+          "We have dinner at moon time.",
+          "I eat dinner for lunch.",
+          "I sleep at 8 PM."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Cenar' means to have dinner.",
+        "feedback_wrong": "The answer is: We have dinner at 8 PM."
+      },
+      {
+        "bot": "¿Cuántas horas duermes por noche?",
+        "options": [
+          "I sleep 8 hours per night.",
+          "I sleep 8 moons per night.",
+          "I eat 8 hours.",
+          "I work while sleeping."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Dormir' means to sleep.",
+        "feedback_wrong": "The answer is: I sleep 8 hours per night."
+      },
+      {
+        "bot": "¿Te duchas por la mañana o por la noche?",
+        "options": [
+          "I shower in the morning.",
+          "I shower on the moon.",
+          "I eat the shower.",
+          "I sleep in the shower."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Duchar' means to shower.",
+        "feedback_wrong": "The answer is: I shower in the morning."
+      }
+    ]
+  },
+  {
+    "pack": {
+      "word": "emergency_health",
+      "level": "a1",
+      "difficulty": "easy",
+      "context": "Emergency & Health - feeling sick, pharmacy, doctor",
+      "bot_language": "es"
+    },
+    "exchanges": [
+      {
+        "bot": "¿Te sientes mal?",
+        "options": [
+          "Yes, I have a headache.",
+          "No, I have a moon ache.",
+          "I eat sick.",
+          "I sleep with headache."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Sentirse mal' means to feel sick.",
+        "feedback_wrong": "The answer is: Yes, I have a headache."
+      },
+      {
+        "bot": "¿Tienes fiebre?",
+        "options": [
+          "Yes, I have a high fever.",
+          "No, I have a moon fever.",
+          "I eat fever.",
+          "I sleep with fever."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Fiebre' means fever.",
+        "feedback_wrong": "The answer is: Yes, I have a high fever."
+      },
+      {
+        "bot": "¿Dónde está la farmacia más cercana?",
+        "options": [
+          "The nearest pharmacy is on Main Street.",
+          "The nearest pharmacy is on the moon.",
+          "I eat the pharmacy.",
+          "I sleep in the pharmacy."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Farmacia' means pharmacy.",
+        "feedback_wrong": "The answer is: The nearest pharmacy is on Main Street."
+      },
+      {
+        "bot": "¿Necesitas ver a un médico?",
+        "options": [
+          "Yes, I need an appointment.",
+          "No, I need to see the moon.",
+          "I eat the doctor.",
+          "I sleep with the doctor."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Médico' means doctor.",
+        "feedback_wrong": "The answer is: Yes, I need an appointment."
+      },
+      {
+        "bot": "¿Qué síntomas tienes?",
+        "options": [
+          "I have a cough and sore throat.",
+          "I have a moon and sore throat.",
+          "I eat symptoms.",
+          "I sleep with cough."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Síntomas' means symptoms.",
+        "feedback_wrong": "The answer is: I have a cough and sore throat."
+      },
+      {
+        "bot": "¿Tienes pastillas para el dolor?",
+        "options": [
+          "Yes, I have some at home.",
+          "No, I have moon pills.",
+          "I eat painkillers.",
+          "I sleep with pills."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Excelente! 'Pastillas para el dolor' means painkillers.",
+        "feedback_wrong": "The answer is: Yes, I have some at home."
+      },
+      {
+        "bot": "¿A qué hora abre el consultorio?",
+        "options": [
+          "It opens at 9 AM.",
+          "It opens at moon time.",
+          "I eat 9 AM.",
+          "I sleep at 9 AM."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Muy bien! 'Consultorio' means doctor's office.",
+        "feedback_wrong": "The answer is: It opens at 9 AM."
+      },
+      {
+        "bot": "¿Te has roto la pierna?",
+        "options": [
+          "No, I just sprained my ankle.",
+          "Yes, I broke the moon.",
+          "I eat the leg.",
+          "I sleep with the leg."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "¡Perfecto! 'Romper' means to break.",
+        "feedback_wrong": "The answer is: No, I just sprained my ankle."
+      }
+    ]
+  }
+]

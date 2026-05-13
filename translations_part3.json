@@ -1,0 +1,497 @@
+[
+  {
+    "word": "close",
+    "es": "cerrar",
+    "es_alt": "",
+    "pt": "fechar",
+    "pt_alt": "",
+    "es_example": "Yo cierro la puerta.",
+    "pt_example": "Eu fecho a porta."
+  },
+  {
+    "word": "dance",
+    "es": "bailar",
+    "es_alt": "",
+    "pt": "dançar",
+    "pt_alt": "",
+    "es_example": "Ella sabe bailar muy bien.",
+    "pt_example": "Ela sabe dançar muito bem."
+  },
+  {
+    "word": "drink",
+    "es": "beber",
+    "es_alt": "",
+    "pt": "beber",
+    "pt_alt": "",
+    "es_example": "Tengo que beber más agua.",
+    "pt_example": "Tenho que beber mais água."
+  },
+  {
+    "word": "finish",
+    "es": "terminar",
+    "es_alt": "finalizar",
+    "pt": "terminar",
+    "pt_alt": "finalizar",
+    "es_example": "Voy a terminar mi tarea.",
+    "pt_example": "Vou terminar minha tarefa."
+  },
+  {
+    "word": "fly",
+    "es": "volar",
+    "es_alt": "",
+    "pt": "voar",
+    "pt_alt": "",
+    "es_example": "Los pájaros pueden volar alto.",
+    "pt_example": "Os pássaros podem voar alto."
+  },
+  {
+    "word": "hate",
+    "es": "odiar",
+    "es_alt": "",
+    "pt": "odiar",
+    "pt_alt": "",
+    "es_example": "No odio a nadie.",
+    "pt_example": "Eu não odeio ninguém."
+  },
+  {
+    "word": "jump",
+    "es": "saltar",
+    "es_alt": "",
+    "pt": "pular",
+    "pt_alt": "",
+    "es_example": "El niño puede saltar muy alto.",
+    "pt_example": "O menino sabe pular muito alto."
+  },
+  {
+    "word": "like",
+    "es": "gustar",
+    "es_alt": "",
+    "pt": "gostar",
+    "pt_alt": "",
+    "es_example": "Me gusta mucho este libro.",
+    "pt_example": "Eu gosto muito deste livro."
+  },
+  {
+    "word": "sing",
+    "es": "cantar",
+    "es_alt": "",
+    "pt": "cantar",
+    "pt_alt": "",
+    "es_example": "Mi hermana sabe cantar bien.",
+    "pt_example": "Minha irmã sabe cantar bem."
+  },
+  {
+    "word": "swim",
+    "es": "nadar",
+    "es_alt": "",
+    "pt": "nadar",
+    "pt_alt": "",
+    "es_example": "Me encanta nadar en el mar.",
+    "pt_example": "Eu adoro nadar no mar."
+  },
+  {
+    "word": "teach",
+    "es": "enseñar",
+    "es_alt": "",
+    "pt": "ensinar",
+    "pt_alt": "",
+    "es_example": "Él me va a enseñar a cocinar.",
+    "pt_example": "Ele vai me ensinar a cozinhar."
+  },
+  {
+    "word": "achieve",
+    "es": "lograr",
+    "es_alt": "alcanzar",
+    "pt": "alcançar",
+    "pt_alt": "conseguir",
+    "es_example": "Vamos a lograr nuestros objetivos.",
+    "pt_example": "Vamos alcançar nossos objetivos."
+  },
+  {
+    "word": "agree",
+    "es": "estar de acuerdo",
+    "es_alt": "acordar",
+    "pt": "concordar",
+    "pt_alt": "",
+    "es_example": "Estoy de acuerdo con tu opinión.",
+    "pt_example": "Eu concordo com sua opinião."
+  },
+  {
+    "word": "allow",
+    "es": "permitir",
+    "es_alt": "dejar",
+    "pt": "permitir",
+    "pt_alt": "deixar",
+    "es_example": "No me permiten entrar allí.",
+    "pt_example": "Não me permitem entrar lá."
+  },
+  {
+    "word": "arrange",
+    "es": "organizar",
+    "es_alt": "arreglar",
+    "pt": "organizar",
+    "pt_alt": "arrumar",
+    "es_example": "Voy a organizar mi habitación.",
+    "pt_example": "Vou organizar meu quarto."
+  },
+  {
+    "word": "arrive",
+    "es": "llegar",
+    "es_alt": "",
+    "pt": "chegar",
+    "pt_alt": "",
+    "es_example": "Llegamos tarde a la fiesta.",
+    "pt_example": "Chegamos tarde à festa."
+  },
+  {
+    "word": "borrow",
+    "es": "pedir prestado",
+    "es_alt": "tomar prestado",
+    "pt": "pedir emprestado",
+    "pt_alt": "",
+    "es_example": "Voy a pedir prestado un libro.",
+    "pt_example": "Vou pedir um livro emprestado."
+  },
+  {
+    "word": "catch",
+    "es": "atrapar",
+    "es_alt": "coger",
+    "pt": "pegar",
+    "pt_alt": "apanhar",
+    "es_example": "Puedo atrapar la pelota.",
+    "pt_example": "Eu consigo pegar a bola."
+  },
+  {
+    "word": "check",
+    "es": "verificar",
+    "es_alt": "comprobar",
+    "pt": "verificar",
+    "pt_alt": "checar",
+    "es_example": "Tengo que verificar mi correo.",
+    "pt_example": "Tenho que verificar meu e-mail."
+  },
+  {
+    "word": "choose",
+    "es": "elegir",
+    "es_alt": "escoger",
+    "pt": "escolher",
+    "pt_alt": "",
+    "es_example": "Tienes que elegir un color.",
+    "pt_example": "Você tem que escolher uma cor."
+  },
+  {
+    "word": "collect",
+    "es": "recoger",
+    "es_alt": "coleccionar",
+    "pt": "coletar",
+    "pt_alt": "colecionar",
+    "es_example": "Me gusta recoger flores.",
+    "pt_example": "Eu gosto de coletar flores."
+  },
+  {
+    "word": "contain",
+    "es": "contener",
+    "es_alt": "",
+    "pt": "conter",
+    "pt_alt": "",
+    "es_example": "Esta caja contiene libros.",
+    "pt_example": "Esta caixa contém livros."
+  },
+  {
+    "word": "cook",
+    "es": "cocinar",
+    "es_alt": "",
+    "pt": "cozinhar",
+    "pt_alt": "",
+    "es_example": "Ella sabe cocinar muy bien.",
+    "pt_example": "Ela sabe cozinhar muito bem."
+  },
+  {
+    "word": "count",
+    "es": "contar",
+    "es_alt": "",
+    "pt": "contar",
+    "pt_alt": "",
+    "es_example": "Puedo contar hasta cien.",
+    "pt_example": "Eu sei contar até cem."
+  },
+  {
+    "word": "describe",
+    "es": "describir",
+    "es_alt": "",
+    "pt": "descrever",
+    "pt_alt": "",
+    "es_example": "¿Puedes describir la situación?",
+    "pt_example": "Você pode descrever a situação?"
+  },
+  {
+    "word": "discover",
+    "es": "descubrir",
+    "es_alt": "",
+    "pt": "descobrir",
+    "pt_alt": "",
+    "es_example": "Vamos a descubrir algo nuevo.",
+    "pt_example": "Vamos descobrir algo novo."
+  },
+  {
+    "word": "draw",
+    "es": "dibujar",
+    "es_alt": "",
+    "pt": "desenhar",
+    "pt_alt": "",
+    "es_example": "Me gusta dibujar paisajes.",
+    "pt_example": "Eu gosto de desenhar paisagens."
+  },
+  {
+    "word": "dream",
+    "es": "soñar",
+    "es_alt": "",
+    "pt": "sonhar",
+    "pt_alt": "",
+    "es_example": "Sueño con viajar al espacio.",
+    "pt_example": "Sonho em viajar para o espaço."
+  },
+  {
+    "word": "drive",
+    "es": "conducir",
+    "es_alt": "manejar",
+    "pt": "dirigir",
+    "pt_alt": "conduzir",
+    "es_example": "Aprendí a conducir el año pasado.",
+    "pt_example": "Aprendi a dirigir ano passado."
+  },
+  {
+    "word": "drop",
+    "es": "soltar",
+    "es_alt": "dejar caer",
+    "pt": "soltar",
+    "pt_alt": "deixar cair",
+    "es_example": "No sueltes el vaso.",
+    "pt_example": "Não solte o copo."
+  },
+  {
+    "word": "enjoy",
+    "es": "disfrutar",
+    "es_alt": "gozar",
+    "pt": "desfrutar",
+    "pt_alt": "aproveitar",
+    "es_example": "Disfruto mucho de la música.",
+    "pt_example": "Eu desfruto muito da música."
+  },
+  {
+    "word": "exist",
+    "es": "existir",
+    "es_alt": "",
+    "pt": "existir",
+    "pt_alt": "",
+    "es_example": "Los dinosaurios ya no existen.",
+    "pt_example": "Os dinossauros não existem mais."
+  },
+  {
+    "word": "explain",
+    "es": "explicar",
+    "es_alt": "",
+    "pt": "explicar",
+    "pt_alt": "",
+    "es_example": "¿Puedes explicar esto mejor?",
+    "pt_example": "Você pode explicar isso melhor?"
+  },
+  {
+    "word": "forget",
+    "es": "olvidar",
+    "es_alt": "",
+    "pt": "esquecer",
+    "pt_alt": "",
+    "es_example": "No olvides tu llave.",
+    "pt_example": "Não esqueça sua chave."
+  },
+  {
+    "word": "hope",
+    "es": "esperar",
+    "es_alt": "",
+    "pt": "esperar",
+    "pt_alt": "",
+    "es_example": "Espero que tengas un buen día.",
+    "pt_example": "Espero que você tenha um bom dia."
+  },
+  {
+    "word": "join",
+    "es": "unirse",
+    "es_alt": "juntarse",
+    "pt": "juntar-se",
+    "pt_alt": "",
+    "es_example": "Quiero unirme al equipo.",
+    "pt_example": "Quero me juntar ao time."
+  },
+  {
+    "word": "laugh",
+    "es": "reír",
+    "es_alt": "reírse",
+    "pt": "rir",
+    "pt_alt": "rir-se",
+    "es_example": "Me hizo reír mucho.",
+    "pt_example": "Ele me fez rir muito."
+  },
+  {
+    "word": "listen",
+    "es": "escuchar",
+    "es_alt": "",
+    "pt": "ouvir",
+    "pt_alt": "",
+    "es_example": "Me gusta escuchar música.",
+    "pt_example": "Eu gosto de ouvir música."
+  },
+  {
+    "word": "mention",
+    "es": "mencionar",
+    "es_alt": "",
+    "pt": "mencionar",
+    "pt_alt": "",
+    "es_example": "No me mencionó nada.",
+    "pt_example": "Ele não me mencionou nada."
+  },
+  {
+    "word": "miss",
+    "es": "extrañar",
+    "es_alt": "echar de menos",
+    "pt": "sentir saudades",
+    "pt_alt": "",
+    "es_example": "Te extraño mucho.",
+    "pt_example": "Sinto muitas saudades de você."
+  },
+  {
+    "word": "order",
+    "es": "ordenar",
+    "es_alt": "pedir",
+    "pt": "pedir",
+    "pt_alt": "ordenar",
+    "es_example": "Voy a ordenar una pizza.",
+    "pt_example": "Vou pedir uma pizza."
+  },
+  {
+    "word": "prefer",
+    "es": "preferir",
+    "es_alt": "",
+    "pt": "preferir",
+    "pt_alt": "",
+    "es_example": "Prefiero el café con leche.",
+    "pt_example": "Eu prefiro café com leite."
+  },
+  {
+    "word": "prepare",
+    "es": "preparar",
+    "es_alt": "",
+    "pt": "preparar",
+    "pt_alt": "",
+    "es_example": "Voy a preparar la cena.",
+    "pt_example": "Vou preparar o jantar."
+  },
+  {
+    "word": "produce",
+    "es": "producir",
+    "es_alt": "",
+    "pt": "produzir",
+    "pt_alt": "",
+    "es_example": "Esta fábrica produce coches.",
+    "pt_example": "Esta fábrica produz carros."
+  },
+  {
+    "word": "promise",
+    "es": "prometer",
+    "es_alt": "",
+    "pt": "prometer",
+    "pt_alt": "",
+    "es_example": "Te prometo que vendré.",
+    "pt_example": "Eu prometo que vou."
+  },
+  {
+    "word": "prove",
+    "es": "probar",
+    "es_alt": "demostrar",
+    "pt": "provar",
+    "pt_alt": "demonstrar",
+    "es_example": "Voy a probar mi teoría.",
+    "pt_example": "Vou provar minha teoria."
+  },
+  {
+    "word": "receive",
+    "es": "recibir",
+    "es_alt": "",
+    "pt": "receber",
+    "pt_alt": "",
+    "es_example": "Recibí una carta ayer.",
+    "pt_example": "Recebi uma carta ontem."
+  },
+  {
+    "word": "repeat",
+    "es": "repetir",
+    "es_alt": "",
+    "pt": "repetir",
+    "pt_alt": "",
+    "es_example": "Por favor, repite la pregunta.",
+    "pt_example": "Por favor, repita a pergunta."
+  },
+  {
+    "word": "return",
+    "es": "volver",
+    "es_alt": "regresar",
+    "pt": "voltar",
+    "pt_alt": "retornar",
+    "es_example": "Voy a volver mañana.",
+    "pt_example": "Vou voltar amanhã."
+  },
+  {
+    "word": "share",
+    "es": "compartir",
+    "es_alt": "",
+    "pt": "compartilhar",
+    "pt_alt": "",
+    "es_example": "Quiero compartir esto contigo.",
+    "pt_example": "Quero compartilhar isso com você."
+  },
+  {
+    "word": "smell",
+    "es": "oler",
+    "es_alt": "",
+    "pt": "cheirar",
+    "pt_alt": "",
+    "es_example": "Huelo algo rico.",
+    "pt_example": "Sinto um cheiro gostoso."
+  },
+  {
+    "word": "taste",
+    "es": "probar",
+    "es_alt": "saber",
+    "pt": "provar",
+    "pt_alt": "saber",
+    "es_example": "Quiero probar este pastel.",
+    "pt_example": "Quero provar este bolo."
+  },
+  {
+    "word": "throw",
+    "es": "lanzar",
+    "es_alt": "tirar",
+    "pt": "jogar",
+    "pt_alt": "arremessar",
+    "es_example": "No lances la basura aquí.",
+    "pt_example": "Não jogue o lixo aqui."
+  },
+  {
+    "word": "travel",
+    "es": "viajar",
+    "es_alt": "",
+    "pt": "viajar",
+    "pt_alt": "",
+    "es_example": "Me gusta viajar en tren.",
+    "pt_example": "Eu gosto de viajar de trem."
+  },
+  {
+    "word": "visit",
+    "es": "visitar",
+    "es_alt": "",
+    "pt": "visitar",
+    "pt_alt": "",
+    "es_example": "Voy a visitar a mi abuela.",
+    "pt_example": "Vou visitar minha avó."
+  }
+]

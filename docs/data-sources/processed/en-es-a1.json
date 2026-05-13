@@ -1,0 +1,2502 @@
+﻿[
+  {
+    "en": "Go.",
+    "es": "Ve.",
+    "level": "A1"
+  },
+  {
+    "en": "Hi.",
+    "es": "Hola.",
+    "level": "A1"
+  },
+  {
+    "en": "Run!",
+    "es": "¡Corre!",
+    "level": "A1"
+  },
+  {
+    "en": "Run.",
+    "es": "Corra.",
+    "level": "A1"
+  },
+  {
+    "en": "Who?",
+    "es": "¿Quién?",
+    "level": "A1"
+  },
+  {
+    "en": "Help!",
+    "es": "¡Ayuda!",
+    "level": "A1"
+  },
+  {
+    "en": "Do it.",
+    "es": "Hacedlo.",
+    "level": "A1"
+  },
+  {
+    "en": "Go on.",
+    "es": "Continúa.",
+    "level": "A1"
+  },
+  {
+    "en": "Hello!",
+    "es": "Hola.",
+    "level": "A1"
+  },
+  {
+    "en": "Hello.",
+    "es": "Hola.",
+    "level": "A1"
+  },
+  {
+    "en": "Sorry?",
+    "es": "¿Disculpa?",
+    "level": "A1"
+  },
+  {
+    "en": "Eat it.",
+    "es": "Cómetelo.",
+    "level": "A1"
+  },
+  {
+    "en": "Go now.",
+    "es": "Ve ahora mismo.",
+    "level": "A1"
+  },
+  {
+    "en": "I know.",
+    "es": "Yo lo sé.",
+    "level": "A1"
+  },
+  {
+    "en": "No way!",
+    "es": "¡No puede ser!",
+    "level": "A1"
+  },
+  {
+    "en": "Why me?",
+    "es": "¿Por qué yo?",
+    "level": "A1"
+  },
+  {
+    "en": "Be good.",
+    "es": "Sé bueno.",
+    "level": "A1"
+  },
+  {
+    "en": "Be nice.",
+    "es": "Sé agradable.",
+    "level": "A1"
+  },
+  {
+    "en": "Come in.",
+    "es": "Entre.",
+    "level": "A1"
+  },
+  {
+    "en": "Come on!",
+    "es": "¡Órale!",
+    "level": "A1"
+  },
+  {
+    "en": "Come on.",
+    "es": "Ándale.",
+    "level": "A1"
+  },
+  {
+    "en": "Go home.",
+    "es": "Vete a casa.",
+    "level": "A1"
+  },
+  {
+    "en": "Goodbye!",
+    "es": "¡Hasta luego!",
+    "level": "A1"
+  },
+  {
+    "en": "Help me!",
+    "es": "Ayúdame.",
+    "level": "A1"
+  },
+  {
+    "en": "Help me.",
+    "es": "Ayúdame.",
+    "level": "A1"
+  },
+  {
+    "en": "Help us.",
+    "es": "Ayúdanos.",
+    "level": "A1"
+  },
+  {
+    "en": "It's OK.",
+    "es": "Está bien.",
+    "level": "A1"
+  },
+  {
+    "en": "It's me!",
+    "es": "Soy yo.",
+    "level": "A1"
+  },
+  {
+    "en": "It's me.",
+    "es": "Soy yo.",
+    "level": "A1"
+  },
+  {
+    "en": "Me, too.",
+    "es": "Yo también.",
+    "level": "A1"
+  },
+  {
+    "en": "See you!",
+    "es": "¡Hasta luego!",
+    "level": "A1"
+  },
+  {
+    "en": "See you.",
+    "es": "Nos vemos.",
+    "level": "A1"
+  },
+  {
+    "en": "Take it.",
+    "es": "Cógelo.",
+    "level": "A1"
+  },
+  {
+    "en": "We know.",
+    "es": "Lo sabemos.",
+    "level": "A1"
+  },
+  {
+    "en": "Why not?",
+    "es": "¿Por qué no?",
+    "level": "A1"
+  },
+  {
+    "en": "You run.",
+    "es": "Corre.",
+    "level": "A1"
+  },
+  {
+    "en": "Am I fat?",
+    "es": "¿Estoy gordo?",
+    "level": "A1"
+  },
+  {
+    "en": "Be a man.",
+    "es": "Sé un hombre.",
+    "level": "A1"
+  },
+  {
+    "en": "Drink it.",
+    "es": "Bébelo.",
+    "level": "A1"
+  },
+  {
+    "en": "Go on in.",
+    "es": "Entre.",
+    "level": "A1"
+  },
+  {
+    "en": "I am old.",
+    "es": "Estoy viejo.",
+    "level": "A1"
+  },
+  {
+    "en": "I ate it.",
+    "es": "Me lo comí.",
+    "level": "A1"
+  },
+  {
+    "en": "I can go.",
+    "es": "Puedo ir.",
+    "level": "A1"
+  },
+  {
+    "en": "I did OK.",
+    "es": "Lo hice bien.",
+    "level": "A1"
+  },
+  {
+    "en": "I did it.",
+    "es": "Lo hice.",
+    "level": "A1"
+  },
+  {
+    "en": "I get it.",
+    "es": "Lo entiendo.",
+    "level": "A1"
+  },
+  {
+    "en": "I got it.",
+    "es": "Lo tengo.",
+    "level": "A1"
+  },
+  {
+    "en": "I had it.",
+    "es": "Lo tenía.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw it.",
+    "es": "Lo vi.",
+    "level": "A1"
+  },
+  {
+    "en": "I use it.",
+    "es": "Yo lo uso.",
+    "level": "A1"
+  },
+  {
+    "en": "It's big.",
+    "es": "Es grande.",
+    "level": "A1"
+  },
+  {
+    "en": "It's his.",
+    "es": "Es suyo.",
+    "level": "A1"
+  },
+  {
+    "en": "It's new.",
+    "es": "Es nuevo.",
+    "level": "A1"
+  },
+  {
+    "en": "It's old.",
+    "es": "Es viejo.",
+    "level": "A1"
+  },
+  {
+    "en": "It's red.",
+    "es": "Es rojo.",
+    "level": "A1"
+  },
+  {
+    "en": "It's sad.",
+    "es": "Es triste.",
+    "level": "A1"
+  },
+  {
+    "en": "May I go?",
+    "es": "¿Puedo ir?",
+    "level": "A1"
+  },
+  {
+    "en": "Sit here.",
+    "es": "Sentate acá.",
+    "level": "A1"
+  },
+  {
+    "en": "We're OK.",
+    "es": "Estamos bien.",
+    "level": "A1"
+  },
+  {
+    "en": "What for?",
+    "es": "¿Para qué?",
+    "level": "A1"
+  },
+  {
+    "en": "What now?",
+    "es": "¿Y ahora qué?",
+    "level": "A1"
+  },
+  {
+    "en": "Who am I?",
+    "es": "¿Quién soy yo?",
+    "level": "A1"
+  },
+  {
+    "en": "Write me.",
+    "es": "Escríbeme.",
+    "level": "A1"
+  },
+  {
+    "en": "Can we go?",
+    "es": "¿Podemos ir?",
+    "level": "A1"
+  },
+  {
+    "en": "Come here.",
+    "es": "Vení.",
+    "level": "A1"
+  },
+  {
+    "en": "Come home.",
+    "es": "Ven a casa.",
+    "level": "A1"
+  },
+  {
+    "en": "Did I win?",
+    "es": "¿Yo gané?",
+    "level": "A1"
+  },
+  {
+    "en": "Do it now.",
+    "es": "Hazlo ahora.",
+    "level": "A1"
+  },
+  {
+    "en": "Get to it.",
+    "es": "Ponte a ello.",
+    "level": "A1"
+  },
+  {
+    "en": "Go for it.",
+    "es": "Ve a por ello.",
+    "level": "A1"
+  },
+  {
+    "en": "Go get it.",
+    "es": "Ve a por ello.",
+    "level": "A1"
+  },
+  {
+    "en": "Go to bed.",
+    "es": "Vete a la cama.",
+    "level": "A1"
+  },
+  {
+    "en": "He is old.",
+    "es": "Él es viejo.",
+    "level": "A1"
+  },
+  {
+    "en": "Here I am.",
+    "es": "Acá estoy.",
+    "level": "A1"
+  },
+  {
+    "en": "I am full.",
+    "es": "Estoy lleno.",
+    "level": "A1"
+  },
+  {
+    "en": "I am good.",
+    "es": "Soy bueno.",
+    "level": "A1"
+  },
+  {
+    "en": "I am here.",
+    "es": "Estoy aquí.",
+    "level": "A1"
+  },
+  {
+    "en": "I am sick.",
+    "es": "Estoy enferma.",
+    "level": "A1"
+  },
+  {
+    "en": "I am weak.",
+    "es": "Estoy débil.",
+    "level": "A1"
+  },
+  {
+    "en": "I am well.",
+    "es": "Estoy saludable.",
+    "level": "A1"
+  },
+  {
+    "en": "I beg you.",
+    "es": "Te lo ruego.",
+    "level": "A1"
+  },
+  {
+    "en": "I can fly.",
+    "es": "Puedo volar.",
+    "level": "A1"
+  },
+  {
+    "en": "I can run.",
+    "es": "Puedo correr.",
+    "level": "A1"
+  },
+  {
+    "en": "I can ski.",
+    "es": "Sé esquiar.",
+    "level": "A1"
+  },
+  {
+    "en": "I get you.",
+    "es": "Te entiendo.",
+    "level": "A1"
+  },
+  {
+    "en": "I give up.",
+    "es": "Lo dejo.",
+    "level": "A1"
+  },
+  {
+    "en": "I hate it.",
+    "es": "Lo odio.",
+    "level": "A1"
+  },
+  {
+    "en": "I knew it.",
+    "es": "Lo sabía.",
+    "level": "A1"
+  },
+  {
+    "en": "I like it.",
+    "es": "Me gusta.",
+    "level": "A1"
+  },
+  {
+    "en": "I lost it.",
+    "es": "Lo perdí.",
+    "level": "A1"
+  },
+  {
+    "en": "I love it!",
+    "es": "¡Lo adoro!",
+    "level": "A1"
+  },
+  {
+    "en": "I love it.",
+    "es": "Me encanta.",
+    "level": "A1"
+  },
+  {
+    "en": "I mean it!",
+    "es": "Hablo en serio.",
+    "level": "A1"
+  },
+  {
+    "en": "I mean it.",
+    "es": "Lo digo en serio.",
+    "level": "A1"
+  },
+  {
+    "en": "I miss it.",
+    "es": "Lo echo en falta.",
+    "level": "A1"
+  },
+  {
+    "en": "I need it.",
+    "es": "Lo necesito.",
+    "level": "A1"
+  },
+  {
+    "en": "I said no.",
+    "es": "Dije que no.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw him.",
+    "es": "Le vi.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw one.",
+    "es": "Vi uno.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw you.",
+    "es": "Te vi.",
+    "level": "A1"
+  },
+  {
+    "en": "I see Tom.",
+    "es": "Veo a Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I was sad.",
+    "es": "Estuve triste.",
+    "level": "A1"
+  },
+  {
+    "en": "I was shy.",
+    "es": "Era tímido.",
+    "level": "A1"
+  },
+  {
+    "en": "I will go.",
+    "es": "Iré.",
+    "level": "A1"
+  },
+  {
+    "en": "I'd do it.",
+    "es": "Lo haría.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm a boy.",
+    "es": "Soy un niño.",
+    "level": "A1"
+  },
+  {
+    "en": "I'm a man.",
+    "es": "Soy un hombre.",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom OK?",
+    "es": "¿Tom está bien?",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom in?",
+    "es": "¿Está Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Is he Tom?",
+    "es": "¿Es ese Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it bad?",
+    "es": "¿Es grave?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it far?",
+    "es": "¿Está lejos?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it hot?",
+    "es": "¿Está caliente?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it red?",
+    "es": "¿Es rojo?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it you?",
+    "es": "¿Eres tú?",
+    "level": "A1"
+  },
+  {
+    "en": "It's a TV.",
+    "es": "Es un televisor.",
+    "level": "A1"
+  },
+  {
+    "en": "It's cold.",
+    "es": "Hace frío.",
+    "level": "A1"
+  },
+  {
+    "en": "It's good.",
+    "es": "Está bien.",
+    "level": "A1"
+  },
+  {
+    "en": "It's here.",
+    "es": "Está aquí.",
+    "level": "A1"
+  },
+  {
+    "en": "It's nice.",
+    "es": "Es agradable.",
+    "level": "A1"
+  },
+  {
+    "en": "It's time.",
+    "es": "Ha llegado el momento.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me go!",
+    "es": "¡Déjame marchar!",
+    "level": "A1"
+  },
+  {
+    "en": "Let me go.",
+    "es": "¡Déjeme ir!",
+    "level": "A1"
+  },
+  {
+    "en": "Let me in.",
+    "es": "Déjame entrar.",
+    "level": "A1"
+  },
+  {
+    "en": "Let us in.",
+    "es": "Déjanos entrar.",
+    "level": "A1"
+  },
+  {
+    "en": "Look here.",
+    "es": "Mira aquí.",
+    "level": "A1"
+  },
+  {
+    "en": "Please go.",
+    "es": "Por favor, ve.",
+    "level": "A1"
+  },
+  {
+    "en": "Put it on.",
+    "es": "Póntelo.",
+    "level": "A1"
+  },
+  {
+    "en": "Read this.",
+    "es": "Lee esto.",
+    "level": "A1"
+  },
+  {
+    "en": "Sit there.",
+    "es": "Sentate ahí.",
+    "level": "A1"
+  },
+  {
+    "en": "Take this.",
+    "es": "Toma esto.",
+    "level": "A1"
+  },
+  {
+    "en": "Thank you.",
+    "es": "¡Gracias!",
+    "level": "A1"
+  },
+  {
+    "en": "Then what?",
+    "es": "¿Entonces qué?",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is OK.",
+    "es": "Tom está bien.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is in.",
+    "es": "Tom está dentro.",
+    "level": "A1"
+  },
+  {
+    "en": "Try it on.",
+    "es": "Pruébatelo.",
+    "level": "A1"
+  },
+  {
+    "en": "We can go.",
+    "es": "Podemos ir.",
+    "level": "A1"
+  },
+  {
+    "en": "We did it.",
+    "es": "Lo logramos.",
+    "level": "A1"
+  },
+  {
+    "en": "We saw it.",
+    "es": "Le vimos.",
+    "level": "A1"
+  },
+  {
+    "en": "We're sad.",
+    "es": "Estamos tristes.",
+    "level": "A1"
+  },
+  {
+    "en": "Who is he?",
+    "es": "¿Quién es él?",
+    "level": "A1"
+  },
+  {
+    "en": "Who is it?",
+    "es": "¿Quién es?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I dying?",
+    "es": "¿Me estoy muriendo?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I fired?",
+    "es": "¿Estoy despedido?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I hired?",
+    "es": "¿Estoy contratada?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I ready?",
+    "es": "¿Estoy listo?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I right?",
+    "es": "¿Tengo razón?",
+    "level": "A1"
+  },
+  {
+    "en": "Am I wrong?",
+    "es": "¿Me equivoco?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you 18?",
+    "es": "¿Tienes dieciocho?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you OK?",
+    "es": "¿Estás bien?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you in?",
+    "es": "¿Te apuntas?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you up?",
+    "es": "¿Estás levantado?",
+    "level": "A1"
+  },
+  {
+    "en": "Be on time.",
+    "es": "Llega a tiempo.",
+    "level": "A1"
+  },
+  {
+    "en": "Can I come?",
+    "es": "¿Puedo ir?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I help?",
+    "es": "¿Puedo ayudar?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I stay?",
+    "es": "¿Me puedo quedar?",
+    "level": "A1"
+  },
+  {
+    "en": "Come again.",
+    "es": "Vuelve otra vez.",
+    "level": "A1"
+  },
+  {
+    "en": "Come on in!",
+    "es": "¡Pásale!",
+    "level": "A1"
+  },
+  {
+    "en": "Come on in.",
+    "es": "Entre.",
+    "level": "A1"
+  },
+  {
+    "en": "Come to me.",
+    "es": "Ven a mí.",
+    "level": "A1"
+  },
+  {
+    "en": "Come to us.",
+    "es": "Ven a nosotros.",
+    "level": "A1"
+  },
+  {
+    "en": "Did Tom go?",
+    "es": "¿Fue Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Did we win?",
+    "es": "¿Ganamos?",
+    "level": "A1"
+  },
+  {
+    "en": "Do come in.",
+    "es": "Pasa adentro.",
+    "level": "A1"
+  },
+  {
+    "en": "Get to bed.",
+    "es": "Vete a la cama.",
+    "level": "A1"
+  },
+  {
+    "en": "Give it up.",
+    "es": "Déjalo.",
+    "level": "A1"
+  },
+  {
+    "en": "Go on home.",
+    "es": "Vete a casa.",
+    "level": "A1"
+  },
+  {
+    "en": "Go see Tom.",
+    "es": "Ve a ver a Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "Go to work.",
+    "es": "Andá a trabajar.",
+    "level": "A1"
+  },
+  {
+    "en": "He gave in.",
+    "es": "Él se rindió.",
+    "level": "A1"
+  },
+  {
+    "en": "He is a DJ.",
+    "es": "Él es DJ.",
+    "level": "A1"
+  },
+  {
+    "en": "He is here!",
+    "es": "¡Él está aquí!",
+    "level": "A1"
+  },
+  {
+    "en": "He is kind.",
+    "es": "Él es gentil.",
+    "level": "A1"
+  },
+  {
+    "en": "He is mean.",
+    "es": "Él es mezquino.",
+    "level": "A1"
+  },
+  {
+    "en": "He is nice.",
+    "es": "Él es amable.",
+    "level": "A1"
+  },
+  {
+    "en": "He is tall.",
+    "es": "Él es alto.",
+    "level": "A1"
+  },
+  {
+    "en": "He made it.",
+    "es": "Él lo hizo.",
+    "level": "A1"
+  },
+  {
+    "en": "Here he is!",
+    "es": "¡Helo aquí!",
+    "level": "A1"
+  },
+  {
+    "en": "Here it is.",
+    "es": "Aquí está.",
+    "level": "A1"
+  },
+  {
+    "en": "Here we go.",
+    "es": "Aquí vamos.",
+    "level": "A1"
+  },
+  {
+    "en": "How is Tom?",
+    "es": "¿Cómo está Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "I admit it.",
+    "es": "Lo admito.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a boy.",
+    "es": "Soy un niño.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a man.",
+    "es": "Soy un hombre.",
+    "level": "A1"
+  },
+  {
+    "en": "I am happy.",
+    "es": "¡Soy feliz!",
+    "level": "A1"
+  },
+  {
+    "en": "I am human.",
+    "es": "Yo soy humano.",
+    "level": "A1"
+  },
+  {
+    "en": "I am ready.",
+    "es": "Estoy listo.",
+    "level": "A1"
+  },
+  {
+    "en": "I ate rice.",
+    "es": "Comí arroz.",
+    "level": "A1"
+  },
+  {
+    "en": "I broke it.",
+    "es": "Yo lo rompí.",
+    "level": "A1"
+  },
+  {
+    "en": "I can cook.",
+    "es": "Sé cocinar.",
+    "level": "A1"
+  },
+  {
+    "en": "I can help.",
+    "es": "Yo puedo ayudar.",
+    "level": "A1"
+  },
+  {
+    "en": "I can jump.",
+    "es": "Puedo saltar.",
+    "level": "A1"
+  },
+  {
+    "en": "I can read.",
+    "es": "Sé leer.",
+    "level": "A1"
+  },
+  {
+    "en": "I can sing.",
+    "es": "Puedo cantar.",
+    "level": "A1"
+  },
+  {
+    "en": "I can stay.",
+    "es": "Puedo quedarme.",
+    "level": "A1"
+  },
+  {
+    "en": "I can swim.",
+    "es": "Sé nadar.",
+    "level": "A1"
+  },
+  {
+    "en": "I doubt it.",
+    "es": "Lo dudo.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat here.",
+    "es": "Como aquí.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat meat.",
+    "es": "Yo como carne.",
+    "level": "A1"
+  },
+  {
+    "en": "I envy him.",
+    "es": "Lo envidio.",
+    "level": "A1"
+  },
+  {
+    "en": "I feel bad.",
+    "es": "Me siento mal.",
+    "level": "A1"
+  },
+  {
+    "en": "I feel old.",
+    "es": "Me siento viejo.",
+    "level": "A1"
+  },
+  {
+    "en": "I feel sad.",
+    "es": "Me siento triste.",
+    "level": "A1"
+  },
+  {
+    "en": "I felt bad.",
+    "es": "Me sentía mal.",
+    "level": "A1"
+  },
+  {
+    "en": "I fixed it.",
+    "es": "Lo arreglé.",
+    "level": "A1"
+  },
+  {
+    "en": "I found it.",
+    "es": "¡Lo encontré!",
+    "level": "A1"
+  },
+  {
+    "en": "I got that.",
+    "es": "Ya lo tengo.",
+    "level": "A1"
+  },
+  {
+    "en": "I hate you.",
+    "es": "Te detesto.",
+    "level": "A1"
+  },
+  {
+    "en": "I have one.",
+    "es": "Tengo uno.",
+    "level": "A1"
+  },
+  {
+    "en": "I have won.",
+    "es": "Gané.",
+    "level": "A1"
+  },
+  {
+    "en": "I hear you.",
+    "es": "Te oigo.",
+    "level": "A1"
+  },
+  {
+    "en": "I help him.",
+    "es": "Le ayudo.",
+    "level": "A1"
+  },
+  {
+    "en": "I know Tom.",
+    "es": "Conozco a Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I know her.",
+    "es": "La conozco.",
+    "level": "A1"
+  },
+  {
+    "en": "I know him.",
+    "es": "Lo conozco.",
+    "level": "A1"
+  },
+  {
+    "en": "I know now.",
+    "es": "Ahora sé.",
+    "level": "A1"
+  },
+  {
+    "en": "I know you.",
+    "es": "Te conozco.",
+    "level": "A1"
+  },
+  {
+    "en": "I like R&B.",
+    "es": "Me gusta el R&B.",
+    "level": "A1"
+  },
+  {
+    "en": "I like Tom.",
+    "es": "Me agrada Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I like art.",
+    "es": "Me gusta el arte.",
+    "level": "A1"
+  },
+  {
+    "en": "I like him.",
+    "es": "Me gusta él.",
+    "level": "A1"
+  },
+  {
+    "en": "I like pie.",
+    "es": "Me gustan las tartas.",
+    "level": "A1"
+  },
+  {
+    "en": "I like tea.",
+    "es": "Me gusta el té.",
+    "level": "A1"
+  },
+  {
+    "en": "I like you.",
+    "es": "Me gustas.",
+    "level": "A1"
+  },
+  {
+    "en": "I liked it.",
+    "es": "Me gustó.",
+    "level": "A1"
+  },
+  {
+    "en": "I love Tom.",
+    "es": "Lo amo a Tomás.",
+    "level": "A1"
+  },
+  {
+    "en": "I love him.",
+    "es": "Yo lo amo.",
+    "level": "A1"
+  },
+  {
+    "en": "I love tea.",
+    "es": "Me encanta el té.",
+    "level": "A1"
+  },
+  {
+    "en": "I love you.",
+    "es": "Te quiero.",
+    "level": "A1"
+  },
+  {
+    "en": "I loved it.",
+    "es": "Me encantó.",
+    "level": "A1"
+  },
+  {
+    "en": "I miss him.",
+    "es": "Le echo de menos.",
+    "level": "A1"
+  },
+  {
+    "en": "I miss you.",
+    "es": "Te echo de menos.",
+    "level": "A1"
+  },
+  {
+    "en": "I must run.",
+    "es": "Tengo que correr.",
+    "level": "A1"
+  },
+  {
+    "en": "I pity you.",
+    "es": "Me das pena.",
+    "level": "A1"
+  },
+  {
+    "en": "I ran home.",
+    "es": "Me fui corriendo a casa.",
+    "level": "A1"
+  },
+  {
+    "en": "I said yes.",
+    "es": "Dije que sí.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw that.",
+    "es": "Lo vi.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw them.",
+    "es": "Las vi.",
+    "level": "A1"
+  },
+  {
+    "en": "I see them.",
+    "es": "Los veo.",
+    "level": "A1"
+  },
+  {
+    "en": "I snuck in.",
+    "es": "Me colé.",
+    "level": "A1"
+  },
+  {
+    "en": "I think so.",
+    "es": "Creo que sí.",
+    "level": "A1"
+  },
+  {
+    "en": "I use this.",
+    "es": "Uso esto.",
+    "level": "A1"
+  },
+  {
+    "en": "I want Tom.",
+    "es": "Quiero a Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "I want one!",
+    "es": "¡Quiero uno!",
+    "level": "A1"
+  },
+  {
+    "en": "I want one.",
+    "es": "Quiero uno.",
+    "level": "A1"
+  },
+  {
+    "en": "I was away.",
+    "es": "Estaba fuera.",
+    "level": "A1"
+  },
+  {
+    "en": "I was busy.",
+    "es": "Estaba ocupado.",
+    "level": "A1"
+  },
+  {
+    "en": "I was fair.",
+    "es": "Fui justo.",
+    "level": "A1"
+  },
+  {
+    "en": "I was last.",
+    "es": "Fui el último.",
+    "level": "A1"
+  },
+  {
+    "en": "I was late.",
+    "es": "Llegué tarde.",
+    "level": "A1"
+  },
+  {
+    "en": "I was sick.",
+    "es": "Yo estaba enfermo.",
+    "level": "A1"
+  },
+  {
+    "en": "I won't go.",
+    "es": "No voy a ir.",
+    "level": "A1"
+  },
+  {
+    "en": "I wrote it.",
+    "es": "Yo lo escribí.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll be OK.",
+    "es": "Estaré bien.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll do it.",
+    "es": "Lo haré yo.",
+    "level": "A1"
+  },
+  {
+    "en": "I'll go in.",
+    "es": "Entraré.",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom big?",
+    "es": "¿Es grande Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Is Tom hot?",
+    "es": "¿Tiene calor Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Is he tall?",
+    "es": "¿Es alto?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it blue?",
+    "es": "¿Es azul?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it free?",
+    "es": "¿Es gratis?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it good?",
+    "es": "¿Está bueno?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it hard?",
+    "es": "¿Es difícil?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it here?",
+    "es": "¿Es acá?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it ours?",
+    "es": "¿Es nuestro?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it real?",
+    "es": "¿Esto es real?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it safe?",
+    "es": "¿Es inofensivo?",
+    "level": "A1"
+  },
+  {
+    "en": "Is it true?",
+    "es": "¿Es verdad?",
+    "level": "A1"
+  },
+  {
+    "en": "Is that OK?",
+    "es": "¿Vale eso?",
+    "level": "A1"
+  },
+  {
+    "en": "Is that it?",
+    "es": "¿Eso es todo?",
+    "level": "A1"
+  },
+  {
+    "en": "Is that so?",
+    "es": "¿Acaso es así?",
+    "level": "A1"
+  },
+  {
+    "en": "Is this OK?",
+    "es": "¿Esto es bueno?",
+    "level": "A1"
+  },
+  {
+    "en": "Is this it?",
+    "es": "¿Eso es todo?",
+    "level": "A1"
+  },
+  {
+    "en": "It's a fly.",
+    "es": "Es una mosca.",
+    "level": "A1"
+  },
+  {
+    "en": "It's a fox.",
+    "es": "Es una zorra.",
+    "level": "A1"
+  },
+  {
+    "en": "It's green.",
+    "es": "Es verde.",
+    "level": "A1"
+  },
+  {
+    "en": "It's my CD.",
+    "es": "Es mi CD.",
+    "level": "A1"
+  },
+  {
+    "en": "It's night.",
+    "es": "Es de noche.",
+    "level": "A1"
+  },
+  {
+    "en": "It's on me.",
+    "es": "Es de parte mía.",
+    "level": "A1"
+  },
+  {
+    "en": "It's there.",
+    "es": "Está ahí.",
+    "level": "A1"
+  },
+  {
+    "en": "It's three.",
+    "es": "Son las tres.",
+    "level": "A1"
+  },
+  {
+    "en": "It's water.",
+    "es": "Es agua.",
+    "level": "A1"
+  },
+  {
+    "en": "It's white.",
+    "es": "Es blanco.",
+    "level": "A1"
+  },
+  {
+    "en": "Just do it.",
+    "es": "Tan sólo hazlo.",
+    "level": "A1"
+  },
+  {
+    "en": "Let him go!",
+    "es": "¡Déjale irse!",
+    "level": "A1"
+  },
+  {
+    "en": "Let him in.",
+    "es": "Déjalo entrar.",
+    "level": "A1"
+  },
+  {
+    "en": "Let me see.",
+    "es": "Déjame ver.",
+    "level": "A1"
+  },
+  {
+    "en": "Look again.",
+    "es": "Mirá de nuevo.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at it.",
+    "es": "Míralo.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at me.",
+    "es": "Mírame.",
+    "level": "A1"
+  },
+  {
+    "en": "Look at us.",
+    "es": "Míranos.",
+    "level": "A1"
+  },
+  {
+    "en": "Look it up.",
+    "es": "Búscalo.",
+    "level": "A1"
+  },
+  {
+    "en": "Look there.",
+    "es": "Mira allí.",
+    "level": "A1"
+  },
+  {
+    "en": "Now try it.",
+    "es": "Venga, inténtalo.",
+    "level": "A1"
+  },
+  {
+    "en": "Please sit.",
+    "es": "Por favor, siéntese.",
+    "level": "A1"
+  },
+  {
+    "en": "Run for it!",
+    "es": "¡Huye!",
+    "level": "A1"
+  },
+  {
+    "en": "She is old.",
+    "es": "Es vieja.",
+    "level": "A1"
+  },
+  {
+    "en": "Step on it!",
+    "es": "¡Más rápido!",
+    "level": "A1"
+  },
+  {
+    "en": "Take a bus.",
+    "es": "Toma un bus.",
+    "level": "A1"
+  },
+  {
+    "en": "Take a nap.",
+    "es": "Toma una siesta.",
+    "level": "A1"
+  },
+  {
+    "en": "Talk to me!",
+    "es": "¡Háblame!",
+    "level": "A1"
+  },
+  {
+    "en": "That a boy!",
+    "es": "¡Ése es mi chico!",
+    "level": "A1"
+  },
+  {
+    "en": "This is OK.",
+    "es": "Esto está bien.",
+    "level": "A1"
+  },
+  {
+    "en": "This is it.",
+    "es": "Hemos llegado.",
+    "level": "A1"
+  },
+  {
+    "en": "Time is up.",
+    "es": "Se acabó el tiempo.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom did it.",
+    "es": "Tom lo hizo.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is bad.",
+    "es": "Tom es malo.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is big.",
+    "es": "Tom es grande.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is new.",
+    "es": "Tom es nuevo.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is old.",
+    "es": "Tom es viejo.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom is sad.",
+    "es": "Tom está triste.",
+    "level": "A1"
+  },
+  {
+    "en": "Tom was OK.",
+    "es": "Tom estaba bien.",
+    "level": "A1"
+  },
+  {
+    "en": "Try it now.",
+    "es": "Prueba ahora.",
+    "level": "A1"
+  },
+  {
+    "en": "Turn it on.",
+    "es": "Enciéndelo.",
+    "level": "A1"
+  },
+  {
+    "en": "Was he Tom?",
+    "es": "¿Era ése Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Was it fun?",
+    "es": "¿Fue divertido?",
+    "level": "A1"
+  },
+  {
+    "en": "We are men.",
+    "es": "Somos hombres.",
+    "level": "A1"
+  },
+  {
+    "en": "We can pay.",
+    "es": "Nosotros podemos pagar.",
+    "level": "A1"
+  },
+  {
+    "en": "We can try.",
+    "es": "Podemos intentarlo.",
+    "level": "A1"
+  },
+  {
+    "en": "We can win.",
+    "es": "Podemos ganar.",
+    "level": "A1"
+  },
+  {
+    "en": "We had fun.",
+    "es": "Nos divertimos.",
+    "level": "A1"
+  },
+  {
+    "en": "We like it.",
+    "es": "Nos gusta.",
+    "level": "A1"
+  },
+  {
+    "en": "We love it.",
+    "es": "Nos encanta.",
+    "level": "A1"
+  },
+  {
+    "en": "We made it.",
+    "es": "Lo hicimos.",
+    "level": "A1"
+  },
+  {
+    "en": "We must go.",
+    "es": "Deberíamos irnos.",
+    "level": "A1"
+  },
+  {
+    "en": "We saw you.",
+    "es": "Te vimos.",
+    "level": "A1"
+  },
+  {
+    "en": "We want it.",
+    "es": "Lo queremos.",
+    "level": "A1"
+  },
+  {
+    "en": "We're cold.",
+    "es": "Tenemos frío.",
+    "level": "A1"
+  },
+  {
+    "en": "We're here.",
+    "es": "Estamos aquí.",
+    "level": "A1"
+  },
+  {
+    "en": "We're home.",
+    "es": "Estamos en casa.",
+    "level": "A1"
+  },
+  {
+    "en": "What a day!",
+    "es": "¡Pero qué día!",
+    "level": "A1"
+  },
+  {
+    "en": "Where am I?",
+    "es": "¿Dónde estoy?",
+    "level": "A1"
+  },
+  {
+    "en": "Who has it?",
+    "es": "¿Quién lo tiene?",
+    "level": "A1"
+  },
+  {
+    "en": "Who hid it?",
+    "es": "¿Quién lo escondió?",
+    "level": "A1"
+  },
+  {
+    "en": "Who is Tom?",
+    "es": "¿Quién es Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Who saw me?",
+    "es": "¿Quién me vió?",
+    "level": "A1"
+  },
+  {
+    "en": "You can go.",
+    "es": "Puedes irte.",
+    "level": "A1"
+  },
+  {
+    "en": "You may go.",
+    "es": "Puedes irte.",
+    "level": "A1"
+  },
+  {
+    "en": "Am I normal?",
+    "es": "¿Soy normal?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we done?",
+    "es": "¿Hemos terminado?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we lost?",
+    "es": "¿Estamos perdidos?",
+    "level": "A1"
+  },
+  {
+    "en": "Are we safe?",
+    "es": "¿Estamos a salvo?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you Tom?",
+    "es": "¿Tú eres Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you fat?",
+    "es": "¿Eres gordo?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you hot?",
+    "es": "¿Tienes calor?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you mad?",
+    "es": "¿Estás loco?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you new?",
+    "es": "¿Eres nuevo?",
+    "level": "A1"
+  },
+  {
+    "en": "Are you sad?",
+    "es": "¿Estáis tristes?",
+    "level": "A1"
+  },
+  {
+    "en": "Can I begin?",
+    "es": "¿Puedo comenzar?",
+    "level": "A1"
+  },
+  {
+    "en": "Can it wait?",
+    "es": "¿Puede esperar?",
+    "level": "A1"
+  },
+  {
+    "en": "Can we talk?",
+    "es": "¿Podemos hablar?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you see?",
+    "es": "¿Puedes ver?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you ski?",
+    "es": "¿Puedes esquiar?",
+    "level": "A1"
+  },
+  {
+    "en": "Can you try?",
+    "es": "¿Puedes intentarlo?",
+    "level": "A1"
+  },
+  {
+    "en": "Come see me.",
+    "es": "Ven a verme.",
+    "level": "A1"
+  },
+  {
+    "en": "Cook for me.",
+    "es": "Cocíname.",
+    "level": "A1"
+  },
+  {
+    "en": "Count me in.",
+    "es": "Cuenta conmigo.",
+    "level": "A1"
+  },
+  {
+    "en": "Count on it.",
+    "es": "Cuenta con eso.",
+    "level": "A1"
+  },
+  {
+    "en": "Count on me.",
+    "es": "Cuenta conmigo.",
+    "level": "A1"
+  },
+  {
+    "en": "Did Tom run?",
+    "es": "¿Corrió Tom?",
+    "level": "A1"
+  },
+  {
+    "en": "Did you win?",
+    "es": "¿Ganaste?",
+    "level": "A1"
+  },
+  {
+    "en": "Do it again!",
+    "es": "¡Hacedlo de nuevo!",
+    "level": "A1"
+  },
+  {
+    "en": "Do it again.",
+    "es": "Hazlo otra vez.",
+    "level": "A1"
+  },
+  {
+    "en": "Do it later.",
+    "es": "Hazlo ahorita.",
+    "level": "A1"
+  },
+  {
+    "en": "Do you bowl?",
+    "es": "¿Juegas boliche?",
+    "level": "A1"
+  },
+  {
+    "en": "Do you fish?",
+    "es": "¿Pesca usted?",
+    "level": "A1"
+  },
+  {
+    "en": "Don't do it!",
+    "es": "¡No lo hagas!",
+    "level": "A1"
+  },
+  {
+    "en": "Don't do it.",
+    "es": "¡No lo hagas!",
+    "level": "A1"
+  },
+  {
+    "en": "Don't go in.",
+    "es": "No entres.",
+    "level": "A1"
+  },
+  {
+    "en": "Get in here!",
+    "es": "¡Entra aquí!",
+    "level": "A1"
+  },
+  {
+    "en": "Go and rest.",
+    "es": "Id a descansar.",
+    "level": "A1"
+  },
+  {
+    "en": "Go for help.",
+    "es": "Ve por ayuda.",
+    "level": "A1"
+  },
+  {
+    "en": "Go get help.",
+    "es": "Ve a pedir ayuda.",
+    "level": "A1"
+  },
+  {
+    "en": "Go help Tom.",
+    "es": "Ve a ayudar a Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "Go home now.",
+    "es": "Vete a casa, ahora.",
+    "level": "A1"
+  },
+  {
+    "en": "Go on ahead.",
+    "es": "Ve por delante.",
+    "level": "A1"
+  },
+  {
+    "en": "Go that way.",
+    "es": "Ve por ahí.",
+    "level": "A1"
+  },
+  {
+    "en": "Go to sleep.",
+    "es": "Vete a dormir.",
+    "level": "A1"
+  },
+  {
+    "en": "Go with Tom.",
+    "es": "Andá con Tom.",
+    "level": "A1"
+  },
+  {
+    "en": "Have a beer.",
+    "es": "Tómate una cerveza.",
+    "level": "A1"
+  },
+  {
+    "en": "Have a look.",
+    "es": "Da un vistazo.",
+    "level": "A1"
+  },
+  {
+    "en": "Have a seat.",
+    "es": "Tome asiento.",
+    "level": "A1"
+  },
+  {
+    "en": "He can come.",
+    "es": "Él puede venir.",
+    "level": "A1"
+  },
+  {
+    "en": "He can read.",
+    "es": "Él sabe leer.",
+    "level": "A1"
+  },
+  {
+    "en": "He can swim.",
+    "es": "Él sabe nadar.",
+    "level": "A1"
+  },
+  {
+    "en": "He found it.",
+    "es": "Él lo encontró.",
+    "level": "A1"
+  },
+  {
+    "en": "He grew old.",
+    "es": "Él envejeció.",
+    "level": "A1"
+  },
+  {
+    "en": "He has come!",
+    "es": "¡Ha venido!",
+    "level": "A1"
+  },
+  {
+    "en": "He has guts.",
+    "es": "Él tiene agallas.",
+    "level": "A1"
+  },
+  {
+    "en": "He has wine.",
+    "es": "Tiene vino.",
+    "level": "A1"
+  },
+  {
+    "en": "He helps us.",
+    "es": "Él nos ayuda.",
+    "level": "A1"
+  },
+  {
+    "en": "He is alone.",
+    "es": "Él está solo.",
+    "level": "A1"
+  },
+  {
+    "en": "He is crazy.",
+    "es": "Está loco.",
+    "level": "A1"
+  },
+  {
+    "en": "He is eight.",
+    "es": "Él tiene ocho años.",
+    "level": "A1"
+  },
+  {
+    "en": "He is happy.",
+    "es": "Es feliz.",
+    "level": "A1"
+  },
+  {
+    "en": "He is hated.",
+    "es": "Él es odiado.",
+    "level": "A1"
+  },
+  {
+    "en": "He is lying.",
+    "es": "Él miente.",
+    "level": "A1"
+  },
+  {
+    "en": "He is nasty.",
+    "es": "Él es un guarro.",
+    "level": "A1"
+  },
+  {
+    "en": "He is tired.",
+    "es": "Él está cansado.",
+    "level": "A1"
+  },
+  {
+    "en": "He is young.",
+    "es": "Es joven.",
+    "level": "A1"
+  },
+  {
+    "en": "He loves us.",
+    "es": "Él nos quiere.",
+    "level": "A1"
+  },
+  {
+    "en": "He needs it.",
+    "es": "Él lo necesita.",
+    "level": "A1"
+  },
+  {
+    "en": "He was busy.",
+    "es": "Él estaba ocupado.",
+    "level": "A1"
+  },
+  {
+    "en": "He's not in.",
+    "es": "No está aquí.",
+    "level": "A1"
+  },
+  {
+    "en": "Help me out.",
+    "es": "Ayúdame.",
+    "level": "A1"
+  },
+  {
+    "en": "Here I come.",
+    "es": "Aquí vengo.",
+    "level": "A1"
+  },
+  {
+    "en": "Here she is!",
+    "es": "¡Aquí está ella!",
+    "level": "A1"
+  },
+  {
+    "en": "Here we are!",
+    "es": "¡Aquí estamos!",
+    "level": "A1"
+  },
+  {
+    "en": "Here we are.",
+    "es": "Aquí estamos.",
+    "level": "A1"
+  },
+  {
+    "en": "How are you?",
+    "es": "¿Cómo estás vos?",
+    "level": "A1"
+  },
+  {
+    "en": "I am a cook.",
+    "es": "Soy cocinero.",
+    "level": "A1"
+  },
+  {
+    "en": "I am a monk.",
+    "es": "Soy un monje.",
+    "level": "A1"
+  },
+  {
+    "en": "I am better.",
+    "es": "Estoy mejor.",
+    "level": "A1"
+  },
+  {
+    "en": "I am dozing.",
+    "es": "Me estoy quedando dormido.",
+    "level": "A1"
+  },
+  {
+    "en": "I am taller.",
+    "es": "Yo soy más alto.",
+    "level": "A1"
+  },
+  {
+    "en": "I ate bread.",
+    "es": "Comí pan.",
+    "level": "A1"
+  },
+  {
+    "en": "I bought it.",
+    "es": "Lo he comprado.",
+    "level": "A1"
+  },
+  {
+    "en": "I buried it.",
+    "es": "Lo enterré.",
+    "level": "A1"
+  },
+  {
+    "en": "I can dance.",
+    "es": "Sé bailar.",
+    "level": "A1"
+  },
+  {
+    "en": "I can do it.",
+    "es": "Puedo hacerlo.",
+    "level": "A1"
+  },
+  {
+    "en": "I can share.",
+    "es": "Puedo compartir.",
+    "level": "A1"
+  },
+  {
+    "en": "I can't eat.",
+    "es": "No puedo comer.",
+    "level": "A1"
+  },
+  {
+    "en": "I didn't go.",
+    "es": "No fui.",
+    "level": "A1"
+  },
+  {
+    "en": "I don't eat.",
+    "es": "No como.",
+    "level": "A1"
+  },
+  {
+    "en": "I drive now.",
+    "es": "Ahora conduzco.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat bread.",
+    "es": "Como pan.",
+    "level": "A1"
+  },
+  {
+    "en": "I eat fruit.",
+    "es": "Como fruta.",
+    "level": "A1"
+  },
+  {
+    "en": "I feel cold.",
+    "es": "Noto frío.",
+    "level": "A1"
+  },
+  {
+    "en": "I felt cold.",
+    "es": "Tenía frío.",
+    "level": "A1"
+  },
+  {
+    "en": "I felt that.",
+    "es": "Sentí eso.",
+    "level": "A1"
+  },
+  {
+    "en": "I forgot it.",
+    "es": "Lo olvidé.",
+    "level": "A1"
+  },
+  {
+    "en": "I found you.",
+    "es": "Ya te encontré.",
+    "level": "A1"
+  },
+  {
+    "en": "I guess not.",
+    "es": "Supongo que no.",
+    "level": "A1"
+  },
+  {
+    "en": "I had to go.",
+    "es": "Tuve que ir.",
+    "level": "A1"
+  },
+  {
+    "en": "I hate fish.",
+    "es": "Odio el pescado.",
+    "level": "A1"
+  },
+  {
+    "en": "I hate milk.",
+    "es": "Odio la leche.",
+    "level": "A1"
+  },
+  {
+    "en": "I hate this.",
+    "es": "Lo odio.",
+    "level": "A1"
+  },
+  {
+    "en": "I have cash.",
+    "es": "Tengo dinero.",
+    "level": "A1"
+  },
+  {
+    "en": "I have gout.",
+    "es": "Tengo gota.",
+    "level": "A1"
+  },
+  {
+    "en": "I have news.",
+    "es": "Traigo noticias.",
+    "level": "A1"
+  },
+  {
+    "en": "I have time.",
+    "es": "Tengo tiempo.",
+    "level": "A1"
+  },
+  {
+    "en": "I have wine.",
+    "es": "Tengo vino.",
+    "level": "A1"
+  },
+  {
+    "en": "I hear that.",
+    "es": "Yo escucho eso.",
+    "level": "A1"
+  },
+  {
+    "en": "I heard you.",
+    "es": "Te oí.",
+    "level": "A1"
+  },
+  {
+    "en": "I knew that.",
+    "es": "Lo sabía.",
+    "level": "A1"
+  },
+  {
+    "en": "I know that.",
+    "es": "Yo sé eso.",
+    "level": "A1"
+  },
+  {
+    "en": "I know them.",
+    "es": "Los conozco.",
+    "level": "A1"
+  },
+  {
+    "en": "I know this.",
+    "es": "Esto lo sé.",
+    "level": "A1"
+  },
+  {
+    "en": "I like both.",
+    "es": "Me gustan los dos.",
+    "level": "A1"
+  },
+  {
+    "en": "I like cats.",
+    "es": "Me encantan los gatos.",
+    "level": "A1"
+  },
+  {
+    "en": "I like dogs.",
+    "es": "Me gustan los perros.",
+    "level": "A1"
+  },
+  {
+    "en": "I like fish.",
+    "es": "Me gustan los peces.",
+    "level": "A1"
+  },
+  {
+    "en": "I like jazz.",
+    "es": "Me gusta el jazz.",
+    "level": "A1"
+  },
+  {
+    "en": "I like milk.",
+    "es": "Me gusta la leche.",
+    "level": "A1"
+  },
+  {
+    "en": "I like peas.",
+    "es": "Me gustan los guisantes.",
+    "level": "A1"
+  },
+  {
+    "en": "I like rain.",
+    "es": "Me encanta la lluvia.",
+    "level": "A1"
+  },
+  {
+    "en": "I like rice.",
+    "es": "Me gusta el arroz.",
+    "level": "A1"
+  },
+  {
+    "en": "I like rock.",
+    "es": "Me gusta el rock.",
+    "level": "A1"
+  },
+  {
+    "en": "I like snow.",
+    "es": "Me gusta la nieve.",
+    "level": "A1"
+  },
+  {
+    "en": "I like that.",
+    "es": "Me gusta eso.",
+    "level": "A1"
+  },
+  {
+    "en": "I like them.",
+    "es": "Me gustan.",
+    "level": "A1"
+  },
+  {
+    "en": "I like this.",
+    "es": "Me gusta esto.",
+    "level": "A1"
+  },
+  {
+    "en": "I like wine.",
+    "es": "Me gusta el vino.",
+    "level": "A1"
+  },
+  {
+    "en": "I live here.",
+    "es": "Vivo aquí.",
+    "level": "A1"
+  },
+  {
+    "en": "I love beef.",
+    "es": "Me encanta la carne de res.",
+    "level": "A1"
+  },
+  {
+    "en": "I love beer.",
+    "es": "Me encanta la cerveza.",
+    "level": "A1"
+  },
+  {
+    "en": "I love dogs.",
+    "es": "Me encantan los perros.",
+    "level": "A1"
+  },
+  {
+    "en": "I love fish.",
+    "es": "Me encanta el pescado.",
+    "level": "A1"
+  },
+  {
+    "en": "I love golf.",
+    "es": "Me encanta el golf.",
+    "level": "A1"
+  },
+  {
+    "en": "I love kids.",
+    "es": "Me encantan los niños.",
+    "level": "A1"
+  },
+  {
+    "en": "I love life.",
+    "es": "Amo la vida.",
+    "level": "A1"
+  },
+  {
+    "en": "I love math.",
+    "es": "Me encantan las matemáticas.",
+    "level": "A1"
+  },
+  {
+    "en": "I love rock.",
+    "es": "Me gusta el rock.",
+    "level": "A1"
+  },
+  {
+    "en": "I love snow.",
+    "es": "Me encanta la nieve.",
+    "level": "A1"
+  },
+  {
+    "en": "I love soup.",
+    "es": "Me encanta la sopa.",
+    "level": "A1"
+  },
+  {
+    "en": "I love them.",
+    "es": "Les quiero.",
+    "level": "A1"
+  },
+  {
+    "en": "I love this.",
+    "es": "Me encanta esto.",
+    "level": "A1"
+  },
+  {
+    "en": "I loved her.",
+    "es": "Yo la amaba.",
+    "level": "A1"
+  },
+  {
+    "en": "I loved you.",
+    "es": "Yo te quería.",
+    "level": "A1"
+  },
+  {
+    "en": "I made that.",
+    "es": "Yo hice eso.",
+    "level": "A1"
+  },
+  {
+    "en": "I mean that.",
+    "es": "A eso me refiero.",
+    "level": "A1"
+  },
+  {
+    "en": "I missed it.",
+    "es": "Lo extrañaba.",
+    "level": "A1"
+  },
+  {
+    "en": "I need help.",
+    "es": "Necesito ayuda.",
+    "level": "A1"
+  },
+  {
+    "en": "I need them.",
+    "es": "Los necesito.",
+    "level": "A1"
+  },
+  {
+    "en": "I need this.",
+    "es": "Necesito esto.",
+    "level": "A1"
+  },
+  {
+    "en": "I need time.",
+    "es": "Necesito tiempo.",
+    "level": "A1"
+  },
+  {
+    "en": "I needed it.",
+    "es": "Yo lo necesité.",
+    "level": "A1"
+  },
+  {
+    "en": "I read lips.",
+    "es": "Leo labios.",
+    "level": "A1"
+  },
+  {
+    "en": "I said that.",
+    "es": "Yo dije eso.",
+    "level": "A1"
+  },
+  {
+    "en": "I saw a dog.",
+    "es": "Vi a un perro.",
+    "level": "A1"
+  },
+  {
+    "en": "I sell fish.",
+    "es": "Vendo pescado.",
+    "level": "A1"
+  },
+  {
+    "en": "I should go.",
+    "es": "Me debería ir.",
+    "level": "A1"
+  },
+  {
+    "en": "I thank you.",
+    "es": "Te lo agradezco.",
+    "level": "A1"
+  },
+  {
+    "en": "I trust her.",
+    "es": "Yo confío en ella.",
+    "level": "A1"
+  },
+  {
+    "en": "I trust him.",
+    "es": "Yo confío en él.",
+    "level": "A1"
+  },
+  {
+    "en": "I trust you.",
+    "es": "Confío en ti.",
+    "level": "A1"
+  },
+  {
+    "en": "I voted yes.",
+    "es": "Yo voté que sí.",
+    "level": "A1"
+  },
+  {
+    "en": "I want eggs.",
+    "es": "Quiero huevos.",
+    "level": "A1"
+  },
+  {
+    "en": "I want mine.",
+    "es": "Quiero el mío.",
+    "level": "A1"
+  },
+  {
+    "en": "I want more.",
+    "es": "Quiero más.",
+    "level": "A1"
+  }
+]

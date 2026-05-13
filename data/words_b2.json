@@ -1,0 +1,572 @@
+[
+  {
+    "word": "acknowledge",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "əkˈnɒlɪdʒ",
+    "translations": {
+      "es": { "translation": "reconocer", "alt_translations": ["admitir"], "example_target": "Es importante reconocer tus errores para crecer." },
+      "pt": { "translation": "reconhecer", "alt_translations": ["admitir"], "example_target": "É importante reconhecer seus erros para crescer." }
+    }
+  },
+  {
+    "word": "adapt",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "əˈdæpt",
+    "translations": {
+      "es": { "translation": "adaptarse", "alt_translations": ["ajustarse"], "example_target": "Tuve que adaptarme rápido a la cultura americana." },
+      "pt": { "translation": "adaptar-se", "alt_translations": ["ajustar-se"], "example_target": "Tive que me adaptar rapidamente à cultura americana." }
+    }
+  },
+  {
+    "word": "analyze",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ˈænəlaɪz",
+    "translations": {
+      "es": { "translation": "analizar", "alt_translations": ["examinar"], "example_target": "Necesito analizar los datos antes de tomar una decisión." },
+      "pt": { "translation": "analisar", "alt_translations": ["examinar"], "example_target": "Preciso analisar os dados antes de tomar uma decisão." }
+    }
+  },
+  {
+    "word": "anticipate",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ænˈtɪsɪpeɪt",
+    "translations": {
+      "es": { "translation": "anticipar", "alt_translations": ["prever"], "example_target": "Un buen líder sabe anticipar los problemas." },
+      "pt": { "translation": "antecipar", "alt_translations": ["prever"], "example_target": "Um bom líder sabe antecipar os problemas." }
+    }
+  },
+  {
+    "word": "assess",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "əˈses",
+    "translations": {
+      "es": { "translation": "evaluar", "alt_translations": ["valorar"], "example_target": "El médico evaluó mi estado de salud cuidadosamente." },
+      "pt": { "translation": "avaliar", "alt_translations": ["analisar"], "example_target": "O médico avaliou meu estado de saúde cuidadosamente." }
+    }
+  },
+  {
+    "word": "collaborate",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "kəˈlæbəreɪt",
+    "translations": {
+      "es": { "translation": "colaborar", "alt_translations": ["cooperar"], "example_target": "Aprendemos mejor cuando colaboramos con otros." },
+      "pt": { "translation": "colaborar", "alt_translations": ["cooperar"], "example_target": "Aprendemos melhor quando colaboramos com outros." }
+    }
+  },
+  {
+    "word": "contribute",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "kənˈtrɪbjuːt",
+    "translations": {
+      "es": { "translation": "contribuir", "alt_translations": ["aportar"], "example_target": "Quiero contribuir al éxito de mi comunidad." },
+      "pt": { "translation": "contribuir", "alt_translations": ["colaborar"], "example_target": "Quero contribuir para o sucesso da minha comunidade." }
+    }
+  },
+  {
+    "word": "debate",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "dɪˈbeɪt",
+    "translations": {
+      "es": { "translation": "debatir", "alt_translations": ["discutir"], "example_target": "Es sano debatir ideas diferentes con respeto." },
+      "pt": { "translation": "debater", "alt_translations": ["discutir"], "example_target": "É saudável debater ideias diferentes com respeito." }
+    }
+  },
+  {
+    "word": "demonstrate",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ˈdemənstreɪt",
+    "translations": {
+      "es": { "translation": "demostrar", "alt_translations": ["mostrar"], "example_target": "Demuestra tu habilidad con la práctica diaria." },
+      "pt": { "translation": "demonstrar", "alt_translations": ["mostrar"], "example_target": "Demonstre sua habilidade com a prática diária." }
+    }
+  },
+  {
+    "word": "emphasize",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ˈemfəsaɪz",
+    "translations": {
+      "es": { "translation": "enfatizar", "alt_translations": ["destacar"], "example_target": "El profesor enfatizó la importancia de la pronunciación." },
+      "pt": { "translation": "enfatizar", "alt_translations": ["destacar"], "example_target": "O professor enfatizou a importância da pronúncia." }
+    }
+  },
+  {
+    "word": "evaluate",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ɪˈvæljueɪt",
+    "translations": {
+      "es": { "translation": "evaluar", "alt_translations": ["juzgar"], "example_target": "Debes evaluar tus opciones con calma." },
+      "pt": { "translation": "avaliar", "alt_translations": ["julgar"], "example_target": "Você deve avaliar suas opções com calma." }
+    }
+  },
+  {
+    "word": "generate",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ˈdʒenəreɪt",
+    "translations": {
+      "es": { "translation": "generar", "alt_translations": ["crear"], "example_target": "La práctica constante genera confianza al hablar." },
+      "pt": { "translation": "gerar", "alt_translations": ["criar"], "example_target": "A prática constante gera confiança ao falar." }
+    }
+  },
+  {
+    "word": "identify",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "aɪˈdentɪfaɪ",
+    "translations": {
+      "es": { "translation": "identificar", "alt_translations": ["reconocer"], "example_target": "Identifica tus áreas débiles y trabaja en ellas." },
+      "pt": { "translation": "identificar", "alt_translations": ["reconhecer"], "example_target": "Identifique suas áreas fracas e trabalhe nelas." }
+    }
+  },
+  {
+    "word": "implement",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ˈɪmplɪment",
+    "translations": {
+      "es": { "translation": "implementar", "alt_translations": ["aplicar"], "example_target": "Vamos a implementar un nuevo plan de estudio." },
+      "pt": { "translation": "implementar", "alt_translations": ["aplicar"], "example_target": "Vamos implementar um novo plano de estudo." }
+    }
+  },
+  {
+    "word": "influence",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ˈɪnfluəns",
+    "translations": {
+      "es": { "translation": "influir", "alt_translations": ["influenciar"], "example_target": "Las películas en inglés influyen en tu pronunciación." },
+      "pt": { "translation": "influenciar", "alt_translations": ["influir"], "example_target": "Os filmes em inglês influenciam sua pronúncia." }
+    }
+  },
+  {
+    "word": "investigate",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "ɪnˈvestɪɡeɪt",
+    "translations": {
+      "es": { "translation": "investigar", "alt_translations": ["indagar"], "example_target": "Investiga bien antes de aceptar cualquier trabajo." },
+      "pt": { "translation": "investigar", "alt_translations": ["pesquisar"], "example_target": "Pesquise bem antes de aceitar qualquer emprego." }
+    }
+  },
+  {
+    "word": "maintain",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "meɪnˈteɪn",
+    "translations": {
+      "es": { "translation": "mantener", "alt_translations": ["conservar"], "example_target": "Es difícil mantener la motivación a largo plazo." },
+      "pt": { "translation": "manter", "alt_translations": ["conservar"], "example_target": "É difícil manter a motivação a longo prazo." }
+    }
+  },
+  {
+    "word": "negotiate",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "nɪˈɡəʊʃieɪt",
+    "translations": {
+      "es": { "translation": "negociar", "alt_translations": [], "example_target": "Aprender inglés te ayuda a negociar mejor en el trabajo." },
+      "pt": { "translation": "negociar", "alt_translations": [], "example_target": "Aprender inglês ajuda você a negociar melhor no trabalho." }
+    }
+  },
+  {
+    "word": "prioritize",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "praɪˈɒrɪtaɪz",
+    "translations": {
+      "es": { "translation": "priorizar", "alt_translations": ["dar prioridad"], "example_target": "Debes priorizar tu aprendizaje del inglés cada día." },
+      "pt": { "translation": "priorizar", "alt_translations": ["dar prioridade"], "example_target": "Você deve priorizar seu aprendizado de inglês todos os dias." }
+    }
+  },
+  {
+    "word": "reflect",
+    "part_of_speech": "verb",
+    "cefr_level": "B2",
+    "ipa": "rɪˈflekt",
+    "translations": {
+      "es": { "translation": "reflexionar", "alt_translations": ["meditar"], "example_target": "Reflexiona sobre lo que aprendiste hoy." },
+      "pt": { "translation": "refletir", "alt_translations": ["meditar"], "example_target": "Reflita sobre o que você aprendeu hoje." }
+    }
+  },
+  {
+    "word": "achievement",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "əˈtʃiːvmənt",
+    "translations": {
+      "es": { "translation": "logro", "alt_translations": ["conquista"], "example_target": "Hablar inglés con fluidez es un gran logro." },
+      "pt": { "translation": "conquista", "alt_translations": ["realização"], "example_target": "Falar inglês com fluência é uma grande conquista." }
+    }
+  },
+  {
+    "word": "approach",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "əˈprəʊtʃ",
+    "translations": {
+      "es": { "translation": "enfoque", "alt_translations": ["método"], "example_target": "Necesitas un nuevo enfoque para aprender vocabulario." },
+      "pt": { "translation": "abordagem", "alt_translations": ["método"], "example_target": "Você precisa de uma nova abordagem para aprender vocabulário." }
+    }
+  },
+  {
+    "word": "attitude",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˈætɪtjuːd",
+    "translations": {
+      "es": { "translation": "actitud", "alt_translations": [], "example_target": "Tu actitud determina tu progreso en el idioma." },
+      "pt": { "translation": "atitude", "alt_translations": [], "example_target": "Sua atitude determina seu progresso no idioma." }
+    }
+  },
+  {
+    "word": "circumstance",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˈsɜːrkəmstæns",
+    "translations": {
+      "es": { "translation": "circunstancia", "alt_translations": ["situación"], "example_target": "Las circunstancias no siempre son las ideales para estudiar." },
+      "pt": { "translation": "circunstância", "alt_translations": ["situação"], "example_target": "As circunstâncias nem sempre são ideais para estudar." }
+    }
+  },
+  {
+    "word": "commitment",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "kəˈmɪtmənt",
+    "translations": {
+      "es": { "translation": "compromiso", "alt_translations": ["dedicación"], "example_target": "El aprendizaje requiere compromiso y constancia." },
+      "pt": { "translation": "compromisso", "alt_translations": ["dedicação"], "example_target": "O aprendizado requer compromisso e constância." }
+    }
+  },
+  {
+    "word": "consequence",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˈkɒnsɪkwəns",
+    "translations": {
+      "es": { "translation": "consecuencia", "alt_translations": ["resultado"], "example_target": "No estudiar tiene consecuencias en tu progreso." },
+      "pt": { "translation": "consequência", "alt_translations": ["resultado"], "example_target": "Não estudar tem consequências no seu progresso." }
+    }
+  },
+  {
+    "word": "contribution",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˌkɒntrɪˈbjuːʃən",
+    "translations": {
+      "es": { "translation": "contribución", "alt_translations": ["aporte"], "example_target": "Tu contribución al grupo fue muy valiosa." },
+      "pt": { "translation": "contribuição", "alt_translations": ["aporte"], "example_target": "Sua contribuição para o grupo foi muito valiosa." }
+    }
+  },
+  {
+    "word": "diversity",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "daɪˈvɜːrsɪti",
+    "translations": {
+      "es": { "translation": "diversidad", "alt_translations": ["variedad"], "example_target": "La diversidad cultural de los EE. UU. es única en el mundo." },
+      "pt": { "translation": "diversidade", "alt_translations": ["variedade"], "example_target": "A diversidade cultural dos EUA é única no mundo." }
+    }
+  },
+  {
+    "word": "evidence",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˈevɪdəns",
+    "translations": {
+      "es": { "translation": "evidencia", "alt_translations": ["prueba"], "example_target": "Hay evidencia de que la práctica diaria acelera el aprendizaje." },
+      "pt": { "translation": "evidência", "alt_translations": ["prova"], "example_target": "Há evidências de que a prática diária acelera o aprendizado." }
+    }
+  },
+  {
+    "word": "expectation",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˌekspekˈteɪʃən",
+    "translations": {
+      "es": { "translation": "expectativa", "alt_translations": ["esperanza"], "example_target": "Tengo grandes expectativas sobre mi futuro en inglés." },
+      "pt": { "translation": "expectativa", "alt_translations": ["esperança"], "example_target": "Tenho grandes expectativas sobre meu futuro em inglês." }
+    }
+  },
+  {
+    "word": "impact",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˈɪmpækt",
+    "translations": {
+      "es": { "translation": "impacto", "alt_translations": ["efecto"], "example_target": "El inglés tiene un gran impacto en tu vida profesional." },
+      "pt": { "translation": "impacto", "alt_translations": ["efeito"], "example_target": "O inglês tem um grande impacto na sua vida profissional." }
+    }
+  },
+  {
+    "word": "innovation",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˌɪnəˈveɪʃən",
+    "translations": {
+      "es": { "translation": "innovación", "alt_translations": ["novedad"], "example_target": "La innovación tecnológica cambia la forma de aprender idiomas." },
+      "pt": { "translation": "inovação", "alt_translations": ["novidade"], "example_target": "A inovação tecnológica muda a forma de aprender idiomas." }
+    }
+  },
+  {
+    "word": "interpretation",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ɪnˌtɜːrprɪˈteɪʃən",
+    "translations": {
+      "es": { "translation": "interpretación", "alt_translations": ["comprensión"], "example_target": "La interpretación correcta del texto es fundamental." },
+      "pt": { "translation": "interpretação", "alt_translations": ["compreensão"], "example_target": "A interpretação correta do texto é fundamental." }
+    }
+  },
+  {
+    "word": "motivation",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˌməʊtɪˈveɪʃən",
+    "translations": {
+      "es": { "translation": "motivación", "alt_translations": ["estímulo"], "example_target": "La motivación es clave para aprender un nuevo idioma." },
+      "pt": { "translation": "motivação", "alt_translations": ["estímulo"], "example_target": "A motivação é fundamental para aprender um novo idioma." }
+    }
+  },
+  {
+    "word": "perspective",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "pərˈspektɪv",
+    "translations": {
+      "es": { "translation": "perspectiva", "alt_translations": ["punto de vista"], "example_target": "Viajar te da una nueva perspectiva del mundo." },
+      "pt": { "translation": "perspectiva", "alt_translations": ["ponto de vista"], "example_target": "Viajar te dá uma nova perspectiva do mundo." }
+    }
+  },
+  {
+    "word": "priority",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "praɪˈɒrɪti",
+    "translations": {
+      "es": { "translation": "prioridad", "alt_translations": [], "example_target": "El inglés debe ser una prioridad en tu vida diaria." },
+      "pt": { "translation": "prioridade", "alt_translations": [], "example_target": "O inglês deve ser uma prioridade na sua vida diária." }
+    }
+  },
+  {
+    "word": "responsibility",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "rɪˌspɒnsɪˈbɪlɪti",
+    "translations": {
+      "es": { "translation": "responsabilidad", "alt_translations": ["obligación"], "example_target": "Tienes la responsabilidad de practicar todos los días." },
+      "pt": { "translation": "responsabilidade", "alt_translations": ["obrigação"], "example_target": "Você tem a responsabilidade de praticar todos os dias." }
+    }
+  },
+  {
+    "word": "strategy",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˈstrætədʒi",
+    "translations": {
+      "es": { "translation": "estrategia", "alt_translations": ["plan"], "example_target": "Necesitas una buena estrategia para aprender inglés rápido." },
+      "pt": { "translation": "estratégia", "alt_translations": ["plano"], "example_target": "Você precisa de uma boa estratégia para aprender inglês rápido." }
+    }
+  },
+  {
+    "word": "tendency",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "ˈtendənsi",
+    "translations": {
+      "es": { "translation": "tendencia", "alt_translations": ["inclinación"], "example_target": "Tengo tendencia a mezclar palabras en español e inglés." },
+      "pt": { "translation": "tendência", "alt_translations": ["inclinação"], "example_target": "Tenho tendência a misturar palavras em português e inglês." }
+    }
+  },
+  {
+    "word": "assumption",
+    "part_of_speech": "noun",
+    "cefr_level": "B2",
+    "ipa": "əˈsʌmpʃən",
+    "translations": {
+      "es": { "translation": "suposición", "alt_translations": ["presunción"], "example_target": "No hagas suposiciones, pregunta cuando no entiendas." },
+      "pt": { "translation": "suposição", "alt_translations": ["presunção"], "example_target": "Não faça suposições, pergunte quando não entender." }
+    }
+  },
+  {
+    "word": "ambitious",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "æmˈbɪʃəs",
+    "translations": {
+      "es": { "translation": "ambicioso", "alt_translations": [], "example_target": "Tener metas ambiciosas te mantiene enfocado." },
+      "pt": { "translation": "ambicioso", "alt_translations": [], "example_target": "Ter metas ambiciosas mantém você focado." }
+    }
+  },
+  {
+    "word": "appropriate",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "əˈprəʊpriət",
+    "translations": {
+      "es": { "translation": "apropiado", "alt_translations": ["adecuado"], "example_target": "Usa un tono apropiado en una entrevista de trabajo." },
+      "pt": { "translation": "apropriado", "alt_translations": ["adequado"], "example_target": "Use um tom apropriado em uma entrevista de emprego." }
+    }
+  },
+  {
+    "word": "complex",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˈkɒmpleks",
+    "translations": {
+      "es": { "translation": "complejo", "alt_translations": ["complicado"], "example_target": "La gramática inglesa puede parecer compleja al principio." },
+      "pt": { "translation": "complexo", "alt_translations": ["complicado"], "example_target": "A gramática inglesa pode parecer complexa no início." }
+    }
+  },
+  {
+    "word": "consistent",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "kənˈsɪstənt",
+    "translations": {
+      "es": { "translation": "consistente", "alt_translations": ["constante"], "example_target": "Sé consistente con tus horas de estudio cada semana." },
+      "pt": { "translation": "consistente", "alt_translations": ["constante"], "example_target": "Seja consistente com suas horas de estudo toda semana." }
+    }
+  },
+  {
+    "word": "controversial",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˌkɒntrəˈvɜːʃəl",
+    "translations": {
+      "es": { "translation": "controvertido", "alt_translations": ["polémico"], "example_target": "Ese tema es bastante controvertido en la sociedad." },
+      "pt": { "translation": "controverso", "alt_translations": ["polêmico"], "example_target": "Esse assunto é bastante controverso na sociedade." }
+    }
+  },
+  {
+    "word": "creative",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "kriˈeɪtɪv",
+    "translations": {
+      "es": { "translation": "creativo", "alt_translations": ["imaginativo"], "example_target": "Busca formas creativas de practicar el inglés cada día." },
+      "pt": { "translation": "criativo", "alt_translations": ["imaginativo"], "example_target": "Busque formas criativas de praticar inglês todos os dias." }
+    }
+  },
+  {
+    "word": "critical",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˈkrɪtɪkəl",
+    "translations": {
+      "es": { "translation": "crítico", "alt_translations": ["fundamental"], "example_target": "El pensamiento crítico es esencial en el trabajo moderno." },
+      "pt": { "translation": "crítico", "alt_translations": ["fundamental"], "example_target": "O pensamento crítico é essencial no trabalho moderno." }
+    }
+  },
+  {
+    "word": "dedicated",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˈdedɪkeɪtɪd",
+    "translations": {
+      "es": { "translation": "dedicado", "alt_translations": ["comprometido"], "example_target": "Los estudiantes dedicados siempre logran sus metas." },
+      "pt": { "translation": "dedicado", "alt_translations": ["comprometido"], "example_target": "Os alunos dedicados sempre alcançam seus objetivos." }
+    }
+  },
+  {
+    "word": "effective",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ɪˈfektɪv",
+    "translations": {
+      "es": { "translation": "efectivo", "alt_translations": ["eficaz"], "example_target": "Esta app es una herramienta efectiva para aprender inglés." },
+      "pt": { "translation": "eficaz", "alt_translations": ["efetivo"], "example_target": "Este app é uma ferramenta eficaz para aprender inglês." }
+    }
+  },
+  {
+    "word": "efficient",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ɪˈfɪʃənt",
+    "translations": {
+      "es": { "translation": "eficiente", "alt_translations": ["productivo"], "example_target": "El método de tarjetas es muy eficiente para memorizar." },
+      "pt": { "translation": "eficiente", "alt_translations": ["produtivo"], "example_target": "O método de cartões é muito eficiente para memorizar." }
+    }
+  },
+  {
+    "word": "ethical",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˈeθɪkəl",
+    "translations": {
+      "es": { "translation": "ético", "alt_translations": ["moral"], "example_target": "Es importante ser ético en todas tus decisiones laborales." },
+      "pt": { "translation": "ético", "alt_translations": ["moral"], "example_target": "É importante ser ético em todas as suas decisões profissionais." }
+    }
+  },
+  {
+    "word": "fundamental",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˌfʌndəˈmentəl",
+    "translations": {
+      "es": { "translation": "fundamental", "alt_translations": ["básico"], "example_target": "La pronunciación es fundamental para ser entendido." },
+      "pt": { "translation": "fundamental", "alt_translations": ["básico"], "example_target": "A pronúncia é fundamental para ser entendido." }
+    }
+  },
+  {
+    "word": "genuine",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˈdʒenjuɪn",
+    "translations": {
+      "es": { "translation": "genuino", "alt_translations": ["auténtico"], "example_target": "Su interés por aprender inglés es genuino y admirable." },
+      "pt": { "translation": "genuíno", "alt_translations": ["autêntico"], "example_target": "Seu interesse em aprender inglês é genuíno e admirável." }
+    }
+  },
+  {
+    "word": "innovative",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˈɪnəveɪtɪv",
+    "translations": {
+      "es": { "translation": "innovador", "alt_translations": ["creativo"], "example_target": "Necesitamos métodos innovadores para enseñar idiomas." },
+      "pt": { "translation": "inovador", "alt_translations": ["criativo"], "example_target": "Precisamos de métodos inovadores para ensinar idiomas." }
+    }
+  },
+  {
+    "word": "overwhelming",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "ˌəʊvəˈwelmɪŋ",
+    "translations": {
+      "es": { "translation": "abrumador", "alt_translations": ["agobiante"], "example_target": "Al principio, el inglés puede parecer abrumador, pero mejora." },
+      "pt": { "translation": "avassalador", "alt_translations": ["esmagador"], "example_target": "No início, o inglês pode parecer avassalador, mas melhora." }
+    }
+  },
+  {
+    "word": "significant",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "sɪɡˈnɪfɪkənt",
+    "translations": {
+      "es": { "translation": "significativo", "alt_translations": ["importante"], "example_target": "Has hecho un progreso significativo este mes." },
+      "pt": { "translation": "significativo", "alt_translations": ["importante"], "example_target": "Você fez um progresso significativo este mês." }
+    }
+  },
+  {
+    "word": "sophisticated",
+    "part_of_speech": "adjective",
+    "cefr_level": "B2",
+    "ipa": "səˈfɪstɪkeɪtɪd",
+    "translations": {
+      "es": { "translation": "sofisticado", "alt_translations": ["refinado"], "example_target": "Con el tiempo, tu inglés se volverá más sofisticado." },
+      "pt": { "translation": "sofisticado", "alt_translations": ["refinado"], "example_target": "Com o tempo, seu inglês ficará mais sofisticado." }
+    }
+  }
+]

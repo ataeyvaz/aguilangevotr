@@ -1,0 +1,47 @@
+{
+  "scenario": "pharmacy",
+  "language": "pt",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "Olá! Como posso ajudar você hoje?",
+      "expected": "Preciso de um remédio para dor de cabeça.",
+      "hint": "Say you need medicine for a headache"
+    },
+    {
+      "bot": "Você tem alergia a algum medicamento?",
+      "expected": "Não, não tenho alergia a remédios.",
+      "hint": "Say you don't have any drug allergies"
+    },
+    {
+      "bot": "Você prefere comprimido ou líquido?",
+      "expected": "Prefiro comprimido, por favor.",
+      "hint": "Say you prefer pills"
+    },
+    {
+      "bot": "Você tem receita médica para isso?",
+      "expected": "Não, é um remédio sem receita.",
+      "hint": "Say it's an over-the-counter medicine"
+    },
+    {
+      "bot": "Você precisa de algo para tosse também?",
+      "expected": "Sim, quero um xarope para tosse seca.",
+      "hint": "Say you want syrup for dry cough"
+    },
+    {
+      "bot": "Quer aproveitar e comprar protetor solar?",
+      "expected": "Sim, quero um protetor solar FPS 50.",
+      "hint": "Say you want sunscreen SPF 50"
+    },
+    {
+      "bot": "Você sabe como tomar esse remédio?",
+      "expected": "Sim, tomo um comprimido a cada oito horas.",
+      "hint": "Say you take one pill every eight hours"
+    },
+    {
+      "bot": "Precisa de alguma coisa para as crianças?",
+      "expected": "Não, obrigado. Só preciso desses itens.",
+      "hint": "Decline, say you only need these items"
+    }
+  ]
+}

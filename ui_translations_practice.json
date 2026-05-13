@@ -1,0 +1,107 @@
+{
+  "type your answer": {
+    "en": "Type your answer",
+    "es": "Escribe tu respuesta",
+    "pt": "Digite sua resposta"
+  },
+  "submit": {
+    "en": "Submit",
+    "es": "Enviar",
+    "pt": "Enviar"
+  },
+  "speak now": {
+    "en": "Speak now",
+    "es": "Habla ahora",
+    "pt": "Fale agora"
+  },
+  "listening": {
+    "en": "Listening",
+    "es": "Escuchando",
+    "pt": "Ouvindo"
+  },
+  "almost": {
+    "en": "Almost",
+    "es": "Casi",
+    "pt": "Quase"
+  },
+  "did you mean": {
+    "en": "Did you mean",
+    "es": "¿Quisiste decir",
+    "pt": "Você quis dizer"
+  },
+  "not available in this browser": {
+    "en": "Not available in this browser",
+    "es": "No disponible en este navegador",
+    "pt": "Não disponível neste navegador"
+  },
+  "try again": {
+    "en": "Try again",
+    "es": "Intentar de nuevo",
+    "pt": "Tentar novamente"
+  },
+  "your answer": {
+    "en": "Your answer",
+    "es": "Tu respuesta",
+    "pt": "Sua resposta"
+  },
+  "pick an answer": {
+    "en": "Pick an answer",
+    "es": "Elige una respuesta",
+    "pt": "Escolha uma resposta"
+  },
+  "how do you want to answer": {
+    "en": "How do you want to answer",
+    "es": "¿Cómo quieres responder?",
+    "pt": "Como você quer responder?"
+  },
+  "points each": {
+    "en": "Points each",
+    "es": "Puntos cada uno",
+    "pt": "Pontos cada"
+  },
+  "type mode": {
+    "en": "Type mode",
+    "es": "Modo escribir",
+    "pt": "Modo digitar"
+  },
+  "speak mode": {
+    "en": "Speak mode",
+    "es": "Modo hablar",
+    "pt": "Modo falar"
+  },
+  "pick mode": {
+    "en": "Pick mode",
+    "es": "Modo elegir",
+    "pt": "Modo escolher"
+  },
+  "microphone access required": {
+    "en": "Microphone access required",
+    "es": "Se requiere acceso al micrófono",
+    "pt": "Acesso ao microfone necessário"
+  },
+  "allow microphone": {
+    "en": "Allow microphone",
+    "es": "Permitir micrófono",
+    "pt": "Permitir microfone"
+  },
+  "answer submitted": {
+    "en": "Answer submitted",
+    "es": "Respuesta enviada",
+    "pt": "Resposta enviada"
+  },
+  "well almost": {
+    "en": "Well almost",
+    "es": "Bueno, casi",
+    "pt": "Bom, quase"
+  },
+  "so close": {
+    "en": "So close",
+    "es": "Tan cerca",
+    "pt": "Tão perto"
+  },
+  "practice with chatbot": {
+    "en": "Practice with ChatBot",
+    "es": "Practicar con ChatBot",
+    "pt": "Praticar com ChatBot"
+  }
+}

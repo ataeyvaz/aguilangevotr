@@ -1,0 +1,47 @@
+{
+  "scenario": "travel",
+  "language": "es",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "¿Dónde está el mostrador de check-in?",
+      "expected": "El mostrador de check-in está en el segundo piso.",
+      "hint": "The check-in counter is on the second floor."
+    },
+    {
+      "bot": "¿Tiene su pasaporte y boleto?",
+      "expected": "Sí, aquí tiene mi pasaporte y mi boleto.",
+      "hint": "Yes, here is my passport and ticket."
+    },
+    {
+      "bot": "¿A qué hora sale el vuelo?",
+      "expected": "El vuelo sale a las tres de la tarde.",
+      "hint": "The flight leaves at three in the afternoon."
+    },
+    {
+      "bot": "¿Cuántas maletas quiere facturar?",
+      "expected": "Quiero facturar dos maletas.",
+      "hint": "I want to check two suitcases."
+    },
+    {
+      "bot": "¿Prefiere asiento de ventana o pasillo?",
+      "expected": "Prefiero un asiento de ventana, por favor.",
+      "hint": "I prefer a window seat, please."
+    },
+    {
+      "bot": "¿Cuál es su número de vuelo?",
+      "expected": "Mi número de vuelo es el 402.",
+      "hint": "My flight number is 402."
+    },
+    {
+      "bot": "¿Dónde está la puerta de embarque?",
+      "expected": "La puerta de embarque está por allá, a la derecha.",
+      "hint": "The boarding gate is over there, to the right."
+    },
+    {
+      "bot": "¿Necesita ayuda con su equipaje?",
+      "expected": "No, gracias. Yo puedo cargar mi equipaje.",
+      "hint": "No, thanks. I can carry my luggage."
+    }
+  ]
+}

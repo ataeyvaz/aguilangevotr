@@ -1,0 +1,47 @@
+{
+  "scenario": "movietheater",
+  "language": "es",
+  "difficulty": "easy",
+  "exchanges": [
+    {
+      "bot": "¿Qué película quiere ver?",
+      "expected": "Quiero ver la nueva película de acción, por favor.",
+      "hint": "I want to see the new action movie, please."
+    },
+    {
+      "bot": "¿Para qué hora quiere las entradas?",
+      "expected": "Quiero entradas para la función de las siete.",
+      "hint": "I want tickets for the seven o'clock show."
+    },
+    {
+      "bot": "¿Cuántas entradas necesita?",
+      "expected": "Necesito dos entradas, por favor.",
+      "hint": "I need two tickets, please."
+    },
+    {
+      "bot": "¿Prefiere asientos en el centro?",
+      "expected": "Sí, prefiero asientos en el centro del cine.",
+      "hint": "Yes, I prefer seats in the center of the theater."
+    },
+    {
+      "bot": "¿Quiere palomitas o refrescos?",
+      "expected": "Sí, quiero un combo de palomitas y refresco.",
+      "hint": "Yes, I want a popcorn and drink combo."
+    },
+    {
+      "bot": "¿Dónde está la Sala 3?",
+      "expected": "La Sala 3 está a la derecha, después de la cafetería.",
+      "hint": "Theater 3 is to the right, after the cafeteria."
+    },
+    {
+      "bot": "¿La película es para niños?",
+      "expected": "No, la película es para adultos, es una película de terror.",
+      "hint": "No, the movie is for adults, it's a horror movie."
+    },
+    {
+      "bot": "¿Tiene su entrada digital?",
+      "expected": "Sí, aquí está mi entrada en el celular.",
+      "hint": "Yes, here is my ticket on my cell phone."
+    }
+  ]
+}
