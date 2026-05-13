@@ -29,7 +29,8 @@
       "Bash(Write-Host \"Silindi\")",
       "Bash(Select-Object FullName)",
       "Bash(awk '{print $NF}')",
-      "PowerShell(python C:\\\\Users\\\\Ata\\\\Desktop\\\\aguilangevotr\\\\chk2.py | Out-String)"
+      "PowerShell(python C:\\\\Users\\\\Ata\\\\Desktop\\\\aguilangevotr\\\\chk2.py | Out-String)",
+      "Bash(git commit *)"
     ]
   }
 }
