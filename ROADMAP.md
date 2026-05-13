@@ -28,6 +28,8 @@
 - [x] Aşama 1A — Branding (package.json, capacitor.config, README)
 - [x] Aşama 1B — Veritabanı (TR dil + TR→EN/ES/PT pair eklendi)
 - [x] Aşama 1C — Dil sistemi (ProfileSetup TR, i18n 126 anahtar)
+- [x] Aşama 2 — TR kelime listesi (99 kelime, 10 kategori, TR/EN/ES/PT)
+- [x] Aşama 3 — TR/EN/ES/PT audio dosyaları eklendi
 
 ---
 
@@ -55,35 +57,35 @@
 
 ---
 
-## 🔄 AŞAMA 2 — TR İçerik Üretimi
+## ✅ AŞAMA 2 — TR İçerik Üretimi
 
 ### TR Kelime Listesi
 - [x] A1 seviye TR kelime listesi (99 kelime, 10 kategori)
 - [x] TR→EN çeviriler
 - [x] TR→ES çeviriler
 - [x] TR→PT çeviriler
-- [ ] A2 seviye 64 kelime
-- [ ] B1 seviye 56 kelime
-- [ ] B2 seviye 57 kelime
-- [ ] **Araç: Tencent (JSON üretimi)**
+- [x] A2 seviye 64 kelime
+- [x] B1 seviye 56 kelime
+- [x] B2 seviye 57 kelime
+- [x] **Araç: Tencent (JSON üretimi)**
 
 ### TR Kelime DB
-- [ ] words_tr_a1.json → DB insert
-- [ ] words_tr_a2.json → DB insert
-- [ ] words_tr_b1.json → DB insert
-- [ ] words_tr_b2.json → DB insert
-- [ ] **Araç: .cjs script**
+- [x] words_tr_a1.json → DB insert
+- [x] words_tr_a2.json → DB insert
+- [x] words_tr_b1.json → DB insert
+- [x] words_tr_b2.json → DB insert
+- [x] **Araç: .cjs script**
 
 ---
 
-## 🔄 AŞAMA 3 — Ses Üretimi
+## ✅ AŞAMA 3 — Ses Üretimi
 
 ### TR Audio
-- [ ] TR kelimeler → tr-TR-EmelNeural → public/audio/tr/
-- [ ] EN hedef → AguiLangEvo'dan kopyala (/audio/en/)
-- [ ] ES hedef → AguiLangEvo'dan kopyala (/audio/es/)
-- [ ] PT hedef → AguiLangEvo'dan kopyala (/audio/pt/)
-- [ ] **Araç: .py script (edge-tts)**
+- [x] TR kelimeler → tr-TR-EmelNeural → public/audio/tr/
+- [x] EN hedef → AguiLangEvo'dan kopyala (/audio/en/)
+- [x] ES hedef → AguiLangEvo'dan kopyala (/audio/es/)
+- [x] PT hedef → AguiLangEvo'dan kopyala (/audio/pt/)
+- [x] **Araç: .py script (edge-tts)**
 
 ---
 

@@ -94,10 +94,9 @@ export function getNextStudyWords(allWords, targetLang = 'es', limit = 10) {
   }
 
   return pool.slice(0, limit).map(w => ({
-    id:          w.id,
-    word:        w.en,
-    ipa:         w.pron  || null,
-    translation: w[targetLang] || '—',
+    ...w,
+    word:        w.word ?? w.en ?? '—',
+    translation: w[targetLang] || w.translation || '—',
     status:      progress[w.id]?.status || 'new',
   }))
 }
