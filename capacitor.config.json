@@ -1,6 +1,6 @@
 {
-  "appId": "com.aguilangevo.app",
-  "appName": "AguiLangEvo",
+  "appId": "com.aguilangevotr.app",
+  "appName": "AguiLangEvoTR",
   "webDir": "dist",
   "android": {
     "allowMixedContent": true

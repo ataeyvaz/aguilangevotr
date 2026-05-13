@@ -1,221 +1,164 @@
-# AguiLangEvo — Geliştirme Planı
-**Son Güncelleme:** Mayıs 2026
-**Versiyon:** MVP → v1.0 ✅ → v1.1 🔄 → v2.0
+# 🦅 AguiLangEvoTR — Geliştirme Planı
+**Oluşturulma:** Mayıs 2026
+**Kaynak:** AguiLangEvo fork
+**Versiyon:** v0.1 → v1.0
+
+---
+
+## 🎯 PROJE TANIMI
+
+| | Değer |
+|---|---|
+| **Kaynak dil** | Türkçe (TR) |
+| **Hedef diller** | İngilizce + İspanyolca + Portekizce |
+| **Dil çiftleri** | TR→EN, TR→ES, TR→PT |
+| **Hedef kitle** | Türkçe konuşanlar (Türkiye + diaspora) |
+| **Arayüz** | Türkçe |
+| **Platform** | Android APK |
+| **Model** | $8.99 tek ödeme |
 
 ---
 
 ## ✅ TAMAMLANANLAR
 
-### Temel Altyapı
-- [x] aguilang2 → aguilangevo fork
-- [x] 210 MB temizlik
-- [x] Tüm TR izleri temizlendi
-- [x] SQLite şema (15 tablo)
-- [x] Migration sistemi (006 migration)
-- [x] better-sqlite3 bağlantısı
+- [x] AguiLangEvo'dan fork alındı
+- [x] GitHub repo oluşturuldu (aguilangevotr)
+- [x] CLAUDE.md oluşturuldu
+- [x] ROADMAP.md oluşturuldu
 
-### Kelime Sistemi
-- [x] 130 kelime A1/A2 (EN/ES/PT tam)
-- [x] ES çevirileri → 130/130
-- [x] PT çevirileri → 130/130
-- [x] Örnek cümleler (EN/ES/PT)
-- [x] Alt çeviriler (alt_translations)
-- [x] **B1 kelime seti → 56 kelime (EN/ES/PT)** ← YENİ
-- [x] **B2 kelime seti → 57 kelime (EN/ES/PT)** ← YENİ
-- [x] **Toplam kelime: 243 (A1+A2+B1+B2)** ← YENİ
+---
 
-### Ses Sistemi
-- [x] edge-tts entegrasyonu
-- [x] 1412 MP3 kelime sesleri A1/A2 (EN/ES/PT)
-- [x] **167 MP3 B1 kelime sesleri (EN/ES/PT)** ← YENİ
-- [x] **167 MP3 B2 kelime sesleri (EN/ES/PT)** ← YENİ
-- [x] **Toplam kelime sesi: ~1746 dosya** ← YENİ
-- [x] 1321 ES bot MP3
-- [x] 279 PT bot MP3
-- [x] Toplam bot ses: 1601 dosya
-- [x] Audio player (Study.jsx)
-- [x] Practice.jsx otomatik ses
-- [x] 🔊 Listen again butonu
-- [x] safeFilename() + MD5 hash uyumu
+## 🔄 AŞAMA 1 — Branding & Altyapı
 
-### Öğrenme Sistemi
-- [x] PlacementTest (15 soru, A1/A2)
-- [x] SM-2 SRS Engine
-- [x] Flashcard UI (front/back)
-- [x] Study session (10 kelime)
-- [x] Oturum özeti
+### Branding
+- [ ] App adı → "AguiLangEvoTR" güncelle
+- [ ] package.json → name, description güncelle
+- [ ] capacitor.config.json → appId, appName güncelle
+- [ ] README.md güncelle
+- [ ] **Araç: .cjs script**
 
-### Conversation (Practice)
-- [x] 497 conversation pack
-- [x] 1611+ exchange
-- [x] easy/medium/hard seviyeleri
-- [x] ES conversation packs (451)
-- [x] PT conversation packs (101)
-- [x] Practice UI (Intro→Exchange→Özet)
-- [x] Bot otomatik ses çalma
-- [x] 🔊 Listen again butonu
-
-### ChatBot Sistemi
-- [x] ChatBot UI (baloncuk/mesajlaşma arayüzü)
-- [x] Her turda mod seçimi: Sesli / Yazı / Seçmeli
-- [x] 8 ES senaryo paketi
-- [x] 8 PT senaryo paketi
-- [x] /scenarios senaryo seçim ekranı (8 kart)
-- [x] Study → Scenarios → ChatBot tam akışı
-- [x] Bot sesi otomatik çalar
+### Veritabanı
+- [ ] DB dosyasını yeniden adlandır → aguilangevotr.db
+- [ ] languages tablosuna TR ekle
+- [ ] language_pairs tablosuna TR→EN, TR→ES, TR→PT ekle
+- [ ] Eski EN/ES/PT çiftlerini temizle
+- [ ] **Araç: .cjs script**
 
 ### Dil Sistemi
-- [x] 4 dil çifti: EN↔ES, EN↔PT, ES→EN, PT→EN
-- [x] i18n sistemi (257+ anahtar)
-- [x] Otomatik arayüz dili
-- [x] ProfileSetup mantık düzeltmesi
-
-### Satış & Yayın
-- [x] **APK v1.0 build (55.6 MB)** ← YENİ
-- [x] **Gumroad satış sayfası kuruldu** ← YENİ
-- [x] **PDF broşür (EN/ES/PT)** ← YENİ
-- [x] **Gumroad YAYINDA → $8.99** ← YENİ
-- [x] **ataeyvaz.gumroad.com/l/tsogik** ← YENİ
-
----
-
-## ~~HAFTA 1-6~~ ✅ TAMAMLANDI
-*(Bot sesleri, Yazma modu, Konuşma modu, İstatistikler, Polish, ChatBot)*
-
----
-
-## 🔄 ŞİMDİ — v1.1 İçerik & UI Güncellemesi
-
-### Adım 1 — Uygulama B1/B2 Görsün
-- [ ] Study ekranına seviye filtresi (A1/A2/B1/B2)
-- [ ] Flashcard B1/B2 kelimelerini göstersin
-- [ ] ProfileSetup'a hedef seviye seçimi ekle
+- [ ] i18n → TR arayüz anahtarları ekle
+- [ ] ProfileSetup → varsayılan dil TR
+- [ ] PAIR_LANG mantığı → TR kaynak dil
 - [ ] **Araç: Cline**
 
-### Adım 2 — PlacementTest Genişlet
-- [ ] B1/B2 soruları ekle (15 → 25 soru)
-- [ ] Sonuç mantığı: A1/A2/B1/B2 seviye tespiti
-- [ ] placement_questions tablosuna yeni sorular
-- [ ] **Araç: MiniMax (script) + Cline (UI)**
+---
 
-### Adım 3 — APK v1.1 Build
-- [ ] `npm run build`
-- [ ] `npx cap sync`
-- [ ] Android Studio → Build APK
-- [ ] Test (fiziksel cihaz)
-- [ ] **Araç: Manuel**
+## 🔄 AŞAMA 2 — TR İçerik Üretimi
 
-### Adım 4 — Gumroad Güncelle
-- [ ] Açıklama: "Now with B1/B2 content!" ekle
-- [ ] Yeni APK dosyasını yükle
-- [ ] Versiyon notları ekle
-- [ ] **Araç: Manuel**
+### TR Kelime Listesi
+- [ ] A1 seviye 66 kelime (TR + EN/ES/PT çevirileri)
+- [ ] A2 seviye 64 kelime
+- [ ] B1 seviye 56 kelime
+- [ ] B2 seviye 57 kelime
+- [ ] **Araç: Tencent (JSON üretimi)**
+
+### TR Kelime DB
+- [ ] words_tr_a1.json → DB insert
+- [ ] words_tr_a2.json → DB insert
+- [ ] words_tr_b1.json → DB insert
+- [ ] words_tr_b2.json → DB insert
+- [ ] **Araç: .cjs script**
 
 ---
 
-## ⬜ SONRAKI — v1.2 Senaryo & İçerik
+## 🔄 AŞAMA 3 — Ses Üretimi
 
-### Senaryo Genişletme
-- [ ] ES senaryo paketi artırımı (8 → 16)
-- [ ] PT senaryo paketi artırımı (8 → 16)
-- [ ] B1/B2 seviyesi senaryo paketleri
-- [ ] **Araç: Tencent (içerik) + MiniMax (script)**
-
-### Grammar Modülü
-- [ ] /grammar sayfası aktif
-- [ ] A1/A2/B1/B2 grammar konuları
-- [ ] **Araç: Cline + Tencent**
+### TR Audio
+- [ ] TR kelimeler → tr-TR-EmelNeural → public/audio/tr/
+- [ ] EN hedef → AguiLangEvo'dan kopyala (/audio/en/)
+- [ ] ES hedef → AguiLangEvo'dan kopyala (/audio/es/)
+- [ ] PT hedef → AguiLangEvo'dan kopyala (/audio/pt/)
+- [ ] **Araç: .py script (edge-tts)**
 
 ---
 
-## ⬜ v1.3 — Pazar Genişletme
+## 🔄 AŞAMA 4 — UI Güncellemeleri
 
-### Hotmart (Latam Pazarı)
-- [ ] Hotmart hesabı aç
-- [ ] Ürün sayfası (ES/PT)
-- [ ] APK yükle → Fiyat: $8.99
+### Study.jsx
+- [ ] TR kelime verilerini yükle
+- [ ] TR ses dosyalarını çal
+- [ ] Level seçici (A1/A2/B1/B2)
+- [ ] **Araç: .py patch**
 
-### Google Play Store
-- [ ] Developer hesabı ($25 tek seferlik)
-- [ ] App ikonu (tüm boyutlar)
-- [ ] Screenshot (EN/ES/PT)
-- [ ] Açıklama metni (EN/ES/PT)
-- [ ] Privacy Policy sayfası
-- [ ] Store listing yayınla
+### PlacementTest
+- [ ] TR sorular ekle (15 soru)
+- [ ] TR → EN/ES/PT çoktan seçmeli
+- [ ] **Araç: .cjs script**
 
-### Kendi Domain
-- [ ] aguilangevo.com
-- [ ] Landing page (EN/ES/PT)
+### Conversation Packs
+- [ ] TR konuşma senaryoları (8 ES + 8 PT hedefli)
+- [ ] TR bot sesleri
+- [ ] **Araç: Tencent + .py**
 
 ---
 
-## 🌱 v2.0 — AguiLangEvoTR
-**Hedef:** Türkiye pazarı
-**Dil çiftleri:** TR→EN, TR→ES
-- [ ] AguiLangEvo v1.1 tamamlandıktan sonra fork
-- [ ] TR kelime seti (Tencent ile üret)
-- [ ] TR ses dosyaları (edge-tts)
-- [ ] TR senaryo paketleri
-- [ ] i18n TR anahtarları
-- [ ] Türkiye Google Play TR lansmanı
+## 🔄 AŞAMA 5 — Test & Build
+
+- [ ] npm run dev → tam test
+- [ ] Tüm dil çiftleri test
+- [ ] Android build
+- [ ] APK imzala
+- [ ] **Araç: Android Studio**
+
+---
+
+## 🔄 AŞAMA 6 — Satış & Lansman
+
+- [ ] Gumroad → AguiLangEvoTR ürün sayfası
+- [ ] Google Play TR (Türkiye pazarı)
+- [ ] Açıklama metni (TR/EN)
+- [ ] Twitter/sosyal medya TR lansmanı
+
+---
+
+## 📊 HEDEF METRİKLER (v1.0)
+
+```
+TR Kelimeler  : 243 (A1+A2+B1+B2)
+TR Audio MP3  : 243+ dosya
+EN/ES/PT MP3  : AguiLangEvo'dan devralındı
+Conv. Pack    : 16+ TR senaryosu
+Dil Çifti     : 3 (TR→EN, TR→ES, TR→PT)
+APK Boyutu    : ~60MB hedef
+Fiyat         : $8.99 (veya ₺299)
+```
 
 ---
 
 ## 🤖 AI ARAÇ STRATEJİSİ
 
-| Araç | Görev | Maliyet |
-|------|-------|---------|
-| Claude (bu sohbet) | Strateji + mimari + prompt yazma | Pro plan |
-| Claude Code | Kritik geliştirme | Pro plan |
-| **MiniMax M2.7** | **Script yazma + DB işlemleri** | Ücretsiz |
-| Cline | Rutin dosya ekleme/güncelleme | Ücretsiz |
-| Tencent | İçerik + çeviri + JSON üretimi | Ücretsiz |
-| edge-tts | TTS/ses üretimi | Ücretsiz |
-| Web Speech API | STT | Ücretsiz |
-| Fuse.js | Fuzzy match | Ücretsiz |
-
-### Kural
-- **Claude (sohbet)** → Strateji, mimari karar, prompt hazırlama
-- **MiniMax** → Script yazma, DB işlemleri, ses üretimi
-- **Tencent** → JSON/metin/çeviri üretimi (içerik)
-- **Cline** → Rutin dosya ekleme/güncelleme (UI)
-- **Git push** → Her zaman manuel terminal
-
----
-
-## 📊 PROJE METRİKLERİ (Mayıs 2026)
-
-```
-Kelimeler           : 243 (A1:66 + A2:64 + B1:56 + B2:57)
-Conversation Pack   : 505 (451 ES + 101 PT)
-Exchange            : 1611+
-Kelime Sesi MP3     : ~1746
-Bot Sesi MP3        : 1601
-i18n Anahtar        : 257+
-Migration           : 006
-Dil Çifti           : 4 aktif
-ChatBot Senaryo     : 16 (8 ES + 8 PT)
-APK Sürüm           : v1.0 (55.6 MB) — YAYINDA
-Satış Kanalı        : Gumroad ($8.99)
-```
+| Araç | Görev |
+|---|---|
+| **Claude (sohbet)** | Strateji, mimari, script, CLAUDE.md |
+| **MiniMax** | Karmaşık scriptler |
+| **Cline** | UI güncellemeleri |
+| **Tencent** | TR kelime + çeviri JSON üretimi |
+| **edge-tts** | TR/EN/ES/PT MP3 |
+| **Git push** | Manuel terminal |
 
 ---
 
 ## 🔧 TEKNİK STACK
 ```
-Frontend  : React + Vite + Tailwind
+Frontend  : React + Vite + Tailwind (AguiLangEvo'dan)
 Mobile    : Capacitor
-Backend   : Python (scripts)
-DB        : SQLite (better-sqlite3) + localStorage
-TTS       : edge-tts (offline)
+DB        : SQLite (better-sqlite3)
+TTS       : edge-tts (tr-TR-EmelNeural)
 STT       : Web Speech API
-Fuzzy     : Fuse.js
-i18n      : Custom hook (translations.js)
-Audio     : HTML5 Audio API
+i18n      : Custom hook
 ```
 
 ---
 
+*Kaynak: github.com/ataeyvaz/aguilangevo*
+*TR Repo: github.com/ataeyvaz/aguilangevotr*
 *Sorumluluk: Ata + Claude (Anthropic)*
-*Repo: https://github.com/ataeyvaz/aguilangevo*
-*Satış: https://ataeyvaz.gumroad.com/l/tsogik*

@@ -1,305 +1,208 @@
-# CLAUDE.md — Grabket Proje Kılavuzu
-
-> Bu dosyayı her oturumun başında oku. Projenin hafızasısın.
-
----
-
-## 🧑‍💻 Geliştirici Profili
-
-- **İsim:** Ata
-- **Seviye:** Deneyimsiz geliştirici, kodlamayı öğrenme aşamasında
-- **Çalışma stili:**
-  - Adım adım ilerle, her adımı Türkçe açıkla
-  - Kopyala-yapıştır yapabileceği **tam ve eksiksiz** komutlar ver
-  - Kısmi snippet verme, her zaman **tam dosya içeriğini** ver
-  - Hata çıktısını yapıştırınca analiz et ve çöz
-  - Varsayım yapma, emin olmadığında sor
-- **Ortam:** Windows, PowerShell, VS Code
-- **Konuşma dili:** Türkçe
+# 🦅 AguiLangEvoTR — Claude Bağlam Dosyası
+> Bu dosyayı her yeni sohbette Claude'a ver: "CLAUDE.md'yi oku, devam et."
 
 ---
 
-## 📱 Proje: Grabket
+## ⚡ ALTIN KURALLAR (Her Zaman Geçerli)
 
-**Açıklama:** Türkiye pazarına yönelik akıllı alışveriş listesi uygulaması. Kullanıcı alışveriş listesini oluşturur, uygulama A101, BİM, Migros, CarrefourSA, ŞOK gibi marketlerdeki fiyatları karşılaştırıp en ucuz sepeti bulur.
+### 1. Script-First Prensibi
+> **AI modele gitmeden önce: "Bu .cjs veya .py ile yapılabilir mi?" diye sor.**
 
-**Hedef kitle:** Önce kişisel kullanım, sonra App Store / Play Store yayını.
+| Görev | Yöntem |
+|---|---|
+| DB insert/update/query | ✅ .cjs script (better-sqlite3) |
+| JSON dönüştürme/birleştirme | ✅ .cjs script |
+| Dosya patch (metin değiştirme) | ✅ .py script |
+| MP3/ses üretimi | ✅ .py script (edge-tts) |
+| UI bileşeni ekleme/güncelleme | Cline (küçük) / Claude Code (büyük) |
+| Mimari karar / strateji | Claude (bu sohbet) |
+| JSON/içerik üretimi | Tencent |
 
-**Veri kaynağı:** marketfiyati.org.tr (TÜBİTAK + Merkez Bankası projesi, ücretsiz, kamuya açık)
+### 2. PowerShell Kuralları
+- `node -e "..."` → tırnak sorunu çıkar, KULLANMA
+- Bunun yerine: `@"..."@ | Out-File x.cjs` → `node x.cjs`
+- .js uzantısı ÇALIŞMAZ (package.json "type":"module") → `.cjs` kullan
+- Python scriptleri her zaman güvenli
 
----
+### 3. Dosya Patch Kuralları
+- Cline str_replace → encoding sorunlarına takılır, dikkatli kullan
+- Büyük JSX değişikliklerinde → .py satır satır patch tercih et
+- Patch sonrası mutlaka `npm run dev` ile test et
+- Hata alınırsa → `git checkout src/pages/DosyaAdi.jsx` ile geri al
 
-## 🛠️ Tech Stack
-
-```
-Frontend:  React Native + Expo SDK + TypeScript
-Router:    Expo Router (file-based navigation)
-Backend:   Firebase (Auth + Firestore + Cloud Functions)
-API:       marketfiyati.org.tr — https://api.marketfiyati.org.tr/api/v2
-```
-
----
-
-## 📡 marketfiyati.org.tr API Bilgileri
-
-**Base URL:** `https://api.marketfiyati.org.tr/api/v2`
-
-**API Key:** Yok (kamuya açık, ücretsiz)
-
-**Bilinen Endpoint'ler:**
-```
-GET /products
-  Params: keywords (string), latitude (float), longitude (float),
-          distance (km, opsiyonel), size (int, opsiyonel)
-
-GET /products/{id}
-  Params: latitude (float), longitude (float)
-
-GET /products/{id}/compare
-  Params: productId (string)
-```
-
-**Kritik not:** latitude ve longitude parametreleri zorunlu — API yakındaki mağazaların fiyatlarını döndürür.
-
-**Mimari kararı — Proxy katmanı:**
-```
-Grabket App → Firebase Cloud Functions → marketfiyati.org.tr API
-```
-Neden: API değişirse sadece Cloud Function güncellenir, app store'a yeniden göndermek gerekmez.
-
-**Faz 3 başında yapılacak ilk iş:** Gerçek API response'unu test et.
-Kontrol edilecekler:
-- Alternatif/eşdeğer ürün verisi geliyor mu?
-- Kampanya / kart indirimi alanı var mı?
-- Rate limit ne kadar?
+### 4. Token Tasarrufu
+- Rutin işler için Claude'a (bu sohbet) kod yazdırma
+- Claude → sadece strateji, mimari, prompt hazırlama
+- MiniMax bağlantı sorunu → direkt .cjs/.py yaz
 
 ---
 
-## ✅ Netleştirilmiş Özellik Listesi
+## 🧭 PROJE ÖZETİ
 
-### v1 — MVP
+### AguiLangEvoTR (Bu Proje)
+- **Kaynak:** AguiLangEvo fork
+- **Konum:** `C:\Users\Ata\Desktop\aguilangevotr`
+- **GitHub:** https://github.com/ataeyvaz/aguilangevotr
+- **Hedef Kitle:** Türkçe konuşanlar (Türkiye + yurt dışı)
+- **Dil Çiftleri:** TR→EN, TR→ES, TR→PT
+- **Arayüz Dili:** Türkçe
+- **Stack:** React + Vite + Tailwind + Capacitor + Python + SQLite
 
-#### Alışveriş listesi yönetimi
-- Birden fazla liste oluşturma, silme, yeniden adlandırma
-- Ürün ekleme — isimle API araması ile
-- Ürün miktarı ve birimi (adet / kg / lt / paket)
-- Alışveriş modu: ürüne dokununca "aldım" işareti (üstü çizilir)
-
-#### Fiyat karşılaştırma
-- Ürün bazında market karşılaştırması (A101, BİM, Migros, ŞOK, CarrefourSA)
-- İki mod — kullanıcı seçsin:
-  - Tek market modu: tüm listeyi tek marketten al, hangisi en ucuz?
-  - Böl-al modu: her ürünü en ucuz olduğu marketten al, toplam minimum
-- Konum: GPS otomatik alır, kullanıcı isterse manuel değiştirir
-- Sepet toplam tutarı göster
-
-#### Barkod — UI hazır, fonksiyon v2'de
-- Barkod butonu arayüzde görünür ve tıklanabilir
-- v1'de tıklayınca "Bu özellik yakında geliyor" mesajı
-- v2'de gerçek kamera tarama eklenir
-- Neden böyle: tasarım tutarlı kalır, kullanıcı özelliğin geleceğini bilir
-
-#### Hesap sistemi
-- Firebase Auth ile e-posta + şifre kayıt / giriş
-- Kullanıcı profili (isim, e-posta)
-
-#### API'ye bağımlı — Faz 3'te test sonrası karar
-- Alternatif ürün önerileri: "Pınar süt yerine Sek süt %15 ucuz." API veriyi sunuyorsa ekle.
-- Kampanya / kart indirimleri: "CarrefourSA kart ile 25₺." API alanı varsa göster.
+### AguiLangEvo (Ana Proje — Kaynak)
+- **Konum:** `C:\Users\Ata\Desktop\aguilangevo`
+- **GitHub:** https://github.com/ataeyvaz/aguilangevo
+- **Satış:** https://ataeyvaz.gumroad.com/l/tsogik ($8.99)
+- **Hedef Kitle:** ABD'deki ES/PT konuşanlar → İngilizce öğrenmek isteyenler
 
 ---
 
-### v2 — Sonraki sürüm (şimdi dokunma)
+## 🔄 AguiLangEvo'dan Farklar
 
-- Barkod okuma (gerçek kamera taraması)
-- Anlık fiyat değişikliği bildirimi (push notification)
-- Fiyat geçmişi grafiği (30 günlük trend)
-- Enflasyon takibi
-- Bütçe takibi (aylık harcama özeti)
-- Liste paylaşımı (rol bazlı: sahip düzenler, davet edilen görür)
-- Gerçek zamanlı senkronizasyon (Firestore realtime)
+| Bileşen | AguiLangEvo | AguiLangEvoTR |
+|---|---|---|
+| Kaynak dil | EN | TR |
+| Hedef diller | ES, PT | EN, ES, PT |
+| Arayüz | EN/ES/PT | TR |
+| Kelimeler | EN kelimeler | TR kelimeler |
+| Audio | EN/ES/PT MP3 | TR/EN/ES/PT MP3 |
+| Conv. packs | ES+PT | TR konuşmalar |
+| Branding | AguiLangEvo 🦅 | AguiLangEvoTR 🦅 |
+| Pazar | ABD Hispanic | Türkiye + diaspora |
 
 ---
 
-## 🗂️ Proje Klasör Yapısı
+## ✅ Kalıbı Devralınan (Değişmez)
+- React + Vite + Tailwind yapısı
+- Capacitor Android build
+- SM-2 SRS Engine
+- SQLite şema (15 tablo)
+- ChatBot UI
+- PlacementTest mantığı
+- Flashcard UI
+- Practice UI
+- TicTacToe, Dictionary
+
+---
+
+## 🔄 Değiştirilecek (Öncelik Sırasıyla)
+
+### Aşama 1 — Branding & Dil
+- [ ] App adı → AguiLangEvoTR
+- [ ] i18n → TR arayüz anahtarları
+- [ ] ProfileSetup → TR dil seçeneği
+- [ ] Dil çifti mantığı → TR→EN/ES/PT
+
+### Aşama 2 — İçerik
+- [ ] TR kelime listesi A1/A2 (Tencent ile üret)
+- [ ] TR→EN çeviriler
+- [ ] TR→ES çeviriler
+- [ ] TR→PT çeviriler
+- [ ] TR audio (edge-tts: tr-TR-EmelNeural)
+
+### Aşama 3 — Ses
+- [ ] TR kelime MP3 (tr-TR-EmelNeural)
+- [ ] EN hedef MP3 (zaten var → AguiLangEvo'dan kopyala)
+- [ ] ES hedef MP3 (zaten var)
+- [ ] PT hedef MP3 (zaten var)
+
+### Aşama 4 — Test & Build
+- [ ] PlacementTest TR soruları
+- [ ] TR conversation packs
+- [ ] APK build
+- [ ] Satış (Google Play TR + Gumroad)
+
+---
+
+## 📁 DOSYA YAPISI
 
 ```
-grabket/
-├── app/
-│   ├── (tabs)/
-│   │   ├── index.tsx           # Listelerim (ana ekran)
-│   │   ├── compare.tsx         # Fiyat karşılaştırma sonuçları
-│   │   └── profile.tsx         # Kullanıcı profili
-│   ├── _layout.tsx
-│   ├── list/
-│   │   └── [id].tsx            # Belirli liste detayı
-│   └── auth/
-│       ├── login.tsx
-│       └── register.tsx
-├── components/
-│   ├── ShoppingList/
-│   │   ├── ListCard.tsx
-│   │   ├── ProductItem.tsx
-│   │   └── AddProductModal.tsx
-│   ├── PriceComparison/
-│   │   ├── MarketCard.tsx
-│   │   ├── ModeSwitcher.tsx    # Tek market / Böl-al seçici
-│   │   └── BarcodeButton.tsx   # UI placeholder — v1'de "yakında"
-│   └── common/
-│       ├── EmptyState.tsx
-│       └── LoadingSpinner.tsx
-├── services/
-│   ├── marketApi.ts            # marketfiyati.org.tr çağrıları
-│   ├── firebase.ts             # Firebase config
-│   ├── auth.ts
-│   └── lists.ts                # Liste CRUD
-├── hooks/
-│   ├── useLocation.ts          # GPS + manuel konum
-│   └── usePriceComparison.ts
-├── store/
-│   └── useAppStore.ts          # Zustand global state
-├── types/
-│   ├── product.ts
-│   ├── list.ts
-│   └── market.ts
-├── constants/
-│   ├── markets.ts
-│   └── theme.ts
-├── utils/
-│   └── priceCalculator.ts      # Her iki mod algoritması
-├── .env                        # Asla git'e ekleme!
-├── .env.example
-├── CLAUDE.md
-├── PROGRESS.md
-└── SOLUTIONS.md
+aguilangevotr/
+├── src/
+│   ├── pages/
+│   │   ├── Study.jsx         ← TR kelimeler gösterecek
+│   │   ├── Practice.jsx
+│   │   ├── ChatBot.jsx
+│   │   ├── ProfileSetup.jsx  ← TR dil seçimi
+│   │   └── ...
+│   ├── data/
+│   │   ├── words-tr-a1.json  ← TR A1 kelimeler (yapılacak)
+│   │   └── words-tr-a2.json  ← TR A2 kelimeler (yapılacak)
+│   └── i18n/
+│       └── translations.js   ← TR anahtarlar eklenecek
+├── data/
+│   └── aguilangevotr.db      ← Yeni DB (TR şema)
+└── public/
+    └── audio/
+        ├── tr/               ← TR kelime MP3 (yapılacak)
+        ├── en/               ← AguiLangEvo'dan kopyala
+        ├── es/               ← AguiLangEvo'dan kopyala
+        └── pt/               ← AguiLangEvo'dan kopyala
 ```
 
 ---
 
-## 🎨 Tasarım Sistemi
+## 🗄️ VERİTABANI
 
-```typescript
-const colors = {
-  primary:    '#E84040',  // Kırmızı — ana aksiyon
-  secondary:  '#1A1A2E',  // Koyu lacivert — başlıklar
-  success:    '#2ECC71',  // Yeşil — en ucuz
-  warning:    '#F39C12',  // Turuncu — orta fiyat
-  danger:     '#E74C3C',  // Kırmızı — pahalı
-  background: '#F8F9FA',
-  surface:    '#FFFFFF',
-  text:       '#2C3E50',
-  muted:      '#95A5A6',
-}
+AguiLangEvo ile aynı şema — sadece:
+- `language_id: 'tr'` eklenecek
+- `languages` tablosuna TR eklenecek
+- `language_pairs` tablosuna TR→EN/ES/PT eklenecek
 
-const marketColors = {
-  'BİM':         '#E30613',
-  'A101':        '#FF6B00',
-  'Migros':      '#FF0000',
-  'ŞOK':         '#FFD700',
-  'CarrefourSA': '#004A96',
-}
+---
+
+## 🔊 TTS Sesleri
+
+| Dil | Voice | Durum |
+|---|---|---|
+| TR | tr-TR-EmelNeural | 🔄 Yapılacak |
+| EN | en-US-JennyNeural | ✅ Mevcut |
+| ES | es-MX-DaliaNeural | ✅ Mevcut |
+| PT | pt-BR-FranciscaNeural | ✅ Mevcut |
+
+---
+
+## 🤖 AI ARAÇ STRATEJİSİ
+
+| Araç | Görev |
+|---|---|
+| **Claude (sohbet)** | Strateji, mimari, script yazma, CLAUDE.md güncelleme |
+| **MiniMax M2.7** | Karmaşık script (bağlantı sorunlu olabilir) |
+| **Cline** | Küçük UI güncellemeleri |
+| **Tencent** | TR kelime listesi + çeviri üretimi |
+| **edge-tts** | TR/EN/ES/PT MP3 üretimi |
+| **Git push** | Her zaman manuel terminal |
+
+---
+
+## 🔄 DEVAM EDEN GÖREVLER
+
+| # | Görev | Araç | Durum |
+|---|---|---|---|
+| 1 | Branding güncelle | Cline | 🔄 |
+| 2 | TR kelime listesi A1 | Tencent | ⬜ |
+| 3 | DB'ye TR dil ekle | .cjs | ⬜ |
+| 4 | TR audio üret | .py | ⬜ |
+| 5 | i18n TR anahtarları | Cline | ⬜ |
+| 6 | PlacementTest TR | .cjs | ⬜ |
+| 7 | APK build | Manuel | ⬜ |
+
+---
+
+## 🚀 KOMUTLAR
+```powershell
+cd C:\Users\Ata\Desktop\aguilangevotr
+npm run dev
+npm run build
+npx cap sync
+git add -A && git commit -m "mesaj" && git push
+
+# Script oluştur (.cjs)
+@"...kod..."@ | Out-File -FilePath script.cjs -Encoding utf8
+node script.cjs
 ```
 
 ---
 
-## 🗺️ Geliştirme Fazları
-
-### ✅ Faz 0 — Araştırma & Planlama (TAMAMLANDI)
-- [x] API araştırması
-- [x] Tech stack kararı
-- [x] Özellik listesi netleştirildi
-- [x] Proje dökümanları hazırlandı
-
-### 🔄 Faz 1 — Temel Altyapı (MEVCUT FAZ)
-- [ ] Expo projesi kurulumu (TypeScript template)
-- [ ] Expo Router tab navigasyonu
-- [ ] Firebase projesi oluşturma ve bağlantı
-- [ ] Firebase Auth (login / register ekranları)
-- [ ] Temel TypeScript tipleri
-- [ ] .env yapılandırması
-
-### ⏳ Faz 2 — Alışveriş Listesi
-- [ ] Liste CRUD — Firestore
-- [ ] Ürün ekleme (API araması ile)
-- [ ] Miktar ve birim
-- [ ] Alışveriş modu (aldım işareti)
-- [ ] BarcodeButton UI placeholder
-
-### ⏳ Faz 3 — Fiyat Karşılaştırma
-- [ ] API gerçek testi ve response analizi
-- [ ] Konum izni + GPS
-- [ ] Market fiyat kartları
-- [ ] Tek market mod algoritması
-- [ ] Böl-al mod algoritması
-- [ ] Alternatif ürün (API'ye bağımlı)
-- [ ] Kampanya/kart indirimi (API'ye bağımlı)
-
-### ⏳ Faz 4 — Cilalama & Yayın
-- [ ] Hata yönetimi ve boş state'ler
-- [ ] Loading skeleton'ları
-- [ ] App icon ve splash screen
-- [ ] Expo EAS Build
-- [ ] App Store / Play Store
-
----
-
-## 🔥 Firebase Yapısı (Firestore)
-
-```
-users/{userId}
-  displayName: string
-  email: string
-  createdAt: timestamp
-
-lists/{listId}
-  title: string
-  ownerId: string
-  createdAt: timestamp
-  updatedAt: timestamp
-
-  items/{itemId}
-    name: string
-    quantity: number
-    unit: 'adet' | 'kg' | 'lt' | 'paket'
-    checked: boolean
-    barcode?: string
-    productId?: string
-    addedBy: string
-    createdAt: timestamp
-
-priceCache/{productId}
-  data: object
-  cachedAt: timestamp
-  expiresAt: timestamp    ← 1 saat sonra expire
-```
-
----
-
-## ⚡ Kritik Kurallar
-
-1. `.env` dosyasını asla git'e ekleme
-2. API çağrılarını doğrudan app'ten yapma — Cloud Functions üzerinden
-3. Her özellik için önce TypeScript tipi, sonra component
-4. BarcodeButton her zaman görünür — sadece onPress davranışı v1/v2'de değişir
-5. Konum iznini fiyat karşılaştırma anında iste, açılışta değil
-6. Firestore security rules'u baştan yaz
-7. priceCache'i kullan — aynı ürünü tekrar tekrar API'den çekme
-
----
-
-## 📝 Oturum Başlangıç Rutini
-
-1. CLAUDE.md oku
-2. PROGRESS.md oku
-3. SOLUTIONS.md oku
-4. Ata'ya mevcut durumu özetle, sonra devam et
-
----
-
-## 🔗 Kaynaklar
-
-- Expo: https://docs.expo.dev
-- Expo Router: https://docs.expo.dev/router/introduction/
-- Firebase: https://firebase.google.com/docs/web/setup
-- API ref (Python): https://github.com/yibudak/marketfiyati_mcp
-- API ref (TS): https://github.com/aigile-era/market-mcp-serkan
+*Güncelleme: Mayıs 2026*
+*Ana repo: github.com/ataeyvaz/aguilangevo*
+*TR repo: github.com/ataeyvaz/aguilangevotr*
