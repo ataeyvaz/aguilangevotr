@@ -25,30 +25,33 @@
 - [x] GitHub repo oluşturuldu (aguilangevotr)
 - [x] CLAUDE.md oluşturuldu
 - [x] ROADMAP.md oluşturuldu
+- [x] Aşama 1A — Branding (package.json, capacitor.config, README)
+- [x] Aşama 1B — Veritabanı (TR dil + TR→EN/ES/PT pair eklendi)
+- [x] Aşama 1C — Dil sistemi (ProfileSetup TR, i18n 126 anahtar)
 
 ---
 
-## 🔄 AŞAMA 1 — Branding & Altyapı
+## ✅ AŞAMA 1 — Branding & Altyapı
 
 ### Branding
-- [ ] App adı → "AguiLangEvoTR" güncelle
-- [ ] package.json → name, description güncelle
-- [ ] capacitor.config.json → appId, appName güncelle
-- [ ] README.md güncelle
-- [ ] **Araç: .cjs script**
+- [x] App adı → "AguiLangEvoTR" güncelle
+- [x] package.json → name, description güncelle
+- [x] capacitor.config.json → appId, appName güncelle
+- [x] README.md güncelle
+- [x] **Araç: .cjs script**
 
 ### Veritabanı
-- [ ] DB dosyasını yeniden adlandır → aguilangevotr.db
-- [ ] languages tablosuna TR ekle
-- [ ] language_pairs tablosuna TR→EN, TR→ES, TR→PT ekle
-- [ ] Eski EN/ES/PT çiftlerini temizle
-- [ ] **Araç: .cjs script**
+- [x] DB dosyasını yeniden adlandır → aguilangevotr.db
+- [x] languages tablosuna TR ekle
+- [x] language_pairs tablosuna TR→EN, TR→ES, TR→PT ekle
+- [x] Eski EN/ES/PT çiftlerini temizle
+- [x] **Araç: .cjs script**
 
 ### Dil Sistemi
-- [ ] i18n → TR arayüz anahtarları ekle
-- [ ] ProfileSetup → varsayılan dil TR
-- [ ] PAIR_LANG mantığı → TR kaynak dil
-- [ ] **Araç: Cline**
+- [x] i18n → TR arayüz anahtarları ekle
+- [x] ProfileSetup → varsayılan dil TR
+- [x] PAIR_LANG mantığı → TR kaynak dil
+- [x] **Araç: Cline**
 
 ---
 
