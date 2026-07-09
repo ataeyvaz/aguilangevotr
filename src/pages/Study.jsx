@@ -4,7 +4,7 @@ import { useApp } from '../context/AppContext'
 import { useTranslation } from '../i18n/translations'
 import trA1Data from '../data/words-tr-a1.json'
 
-const PAIR_LANG = { 1: 'es', 2: 'pt', 3: 'en', 4: 'en', 5: 'en', 6: 'es', 7: 'pt' }
+const PAIR_LANG = { 1: 'es', 2: 'pt', 3: 'en', 4: 'en', 5: 'en', 6: 'es', 7: 'pt', 8: 'de' }
 
 const CATEGORIES = [
   'all', 'food', 'animals', 'colors', 'numbers',
@@ -17,8 +17,8 @@ const CAT_LABELS = {
   transport: 'Ulaşım', fruits: 'Meyveler', school: 'Okul',
 }
 
-const LANG_FLAGS = { en: '🇺🇸', es: '🇪🇸', pt: '🇧🇷' }
-const LANG_NAMES = { en: 'English', es: 'Español', pt: 'Português' }
+const LANG_FLAGS = { en: '🇺🇸', es: '🇪🇸', pt: '🇧🇷', de: '🇩🇪' }
+const LANG_NAMES = { en: 'English', es: 'Español', pt: 'Português', de: 'Deutsch' }
 
 const STATUS_STYLE = {
   new:      'bg-slate-100 text-slate-500',

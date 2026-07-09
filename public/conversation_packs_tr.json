@@ -1,0 +1,1015 @@
+[
+  {
+    "word": "market",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Markette (TR→DE)",
+    "bot_language": "de",
+    "exchanges": [
+      {
+        "bot": "Guten Tag! Kann ich Ihnen helfen?",
+        "options": [
+          "Ja, ich suche Brot.",
+          "Nein, ich schlafe hier.",
+          "Das Auto ist rot.",
+          "Ich bin ein Fenster."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Ich suche Brot' = Ekmek arıyorum.",
+        "feedback_wrong": "Doğru cevap: Ja, ich suche Brot. (Evet, ekmek arıyorum.)"
+      },
+      {
+        "bot": "Das Brot ist dort, im Regal. Möchten Sie noch etwas?",
+        "options": [
+          "Der Hund ist müde.",
+          "Ja, ich brauche Milch und Eier.",
+          "Ich wohne in einem Regal.",
+          "Nein, du bist Brot."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Milch und Eier' = süt ve yumurta.",
+        "feedback_wrong": "Doğru cevap: Ja, ich brauche Milch und Eier. (Evet, süt ve yumurtaya ihtiyacım var.)"
+      },
+      {
+        "bot": "Die Milch ist im Kühlregal. Brauchen Sie auch Käse?",
+        "options": [
+          "Ja, ein Stück Käse, bitte.",
+          "Der Käse fährt Fahrrad.",
+          "Ich bin der Kühlschrank.",
+          "Nein, das Fenster ist offen."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Ein Stück Käse, bitte' = Bir parça peynir, lütfen.",
+        "feedback_wrong": "Doğru cevap: Ja, ein Stück Käse, bitte. (Evet, bir parça peynir lütfen.)"
+      },
+      {
+        "bot": "Gern. Möchten Sie eine Tüte?",
+        "options": [
+          "Die Tüte singt schön.",
+          "Ich esse die Tüte.",
+          "Ja, eine Tüte, bitte.",
+          "Nein, ich bin eine Tüte."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'Eine Tüte, bitte' = Bir poşet, lütfen.",
+        "feedback_wrong": "Doğru cevap: Ja, eine Tüte, bitte. (Evet, bir poşet lütfen.)"
+      },
+      {
+        "bot": "Das macht zusammen zwölf Euro.",
+        "options": [
+          "Hier sind zwölf Euro.",
+          "Zwölf Hunde, bitte.",
+          "Ich bezahle mit Brot.",
+          "Der Euro ist ein Tier."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Hier sind zwölf Euro' = İşte on iki euro.",
+        "feedback_wrong": "Doğru cevap: Hier sind zwölf Euro. (İşte on iki euro.)"
+      },
+      {
+        "bot": "Danke schön! Möchten Sie den Kassenbon?",
+        "options": [
+          "Der Bon isst Suppe.",
+          "Ja, bitte. Danke!",
+          "Ich bin der Kassenbon.",
+          "Nein, das Pferd bezahlt."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Ja, bitte. Danke!' = Evet, lütfen. Teşekkürler!",
+        "feedback_wrong": "Doğru cevap: Ja, bitte. Danke! (Evet lütfen, teşekkürler!)"
+      },
+      {
+        "bot": "Schönen Tag noch! Auf Wiedersehen!",
+        "options": [
+          "Auf Wiedersehen!",
+          "Guten Morgen, ich schlafe.",
+          "Das Regal ist mein Freund.",
+          "Ich bleibe für immer hier."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Auf Wiedersehen' = Görüşmek üzere / hoşça kalın.",
+        "feedback_wrong": "Doğru cevap: Auf Wiedersehen! (Hoşça kalın!)"
+      }
+    ]
+  },
+  {
+    "word": "havalimanı",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Havalimanında (TR→DE)",
+    "bot_language": "de",
+    "exchanges": [
+      {
+        "bot": "Guten Tag! Ihren Reisepass, bitte.",
+        "options": [
+          "Hier ist mein Reisepass.",
+          "Ich habe keinen Kopf.",
+          "Der Pass ist ein Kuchen.",
+          "Das Flugzeug ist mein Bruder."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Hier ist mein Reisepass' = İşte pasaportum.",
+        "feedback_wrong": "Doğru cevap: Hier ist mein Reisepass. (İşte pasaportum.)"
+      },
+      {
+        "bot": "Danke. Wohin fliegen Sie heute?",
+        "options": [
+          "Ich fliege unter das Meer.",
+          "Ich fliege nach Berlin.",
+          "Ich fliege mit dem Fahrrad.",
+          "Ich fliege in die Suppe."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Ich fliege nach Berlin' = Berlin'e uçuyorum.",
+        "feedback_wrong": "Doğru cevap: Ich fliege nach Berlin. (Berlin'e uçuyorum.)"
+      },
+      {
+        "bot": "Haben Sie Gepäck?",
+        "options": [
+          "Ja, einen Koffer.",
+          "Nein, ich bin ein Koffer.",
+          "Das Gepäck trinkt Kaffee.",
+          "Mein Koffer fliegt allein."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Süper! 'Einen Koffer' = Bir valiz.",
+        "feedback_wrong": "Doğru cevap: Ja, einen Koffer. (Evet, bir valiz.)"
+      },
+      {
+        "bot": "Möchten Sie einen Fensterplatz oder einen Gangplatz?",
+        "options": [
+          "Ich sitze auf dem Flügel.",
+          "Der Platz ist lecker.",
+          "Einen Fensterplatz, bitte.",
+          "Ich stehe die ganze Zeit."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Fensterplatz' = cam kenarı koltuk.",
+        "feedback_wrong": "Doğru cevap: Einen Fensterplatz, bitte. (Cam kenarı, lütfen.)"
+      },
+      {
+        "bot": "Hier ist Ihre Bordkarte. Das Boarding beginnt um zehn Uhr.",
+        "options": [
+          "Danke! Wo ist das Gate?",
+          "Die Bordkarte ist mein Hund.",
+          "Zehn Uhr ist eine Farbe.",
+          "Ich esse das Gate."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Wo ist das Gate?' = Kapı nerede?",
+        "feedback_wrong": "Doğru cevap: Danke! Wo ist das Gate? (Teşekkürler! Kapı nerede?)"
+      },
+      {
+        "bot": "Gate B12, geradeaus und dann links.",
+        "options": [
+          "Ich gehe nach oben ins Meer.",
+          "Danke schön!",
+          "Links ist ein Tier.",
+          "Geradeaus ist mein Name."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Danke schön' = Çok teşekkürler.",
+        "feedback_wrong": "Doğru cevap: Danke schön! (Çok teşekkürler!)"
+      },
+      {
+        "bot": "Guten Flug!",
+        "options": [
+          "Der Flug isst mich.",
+          "Ich fliege nie.",
+          "Das Flugzeug ist böse.",
+          "Danke, auf Wiedersehen!"
+        ],
+        "correct": 3,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Guten Flug' = İyi uçuşlar.",
+        "feedback_wrong": "Doğru cevap: Danke, auf Wiedersehen! (Teşekkürler, hoşça kalın!)"
+      }
+    ]
+  },
+  {
+    "word": "otel",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Otelde (TR→DE)",
+    "bot_language": "de",
+    "exchanges": [
+      {
+        "bot": "Willkommen! Haben Sie eine Reservierung?",
+        "options": [
+          "Ja, auf den Namen Yılmaz.",
+          "Nein, ich wohne im Aufzug.",
+          "Die Reservierung ist blau.",
+          "Ich bin das Hotel."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Auf den Namen Yılmaz' = Yılmaz adına.",
+        "feedback_wrong": "Doğru cevap: Ja, auf den Namen Yılmaz. (Evet, Yılmaz adına.)"
+      },
+      {
+        "bot": "Ah ja, ein Doppelzimmer für drei Nächte. Stimmt das?",
+        "options": [
+          "Nein, ich bleibe hundert Jahre.",
+          "Ja, das stimmt.",
+          "Das Zimmer ist eine Nacht.",
+          "Drei Nächte sind ein Frühstück."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Ja, das stimmt' = Evet, doğru.",
+        "feedback_wrong": "Doğru cevap: Ja, das stimmt. (Evet, doğru.)"
+      },
+      {
+        "bot": "Ist das Frühstück inklusive?",
+        "options": [
+          "Ich frühstücke im Schrank.",
+          "Das Frühstück schwimmt.",
+          "Ja, von sieben bis zehn Uhr.",
+          "Nein, das Bett isst zuerst."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'Von sieben bis zehn Uhr' = Yediden ona kadar.",
+        "feedback_wrong": "Doğru cevap: Ja, von sieben bis zehn Uhr. (Evet, 7-10 arası.)"
+      },
+      {
+        "bot": "Hier ist Ihr Schlüssel. Zimmer 204, im zweiten Stock.",
+        "options": [
+          "Danke! Wo ist der Aufzug?",
+          "Der Schlüssel ist mein Vater.",
+          "Ich schlafe auf der Treppe.",
+          "Zimmer 204 ist ein Hund."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Wo ist der Aufzug?' = Asansör nerede?",
+        "feedback_wrong": "Doğru cevap: Danke! Wo ist der Aufzug? (Teşekkürler! Asansör nerede?)"
+      },
+      {
+        "bot": "Der Aufzug ist rechts, neben der Treppe.",
+        "options": [
+          "Die Treppe trinkt Tee.",
+          "Rechts ist eine Suppe.",
+          "Ich fliege ins Zimmer.",
+          "Vielen Dank!"
+        ],
+        "correct": 3,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Vielen Dank' = Çok teşekkürler.",
+        "feedback_wrong": "Doğru cevap: Vielen Dank! (Çok teşekkürler!)"
+      },
+      {
+        "bot": "Brauchen Sie Hilfe mit dem Gepäck?",
+        "options": [
+          "Nein danke, ich schaffe das.",
+          "Das Gepäck hilft mir.",
+          "Ja, der Koffer ist mein Chef.",
+          "Ich trage das Hotel."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Ich schaffe das' = Hallederim.",
+        "feedback_wrong": "Doğru cevap: Nein danke, ich schaffe das. (Hayır teşekkürler, hallederim.)"
+      },
+      {
+        "bot": "Gut. Einen schönen Aufenthalt!",
+        "options": [
+          "Der Aufenthalt ist gelb.",
+          "Danke schön!",
+          "Ich bleibe im Aufzug.",
+          "Das Zimmer geht nach Hause."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Harika! 'Einen schönen Aufenthalt' = İyi konaklamalar.",
+        "feedback_wrong": "Doğru cevap: Danke schön! (Çok teşekkürler!)"
+      }
+    ]
+  },
+  {
+    "word": "restoran",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Restoranda (TR→EN)",
+    "bot_language": "en",
+    "exchanges": [
+      {
+        "bot": "Good evening! A table for how many people?",
+        "options": [
+          "A table for two, please.",
+          "I am a table.",
+          "The chair eats dinner.",
+          "Two hundred tables, please."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'A table for two' = İki kişilik masa.",
+        "feedback_wrong": "Doğru cevap: A table for two, please. (İki kişilik masa, lütfen.)"
+      },
+      {
+        "bot": "Right this way. Here is the menu. Would you like something to drink?",
+        "options": [
+          "I drink the menu.",
+          "Yes, water and orange juice, please.",
+          "The drink is my sister.",
+          "No, I eat chairs."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Water and orange juice' = Su ve portakal suyu.",
+        "feedback_wrong": "Doğru cevap: Yes, water and orange juice, please. (Evet, su ve portakal suyu lütfen.)"
+      },
+      {
+        "bot": "Are you ready to order?",
+        "options": [
+          "The order is sleeping.",
+          "I order a window.",
+          "Yes, I would like the chicken soup.",
+          "No, the soup orders me."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'Chicken soup' = Tavuk çorbası.",
+        "feedback_wrong": "Doğru cevap: Yes, I would like the chicken soup. (Evet, tavuk çorbası istiyorum.)"
+      },
+      {
+        "bot": "Great choice! Anything else?",
+        "options": [
+          "Yes, bread and a salad, please.",
+          "The salad is my teacher.",
+          "I want to eat the waiter.",
+          "Anything else is a color."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Bread and a salad' = Ekmek ve salata.",
+        "feedback_wrong": "Doğru cevap: Yes, bread and a salad, please. (Evet, ekmek ve salata lütfen.)"
+      },
+      {
+        "bot": "Here is your food. Enjoy your meal!",
+        "options": [
+          "The meal enjoys me.",
+          "I sleep on the food.",
+          "The plate is angry.",
+          "Thank you very much!"
+        ],
+        "correct": 3,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Thank you very much' = Çok teşekkür ederim.",
+        "feedback_wrong": "Doğru cevap: Thank you very much! (Çok teşekkür ederim!)"
+      },
+      {
+        "bot": "How was everything?",
+        "options": [
+          "It was delicious, thank you.",
+          "The dinner was a car.",
+          "I was a soup yesterday.",
+          "Everything is my cousin."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'It was delicious' = Çok lezzetliydi.",
+        "feedback_wrong": "Doğru cevap: It was delicious, thank you. (Çok lezzetliydi, teşekkürler.)"
+      },
+      {
+        "bot": "Would you like the check?",
+        "options": [
+          "The check likes me.",
+          "Yes, the check, please.",
+          "No, I pay with a chair.",
+          "I am the check."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Harika! 'The check, please' = Hesap, lütfen.",
+        "feedback_wrong": "Doğru cevap: Yes, the check, please. (Evet, hesap lütfen.)"
+      },
+      {
+        "bot": "Thank you! Have a good night!",
+        "options": [
+          "Good night, thank you!",
+          "The night is a table.",
+          "I stay here forever.",
+          "You are a good night."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Süper! 'Good night' = İyi geceler.",
+        "feedback_wrong": "Doğru cevap: Good night, thank you! (İyi geceler, teşekkürler!)"
+      }
+    ]
+  },
+  {
+    "word": "hastane",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Hastanede (TR→EN)",
+    "bot_language": "en",
+    "exchanges": [
+      {
+        "bot": "Good morning. How can I help you?",
+        "options": [
+          "I have a headache and a fever.",
+          "My shoe is sick.",
+          "The hospital is my breakfast.",
+          "I help you today."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Headache and fever' = Baş ağrısı ve ateş.",
+        "feedback_wrong": "Doğru cevap: I have a headache and a fever. (Baş ağrım ve ateşim var.)"
+      },
+      {
+        "bot": "I'm sorry to hear that. When did it start?",
+        "options": [
+          "It started next year.",
+          "It started yesterday morning.",
+          "My head started the fever.",
+          "The morning is sick too."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Yesterday morning' = Dün sabah.",
+        "feedback_wrong": "Doğru cevap: It started yesterday morning. (Dün sabah başladı.)"
+      },
+      {
+        "bot": "Do you have any other symptoms?",
+        "options": [
+          "The symptom is my friend.",
+          "I eat symptoms every day.",
+          "Yes, my throat hurts too.",
+          "No, my house has symptoms."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'My throat hurts' = Boğazım ağrıyor.",
+        "feedback_wrong": "Doğru cevap: Yes, my throat hurts too. (Evet, boğazım da ağrıyor.)"
+      },
+      {
+        "bot": "Let me check your temperature. Please sit down.",
+        "options": [
+          "Okay, thank you doctor.",
+          "I sit on the temperature.",
+          "The chair checks me.",
+          "No, I sleep standing."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Thank you doctor' = Teşekkürler doktor.",
+        "feedback_wrong": "Doğru cevap: Okay, thank you doctor. (Tamam, teşekkürler doktor.)"
+      },
+      {
+        "bot": "You have a mild infection. I will give you some medicine.",
+        "options": [
+          "The medicine gives me you.",
+          "I give the infection a gift.",
+          "The infection is my job.",
+          "How often should I take it?"
+        ],
+        "correct": 3,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'How often should I take it?' = Ne sıklıkla almalıyım?",
+        "feedback_wrong": "Doğru cevap: How often should I take it? (Ne sıklıkla almalıyım?)"
+      },
+      {
+        "bot": "Twice a day, after meals. Rest and drink a lot of water.",
+        "options": [
+          "Okay, I understand. Thank you.",
+          "I drink the meals twice.",
+          "Water rests after me.",
+          "The day drinks two waters."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'I understand' = Anlıyorum.",
+        "feedback_wrong": "Doğru cevap: Okay, I understand. Thank you. (Tamam, anladım. Teşekkürler.)"
+      },
+      {
+        "bot": "Come back in one week if you don't feel better. Get well soon!",
+        "options": [
+          "The week feels better than me.",
+          "Thank you, goodbye!",
+          "I come back every hour.",
+          "Soon is my doctor."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Harika! 'Get well soon' = Geçmiş olsun.",
+        "feedback_wrong": "Doğru cevap: Thank you, goodbye! (Teşekkürler, hoşça kalın!)"
+      }
+    ]
+  },
+  {
+    "word": "okul",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Okulda (TR→EN)",
+    "bot_language": "en",
+    "exchanges": [
+      {
+        "bot": "Good morning, class! Please open your books.",
+        "options": [
+          "Good morning, teacher!",
+          "The book opens me.",
+          "I am a book today.",
+          "The class is closed."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Good morning, teacher' = Günaydın öğretmenim.",
+        "feedback_wrong": "Doğru cevap: Good morning, teacher! (Günaydın öğretmenim!)"
+      },
+      {
+        "bot": "Today we will study English. Do you have your notebook?",
+        "options": [
+          "My notebook studies alone.",
+          "Yes, I have my notebook and my pencil.",
+          "The pencil has me.",
+          "No, my notebook is a teacher."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Notebook and pencil' = Defter ve kalem.",
+        "feedback_wrong": "Doğru cevap: Yes, I have my notebook and my pencil. (Evet, defterim ve kalemim var.)"
+      },
+      {
+        "bot": "Great! Can you read the first sentence, please?",
+        "options": [
+          "The sentence reads me.",
+          "I read with my shoes.",
+          "Yes, of course!",
+          "No, the book is sleeping."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'Yes, of course' = Evet, tabii ki.",
+        "feedback_wrong": "Doğru cevap: Yes, of course! (Evet, tabii ki!)"
+      },
+      {
+        "bot": "Very good! Now, what is the homework for tomorrow?",
+        "options": [
+          "Can you repeat that, please?",
+          "The homework does itself.",
+          "Tomorrow is my homework.",
+          "I eat the homework."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Can you repeat that?' = Tekrar edebilir misiniz?",
+        "feedback_wrong": "Doğru cevap: Can you repeat that, please? (Tekrar edebilir misiniz, lütfen?)"
+      },
+      {
+        "bot": "Sure. Read pages ten and eleven, and write five sentences.",
+        "options": [
+          "The pages write me.",
+          "Five sentences read the book.",
+          "I write on the teacher.",
+          "Okay, I understand. Thank you!"
+        ],
+        "correct": 3,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'I understand' = Anladım.",
+        "feedback_wrong": "Doğru cevap: Okay, I understand. Thank you! (Tamam, anladım. Teşekkürler!)"
+      },
+      {
+        "bot": "Do you have any questions?",
+        "options": [
+          "No, everything is clear.",
+          "The question has me.",
+          "Yes, my desk is a question.",
+          "The class asks the window."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Everything is clear' = Her şey açık/anlaşıldı.",
+        "feedback_wrong": "Doğru cevap: No, everything is clear. (Hayır, her şey anlaşıldı.)"
+      },
+      {
+        "bot": "The lesson is over. See you tomorrow!",
+        "options": [
+          "The lesson sees me tomorrow.",
+          "See you tomorrow, teacher!",
+          "I live in the classroom.",
+          "Tomorrow is over."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Harika! 'See you tomorrow' = Yarın görüşürüz.",
+        "feedback_wrong": "Doğru cevap: See you tomorrow, teacher! (Yarın görüşürüz öğretmenim!)"
+      }
+    ]
+  },
+  {
+    "word": "kafe",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Kafede (TR→PT)",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Bom dia! O que você gostaria de beber?",
+        "options": [
+          "Um café com leite, por favor.",
+          "Eu bebo a mesa.",
+          "O café bebe você.",
+          "Eu sou uma xícara."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Um café com leite' = Sütlü bir kahve.",
+        "feedback_wrong": "Doğru cevap: Um café com leite, por favor. (Sütlü bir kahve, lütfen.)"
+      },
+      {
+        "bot": "Quer açúcar no seu café?",
+        "options": [
+          "O açúcar quer você.",
+          "Não, obrigado. Sem açúcar.",
+          "Eu moro no açúcar.",
+          "O café é meu irmão."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Sem açúcar' = Şekersiz.",
+        "feedback_wrong": "Doğru cevap: Não, obrigado. Sem açúcar. (Hayır, teşekkürler. Şekersiz.)"
+      },
+      {
+        "bot": "Gostaria de comer alguma coisa?",
+        "options": [
+          "Eu como a cadeira.",
+          "O bolo come primeiro.",
+          "Sim, um pedaço de bolo, por favor.",
+          "Não, a mesa está com fome."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'Um pedaço de bolo' = Bir dilim pasta.",
+        "feedback_wrong": "Doğru cevap: Sim, um pedaço de bolo, por favor. (Evet, bir dilim pasta lütfen.)"
+      },
+      {
+        "bot": "Aqui está o seu café e o bolo. Bom apetite!",
+        "options": [
+          "Muito obrigado!",
+          "O apetite é bom para você.",
+          "Eu durmo no bolo.",
+          "O café está bravo."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Muito obrigado' = Çok teşekkürler.",
+        "feedback_wrong": "Doğru cevap: Muito obrigado! (Çok teşekkürler!)"
+      },
+      {
+        "bot": "Está tudo bem? O café está bom?",
+        "options": [
+          "O café está muito triste.",
+          "Sim, está delicioso!",
+          "Eu estou dentro do café.",
+          "Não, o bolo fala muito."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Está delicioso' = Çok lezzetli.",
+        "feedback_wrong": "Doğru cevap: Sim, está delicioso! (Evet, çok lezzetli!)"
+      },
+      {
+        "bot": "Deseja mais alguma coisa?",
+        "options": [
+          "Sim, eu quero a cozinha inteira.",
+          "A coisa deseja você.",
+          "Não, só a conta, por favor.",
+          "Eu sou mais alguma coisa."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Só a conta, por favor' = Sadece hesap, lütfen.",
+        "feedback_wrong": "Doğru cevap: Não, só a conta, por favor. (Hayır, sadece hesap lütfen.)"
+      },
+      {
+        "bot": "São quinze reais. Obrigado pela visita!",
+        "options": [
+          "Aqui está. Tchau!",
+          "Quinze reais são meus amigos.",
+          "Eu pago com bolo.",
+          "A visita paga a conta."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Aqui está. Tchau!' = Buyurun. Hoşça kalın!",
+        "feedback_wrong": "Doğru cevap: Aqui está. Tchau! (Buyurun. Hoşça kalın!)"
+      }
+    ]
+  },
+  {
+    "word": "alışveriş",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Alışverişte (TR→PT)",
+    "bot_language": "pt",
+    "exchanges": [
+      {
+        "bot": "Olá! Posso ajudar?",
+        "options": [
+          "Sim, estou procurando uma camiseta.",
+          "Eu ajudo a loja.",
+          "A camiseta procura você.",
+          "Não, eu moro aqui."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Estou procurando uma camiseta' = Bir tişört arıyorum.",
+        "feedback_wrong": "Doğru cevap: Sim, estou procurando uma camiseta. (Evet, bir tişört arıyorum.)"
+      },
+      {
+        "bot": "Qual é o seu tamanho?",
+        "options": [
+          "Meu tamanho é uma cor.",
+          "Tamanho médio, por favor.",
+          "Eu sou do tamanho da loja.",
+          "O tamanho me usa."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Tamanho médio' = Orta beden.",
+        "feedback_wrong": "Doğru cevap: Tamanho médio, por favor. (Orta beden, lütfen.)"
+      },
+      {
+        "bot": "Temos em azul, vermelho e preto. Qual cor você prefere?",
+        "options": [
+          "A cor me prefere.",
+          "Eu prefiro comer as cores.",
+          "Prefiro a azul.",
+          "O preto é meu pai."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'Prefiro a azul' = Maviyi tercih ederim.",
+        "feedback_wrong": "Doğru cevap: Prefiro a azul. (Maviyi tercih ederim.)"
+      },
+      {
+        "bot": "Quer experimentar? O provador fica ali.",
+        "options": [
+          "Sim, obrigado.",
+          "O provador me experimenta.",
+          "Não, eu visto a loja.",
+          "A camiseta fica em casa."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Sim, obrigado' = Evet, teşekkürler.",
+        "feedback_wrong": "Doğru cevap: Sim, obrigado. (Evet, teşekkürler.)"
+      },
+      {
+        "bot": "E então, gostou?",
+        "options": [
+          "A camiseta gostou de mim.",
+          "Sim, ficou ótima. Vou levar.",
+          "Não, eu levo o provador.",
+          "Eu fico na loja para sempre."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Vou levar' = Alıyorum.",
+        "feedback_wrong": "Doğru cevap: Sim, ficou ótima. Vou levar. (Evet, çok iyi oldu. Alıyorum.)"
+      },
+      {
+        "bot": "São quarenta reais. Cartão ou dinheiro?",
+        "options": [
+          "O cartão paga sozinho.",
+          "Eu pago com uma camiseta.",
+          "Cartão, por favor.",
+          "O dinheiro é meu primo."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Cartão, por favor' = Kart, lütfen.",
+        "feedback_wrong": "Doğru cevap: Cartão, por favor. (Kart, lütfen.)"
+      },
+      {
+        "bot": "Pronto! Obrigada e volte sempre!",
+        "options": [
+          "Obrigado, até logo!",
+          "Eu volto em cem anos.",
+          "A loja volta comigo.",
+          "Sempre é meu nome."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Até logo' = Görüşürüz.",
+        "feedback_wrong": "Doğru cevap: Obrigado, até logo! (Teşekkürler, görüşürüz!)"
+      }
+    ]
+  },
+  {
+    "word": "park",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Parkta (TR→ES)",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "¡Hola! ¿Vienes mucho a este parque?",
+        "options": [
+          "Sí, vengo todos los días.",
+          "El parque viene a mí.",
+          "No, yo soy un árbol.",
+          "Los días vienen al parque."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Vengo todos los días' = Her gün gelirim.",
+        "feedback_wrong": "Doğru cevap: Sí, vengo todos los días. (Evet, her gün gelirim.)"
+      },
+      {
+        "bot": "¡Qué bien! ¿Qué te gusta hacer aquí?",
+        "options": [
+          "El parque me hace a mí.",
+          "Me gusta correr y caminar.",
+          "Me gusta dormir en el lago.",
+          "Hago árboles nuevos."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Correr y caminar' = Koşmak ve yürümek.",
+        "feedback_wrong": "Doğru cevap: Me gusta correr y caminar. (Koşmayı ve yürümeyi severim.)"
+      },
+      {
+        "bot": "¿Tienes un perro?",
+        "options": [
+          "El perro me tiene a mí.",
+          "No, mi perro es un gato.",
+          "Sí, se llama Max.",
+          "Yo soy el perro."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'Se llama Max' = Adı Max.",
+        "feedback_wrong": "Doğru cevap: Sí, se llama Max. (Evet, adı Max.)"
+      },
+      {
+        "bot": "¡Qué bonito! ¿Cuántos años tiene?",
+        "options": [
+          "Tiene tres años.",
+          "Los años tienen a Max.",
+          "Max tiene cien perros.",
+          "Tres años me tienen."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Tiene tres años' = Üç yaşında.",
+        "feedback_wrong": "Doğru cevap: Tiene tres años. (Üç yaşında.)"
+      },
+      {
+        "bot": "¿Quieres sentarte en el banco un momento?",
+        "options": [
+          "El banco se sienta en mí.",
+          "Sí, claro. Hace buen tiempo hoy.",
+          "No, yo vivo debajo del banco.",
+          "El momento se sienta primero."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Hace buen tiempo' = Hava güzel.",
+        "feedback_wrong": "Doğru cevap: Sí, claro. Hace buen tiempo hoy. (Evet, tabii. Bugün hava güzel.)"
+      },
+      {
+        "bot": "Sí, el sol está muy agradable. ¿Vienes mañana también?",
+        "options": [
+          "El sol viene conmigo a casa.",
+          "Mañana el parque no existe.",
+          "Sí, hasta mañana entonces.",
+          "Yo soy el sol."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'Hasta mañana' = Yarın görüşürüz.",
+        "feedback_wrong": "Doğru cevap: Sí, hasta mañana entonces. (Evet, o zaman yarın görüşürüz.)"
+      },
+      {
+        "bot": "¡Perfecto! ¡Adiós, que tengas un buen día!",
+        "options": [
+          "¡Adiós, igualmente!",
+          "El día me tiene bueno.",
+          "Yo me quedo aquí para siempre.",
+          "El adiós es un pájaro."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Igualmente' = Sana da / aynen.",
+        "feedback_wrong": "Doğru cevap: ¡Adiós, igualmente! (Hoşça kal, sana da!)"
+      }
+    ]
+  },
+  {
+    "word": "postane",
+    "level": "a1",
+    "difficulty": "easy",
+    "context": "Postanede (TR→ES)",
+    "bot_language": "es",
+    "exchanges": [
+      {
+        "bot": "Buenos días. ¿En qué puedo ayudarle?",
+        "options": [
+          "Quiero enviar un paquete.",
+          "El paquete me envía.",
+          "Yo ayudo a la oficina.",
+          "Quiero vivir aquí."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Enviar un paquete' = Paket göndermek.",
+        "feedback_wrong": "Doğru cevap: Quiero enviar un paquete. (Bir paket göndermek istiyorum.)"
+      },
+      {
+        "bot": "¿A dónde quiere enviarlo?",
+        "options": [
+          "El paquete decide solo.",
+          "A Estambul, Turquía.",
+          "A la luna, por favor.",
+          "Dentro de la oficina."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'A Estambul, Turquía' = İstanbul'a, Türkiye'ye.",
+        "feedback_wrong": "Doğru cevap: A Estambul, Turquía. (İstanbul'a, Türkiye'ye.)"
+      },
+      {
+        "bot": "Muy bien. ¿Qué hay dentro del paquete?",
+        "options": [
+          "Dentro hay un elefante.",
+          "El paquete está dentro de mí.",
+          "Hay libros y ropa.",
+          "Hay una oficina pequeña."
+        ],
+        "correct": 2,
+        "points": 10,
+        "feedback_correct": "Süper! 'Libros y ropa' = Kitaplar ve kıyafet.",
+        "feedback_wrong": "Doğru cevap: Hay libros y ropa. (Kitaplar ve kıyafet var.)"
+      },
+      {
+        "bot": "¿Envío normal o urgente?",
+        "options": [
+          "Normal, por favor. ¿Cuánto cuesta?",
+          "El envío me elige.",
+          "Urgente para el año que viene.",
+          "Yo soy urgente."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! '¿Cuánto cuesta?' = Ne kadar tutar?",
+        "feedback_wrong": "Doğru cevap: Normal, por favor. ¿Cuánto cuesta? (Normal, lütfen. Ne kadar?)"
+      },
+      {
+        "bot": "Son veinte euros. ¿Necesita algo más?",
+        "options": [
+          "Los euros necesitan algo.",
+          "Sí, tres sellos, por favor.",
+          "Necesito el correo entero.",
+          "Algo más me necesita."
+        ],
+        "correct": 1,
+        "points": 10,
+        "feedback_correct": "Çok iyi! 'Tres sellos' = Üç pul.",
+        "feedback_wrong": "Doğru cevap: Sí, tres sellos, por favor. (Evet, üç pul lütfen.)"
+      },
+      {
+        "bot": "Aquí tiene. ¿Va a pagar con tarjeta o en efectivo?",
+        "options": [
+          "Pago con sellos.",
+          "La tarjeta paga sola.",
+          "El efectivo es mi hermano.",
+          "En efectivo, por favor."
+        ],
+        "correct": 3,
+        "points": 10,
+        "feedback_correct": "Mükemmel! 'En efectivo' = Nakit.",
+        "feedback_wrong": "Doğru cevap: En efectivo, por favor. (Nakit, lütfen.)"
+      },
+      {
+        "bot": "Perfecto. Su paquete llegará en cinco días. ¡Buen día!",
+        "options": [
+          "Muchas gracias, ¡adiós!",
+          "Cinco días llegan al paquete.",
+          "Yo llego antes que el paquete.",
+          "El día es bueno conmigo."
+        ],
+        "correct": 0,
+        "points": 10,
+        "feedback_correct": "Harika! 'Muchas gracias' = Çok teşekkürler.",
+        "feedback_wrong": "Doğru cevap: Muchas gracias, ¡adiós! (Çok teşekkürler, hoşça kalın!)"
+      }
+    ]
+  }
+]

@@ -10,8 +10,8 @@
 | | Değer |
 |---|---|
 | **Kaynak dil** | Türkçe (TR) |
-| **Hedef diller** | İngilizce + İspanyolca + Portekizce |
-| **Dil çiftleri** | TR→EN, TR→ES, TR→PT |
+| **Hedef diller** | Almanca + İngilizce + Portekizce + İspanyolca |
+| **Dil çiftleri** | TR→DE, TR→EN, TR→ES, TR→PT |
 | **Hedef kitle** | Türkçe konuşanlar (Türkiye + diaspora) |
 | **Arayüz** | Türkçe |
 | **Platform** | Android APK |
@@ -30,6 +30,8 @@
 - [x] Aşama 1C — Dil sistemi (ProfileSetup TR, i18n 126 anahtar)
 - [x] Aşama 2 — TR kelime listesi (99 kelime, 10 kategori, TR/EN/ES/PT)
 - [x] Aşama 3 — TR/EN/ES/PT audio dosyaları eklendi
+- [x] DE dili eklendi (words-tr-a1.json "de" alanı, DB, DE audio, ProfileSetup)
+- [x] Aşama 4 — Study.jsx TR, PlacementTest TR, TR conversation packs
 
 ---
 
@@ -89,23 +91,23 @@
 
 ---
 
-## 🔄 AŞAMA 4 — UI Güncellemeleri
+## ✅ AŞAMA 4 — UI Güncellemeleri
 
 ### Study.jsx
-- [ ] TR kelime verilerini yükle
-- [ ] TR ses dosyalarını çal
-- [ ] Level seçici (A1/A2/B1/B2)
-- [ ] **Araç: .py patch**
+- [x] TR kelime verilerini yükle
+- [x] TR ses dosyalarını çal
+- [x] Level seçici (A1/A2/B1/B2)
+- [x] **Araç: .py patch**
 
 ### PlacementTest
-- [ ] TR sorular ekle (15 soru)
-- [ ] TR → EN/ES/PT çoktan seçmeli
-- [ ] **Araç: .cjs script**
+- [x] TR sorular ekle (placementQuestionsTR.js)
+- [x] TR → EN/ES/PT çoktan seçmeli
+- [x] **Araç: .cjs script**
 
 ### Conversation Packs
-- [ ] TR konuşma senaryoları (8 ES + 8 PT hedefli)
-- [ ] TR bot sesleri
-- [ ] **Araç: Tencent + .py**
+- [x] TR kaynak dilli 10 senaryo (3 DE, 3 EN, 2 PT, 2 ES) → public/conversation_packs_tr.json
+- [x] conversationService.js'e import edildi
+- [x] **Araç: Claude Code**
 
 ---
 

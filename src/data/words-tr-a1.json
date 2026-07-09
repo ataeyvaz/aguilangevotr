@@ -5,6 +5,7 @@
     "en": "bread",
     "es": "pan",
     "pt": "pão",
+    "de": "Brot",
     "level": "A1",
     "category": "food",
     "emoji": "🍞"
@@ -15,6 +16,7 @@
     "en": "milk",
     "es": "leche",
     "pt": "leite",
+    "de": "Milch",
     "level": "A1",
     "category": "food",
     "emoji": "🥛"
@@ -25,6 +27,7 @@
     "en": "egg",
     "es": "huevo",
     "pt": "ovo",
+    "de": "Ei",
     "level": "A1",
     "category": "food",
     "emoji": "🥚"
@@ -35,6 +38,7 @@
     "en": "cheese",
     "es": "queso",
     "pt": "queijo",
+    "de": "Käse",
     "level": "A1",
     "category": "food",
     "emoji": "🧀"
@@ -45,6 +49,7 @@
     "en": "rice",
     "es": "arroz",
     "pt": "arroz",
+    "de": "Reis",
     "level": "A1",
     "category": "food",
     "emoji": "🍚"
@@ -55,6 +60,7 @@
     "en": "soup",
     "es": "sopa",
     "pt": "sopa",
+    "de": "Suppe",
     "level": "A1",
     "category": "food",
     "emoji": "🍲"
@@ -65,6 +71,7 @@
     "en": "cake",
     "es": "pastel",
     "pt": "bolo",
+    "de": "Kuchen",
     "level": "A1",
     "category": "food",
     "emoji": "🎂"
@@ -75,6 +82,7 @@
     "en": "coffee",
     "es": "café",
     "pt": "café",
+    "de": "Kaffee",
     "level": "A1",
     "category": "food",
     "emoji": "☕"
@@ -85,6 +93,7 @@
     "en": "tea",
     "es": "té",
     "pt": "chá",
+    "de": "Tee",
     "level": "A1",
     "category": "food",
     "emoji": "🍵"
@@ -95,6 +104,7 @@
     "en": "chicken",
     "es": "pollo",
     "pt": "frango",
+    "de": "Hähnchen",
     "level": "A1",
     "category": "food",
     "emoji": "🍗"
@@ -105,6 +115,7 @@
     "en": "cat",
     "es": "gato",
     "pt": "gato",
+    "de": "Katze",
     "level": "A1",
     "category": "animals",
     "emoji": "🐱"
@@ -115,6 +126,7 @@
     "en": "dog",
     "es": "perro",
     "pt": "cachorro",
+    "de": "Hund",
     "level": "A1",
     "category": "animals",
     "emoji": "🐶"
@@ -125,6 +137,7 @@
     "en": "fish",
     "es": "pez",
     "pt": "peixe",
+    "de": "Fisch",
     "level": "A1",
     "category": "animals",
     "emoji": "🐟"
@@ -135,6 +148,7 @@
     "en": "bird",
     "es": "pájaro",
     "pt": "pássaro",
+    "de": "Vogel",
     "level": "A1",
     "category": "animals",
     "emoji": "🐦"
@@ -145,6 +159,7 @@
     "en": "rabbit",
     "es": "conejo",
     "pt": "coelho",
+    "de": "Hase",
     "level": "A1",
     "category": "animals",
     "emoji": "🐰"
@@ -155,6 +170,7 @@
     "en": "horse",
     "es": "caballo",
     "pt": "cavalo",
+    "de": "Pferd",
     "level": "A1",
     "category": "animals",
     "emoji": "🐴"
@@ -165,6 +181,7 @@
     "en": "cow",
     "es": "vaca",
     "pt": "vaca",
+    "de": "Kuh",
     "level": "A1",
     "category": "animals",
     "emoji": "🐮"
@@ -175,6 +192,7 @@
     "en": "lion",
     "es": "león",
     "pt": "leão",
+    "de": "Löwe",
     "level": "A1",
     "category": "animals",
     "emoji": "🦁"
@@ -185,6 +203,7 @@
     "en": "elephant",
     "es": "elefante",
     "pt": "elefante",
+    "de": "Elefant",
     "level": "A1",
     "category": "animals",
     "emoji": "🐘"
@@ -195,6 +214,7 @@
     "en": "monkey",
     "es": "mono",
     "pt": "macaco",
+    "de": "Affe",
     "level": "A1",
     "category": "animals",
     "emoji": "🐒"
@@ -205,6 +225,7 @@
     "en": "red",
     "es": "rojo",
     "pt": "vermelho",
+    "de": "rot",
     "level": "A1",
     "category": "colors",
     "emoji": "🔴"
@@ -215,6 +236,7 @@
     "en": "blue",
     "es": "azul",
     "pt": "azul",
+    "de": "blau",
     "level": "A1",
     "category": "colors",
     "emoji": "🔵"
@@ -225,6 +247,7 @@
     "en": "green",
     "es": "verde",
     "pt": "verde",
+    "de": "grün",
     "level": "A1",
     "category": "colors",
     "emoji": "🟢"
@@ -235,6 +258,7 @@
     "en": "yellow",
     "es": "amarillo",
     "pt": "amarelo",
+    "de": "gelb",
     "level": "A1",
     "category": "colors",
     "emoji": "🟡"
@@ -245,6 +269,7 @@
     "en": "orange",
     "es": "naranja",
     "pt": "laranja",
+    "de": "orange",
     "level": "A1",
     "category": "colors",
     "emoji": "🟠"
@@ -255,6 +280,7 @@
     "en": "purple",
     "es": "morado",
     "pt": "roxo",
+    "de": "lila",
     "level": "A1",
     "category": "colors",
     "emoji": "🟣"
@@ -265,6 +291,7 @@
     "en": "pink",
     "es": "rosa",
     "pt": "rosa",
+    "de": "rosa",
     "level": "A1",
     "category": "colors",
     "emoji": "🌸"
@@ -275,6 +302,7 @@
     "en": "white",
     "es": "blanco",
     "pt": "branco",
+    "de": "weiß",
     "level": "A1",
     "category": "colors",
     "emoji": "⬜"
@@ -285,6 +313,7 @@
     "en": "black",
     "es": "negro",
     "pt": "preto",
+    "de": "schwarz",
     "level": "A1",
     "category": "colors",
     "emoji": "⬛"
@@ -295,6 +324,7 @@
     "en": "brown",
     "es": "marrón",
     "pt": "marrom",
+    "de": "braun",
     "level": "A1",
     "category": "colors",
     "emoji": "🟫"
@@ -305,6 +335,7 @@
     "en": "one",
     "es": "uno",
     "pt": "um",
+    "de": "eins",
     "level": "A1",
     "category": "numbers",
     "emoji": "1️⃣"
@@ -315,6 +346,7 @@
     "en": "two",
     "es": "dos",
     "pt": "dois",
+    "de": "zwei",
     "level": "A1",
     "category": "numbers",
     "emoji": "2️⃣"
@@ -325,6 +357,7 @@
     "en": "three",
     "es": "tres",
     "pt": "três",
+    "de": "drei",
     "level": "A1",
     "category": "numbers",
     "emoji": "3️⃣"
@@ -335,6 +368,7 @@
     "en": "four",
     "es": "cuatro",
     "pt": "quatro",
+    "de": "vier",
     "level": "A1",
     "category": "numbers",
     "emoji": "4️⃣"
@@ -345,6 +379,7 @@
     "en": "five",
     "es": "cinco",
     "pt": "cinco",
+    "de": "fünf",
     "level": "A1",
     "category": "numbers",
     "emoji": "5️⃣"
@@ -355,6 +390,7 @@
     "en": "six",
     "es": "seis",
     "pt": "seis",
+    "de": "sechs",
     "level": "A1",
     "category": "numbers",
     "emoji": "6️⃣"
@@ -365,6 +401,7 @@
     "en": "seven",
     "es": "siete",
     "pt": "sete",
+    "de": "sieben",
     "level": "A1",
     "category": "numbers",
     "emoji": "7️⃣"
@@ -375,6 +412,7 @@
     "en": "eight",
     "es": "ocho",
     "pt": "oito",
+    "de": "acht",
     "level": "A1",
     "category": "numbers",
     "emoji": "8️⃣"
@@ -385,6 +423,7 @@
     "en": "nine",
     "es": "nueve",
     "pt": "nove",
+    "de": "neun",
     "level": "A1",
     "category": "numbers",
     "emoji": "9️⃣"
@@ -395,6 +434,7 @@
     "en": "ten",
     "es": "diez",
     "pt": "dez",
+    "de": "zehn",
     "level": "A1",
     "category": "numbers",
     "emoji": "🔟"
@@ -405,6 +445,7 @@
     "en": "mother",
     "es": "madre",
     "pt": "mãe",
+    "de": "Mutter",
     "level": "A1",
     "category": "family",
     "emoji": "👩"
@@ -415,6 +456,7 @@
     "en": "father",
     "es": "padre",
     "pt": "pai",
+    "de": "Vater",
     "level": "A1",
     "category": "family",
     "emoji": "👨"
@@ -425,6 +467,7 @@
     "en": "brother",
     "es": "hermano",
     "pt": "irmão",
+    "de": "Bruder",
     "level": "A1",
     "category": "family",
     "emoji": "👦"
@@ -435,6 +478,7 @@
     "en": "sister",
     "es": "hermana",
     "pt": "irmã",
+    "de": "Schwester",
     "level": "A1",
     "category": "family",
     "emoji": "👧"
@@ -445,6 +489,7 @@
     "en": "grandmother",
     "es": "abuela",
     "pt": "avó",
+    "de": "Oma",
     "level": "A1",
     "category": "family",
     "emoji": "👵"
@@ -455,6 +500,7 @@
     "en": "grandfather",
     "es": "abuelo",
     "pt": "avô",
+    "de": "Opa",
     "level": "A1",
     "category": "family",
     "emoji": "👴"
@@ -465,6 +511,7 @@
     "en": "baby",
     "es": "bebé",
     "pt": "bebê",
+    "de": "Baby",
     "level": "A1",
     "category": "family",
     "emoji": "👶"
@@ -475,6 +522,7 @@
     "en": "family",
     "es": "familia",
     "pt": "família",
+    "de": "Familie",
     "level": "A1",
     "category": "family",
     "emoji": "👨‍👩‍👧"
@@ -485,6 +533,7 @@
     "en": "son",
     "es": "hijo",
     "pt": "filho",
+    "de": "Sohn",
     "level": "A1",
     "category": "family",
     "emoji": "🧒‍♂️"
@@ -495,6 +544,7 @@
     "en": "daughter",
     "es": "hija",
     "pt": "filha",
+    "de": "Tochter",
     "level": "A1",
     "category": "family",
     "emoji": "🧒‍♀️"
@@ -505,6 +555,7 @@
     "en": "head",
     "es": "cabeza",
     "pt": "cabeça",
+    "de": "Kopf",
     "level": "A1",
     "category": "body",
     "emoji": "🧠"
@@ -515,6 +566,7 @@
     "en": "eye",
     "es": "ojo",
     "pt": "olho",
+    "de": "Auge",
     "level": "A1",
     "category": "body",
     "emoji": "👁️"
@@ -525,6 +577,7 @@
     "en": "ear",
     "es": "oreja",
     "pt": "orelha",
+    "de": "Ohr",
     "level": "A1",
     "category": "body",
     "emoji": "👂"
@@ -535,6 +588,7 @@
     "en": "nose",
     "es": "nariz",
     "pt": "nariz",
+    "de": "Nase",
     "level": "A1",
     "category": "body",
     "emoji": "👃"
@@ -545,6 +599,7 @@
     "en": "mouth",
     "es": "boca",
     "pt": "boca",
+    "de": "Mund",
     "level": "A1",
     "category": "body",
     "emoji": "👄"
@@ -555,6 +610,7 @@
     "en": "hand",
     "es": "mano",
     "pt": "mão",
+    "de": "Hand",
     "level": "A1",
     "category": "body",
     "emoji": "✋"
@@ -565,6 +621,7 @@
     "en": "foot",
     "es": "pie",
     "pt": "pé",
+    "de": "Fuß",
     "level": "A1",
     "category": "body",
     "emoji": "🦶"
@@ -575,6 +632,7 @@
     "en": "arm",
     "es": "brazo",
     "pt": "braço",
+    "de": "Arm",
     "level": "A1",
     "category": "body",
     "emoji": "💪"
@@ -585,6 +643,7 @@
     "en": "leg",
     "es": "pierna",
     "pt": "perna",
+    "de": "Bein",
     "level": "A1",
     "category": "body",
     "emoji": "🦵"
@@ -595,6 +654,7 @@
     "en": "hair",
     "es": "cabello",
     "pt": "cabelo",
+    "de": "Haar",
     "level": "A1",
     "category": "body",
     "emoji": "💇"
@@ -605,6 +665,7 @@
     "en": "bedroom",
     "es": "dormitorio",
     "pt": "quarto",
+    "de": "Schlafzimmer",
     "level": "A1",
     "category": "home",
     "emoji": "🛏️"
@@ -615,6 +676,7 @@
     "en": "kitchen",
     "es": "cocina",
     "pt": "cozinha",
+    "de": "Küche",
     "level": "A1",
     "category": "home",
     "emoji": "🍳"
@@ -625,6 +687,7 @@
     "en": "door",
     "es": "puerta",
     "pt": "porta",
+    "de": "Tür",
     "level": "A1",
     "category": "home",
     "emoji": "🚪"
@@ -635,6 +698,7 @@
     "en": "window",
     "es": "ventana",
     "pt": "janela",
+    "de": "Fenster",
     "level": "A1",
     "category": "home",
     "emoji": "🪟"
@@ -645,6 +709,7 @@
     "en": "chair",
     "es": "silla",
     "pt": "cadeira",
+    "de": "Stuhl",
     "level": "A1",
     "category": "home",
     "emoji": "🪑"
@@ -655,6 +720,7 @@
     "en": "sofa",
     "es": "sofá",
     "pt": "sofá",
+    "de": "Sofa",
     "level": "A1",
     "category": "home",
     "emoji": "🛋️"
@@ -665,6 +731,7 @@
     "en": "bed",
     "es": "cama",
     "pt": "cama",
+    "de": "Bett",
     "level": "A1",
     "category": "home",
     "emoji": "🛏️"
@@ -675,6 +742,7 @@
     "en": "bathroom",
     "es": "baño",
     "pt": "banheiro",
+    "de": "Badezimmer",
     "level": "A1",
     "category": "home",
     "emoji": "🚿"
@@ -685,6 +753,7 @@
     "en": "lamp",
     "es": "lámpara",
     "pt": "lâmpada",
+    "de": "Lampe",
     "level": "A1",
     "category": "home",
     "emoji": "💡"
@@ -695,6 +764,7 @@
     "en": "mirror",
     "es": "espejo",
     "pt": "espelho",
+    "de": "Spiegel",
     "level": "A1",
     "category": "home",
     "emoji": "🪞"
@@ -705,6 +775,7 @@
     "en": "bicycle",
     "es": "bicicleta",
     "pt": "bicicleta",
+    "de": "Fahrrad",
     "level": "A1",
     "category": "transport",
     "emoji": "🚲"
@@ -715,6 +786,7 @@
     "en": "boat",
     "es": "barca",
     "pt": "barco",
+    "de": "Boot",
     "level": "A1",
     "category": "transport",
     "emoji": "⛵"
@@ -725,6 +797,7 @@
     "en": "bus",
     "es": "autobús",
     "pt": "ônibus",
+    "de": "Bus",
     "level": "A1",
     "category": "transport",
     "emoji": "🚌"
@@ -735,6 +808,7 @@
     "en": "car",
     "es": "coche",
     "pt": "carro",
+    "de": "Auto",
     "level": "A1",
     "category": "transport",
     "emoji": "🚗"
@@ -745,6 +819,7 @@
     "en": "plane",
     "es": "avión",
     "pt": "avião",
+    "de": "Flugzeug",
     "level": "A1",
     "category": "transport",
     "emoji": "✈️"
@@ -755,6 +830,7 @@
     "en": "ship",
     "es": "barco",
     "pt": "navio",
+    "de": "Schiff",
     "level": "A1",
     "category": "transport",
     "emoji": "🚢"
@@ -765,6 +841,7 @@
     "en": "taxi",
     "es": "taxi",
     "pt": "táxi",
+    "de": "Taxi",
     "level": "A1",
     "category": "transport",
     "emoji": "🚕"
@@ -775,6 +852,7 @@
     "en": "train",
     "es": "tren",
     "pt": "trem",
+    "de": "Zug",
     "level": "A1",
     "category": "transport",
     "emoji": "🚂"
@@ -785,6 +863,7 @@
     "en": "truck",
     "es": "camión",
     "pt": "caminhão",
+    "de": "Lastwagen",
     "level": "A1",
     "category": "transport",
     "emoji": "🚛"
@@ -795,6 +874,7 @@
     "en": "apple",
     "es": "manzana",
     "pt": "maçã",
+    "de": "Apfel",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍎"
@@ -805,6 +885,7 @@
     "en": "banana",
     "es": "plátano",
     "pt": "banana",
+    "de": "Banane",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍌"
@@ -815,6 +896,7 @@
     "en": "orange",
     "es": "naranja",
     "pt": "laranja",
+    "de": "Orange",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍊"
@@ -825,6 +907,7 @@
     "en": "strawberry",
     "es": "fresa",
     "pt": "morango",
+    "de": "Erdbeere",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍓"
@@ -835,6 +918,7 @@
     "en": "grape",
     "es": "uva",
     "pt": "uva",
+    "de": "Traube",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍇"
@@ -845,6 +929,7 @@
     "en": "lemon",
     "es": "limón",
     "pt": "limão",
+    "de": "Zitrone",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍋"
@@ -855,6 +940,7 @@
     "en": "watermelon",
     "es": "sandía",
     "pt": "melancia",
+    "de": "Wassermelone",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍉"
@@ -865,6 +951,7 @@
     "en": "pineapple",
     "es": "piña",
     "pt": "abacaxi",
+    "de": "Ananas",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍍"
@@ -875,6 +962,7 @@
     "en": "mango",
     "es": "mango",
     "pt": "manga",
+    "de": "Mango",
     "level": "A1",
     "category": "fruits",
     "emoji": "🥭"
@@ -885,6 +973,7 @@
     "en": "peach",
     "es": "melocotón",
     "pt": "pêssego",
+    "de": "Pfirsich",
     "level": "A1",
     "category": "fruits",
     "emoji": "🍑"
@@ -895,6 +984,7 @@
     "en": "book",
     "es": "libro",
     "pt": "livro",
+    "de": "Buch",
     "level": "A1",
     "category": "school",
     "emoji": "📚"
@@ -905,6 +995,7 @@
     "en": "pen",
     "es": "bolígrafo",
     "pt": "caneta",
+    "de": "Stift",
     "level": "A1",
     "category": "school",
     "emoji": "🖊️"
@@ -915,6 +1006,7 @@
     "en": "pencil",
     "es": "lápiz",
     "pt": "lápis",
+    "de": "Bleistift",
     "level": "A1",
     "category": "school",
     "emoji": "✏️"
@@ -925,6 +1017,7 @@
     "en": "ruler",
     "es": "regla",
     "pt": "régua",
+    "de": "Lineal",
     "level": "A1",
     "category": "school",
     "emoji": "📏"
@@ -935,6 +1028,7 @@
     "en": "bag",
     "es": "mochila",
     "pt": "mochila",
+    "de": "Tasche",
     "level": "A1",
     "category": "school",
     "emoji": "🎒"
@@ -945,6 +1039,7 @@
     "en": "desk",
     "es": "escritorio",
     "pt": "carteira",
+    "de": "Tisch",
     "level": "A1",
     "category": "school",
     "emoji": "🪑"
@@ -955,6 +1050,7 @@
     "en": "teacher",
     "es": "maestro",
     "pt": "professor",
+    "de": "Lehrer",
     "level": "A1",
     "category": "school",
     "emoji": "👨‍🏫"
@@ -965,6 +1061,7 @@
     "en": "student",
     "es": "estudiante",
     "pt": "aluno",
+    "de": "Schüler",
     "level": "A1",
     "category": "school",
     "emoji": "🎓"
@@ -975,6 +1072,7 @@
     "en": "class",
     "es": "clase",
     "pt": "aula",
+    "de": "Klasse",
     "level": "A1",
     "category": "school",
     "emoji": "🏛️"
@@ -985,6 +1083,7 @@
     "en": "notebook",
     "es": "cuaderno",
     "pt": "caderno",
+    "de": "Heft",
     "level": "A1",
     "category": "school",
     "emoji": "📓"

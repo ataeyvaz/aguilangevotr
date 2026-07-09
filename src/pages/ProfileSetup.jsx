@@ -15,9 +15,10 @@ const SPEAK_LANGS = [
 
 // Tüm hedef dil seçenekleri
 const LEARN_OPTIONS = [
+  { code: 'de', flag: '🇩🇪', name: 'Deutsch' },
   { code: 'en', flag: '🇺🇸', name: 'English' },
-  { code: 'es', flag: '🇪🇸', name: 'Español' },
   { code: 'pt', flag: '🇧🇷', name: 'Português' },
+  { code: 'es', flag: '🇪🇸', name: 'Español' },
 ]
 
 const AGE_MODES = [
@@ -28,8 +29,9 @@ const AGE_MODES = [
 const PROFILE_KEY = 'aguilang_active_profile'
 
 // speakLang + learnLang → language_pairs.id
-// TR→EN=5, TR→ES=6, TR→PT=7 | EN→ES=1, EN→PT=2 | ES→EN=3 | PT→EN=4
+// TR→EN=5, TR→ES=6, TR→PT=7, TR→DE=8 | EN→ES=1, EN→PT=2 | ES→EN=3 | PT→EN=4
 function getPairId(speakLang, learnLang) {
+  if (speakLang === 'tr' && learnLang === 'de') return 8
   if (speakLang === 'tr' && learnLang === 'en') return 5
   if (speakLang === 'tr' && learnLang === 'es') return 6
   if (speakLang === 'tr' && learnLang === 'pt') return 7
