@@ -7,6 +7,7 @@ import { loadUpToLevel } from '../core/contentStore'
 import { getStats as coreStats, getHardWords as coreHardWords } from '../core/progressStore'
 import { getLang } from '../core/langState'
 import { TARGET_LANGS } from '../core/languages'
+import { levelFromXP } from '../core/levels'
 
 const DAILY_GOAL = 10
 
@@ -149,9 +150,9 @@ export default function Dashboard() {
           {/* Stats row */}
           <div style={{ display: 'flex', gap: '12px', marginTop: '20px', flexWrap: 'wrap' }}>
               {[
-                { icon: '🔥', value: liveStreak,           label: t('streak') },
-                { icon: '⭐', value: profile?.points  || 0, label: t('points') },
-                { icon: '🏆', value: profile?.level   || 1, label: t('level')  },
+                { icon: '🔥', value: liveStreak,                 label: t('streak') },
+                { icon: '⭐', value: srsStats.xp || 0,           label: 'XP' },
+                { icon: '🏆', value: levelFromXP(srsStats.xp || 0), label: t('level') },
               ].map((s, i) => (
               <div key={i} style={{
                 display: 'flex', alignItems: 'center', gap: '8px',
