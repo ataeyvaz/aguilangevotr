@@ -1,0 +1,50 @@
+{
+  "id": "job",
+  "title": "İş Görüşmesi",
+  "emoji": "💼",
+  "level": "B1",
+  "domain": "work",
+  "roles": { "child": "Kartal", "bot": "İşveren" },
+  "pattern": {
+    "tr": "___ yapabilirim.",
+    "en": "I can ___.",
+    "es": "Puedo ___.",
+    "pt": "Eu posso ___.",
+    "de": "Ich kann ___."
+  },
+  "teach": [
+    { "tr": "Takım halinde çalışabilirim.", "en": "I can work in a team.", "es": "Puedo trabajar en equipo.", "pt": "Eu posso trabalhar em equipe.", "de": "Ich kann im Team arbeiten." },
+    { "tr": "İki dil konuşuyorum.", "en": "I speak two languages.", "es": "Hablo dos idiomas.", "pt": "Eu falo dois idiomas.", "de": "Ich spreche zwei Sprachen." }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Bize kendinizden bahseder misiniz?", "en": "Can you tell us about yourself?", "es": "¿Puede hablarnos de usted?", "pt": "Você pode falar sobre você?", "de": "Können Sie uns von sich erzählen?" },
+      "answer": {
+        "tr": "Çalışkanım ve hızlı öğrenirim.", "en": "I am hardworking and I learn quickly.", "es": "Soy trabajador y aprendo rápido.", "pt": "Sou trabalhador e aprendo rápido.", "de": "Ich bin fleißig und lerne schnell.",
+        "alts": { "en": ["i am hardworking", "i learn quickly", "hardworking"], "es": ["soy trabajador", "aprendo rápido"], "pt": ["sou trabalhador", "aprendo rápido"], "de": ["ich bin fleißig", "ich lerne schnell"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Çalışma saatleri nedir?", "en": "What are the working hours?", "es": "¿Cuál es el horario de trabajo?", "pt": "Qual é o horário de trabalho?", "de": "Wie sind die Arbeitszeiten?",
+        "alts": { "en": ["what are the working hours", "working hours"], "es": ["cuál es el horario de trabajo", "el horario"], "pt": ["qual é o horário de trabalho", "o horário"], "de": ["wie sind die arbeitszeiten", "arbeitszeiten"] }
+      },
+      "answer": { "tr": "Dokuzdan beşe kadar.", "en": "From nine to five.", "es": "De nueve a cinco.", "pt": "Das nove às cinco.", "de": "Von neun bis fünf." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "___ yapabilirim.", "en": "I can ___.", "es": "Puedo ___.", "pt": "Eu posso ___.", "de": "Ich kann ___." },
+      "hint": { "tr": "Bir yeteneğini söyle (örn: bilgisayar kullanmak)." },
+      "answer": { "en": "I can use a computer", "es": "Puedo usar una computadora", "pt": "Eu posso usar um computador", "de": "Ich kann einen Computer benutzen" },
+      "wordBank": {
+        "en": ["I", "can", "use", "a", "computer", "drive"],
+        "es": ["Puedo", "usar", "una", "computadora", "conducir"],
+        "pt": ["Eu", "posso", "usar", "um", "computador", "dirigir"],
+        "de": ["Ich", "kann", "einen", "Computer", "benutzen", "fahren"]
+      }
+    }
+  ]
+}

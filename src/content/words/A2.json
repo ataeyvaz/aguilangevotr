@@ -98,9 +98,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_anlad_n_m",
+    "id": "a2_questions_anlad_n_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Anladın mı?",
     "en": "Got it?",
     "es": "¿Lo pillas?",
@@ -238,9 +238,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_al_yorum",
+    "id": "a2_jobs_al_yorum",
     "level": "A2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Çalışıyorum.",
     "en": "I work.",
     "es": "Estoy trabajando.",
@@ -280,9 +280,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_biz_yemek_yedik",
+    "id": "a2_food_biz_yemek_yedik",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Biz yemek yedik.",
     "en": "We ate.",
     "es": "Comimos.",
@@ -602,9 +602,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_oldu_un_yerde_kal",
+    "id": "a2_food_oldu_un_yerde_kal",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Olduğun yerde kal!",
     "en": "Hold it!",
     "es": "Espera.",
@@ -658,9 +658,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_a_lad_m",
+    "id": "a2_feelings_a_lad_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ağladım.",
     "en": "I cried.",
     "es": "Lloré.",
@@ -686,9 +686,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_araba_kullan_r_m",
+    "id": "a2_travel_araba_kullan_r_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "travel",
     "tr": "Araba kullanırım.",
     "en": "I drive.",
     "es": null,
@@ -700,9 +700,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_araba_s_rd_m",
+    "id": "a2_travel_araba_s_rd_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "travel",
     "tr": "Araba sürdüm.",
     "en": "I drove.",
     "es": null,
@@ -742,9 +742,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_sigara_i_iyorum",
+    "id": "a2_food_ben_sigara_i_iyorum",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben sigara içiyorum.",
     "en": "I smoke.",
     "es": null,
@@ -784,9 +784,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_yemin_ettim",
+    "id": "a2_food_ben_yemin_ettim",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben yemin ettim.",
     "en": "I swore.",
     "es": null,
@@ -840,9 +840,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_k_t_y_m",
+    "id": "a2_feelings_ben_k_t_y_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben kötüyüm.",
     "en": "I'm bad.",
     "es": null,
@@ -868,9 +868,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_yeniyim",
+    "id": "a2_food_ben_yeniyim",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben yeniyim.",
     "en": "I'm new.",
     "es": null,
@@ -896,9 +896,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_zg_n_m",
+    "id": "a2_feelings_ben_zg_n_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben üzgünüm.",
     "en": "I'm sad.",
     "es": null,
@@ -980,9 +980,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_a_n_z",
+    "id": "a2_food_a_n_z",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Açınız.",
     "en": "Open it.",
     "es": null,
@@ -994,9 +994,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_a_n",
+    "id": "a2_food_a_n",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Açın.",
     "en": "Open up.",
     "es": "Abre.",
@@ -1134,9 +1134,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_yemek_yedi",
+    "id": "a2_food_kim_yemek_yedi",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Kim yemek yedi?",
     "en": "Who ate?",
     "es": "¿Quién comió?",
@@ -1148,9 +1148,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_ko_tu",
+    "id": "a2_questions_kim_ko_tu",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim koştu?",
     "en": "Who ran?",
     "es": "¿Quién corría?",
@@ -1162,9 +1162,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_kazand",
+    "id": "a2_questions_kim_kazand",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim kazandı?",
     "en": "Who won?",
     "es": "¿Quién ganó?",
@@ -1190,9 +1190,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_s_t_ekleyin",
+    "id": "a2_food_s_t_ekleyin",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Süt ekleyin.",
     "en": "Add milk.",
     "es": null,
@@ -1344,9 +1344,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_s_rmeye_devam_et",
+    "id": "a2_food_s_rmeye_devam_et",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Sürmeye devam et.",
     "en": "Drive on.",
     "es": "Continúa.",
@@ -1484,9 +1484,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ne_kadar_sevimli",
+    "id": "a2_feelings_ne_kadar_sevimli",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ne kadar sevimli!",
     "en": "How cute!",
     "es": "¡Qué encanto!",
@@ -1498,9 +1498,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ne_kadar_derin",
+    "id": "a2_questions_ne_kadar_derin",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Ne kadar derin?",
     "en": "How deep?",
     "es": "¿Qué tan profundo?",
@@ -1792,9 +1792,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_g_l_msedim",
+    "id": "a2_feelings_ben_g_l_msedim",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben gülümsedim.",
     "en": "I smiled.",
     "es": "Sonreí.",
@@ -1890,9 +1890,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_deyece_im",
+    "id": "a2_food_deyece_im",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ödeyeceğim.",
     "en": "I'll pay.",
     "es": "Yo pagaré.",
@@ -1904,9 +1904,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_deneyece_im",
+    "id": "a2_food_deneyece_im",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Deneyeceğim.",
     "en": "I'll try.",
     "es": null,
@@ -2212,9 +2212,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_yeter_de",
+    "id": "a2_food_yeter_de",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Yeter de.",
     "en": "Say when.",
     "es": null,
@@ -2394,9 +2394,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ok_ge",
+    "id": "a2_time_ok_ge",
     "level": "A2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Çok geç.",
     "en": "Too late.",
     "es": "Demasiado tarde.",
@@ -2548,9 +2548,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_geldi",
+    "id": "a2_questions_kim_geldi",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim geldi?",
     "en": "Who came?",
     "es": "¿Quién vino?",
@@ -2562,9 +2562,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_ld",
+    "id": "a2_questions_kim_ld",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim öldü?",
     "en": "Who died?",
     "es": "¿Quién murió?",
@@ -2576,9 +2576,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_d_t",
+    "id": "a2_questions_kim_d_t",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim düştü?",
     "en": "Who fell?",
     "es": "¿Quién se calló?",
@@ -2590,9 +2590,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_dedi",
+    "id": "a2_questions_kim_dedi",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim ödedi?",
     "en": "Who paid?",
     "es": "¿Quién pagó?",
@@ -2604,9 +2604,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_terk_etti",
+    "id": "a2_questions_kim_terk_etti",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim terk etti?",
     "en": "Who quit?",
     "es": "¿Quién se ha ido?",
@@ -2618,9 +2618,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_y_zd",
+    "id": "a2_questions_kim_y_zd",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim yüzdü?",
     "en": "Who swam?",
     "es": "¿Quién nadó?",
@@ -2632,9 +2632,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_kim",
+    "id": "a2_questions_o_kim",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "O kim?",
     "en": "Who's he?",
     "es": "¿Quién es él?",
@@ -2814,9 +2814,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_affedersiniz",
+    "id": "a2_school_affedersiniz",
     "level": "A2",
-    "category": "phrases",
+    "category": "school",
     "tr": "Affedersiniz.",
     "en": "Excuse me.",
     "es": "Perdone.",
@@ -2926,9 +2926,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_i_eriye_git",
+    "id": "a2_food_i_eriye_git",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "İçeriye git.",
     "en": "Go inside.",
     "es": "Entra.",
@@ -3010,9 +3010,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_g_l_msedi",
+    "id": "a2_feelings_o_g_l_msedi",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "O gülümsedi.",
     "en": "He smiled.",
     "es": "Sonrió.",
@@ -3206,9 +3206,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_ne_elendirdim",
+    "id": "a2_family_ben_ne_elendirdim",
     "level": "A2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ben neşelendirdim.",
     "en": "I cheered.",
     "es": null,
@@ -3276,9 +3276,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_ka_t_m",
+    "id": "a2_food_ben_ka_t_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben kaçtım.",
     "en": "I escaped.",
     "es": null,
@@ -3304,9 +3304,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_bay_ld_m",
+    "id": "a2_time_ben_bay_ld_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Ben bayıldım.",
     "en": "I fainted.",
     "es": "Perdí la consciencia.",
@@ -3332,9 +3332,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_k_k_r_k_k_r_g_ld_m",
+    "id": "a2_feelings_ben_k_k_r_k_k_r_g_ld_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben kıkır kıkır güldüm.",
     "en": "I giggled.",
     "es": null,
@@ -3430,9 +3430,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_g_ld_m",
+    "id": "a2_feelings_g_ld_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Güldüm.",
     "en": "I laughed.",
     "es": "Me reí.",
@@ -3458,9 +3458,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_nceden_pe_in_dedim",
+    "id": "a2_family_nceden_pe_in_dedim",
     "level": "A2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Önceden peşin ödedim.",
     "en": "I prepaid.",
     "es": null,
@@ -3640,9 +3640,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_yemek_pi_irece_im",
+    "id": "a2_food_yemek_pi_irece_im",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Yemek pişireceğim.",
     "en": "I'll cook.",
     "es": "Yo cocinaré.",
@@ -3682,9 +3682,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_y_r_yece_im",
+    "id": "a2_food_y_r_yece_im",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Yürüyeceğim.",
     "en": "I'll walk.",
     "es": "Caminaré.",
@@ -3696,9 +3696,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_al_aca_m",
+    "id": "a2_jobs_ben_al_aca_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Ben çalışacağım.",
     "en": "I'll work.",
     "es": "Voy a trabajar.",
@@ -3724,9 +3724,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_s_k_ld_m",
+    "id": "a2_feelings_s_k_ld_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Sıkıldım.",
     "en": "I'm bored.",
     "es": null,
@@ -3738,9 +3738,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_erkenciyim",
+    "id": "a2_time_erkenciyim",
     "level": "A2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Erkenciyim.",
     "en": "I'm early.",
     "es": null,
@@ -3752,9 +3752,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_mutluyum",
+    "id": "a2_feelings_ben_mutluyum",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben mutluyum.",
     "en": "I'm happy.",
     "es": "Soy feliz.",
@@ -3808,9 +3808,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_yorgunum",
+    "id": "a2_feelings_ben_yorgunum",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben yorgunum.",
     "en": "I'm tired.",
     "es": "Yo estoy cansado.",
@@ -3878,9 +3878,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_bu_k_t_kokuyor",
+    "id": "a2_feelings_bu_k_t_kokuyor",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Bu kötü kokuyor.",
     "en": "It stinks.",
     "es": "Apesta.",
@@ -3892,9 +3892,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_al_t",
+    "id": "a2_jobs_o_al_t",
     "level": "A2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "O çalıştı.",
     "en": "It worked.",
     "es": "Funcionó.",
@@ -3990,9 +3990,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_k_t",
+    "id": "a2_feelings_o_k_t",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "O kötü.",
     "en": "It's evil.",
     "es": null,
@@ -4102,9 +4102,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ge_oldu",
+    "id": "a2_time_ge_oldu",
     "level": "A2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Geç oldu.",
     "en": "It's late.",
     "es": "Es tarde.",
@@ -4158,9 +4158,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_a_k",
+    "id": "a2_food_o_a_k",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "O açık.",
     "en": "It's open.",
     "es": null,
@@ -4354,9 +4354,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_imdi_k",
+    "id": "a2_time_imdi_k",
     "level": "A2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Şimdi çık.",
     "en": "Leave now.",
     "es": "Ahora márchate.",
@@ -4396,9 +4396,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_deneyelim",
+    "id": "a2_food_deneyelim",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Deneyelim!",
     "en": "Let's try.",
     "es": null,
@@ -4522,9 +4522,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ate_serbest",
+    "id": "a2_family_ate_serbest",
     "level": "A2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ateş serbest!",
     "en": "Open fire!",
     "es": "¡Disparad!",
@@ -4536,9 +4536,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_affedersiniz",
+    "id": "a2_school_affedersiniz",
     "level": "A2",
-    "category": "phrases",
+    "category": "school",
     "tr": "Affedersiniz?",
     "en": "Pardon me?",
     "es": "¿Perdona?",
@@ -4620,9 +4620,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_a_lad",
+    "id": "a2_feelings_o_a_lad",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "O ağladı.",
     "en": "She cried.",
     "es": null,
@@ -4690,9 +4690,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_otur_oturdu_un_yerde",
+    "id": "a2_food_otur_oturdu_un_yerde",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Otur oturduğun yerde.",
     "en": "Sit tight.",
     "es": "Tú mantente.",
@@ -4718,9 +4718,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_imdi_ba_la",
+    "id": "a2_time_imdi_ba_la",
     "level": "A2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Şimdi başla.",
     "en": "Start now.",
     "es": null,
@@ -4998,9 +4998,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_tom_zg_n",
+    "id": "a2_feelings_tom_zg_n",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom üzgün.",
     "en": "Tom's sad.",
     "es": "Tom está triste.",
@@ -5040,9 +5040,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_onun_kilidini_a",
+    "id": "a2_food_onun_kilidini_a",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Onun kilidini aç.",
     "en": "Unlock it.",
     "es": "Abre el candado.",
@@ -5138,9 +5138,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_biz_g_l_msedik",
+    "id": "a2_feelings_biz_g_l_msedik",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Biz gülümsedik.",
     "en": "We smiled.",
     "es": null,
@@ -5208,9 +5208,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_deneyece_iz",
+    "id": "a2_food_deneyece_iz",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Deneyeceğiz.",
     "en": "We'll try.",
     "es": "Lo intentaremos.",
@@ -5236,9 +5236,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ne_oluyor",
+    "id": "a2_questions_ne_oluyor",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Ne oluyor?",
     "en": "What's on?",
     "es": null,
@@ -5250,9 +5250,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kimin_umurunda",
+    "id": "a2_questions_kimin_umurunda",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kimin umurunda?",
     "en": "Who cares?",
     "es": "¿A quién le importa?",
@@ -5264,9 +5264,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_s_rd",
+    "id": "a2_questions_kim_s_rd",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim sürdü?",
     "en": "Who drove?",
     "es": "¿Quién condujo?",
@@ -5278,9 +5278,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_bilir",
+    "id": "a2_questions_kim_bilir",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim bilir?",
     "en": "Who knows?",
     "es": "Aabe...",
@@ -5292,9 +5292,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_konu_tu",
+    "id": "a2_questions_kim_konu_tu",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim konuştu?",
     "en": "Who spoke?",
     "es": null,
@@ -5306,9 +5306,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_ayakta_durdu",
+    "id": "a2_questions_kim_ayakta_durdu",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim ayakta durdu?",
     "en": "Who stood?",
     "es": "¿Quién se quedó?",
@@ -5320,9 +5320,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kim_gidecek",
+    "id": "a2_questions_kim_gidecek",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Kim gidecek?",
     "en": "Who'll go?",
     "es": "¿Quién irá?",
@@ -5334,9 +5334,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_kim",
+    "id": "a2_questions_o_kim",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "O kim?",
     "en": "Who's she?",
     "es": null,
@@ -5544,9 +5544,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_yiyecek_getir",
+    "id": "a2_food_yiyecek_getir",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Yiyecek getir.",
     "en": "Bring food.",
     "es": "Traed comida.",
@@ -5684,9 +5684,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_erken_gel",
+    "id": "a2_time_erken_gel",
     "level": "A2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Erken gel.",
     "en": "Come early.",
     "es": "Vení temprano.",
@@ -5768,9 +5768,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_yava_ye",
+    "id": "a2_food_yava_ye",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Yavaş ye.",
     "en": "Eat slowly.",
     "es": "Come despacio.",
@@ -5796,9 +5796,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ger_eklerle_y_zle",
+    "id": "a2_family_ger_eklerle_y_zle",
     "level": "A2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Gerçeklerle yüzleş!",
     "en": "Face facts!",
     "es": "¡Enfréntate a los hechos!",
@@ -5936,9 +5936,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_g_ld",
+    "id": "a2_feelings_o_g_ld",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "O güldü.",
     "en": "He laughed.",
     "es": "Él se reía.",
@@ -5950,9 +5950,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_kuzeye_do_ru",
+    "id": "a2_food_kuzeye_do_ru",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Kuzeye doğru.",
     "en": "Head north.",
     "es": null,
@@ -5992,9 +5992,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ne_kadar_sa_ma",
+    "id": "a2_food_ne_kadar_sa_ma",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ne kadar saçma!",
     "en": "How absurd!",
     "es": null,
@@ -6062,9 +6062,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_i_nas_l",
+    "id": "a2_questions_i_nas_l",
     "level": "A2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "İş nasıl?",
     "en": "How's work?",
     "es": "¿Qué tal el trabajo?",
@@ -6090,9 +6090,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_k_k_r_k_k_r_g_ld_m",
+    "id": "a2_feelings_ben_k_k_r_k_k_r_g_ld_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben kıkır kıkır güldüm.",
     "en": "I chuckled.",
     "es": "Solté una risita.",
@@ -6146,9 +6146,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_daha_yeni_yemek_yedim",
+    "id": "a2_food_daha_yeni_yemek_yedim",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Daha yeni yemek yedim.",
     "en": "I just ate.",
     "es": null,
@@ -6314,9 +6314,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_d_ar_da_al_r_m",
+    "id": "a2_jobs_ben_d_ar_da_al_r_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Ben dışarıda çalışırım.",
     "en": "I work out.",
     "es": "Yo hago ejercicio.",
@@ -6496,9 +6496,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_korkun",
+    "id": "a2_feelings_o_korkun",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "O korkunç.",
     "en": "It's awful.",
     "es": null,
@@ -6594,9 +6594,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_bu_a_k",
+    "id": "a2_food_bu_a_k",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bu açık.",
     "en": "It's clear.",
     "es": null,
@@ -6622,9 +6622,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_vakit_erken",
+    "id": "a2_time_vakit_erken",
     "level": "A2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Vakit erken.",
     "en": "It's early.",
     "es": null,
@@ -6734,9 +6734,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_o_korkutucu",
+    "id": "a2_feelings_o_korkutucu",
     "level": "A2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "O korkutucu.",
     "en": "It's scary.",
     "es": null,
@@ -6776,9 +6776,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_bu_tatl",
+    "id": "a2_food_bu_tatl",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bu tatlı.",
     "en": "It's sweet.",
     "es": "Es dulce.",
@@ -6902,9 +6902,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_ben_deyeyim",
+    "id": "a2_food_ben_deyeyim",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben ödeyeyim.",
     "en": "Let me pay.",
     "es": "Deja que pague yo.",
@@ -6944,9 +6944,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_y_r_yelim",
+    "id": "a2_food_y_r_yelim",
     "level": "A2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Yürüyelim.",
     "en": "Let's walk.",
     "es": "Caminemos.",
@@ -6958,9 +6958,9 @@
     "examples": []
   },
   {
-    "id": "a2_phrases_al_al_m",
+    "id": "a2_jobs_al_al_m",
     "level": "A2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Çalışalım.",
     "en": "Let's work.",
     "es": "Trabajemos.",

@@ -28,9 +28,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ate",
+    "id": "b2_family_ate",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ateş!",
     "en": "Fire!",
     "es": "¡Fuego!",
@@ -126,9 +126,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ate",
+    "id": "b2_family_ate",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ateş!",
     "en": "Shoot!",
     "es": "¡Fuego!",
@@ -140,9 +140,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_g_l_mse",
+    "id": "b2_feelings_g_l_mse",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Gülümse.",
     "en": "Smile.",
     "es": "Sonríe.",
@@ -252,9 +252,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ger_ekten_mi",
+    "id": "b2_questions_ger_ekten_mi",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Gerçekten mi?",
     "en": "Really?",
     "es": "¿En serio?",
@@ -266,9 +266,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_te_ekk_r_ederim",
+    "id": "b2_family_te_ekk_r_ederim",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Teşekkür ederim!",
     "en": "Thanks!",
     "es": "¡Gracias!",
@@ -280,9 +280,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_te_ekk_rler",
+    "id": "b2_family_te_ekk_rler",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Teşekkürler.",
     "en": "Thanks.",
     "es": "¡Gracias!",
@@ -420,9 +420,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_hastay_m",
+    "id": "b2_health_ben_hastay_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "health",
     "tr": "Ben hastayım.",
     "en": "I'm ill.",
     "es": null,
@@ -476,9 +476,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_imdilik_ho_a_kal",
+    "id": "b2_time_imdilik_ho_a_kal",
     "level": "B2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Şimdilik hoşça kal.",
     "en": "So long.",
     "es": "Hasta la vista.",
@@ -490,9 +490,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_yemek_yedi",
+    "id": "b2_food_tom_yemek_yedi",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom yemek yedi.",
     "en": "Tom ate.",
     "es": "Tom comió.",
@@ -602,9 +602,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ne_elen",
+    "id": "b2_family_ne_elen",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Neşelen!",
     "en": "Cheer up!",
     "es": "¡Anímate!",
@@ -616,9 +616,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ne_elen",
+    "id": "b2_family_ne_elen",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Neşelen!",
     "en": "Cheer up.",
     "es": "Venga.",
@@ -756,9 +756,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ge_imimi_k_t_kanaat_sa_l_yorum",
+    "id": "b2_time_ge_imimi_k_t_kanaat_sa_l_yorum",
     "level": "B2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Geçimimi kıt kanaat sağlıyorum.",
     "en": "I get by.",
     "es": "Me las arreglo.",
@@ -840,9 +840,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_me_gul_m",
+    "id": "b2_family_me_gul_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Meşgulüm.",
     "en": "I'm busy.",
     "es": null,
@@ -1148,9 +1148,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_hastay_m",
+    "id": "b2_health_ben_hastay_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "health",
     "tr": "Ben hastayım.",
     "en": "I'm sick.",
     "es": "Estoy enferma.",
@@ -1414,9 +1414,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_ka_t",
+    "id": "b2_food_tom_ka_t",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom kaçtı.",
     "en": "Tom fled.",
     "es": null,
@@ -1540,9 +1540,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_a_lad",
+    "id": "b2_feelings_tom_a_lad",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom ağladı.",
     "en": "Tom wept.",
     "es": "Tom lloró.",
@@ -1582,9 +1582,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ni_an_al_ate",
+    "id": "b2_family_ni_an_al_ate",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Nişan al. Ateş!",
     "en": "Aim. Fire!",
     "es": "Apunta. ¡Fuego!",
@@ -1694,9 +1694,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_a_lama",
+    "id": "b2_feelings_a_lama",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ağlama.",
     "en": "Don't cry.",
     "es": "No llores.",
@@ -1722,9 +1722,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_muhte_em",
+    "id": "b2_family_muhte_em",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Muhteşem!",
     "en": "Fantastic!",
     "es": "¡Fantástico!",
@@ -1750,9 +1750,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_i_yi_geceler",
+    "id": "b2_time_i_yi_geceler",
     "level": "B2",
-    "category": "phrases",
+    "category": "time",
     "tr": "İyi geceler.",
     "en": "Goodnight.",
     "es": null,
@@ -1792,9 +1792,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_o_me_gul",
+    "id": "b2_family_o_me_gul",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "O meşgul.",
     "en": "He's busy.",
     "es": null,
@@ -1848,9 +1848,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ate_etme",
+    "id": "b2_family_ate_etme",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ateş etme.",
     "en": "Hold fire.",
     "es": null,
@@ -1862,9 +1862,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_nas_l",
+    "id": "b2_questions_tom_nas_l",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom nasıl?",
     "en": "How's Tom?",
     "es": "¿Cómo está Tom?",
@@ -1890,9 +1890,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_d_ar_da_yedim",
+    "id": "b2_food_ben_d_ar_da_yedim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben dışarıda yedim.",
     "en": "I ate out.",
     "es": null,
@@ -2212,9 +2212,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ge_ece_im",
+    "id": "b2_time_ge_ece_im",
     "level": "B2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Geçeceğim.",
     "en": "I'll pass.",
     "es": null,
@@ -2240,9 +2240,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ark_s_yleyece_im",
+    "id": "b2_food_ark_s_yleyece_im",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Şarkı söyleyeceğim.",
     "en": "I'll sing.",
     "es": "Cantaré.",
@@ -2296,9 +2296,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_bekleyece_im",
+    "id": "b2_food_bekleyece_im",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bekleyeceğim.",
     "en": "I'll wait.",
     "es": "Esperaré.",
@@ -2492,9 +2492,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_hi_param_yok",
+    "id": "b2_food_hi_param_yok",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Hiç param yok.",
     "en": "I'm broke.",
     "es": "Estoy sin dinero.",
@@ -2618,9 +2618,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_seviliyorum",
+    "id": "b2_feelings_ben_seviliyorum",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben seviliyorum.",
     "en": "I'm loved.",
     "es": "Soy amado.",
@@ -2884,9 +2884,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_i_kiliyim",
+    "id": "b2_food_ben_i_kiliyim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben içkiliyim.",
     "en": "I'm tipsy.",
     "es": null,
@@ -2912,9 +2912,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_zg_n_m",
+    "id": "b2_feelings_ben_zg_n_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben üzgünüm.",
     "en": "I'm upset.",
     "es": null,
@@ -3150,9 +3150,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_sahi_mi",
+    "id": "b2_questions_sahi_mi",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Sahi mi?",
     "en": "Seriously?",
     "es": "¿En serio?",
@@ -3206,9 +3206,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_yerde_kal",
+    "id": "b2_food_yerde_kal",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Yerde kal!",
     "en": "Stay down!",
     "es": null,
@@ -3276,9 +3276,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_yemek_pi_iriyor",
+    "id": "b2_food_tom_yemek_pi_iriyor",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom yemek pişiriyor.",
     "en": "Tom cooks.",
     "es": null,
@@ -3290,9 +3290,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_a_lad",
+    "id": "b2_feelings_tom_a_lad",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom ağladı.",
     "en": "Tom cried.",
     "es": "Tom lloró.",
@@ -3318,9 +3318,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_i_ki_i_ti",
+    "id": "b2_food_tom_i_ki_i_ti",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom içki içti.",
     "en": "Tom drank.",
     "es": "Tom bebió.",
@@ -3332,9 +3332,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_araba_s_rd",
+    "id": "b2_travel_tom_araba_s_rd",
     "level": "B2",
-    "category": "phrases",
+    "category": "travel",
     "tr": "Tom araba sürdü.",
     "en": "Tom drove.",
     "es": "Tomás condujo.",
@@ -3500,9 +3500,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_al_t",
+    "id": "b2_jobs_tom_al_t",
     "level": "B2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Tom çalıştı.",
     "en": "Tom tried.",
     "es": "Tomás lo intentó.",
@@ -3514,9 +3514,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_al_r",
+    "id": "b2_jobs_tom_al_r",
     "level": "B2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Tom çalışır.",
     "en": "Tom tries.",
     "es": "Tomás lo intenta.",
@@ -3570,9 +3570,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_al_r",
+    "id": "b2_jobs_tom_al_r",
     "level": "B2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Tom çalışır.",
     "en": "Tom works.",
     "es": "Tomás trabaja.",
@@ -3612,9 +3612,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_utanga",
+    "id": "b2_food_tom_utanga",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom utangaç.",
     "en": "Tom's shy.",
     "es": "Tom es tímido.",
@@ -3710,9 +3710,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ne_var",
+    "id": "b2_questions_ne_var",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Ne var?",
     "en": "What's up?",
     "es": "¿Qué hay?",
@@ -3724,9 +3724,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_kim",
+    "id": "b2_questions_tom_kim",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom kim?",
     "en": "Who's Tom?",
     "es": "¿Quién es Tom?",
@@ -3738,9 +3738,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_kim_hasta",
+    "id": "b2_health_kim_hasta",
     "level": "B2",
-    "category": "phrases",
+    "category": "health",
     "tr": "Kim hasta?",
     "en": "Who's ill?",
     "es": null,
@@ -3780,9 +3780,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_a_a_da_yolcu_kalmas_n",
+    "id": "b2_travel_a_a_da_yolcu_kalmas_n",
     "level": "B2",
-    "category": "phrases",
+    "category": "travel",
     "tr": "Aşağıda yolcu kalmasın!",
     "en": "All aboard!",
     "es": "¡Todos a bordo!",
@@ -3878,9 +3878,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_erkekler_a_lar_m",
+    "id": "b2_feelings_erkekler_a_lar_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Erkekler ağlar mı?",
     "en": "Do men cry?",
     "es": "¿Los hombres lloran?",
@@ -4102,9 +4102,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ate_yanar",
+    "id": "b2_family_ate_yanar",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ateş yanar.",
     "en": "Fire burns.",
     "es": "El fuego quema.",
@@ -4158,9 +4158,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_harekete_ge",
+    "id": "b2_time_harekete_ge",
     "level": "B2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Harekete geç.",
     "en": "Get moving.",
     "es": null,
@@ -4242,9 +4242,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_o_d_ar_da_yemek_yedi",
+    "id": "b2_food_o_d_ar_da_yemek_yedi",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "O dışarıda yemek yedi.",
     "en": "He ate out.",
     "es": "Él salió a comer.",
@@ -4256,9 +4256,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_o_vazge_ti",
+    "id": "b2_time_o_vazge_ti",
     "level": "B2",
-    "category": "phrases",
+    "category": "time",
     "tr": "O vazgeçti.",
     "en": "He gave up.",
     "es": "Se rindió.",
@@ -4284,9 +4284,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_o_be_paras_zd_r",
+    "id": "b2_family_o_be_paras_zd_r",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "O, beş parasızdır.",
     "en": "He's broke.",
     "es": "Está sin blanca.",
@@ -4410,9 +4410,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_u_yendim",
+    "id": "b2_food_tom_u_yendim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'u yendim.",
     "en": "I beat Tom.",
     "es": null,
@@ -4424,9 +4424,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_sak_z_i_niyorum",
+    "id": "b2_feelings_sak_z_i_niyorum",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Sakız çiğniyorum.",
     "en": "I chew gum.",
     "es": "Mastico chicle.",
@@ -4466,9 +4466,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_utanga_hissediyorum",
+    "id": "b2_food_utanga_hissediyorum",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Utangaç hissediyorum.",
     "en": "I feel shy.",
     "es": null,
@@ -4480,9 +4480,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_hasta_hissettim",
+    "id": "b2_health_hasta_hissettim",
     "level": "B2",
-    "category": "phrases",
+    "category": "health",
     "tr": "Hasta hissettim.",
     "en": "I felt ill.",
     "es": null,
@@ -4494,9 +4494,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_ka_t_m",
+    "id": "b2_food_ben_ka_t_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben kaçtım.",
     "en": "I got away.",
     "es": null,
@@ -4508,9 +4508,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_yenildim",
+    "id": "b2_food_ben_yenildim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben yenildim.",
     "en": "I got beat.",
     "es": null,
@@ -4522,9 +4522,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_faaliyet_g_sterdim",
+    "id": "b2_food_faaliyet_g_sterdim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Faaliyet gösterdim.",
     "en": "I got busy.",
     "es": null,
@@ -4564,9 +4564,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_hastaland_m",
+    "id": "b2_health_hastaland_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "health",
     "tr": "Hastalandım.",
     "en": "I got sick.",
     "es": "Me puse enfermo.",
@@ -4662,9 +4662,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ark_s_yleyebilirim",
+    "id": "b2_food_ark_s_yleyebilirim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Şarkı söyleyebilirim",
     "en": "I may sing.",
     "es": null,
@@ -4732,9 +4732,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_a_deme_yapt_m",
+    "id": "b2_jobs_tom_a_deme_yapt_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Tom'a ödeme yaptım.",
     "en": "I paid Tom.",
     "es": null,
@@ -4746,9 +4746,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ka_t_m",
+    "id": "b2_food_ka_t_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Kaçtım.",
     "en": "I ran away.",
     "es": null,
@@ -4788,9 +4788,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_a_k_a_konu_tum",
+    "id": "b2_food_ben_a_k_a_konu_tum",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben açıkça konuştum.",
     "en": "I spoke up.",
     "es": null,
@@ -4886,9 +4886,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_araba_s_rece_im",
+    "id": "b2_travel_araba_s_rece_im",
     "level": "B2",
-    "category": "phrases",
+    "category": "travel",
     "tr": "Araba süreceğim.",
     "en": "I'll drive.",
     "es": null,
@@ -4928,9 +4928,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ate_edece_im",
+    "id": "b2_family_ate_edece_im",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ateş edeceğim.",
     "en": "I'll shoot.",
     "es": "Dispararé.",
@@ -4942,9 +4942,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_imdi_30_ya_nday_m",
+    "id": "b2_time_ben_imdi_30_ya_nday_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "time",
     "tr": "Ben şimdi 30 yaşındayım.",
     "en": "I'm 30 now.",
     "es": null,
@@ -4984,9 +4984,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_bir_ke_i_im",
+    "id": "b2_family_ben_bir_ke_i_im",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ben bir keşişim.",
     "en": "I'm a monk.",
     "es": null,
@@ -5054,9 +5054,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_ne_eliyim",
+    "id": "b2_family_ben_ne_eliyim",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ben neşeliyim.",
     "en": "I'm amused.",
     "es": null,
@@ -5110,9 +5110,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_ok_yorgunum",
+    "id": "b2_feelings_ben_ok_yorgunum",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben çok yorgunum",
     "en": "I'm bushed.",
     "es": "Estoy agotado.",
@@ -5222,9 +5222,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_yemek_yiyorum",
+    "id": "b2_food_yemek_yiyorum",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Yemek yiyorum.",
     "en": "I'm eating.",
     "es": "Estoy comiendo.",
@@ -5306,9 +5306,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_a_g_zl_y_m",
+    "id": "b2_food_ben_a_g_zl_y_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben açgözlüyüm.",
     "en": "I'm greedy.",
     "es": "Soy codicioso.",
@@ -5390,9 +5390,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_a_m",
+    "id": "b2_food_ben_a_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben açım.",
     "en": "I'm hungry!",
     "es": "Ya tengo hambre.",
@@ -5404,9 +5404,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_a_m",
+    "id": "b2_food_ben_a_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben açım.",
     "en": "I'm hungry.",
     "es": "Me pica el bagre.",
@@ -5544,9 +5544,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_deme_yap_yorum",
+    "id": "b2_jobs_ben_deme_yap_yorum",
     "level": "B2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Ben ödeme yapıyorum.",
     "en": "I'm paying.",
     "es": null,
@@ -5558,9 +5558,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_yorgunum",
+    "id": "b2_feelings_yorgunum",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Yorgunum.",
     "en": "I'm pooped.",
     "es": null,
@@ -5824,9 +5824,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ben_yedim",
+    "id": "b2_food_ben_yedim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben yedim.",
     "en": "I've eaten.",
     "es": "He comido.",
@@ -5866,9 +5866,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_i_man_m",
+    "id": "b2_questions_tom_i_man_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom şişman mı?",
     "en": "Is Tom fat?",
     "es": "¿Está gordo Tom?",
@@ -5880,9 +5880,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_e_lenceli_mi",
+    "id": "b2_questions_tom_e_lenceli_mi",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom eğlenceli mi?",
     "en": "Is Tom fun?",
     "es": "¿Tom es divertido?",
@@ -5894,9 +5894,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_hasta_m",
+    "id": "b2_health_tom_hasta_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "health",
     "tr": "Tom hasta mı?",
     "en": "Is Tom ill?",
     "es": "¿Tom está enfermo?",
@@ -5908,9 +5908,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_deli_mi",
+    "id": "b2_questions_tom_deli_mi",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom deli mi?",
     "en": "Is Tom mad?",
     "es": "¿Está loco Tom?",
@@ -5922,9 +5922,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_d_ar_da_m",
+    "id": "b2_questions_tom_d_ar_da_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom dışarıda mı?",
     "en": "Is Tom out?",
     "es": "¿Está fuera Tom?",
@@ -5936,9 +5936,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_utanga_m",
+    "id": "b2_food_tom_utanga_m",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom utangaç mı?",
     "en": "Is Tom shy?",
     "es": null,
@@ -5964,9 +5964,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_o_iyile_ecek",
+    "id": "b2_family_o_iyile_ecek",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "O iyileşecek.",
     "en": "It'll heal.",
     "es": null,
@@ -5978,9 +5978,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_i_sa_a_lad",
+    "id": "b2_feelings_i_sa_a_lad",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "İsa ağladı.",
     "en": "Jesus wept.",
     "es": "Jesús lloró.",
@@ -6104,9 +6104,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_un_i_eri_girmesine_izin_ver",
+    "id": "b2_food_tom_un_i_eri_girmesine_izin_ver",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'un içeri girmesine izin ver.",
     "en": "Let Tom in.",
     "es": "Dejar entrar a Tom.",
@@ -6286,9 +6286,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ark_s_yleyelim",
+    "id": "b2_food_ark_s_yleyelim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Şarkı söyleyelim.",
     "en": "Let's sing.",
     "es": "Cantemos.",
@@ -6370,9 +6370,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_anne_ba_rd",
+    "id": "b2_family_anne_ba_rd",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Anne bağırdı.",
     "en": "Mama cried.",
     "es": "Mamá lloró.",
@@ -6384,9 +6384,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ark_s_yleyebilir_miyim",
+    "id": "b2_food_ark_s_yleyebilir_miyim",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Şarkı söyleyebilir miyim?",
     "en": "May I sing?",
     "es": null,
@@ -6398,9 +6398,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_y_zebilir_miyim",
+    "id": "b2_questions_y_zebilir_miyim",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Yüzebilir miyim?",
     "en": "May I swim?",
     "es": null,
@@ -6426,9 +6426,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ger_ekten_mi",
+    "id": "b2_questions_ger_ekten_mi",
     "level": "B2",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Gerçekten mi?",
     "en": "Oh, really?",
     "es": null,
@@ -6482,9 +6482,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_g_l_n",
+    "id": "b2_feelings_g_l_n",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Gülünç!",
     "en": "Ridiculous!",
     "es": "¡Ridículo!",
@@ -6496,9 +6496,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_g_l_mseyin",
+    "id": "b2_feelings_g_l_mseyin",
     "level": "B2",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Gülümseyin.",
     "en": "Say cheese.",
     "es": "Di patata.",
@@ -6524,9 +6524,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_o_me_gul",
+    "id": "b2_family_o_me_gul",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "O meşgul.",
     "en": "She's busy.",
     "es": "Ella está ocupada.",
@@ -6538,9 +6538,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_teye_it",
+    "id": "b2_food_teye_it",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Öteye it.",
     "en": "Shove over.",
     "es": null,
@@ -6552,9 +6552,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_ark_ya_e_lik_et",
+    "id": "b2_family_ark_ya_e_lik_et",
     "level": "B2",
-    "category": "phrases",
+    "category": "family",
     "tr": "Şarkıya eşlik et.",
     "en": "Sing along.",
     "es": "Canta.",
@@ -6622,9 +6622,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_bizi_izlemeye_devam_edin",
+    "id": "b2_food_bizi_izlemeye_devam_edin",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bizi izlemeye devam edin.",
     "en": "Stay tuned.",
     "es": null,
@@ -6650,9 +6650,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_s_k_al",
+    "id": "b2_jobs_s_k_al",
     "level": "B2",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Sıkı çalış.",
     "en": "Study hard.",
     "es": "Estudia harto.",
@@ -6762,9 +6762,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_bunu_tom_yedi",
+    "id": "b2_food_bunu_tom_yedi",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bunu Tom yedi.",
     "en": "Tom ate it.",
     "es": "Tom lo comió.",
@@ -6874,9 +6874,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_i_er",
+    "id": "b2_food_tom_i_er",
     "level": "B2",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom içer.",
     "en": "Tom drinks.",
     "es": "Tom bebe.",
@@ -6888,9 +6888,9 @@
     "examples": []
   },
   {
-    "id": "b2_phrases_tom_araba_s_rer",
+    "id": "b2_travel_tom_araba_s_rer",
     "level": "B2",
-    "category": "phrases",
+    "category": "travel",
     "tr": "Tom araba sürer.",
     "en": "Tom drives.",
     "es": "Tomás conduce.",

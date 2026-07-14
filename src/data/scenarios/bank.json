@@ -1,0 +1,50 @@
+{
+  "id": "bank",
+  "title": "Bankada",
+  "emoji": "🏦",
+  "level": "B1",
+  "domain": "finance",
+  "roles": { "child": "Kartal", "bot": "Banka Görevlisi" },
+  "pattern": {
+    "tr": "___ istiyorum.",
+    "en": "I would like to ___.",
+    "es": "Quiero ___.",
+    "pt": "Eu gostaria de ___.",
+    "de": "Ich möchte ___."
+  },
+  "teach": [
+    { "tr": "Hesap açmak istiyorum.", "en": "I would like to open an account.", "es": "Quiero abrir una cuenta.", "pt": "Eu gostaria de abrir uma conta.", "de": "Ich möchte ein Konto eröffnen." },
+    { "tr": "Para çekmek istiyorum.", "en": "I would like to withdraw money.", "es": "Quiero retirar dinero.", "pt": "Eu gostaria de sacar dinheiro.", "de": "Ich möchte Geld abheben." }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Size nasıl yardımcı olabilirim?", "en": "How may I help you?", "es": "¿En qué puedo ayudarle?", "pt": "Como posso ajudá-lo?", "de": "Wie kann ich Ihnen helfen?" },
+      "answer": {
+        "tr": "Bir hesap açmak istiyorum.", "en": "I would like to open an account.", "es": "Quiero abrir una cuenta.", "pt": "Eu gostaria de abrir uma conta.", "de": "Ich möchte ein Konto eröffnen.",
+        "alts": { "en": ["open an account", "i would like to open an account", "an account"], "es": ["abrir una cuenta", "una cuenta"], "pt": ["abrir uma conta", "uma conta"], "de": ["ein konto eröffnen", "ein konto"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Kimliğim yeterli mi?", "en": "Is my ID enough?", "es": "¿Es suficiente mi identificación?", "pt": "A minha identidade é suficiente?", "de": "Reicht mein Ausweis?",
+        "alts": { "en": ["is my id enough", "my id"], "es": ["es suficiente mi identificación", "mi identificación"], "pt": ["a minha identidade é suficiente", "minha identidade"], "de": ["reicht mein ausweis", "mein ausweis"] }
+      },
+      "answer": { "tr": "Evet, kimliğiniz yeterli.", "en": "Yes, your ID is enough.", "es": "Sí, su identificación es suficiente.", "pt": "Sim, a sua identidade é suficiente.", "de": "Ja, Ihr Ausweis reicht." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "___ istiyorum.", "en": "I would like to ___.", "es": "Quiero ___.", "pt": "Eu gostaria de ___.", "de": "Ich möchte ___." },
+      "hint": { "tr": "Bir bankacılık işlemi söyle (örn: para yatırmak)." },
+      "answer": { "en": "I would like to deposit money", "es": "Quiero depositar dinero", "pt": "Eu gostaria de depositar dinheiro", "de": "Ich möchte Geld einzahlen" },
+      "wordBank": {
+        "en": ["I", "would", "like", "to", "deposit", "money", "withdraw"],
+        "es": ["Quiero", "depositar", "dinero", "retirar"],
+        "pt": ["Eu", "gostaria", "de", "depositar", "dinheiro", "sacar"],
+        "de": ["Ich", "möchte", "Geld", "einzahlen", "abheben"]
+      }
+    }
+  ]
+}

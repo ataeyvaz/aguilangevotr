@@ -14,6 +14,7 @@ const CAT_LABELS = {
   home:'Ev', transport:'Ulaşım', time:'Zaman',
   jobs:'Meslekler', sports:'Spor', places:'Yerler',
   adjectives:'Sıfatlar', verbs:'Fiiller', phrases:'İfadeler',
+  feelings:'Duygular', health:'Sağlık', travel:'Seyahat',
 }
 
 const CAT_EMOJIS = {
@@ -21,6 +22,7 @@ const CAT_EMOJIS = {
   body:'🫀', family:'👨‍👩‍👧', school:'🏫', food:'🍽️', greetings:'👋',
   questions:'❓', clothing:'👕', home:'🏠', transport:'🚗', time:'⏰',
   jobs:'💼', sports:'⚽', places:'📍', adjectives:'📝', verbs:'🏃', phrases:'💬',
+  feelings:'😊', health:'🏥', travel:'✈️',
 }
 
 function getLongestStreak(dailyStatsArr) {

@@ -28,6 +28,7 @@ const CAT_LABELS = {
   school: 'Okul', clothing: 'Kıyafet', greetings: 'Selamlaşma', questions: 'Sorular',
   vegetables: 'Sebzeler', time: 'Zaman', jobs: 'Meslekler', sports: 'Spor',
   places: 'Yerler', adjectives: 'Sıfatlar', verbs: 'Fiiller',
+  feelings: 'Duygular', health: 'Sağlık', travel: 'Seyahat', phrases: 'İfadeler',
 }
 const MODES = [
   { id: 'mcq',     label: 'Seç',   emoji: '🔠' },

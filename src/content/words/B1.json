@@ -28,9 +28,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_yerli_mi",
+    "id": "b1_food_tom_yerli_mi",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom yerli mi?",
     "en": "Is Tom local?",
     "es": null,
@@ -84,9 +84,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_o_yedide_kalkar",
+    "id": "b1_food_o_yedide_kalkar",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "O yedide kalkar.",
     "en": "He gets up at 7.",
     "es": "Él se levanta a las 7.",
@@ -252,9 +252,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bana_ok_deme_yap_l_r",
+    "id": "b1_jobs_bana_ok_deme_yap_l_r",
     "level": "B1",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Bana çok ödeme yapılır.",
     "en": "I get paid a lot.",
     "es": null,
@@ -280,9 +280,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_k_zd_m",
+    "id": "b1_feelings_tom_a_k_zd_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom'a kızdım.",
     "en": "I got mad at Tom.",
     "es": null,
@@ -378,9 +378,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tavsiyeye_ihtiyac_m_var",
+    "id": "b1_food_tavsiyeye_ihtiyac_m_var",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tavsiyeye ihtiyacım var.",
     "en": "I require advice.",
     "es": "Necesito que me aconsejen.",
@@ -504,9 +504,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_biraz_utanga_t_r",
+    "id": "b1_food_tom_biraz_utanga_t_r",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom biraz utangaçtır.",
     "en": "Tom is a bit shy.",
     "es": null,
@@ -602,9 +602,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_neden_nedir",
+    "id": "b1_questions_neden_nedir",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Neden nedir?",
     "en": "What's the cause?",
     "es": "¿Cuál es la causa?",
@@ -658,9 +658,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_u_uyand_rd_m_m",
+    "id": "b1_questions_tom_u_uyand_rd_m_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom'u uyandırdım mı?",
     "en": "Did I wake Tom up?",
     "es": "¿Desperté a Tom?",
@@ -672,9 +672,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_sar_lmaz_m_y_m",
+    "id": "b1_questions_sar_lmaz_m_y_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Sarılmaz mıyım?",
     "en": "Don't I get a hug?",
     "es": null,
@@ -686,9 +686,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_yataktan_kalk",
+    "id": "b1_home_yataktan_kalk",
     "level": "B1",
-    "category": "phrases",
+    "category": "home",
     "tr": "Yataktan kalk.",
     "en": "Get up out of bed.",
     "es": null,
@@ -714,9 +714,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_kravat_ba_layamam",
+    "id": "b1_feelings_kravat_ba_layamam",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Kravat bağlayamam.",
     "en": "I can't tie a tie.",
     "es": null,
@@ -728,9 +728,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_u_arabayla_g_t_rd_m",
+    "id": "b1_travel_tom_u_arabayla_g_t_rd_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "travel",
     "tr": "Tom'u arabayla götürdüm.",
     "en": "I gave Tom a ride.",
     "es": null,
@@ -826,9 +826,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_u_ok_seviyordum",
+    "id": "b1_feelings_tom_u_ok_seviyordum",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom'u çok seviyordum.",
     "en": "I loved Tom a lot.",
     "es": null,
@@ -840,9 +840,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_la_dalga_ge_tim",
+    "id": "b1_time_tom_la_dalga_ge_tim",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Tom'la dalga geçtim.",
     "en": "I made fun of Tom.",
     "es": null,
@@ -882,9 +882,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ona_100_yen_bor_luyum",
+    "id": "b1_food_ona_100_yen_bor_luyum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ona 100 yen borçluyum.",
     "en": "I owe him 100 yen.",
     "es": "Le debo 100 yenes.",
@@ -952,9 +952,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tepeye_ko_tum",
+    "id": "b1_food_tepeye_ko_tum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tepeye koştum.",
     "en": "I ran up the hill.",
     "es": null,
@@ -1064,9 +1064,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_bir_hafta_izin_ald_m",
+    "id": "b1_time_ben_bir_hafta_izin_ald_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Ben bir hafta izin aldım.",
     "en": "I took a week off.",
     "es": "Me tomé una semana libre.",
@@ -1120,9 +1120,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_onu_tavsiye_edece_im",
+    "id": "b1_food_onu_tavsiye_edece_im",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Onu tavsiye edeceğim.",
     "en": "I'll recommend it.",
     "es": null,
@@ -1162,9 +1162,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bir_konu_ilave_edebilir_miyim",
+    "id": "b1_questions_bir_konu_ilave_edebilir_miyim",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Bir konu ilave edebilir miyim?",
     "en": "May I add a point?",
     "es": null,
@@ -1176,9 +1176,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_la_konu_abilir_miyim",
+    "id": "b1_questions_tom_la_konu_abilir_miyim",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom'la konuşabilir miyim?",
     "en": "May I talk to Tom?",
     "es": "¿Puedo hablar con Tom?",
@@ -1274,9 +1274,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_onun_hepsini_yedi",
+    "id": "b1_food_tom_onun_hepsini_yedi",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom onun hepsini yedi.",
     "en": "Tom ate all of it.",
     "es": null,
@@ -1316,9 +1316,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_bana_k_zd",
+    "id": "b1_feelings_tom_bana_k_zd",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom bana kızdı.",
     "en": "Tom got mad at me.",
     "es": null,
@@ -1428,9 +1428,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_sevimli_bir_ocuk",
+    "id": "b1_family_tom_sevimli_bir_ocuk",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom sevimli bir çocuk.",
     "en": "Tom is a cute kid.",
     "es": null,
@@ -1470,9 +1470,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_tembel_bir_ocuk",
+    "id": "b1_family_tom_tembel_bir_ocuk",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom tembel bir çocuk.",
     "en": "Tom is a lazy kid.",
     "es": null,
@@ -1498,9 +1498,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_zengin_bir_ocuktur",
+    "id": "b1_family_tom_zengin_bir_ocuktur",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom zengin bir çocuktur.",
     "en": "Tom is a rich kid.",
     "es": null,
@@ -1526,9 +1526,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_lamaya_meyilli",
+    "id": "b1_feelings_tom_a_lamaya_meyilli",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom ağlamaya meyilli.",
     "en": "Tom is apt to cry.",
     "es": null,
@@ -1554,9 +1554,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_yatakta_oturdu",
+    "id": "b1_home_tom_yatakta_oturdu",
     "level": "B1",
-    "category": "phrases",
+    "category": "home",
     "tr": "Tom yatakta oturdu.",
     "en": "Tom sat up in bed.",
     "es": null,
@@ -1694,9 +1694,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_ok_a_lar_m",
+    "id": "b1_feelings_tom_ok_a_lar_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom çok ağlar mı?",
     "en": "Does Tom cry a lot?",
     "es": null,
@@ -1820,9 +1820,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_o_zirveye_yakla_t",
+    "id": "b1_food_o_zirveye_yakla_t",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "O zirveye yaklaştı.",
     "en": "He came out on top.",
     "es": null,
@@ -1834,9 +1834,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_o_bir_hafta_izin_ald",
+    "id": "b1_time_o_bir_hafta_izin_ald",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "O bir hafta izin aldı.",
     "en": "He took a week off.",
     "es": "Se tomó una semana libre.",
@@ -1890,9 +1890,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_pasta_pi_irdim",
+    "id": "b1_food_tom_a_pasta_pi_irdim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'a pasta pişirdim.",
     "en": "I baked Tom a cake.",
     "es": null,
@@ -1932,9 +1932,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_yalan_s_yleyemem",
+    "id": "b1_food_tom_a_yalan_s_yleyemem",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'a yalan söyleyemem.",
     "en": "I can't lie to Tom.",
     "es": null,
@@ -1974,9 +1974,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bir_ekerlemeye_ihtiyac_m_yok",
+    "id": "b1_food_bir_ekerlemeye_ihtiyac_m_yok",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bir şekerlemeye ihtiyacım yok.",
     "en": "I don't need a nap.",
     "es": null,
@@ -2142,9 +2142,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ok_erken_vazge_mi_im",
+    "id": "b1_time_ok_erken_vazge_mi_im",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Çok erken vazgeçmişim.",
     "en": "I gave up too soon.",
     "es": null,
@@ -2156,9 +2156,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_u_g_ld_rd_m",
+    "id": "b1_feelings_tom_u_g_ld_rd_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom'u güldürdüm.",
     "en": "I got Tom to laugh.",
     "es": null,
@@ -2184,9 +2184,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_u_g_ld_rd_m",
+    "id": "b1_feelings_tom_u_g_ld_rd_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom'u güldürdüm.",
     "en": "I got Tom to smile.",
     "es": null,
@@ -2212,9 +2212,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_taksiye_bindim",
+    "id": "b1_food_taksiye_bindim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Taksiye bindim.",
     "en": "I got into the cab.",
     "es": null,
@@ -2310,9 +2310,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_un_hasta_oldu_unu_duyuyorum",
+    "id": "b1_health_tom_un_hasta_oldu_unu_duyuyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "health",
     "tr": "Tom'un hasta olduğunu duyuyorum.",
     "en": "I hear Tom is sick.",
     "es": null,
@@ -2422,9 +2422,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_un_hay_r_diyece_ini_umuyorum",
+    "id": "b1_food_tom_un_hay_r_diyece_ini_umuyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'un hayır diyeceğini umuyorum.",
     "en": "I hope Tom says no.",
     "es": "Espero que Tom diga que no.",
@@ -2450,9 +2450,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_u_yenece_imizi_umuyorum",
+    "id": "b1_food_tom_u_yenece_imizi_umuyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'u yeneceğimizi umuyorum.",
     "en": "I hope we beat Tom.",
     "es": null,
@@ -2478,9 +2478,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_haftada_iki_kez_ko_ar_m",
+    "id": "b1_time_ben_haftada_iki_kez_ko_ar_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Ben haftada iki kez koşarım.",
     "en": "I jog twice a week.",
     "es": "Yo troto dos veces a la semana.",
@@ -2506,9 +2506,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_un_utanga_oldu_unu_biliyordum",
+    "id": "b1_food_tom_un_utanga_oldu_unu_biliyordum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'un utangaç olduğunu biliyordum.",
     "en": "I knew Tom was shy.",
     "es": null,
@@ -2520,9 +2520,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_dinlenmek_i_in_uzand_m",
+    "id": "b1_food_dinlenmek_i_in_uzand_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Dinlenmek için uzandım.",
     "en": "I lay down to rest.",
     "es": null,
@@ -2534,9 +2534,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_me_gul_bir_hayat_s_rd_r_yorum",
+    "id": "b1_family_ben_me_gul_bir_hayat_s_rd_r_yorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ben meşgul bir hayat sürdürüyorum.",
     "en": "I lead a busy life.",
     "es": null,
@@ -2576,9 +2576,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_u_ok_seviyorum",
+    "id": "b1_feelings_tom_u_ok_seviyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom'u çok seviyorum.",
     "en": "I love Tom so much.",
     "es": null,
@@ -2590,9 +2590,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_mary_ye_bir_bebek_yapt_m",
+    "id": "b1_food_mary_ye_bir_bebek_yapt_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Mary'ye bir bebek yaptım.",
     "en": "I made Mary a doll.",
     "es": "Yo hice una muñeca a Mary.",
@@ -2604,9 +2604,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_birka_telefon_g_r_mesi_yapt_m",
+    "id": "b1_food_birka_telefon_g_r_mesi_yapt_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Birkaç telefon görüşmesi yaptım.",
     "en": "I made a few calls.",
     "es": null,
@@ -2632,9 +2632,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_i_in_ay_yapt_m",
+    "id": "b1_food_tom_i_in_ay_yapt_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom için çay yaptım.",
     "en": "I made tea for Tom.",
     "es": null,
@@ -2744,9 +2744,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bir_saat_izine_ihtiyac_m_var",
+    "id": "b1_time_bir_saat_izine_ihtiyac_m_var",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Bir saat izine ihtiyacım var.",
     "en": "I need an hour off.",
     "es": null,
@@ -2800,9 +2800,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ka_mal_y_m",
+    "id": "b1_food_ka_mal_y_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Kaçmalıyım.",
     "en": "I need to get away.",
     "es": null,
@@ -2842,9 +2842,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ate_i_s_nd_rd_m",
+    "id": "b1_family_ate_i_s_nd_rd_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ateşi söndürdüm.",
     "en": "I put out the fire.",
     "es": null,
@@ -2884,9 +2884,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_boston_u_tavsiye_ederim",
+    "id": "b1_food_boston_u_tavsiye_ederim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Boston'u tavsiye ederim.",
     "en": "I recommend Boston.",
     "es": null,
@@ -2912,9 +2912,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_onu_yere_koy_dedim",
+    "id": "b1_food_onu_yere_koy_dedim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Onu yere koy dedim!",
     "en": "I said put it down!",
     "es": null,
@@ -2926,9 +2926,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_beklemek_i_in_oturdum",
+    "id": "b1_food_beklemek_i_in_oturdum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Beklemek için oturdum.",
     "en": "I sat down to wait.",
     "es": null,
@@ -2940,9 +2940,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_b_t_n_gece_oturdum",
+    "id": "b1_time_ben_b_t_n_gece_oturdum",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Ben bütün gece oturdum.",
     "en": "I sat up all night.",
     "es": null,
@@ -2954,9 +2954,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_yer_ay_rd_m",
+    "id": "b1_food_tom_a_yer_ay_rd_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'a yer ayırdım.",
     "en": "I saved Tom a seat.",
     "es": null,
@@ -3010,9 +3010,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_seni_tom_u_perken_g_rd_m",
+    "id": "b1_time_seni_tom_u_perken_g_rd_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Seni Tom'u öperken gördüm.",
     "en": "I saw you kiss Tom.",
     "es": null,
@@ -3024,9 +3024,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ark_s_ylemek_i_in_aya_a_kalkt_m",
+    "id": "b1_food_ark_s_ylemek_i_in_aya_a_kalkt_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Şarkı söylemek için ayağa kalktım.",
     "en": "I stood up to sing.",
     "es": null,
@@ -3038,9 +3038,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_haftada_bir_kez_y_zerim",
+    "id": "b1_time_ben_haftada_bir_kez_y_zerim",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Ben haftada bir kez yüzerim.",
     "en": "I swim once a week.",
     "es": "Nado una vez a la semana.",
@@ -3052,9 +3052,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_bir_hik_ye_anlatt_m",
+    "id": "b1_food_tom_a_bir_hik_ye_anlatt_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'a bir hikâye anlattım.",
     "en": "I told Tom a story.",
     "es": null,
@@ -3136,9 +3136,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_vurmaya_al_t_m",
+    "id": "b1_jobs_tom_a_vurmaya_al_t_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Tom'a vurmaya çalıştım.",
     "en": "I tried to hit Tom.",
     "es": null,
@@ -3164,9 +3164,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tv_nin_sesini_a_t_m",
+    "id": "b1_food_tv_nin_sesini_a_t_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "TV'nin sesini açtım.",
     "en": "I turned up the TV.",
     "es": null,
@@ -3220,9 +3220,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ke_ke_onunla_kar_la_sam",
+    "id": "b1_family_ke_ke_onunla_kar_la_sam",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Keşke onunla karşılaşsam.",
     "en": "I wish I'd met her.",
     "es": "Ojalá la hubiera conocido.",
@@ -3234,9 +3234,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_un_gitmesine_izin_vermeyece_im",
+    "id": "b1_food_tom_un_gitmesine_izin_vermeyece_im",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'un gitmesine izin vermeyeceğim.",
     "en": "I won't let Tom go.",
     "es": null,
@@ -3248,9 +3248,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_yalan_s_ylemeyece_im",
+    "id": "b1_food_tom_a_yalan_s_ylemeyece_im",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'a yalan söylemeyeceğim.",
     "en": "I won't lie to Tom.",
     "es": null,
@@ -3402,9 +3402,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_a_k_zg_n_de_ilim",
+    "id": "b1_feelings_tom_a_k_zg_n_de_ilim",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom'a kızgın değilim.",
     "en": "I'm not mad at Tom.",
     "es": "No estoy enojado con Tom.",
@@ -3416,9 +3416,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_spor_salonuna_ba_l_yorum",
+    "id": "b1_home_ben_spor_salonuna_ba_l_yorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "home",
     "tr": "Ben spor salonuna başlıyorum.",
     "en": "I'm off to the gym.",
     "es": null,
@@ -3444,9 +3444,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_rutine_ba_lad_m",
+    "id": "b1_feelings_ben_rutine_ba_lad_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben rutine bağladım.",
     "en": "I'm stuck in a rut.",
     "es": "Estoy atrapado en un lío.",
@@ -3682,9 +3682,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_mary_me_gul_bir_annedir",
+    "id": "b1_family_mary_me_gul_bir_annedir",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Mary meşgul bir annedir.",
     "en": "Mary is a busy mom.",
     "es": null,
@@ -3696,9 +3696,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ek_ile_deme_yapabilir_miyim",
+    "id": "b1_jobs_ek_ile_deme_yapabilir_miyim",
     "level": "B1",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Çek ile ödeme yapabilir miyim?",
     "en": "May I pay by check?",
     "es": "¿Puedo pagar con cheque?",
@@ -3710,9 +3710,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_la_konu_abilir_miyim",
+    "id": "b1_questions_tom_la_konu_abilir_miyim",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom'la konuşabilir miyim?",
     "en": "May I speak to Tom?",
     "es": null,
@@ -3724,9 +3724,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bu_beyzbol_sopas_n_kullanabilir_miyim",
+    "id": "b1_questions_bu_beyzbol_sopas_n_kullanabilir_miyim",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Bu beyzbol sopasını kullanabilir miyim?",
     "en": "May I use this bat?",
     "es": null,
@@ -3738,9 +3738,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_imdi_tv_izleyebilir_miyim",
+    "id": "b1_food_imdi_tv_izleyebilir_miyim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Şimdi TV izleyebilir miyim?",
     "en": "May I watch TV now?",
     "es": "¿Ya puedo ver la televisión?",
@@ -3808,9 +3808,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_hi_bir_sorun_yok",
+    "id": "b1_food_hi_bir_sorun_yok",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Hiçbir sorun yok.",
     "en": "There's no problem.",
     "es": "No hay ningún problema.",
@@ -3836,9 +3836,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_bir_domuz_gibi_yedi",
+    "id": "b1_food_tom_bir_domuz_gibi_yedi",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom bir domuz gibi yedi.",
     "en": "Tom ate like a pig.",
     "es": "Tom comía como un cerdo.",
@@ -3906,9 +3906,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_taksiye_bindi",
+    "id": "b1_food_tom_taksiye_bindi",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom taksiye bindi.",
     "en": "Tom got in the cab.",
     "es": "Tom se metió en el taxi.",
@@ -3920,9 +3920,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_bana_bir_saat_ald",
+    "id": "b1_time_tom_bana_bir_saat_ald",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Tom bana bir saat aldı.",
     "en": "Tom got me a watch.",
     "es": null,
@@ -3934,9 +3934,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_yataktan_kt",
+    "id": "b1_home_tom_yataktan_kt",
     "level": "B1",
-    "category": "phrases",
+    "category": "home",
     "tr": "Tom yataktan çıktı.",
     "en": "Tom got out of bed.",
     "es": null,
@@ -4116,9 +4116,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_ok_lg_n_bir_ocuk",
+    "id": "b1_family_tom_ok_lg_n_bir_ocuk",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom çok çılgın bir çocuk.",
     "en": "Tom is a crazy kid.",
     "es": null,
@@ -4144,9 +4144,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_harika_bir_ocuk",
+    "id": "b1_family_tom_harika_bir_ocuk",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom harika bir çocuk.",
     "en": "Tom is a great kid.",
     "es": null,
@@ -4256,9 +4256,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_ger_ek_bir_inek_renci",
+    "id": "b1_school_tom_ger_ek_bir_inek_renci",
     "level": "B1",
-    "category": "phrases",
+    "category": "school",
     "tr": "Tom gerçek bir inek öğrenci.",
     "en": "Tom is a real nerd.",
     "es": "Tomás es un verdadero nerd.",
@@ -4284,9 +4284,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_ak_ll_bir_ocuk",
+    "id": "b1_family_tom_ak_ll_bir_ocuk",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom akıllı bir çocuk.",
     "en": "Tom is a smart kid.",
     "es": null,
@@ -4298,9 +4298,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_tatl_bir_adam",
+    "id": "b1_food_tom_tatl_bir_adam",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom tatlı bir adam.",
     "en": "Tom is a sweet guy.",
     "es": null,
@@ -4340,9 +4340,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_sert_bir_ocuk",
+    "id": "b1_family_tom_sert_bir_ocuk",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom sert bir çocuk.",
     "en": "Tom is a tough kid.",
     "es": null,
@@ -4410,9 +4410,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_biraz_utanga",
+    "id": "b1_food_tom_biraz_utanga",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom biraz utangaç.",
     "en": "Tom is kind of shy.",
     "es": null,
@@ -4424,9 +4424,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_mary_ye_k_zg_n",
+    "id": "b1_food_tom_mary_ye_k_zg_n",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom, Mary'ye kızgın.",
     "en": "Tom is mad at Mary.",
     "es": "Tom está furioso con Mary.",
@@ -4550,9 +4550,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_onu_ok_sever",
+    "id": "b1_feelings_tom_onu_ok_sever",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom onu çok sever.",
     "en": "Tom likes it a lot.",
     "es": null,
@@ -4606,9 +4606,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_benimle_dalga_ge_ti",
+    "id": "b1_time_tom_benimle_dalga_ge_ti",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Tom benimle dalga geçti.",
     "en": "Tom made fun of me.",
     "es": null,
@@ -4620,9 +4620,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_bizimle_dalga_ge_ti",
+    "id": "b1_time_tom_bizimle_dalga_ge_ti",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Tom bizimle dalga geçti.",
     "en": "Tom made fun of us.",
     "es": null,
@@ -4816,9 +4816,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_utanga_t",
+    "id": "b1_food_tom_utanga_t",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom utangaçtı.",
     "en": "Tom used to be shy.",
     "es": null,
@@ -4858,9 +4858,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_cretsiz_bir_araba_kazand",
+    "id": "b1_travel_tom_cretsiz_bir_araba_kazand",
     "level": "B1",
-    "category": "phrases",
+    "category": "travel",
     "tr": "Tom ücretsiz bir araba kazandı.",
     "en": "Tom won a free car.",
     "es": "Tom se ganó un auto gratis.",
@@ -4872,9 +4872,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_ona_izin_vermeyecek",
+    "id": "b1_food_tom_ona_izin_vermeyecek",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom ona izin vermeyecek.",
     "en": "Tom won't allow it.",
     "es": null,
@@ -4900,9 +4900,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_hepimiz_ok_a_lad_k",
+    "id": "b1_feelings_hepimiz_ok_a_lad_k",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Hepimiz çok ağladık.",
     "en": "We all cried a lot.",
     "es": "Todos lloramos un montón.",
@@ -4970,9 +4970,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_amur_banyosu_yapt_k",
+    "id": "b1_home_amur_banyosu_yapt_k",
     "level": "B1",
-    "category": "phrases",
+    "category": "home",
     "tr": "Çamur banyosu yaptık.",
     "en": "We took a mud bath.",
     "es": "Nos dimos un baño de lodo.",
@@ -4984,9 +4984,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_sorunumuz_ne",
+    "id": "b1_questions_sorunumuz_ne",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Sorunumuz ne?",
     "en": "What's our problem?",
     "es": null,
@@ -4998,9 +4998,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_sorun_ne",
+    "id": "b1_questions_sorun_ne",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Sorun ne?",
     "en": "What's the problem?",
     "es": "¿Cuál es el problema?",
@@ -5012,9 +5012,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_neden_bu_kadar_me_gul",
+    "id": "b1_family_tom_neden_bu_kadar_me_gul",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom neden bu kadar meşgul?",
     "en": "Why is Tom so busy?",
     "es": null,
@@ -5124,9 +5124,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_u_alabilir_misin",
+    "id": "b1_questions_tom_u_alabilir_misin",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom'u alabilir misin?",
     "en": "Can you pick up Tom?",
     "es": null,
@@ -5152,9 +5152,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_mary_ye_yalan_s_yledi_mi",
+    "id": "b1_food_tom_mary_ye_yalan_s_yledi_mi",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom Mary'ye yalan söyledi mi?",
     "en": "Did Tom lie to Mary?",
     "es": "¿Mintió Tom a Mary?",
@@ -5180,9 +5180,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bana_k_zma",
+    "id": "b1_feelings_bana_k_zma",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Bana kızma.",
     "en": "Don't get mad at me.",
     "es": "No te enfades conmigo.",
@@ -5194,9 +5194,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bize_k_zma",
+    "id": "b1_feelings_bize_k_zma",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Bize kızma.",
     "en": "Don't get mad at us.",
     "es": null,
@@ -5348,9 +5348,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tanr_hepimizi_seviyor",
+    "id": "b1_feelings_tanr_hepimizi_seviyor",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tanrı hepimizi seviyor.",
     "en": "God loves all of us.",
     "es": "Dios nos ama a todos.",
@@ -5460,9 +5460,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bana_30_peso_d_n_verdi",
+    "id": "b1_time_bana_30_peso_d_n_verdi",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Bana 30 peso ödünç verdi.",
     "en": "He lent me 30 pesos.",
     "es": null,
@@ -5502,9 +5502,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_o_bir_ayakkab_d_kk_n_al_t_r_yor",
+    "id": "b1_jobs_o_bir_ayakkab_d_kk_n_al_t_r_yor",
     "level": "B1",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "O bir ayakkabı dükkânı çalıştırıyor.",
     "en": "He runs a shoe shop.",
     "es": "Él administra una zapatería.",
@@ -5516,9 +5516,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_o_paris_e_do_ru_yola_kt",
+    "id": "b1_travel_o_paris_e_do_ru_yola_kt",
     "level": "B1",
-    "category": "phrases",
+    "category": "travel",
     "tr": "O, Paris'e doğru yola çıktı.",
     "en": "He set off to Paris.",
     "es": "Él partió a París.",
@@ -5572,9 +5572,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_o_bir_geziye_kt",
+    "id": "b1_food_o_bir_geziye_kt",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "O bir geziye çıktı.",
     "en": "He's away on a trip.",
     "es": null,
@@ -5614,9 +5614,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_ne_kadar_zengin",
+    "id": "b1_questions_tom_ne_kadar_zengin",
     "level": "B1",
-    "category": "phrases",
+    "category": "questions",
     "tr": "Tom ne kadar zengin?",
     "en": "How well off is Tom?",
     "es": null,
@@ -5628,9 +5628,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_acele_edin_ve_i_eri_girin",
+    "id": "b1_food_acele_edin_ve_i_eri_girin",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Acele edin ve içeri girin.",
     "en": "Hurry up and get in.",
     "es": "Apresúrate y entra.",
@@ -5642,9 +5642,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_b_t_n_g_n_bekleyemem",
+    "id": "b1_food_b_t_n_g_n_bekleyemem",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bütün gün bekleyemem.",
     "en": "I ain't got all day.",
     "es": null,
@@ -5712,9 +5712,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_dan_daha_az_yedim",
+    "id": "b1_food_tom_dan_daha_az_yedim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'dan daha az yedim.",
     "en": "I ate less than Tom.",
     "es": null,
@@ -5726,9 +5726,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_satran_ta_tom_u_yendim",
+    "id": "b1_food_satran_ta_tom_u_yendim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Satrançta Tom'u yendim.",
     "en": "I beat Tom at chess.",
     "es": null,
@@ -5754,9 +5754,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bir_vip_ge_i_i_ald_m",
+    "id": "b1_time_bir_vip_ge_i_i_ald_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "time",
     "tr": "Bir VIP geçişi aldım.",
     "en": "I bought a VIP pass.",
     "es": null,
@@ -5838,9 +5838,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bunu_ekleyemiyorum",
+    "id": "b1_food_bunu_ekleyemiyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bunu ekleyemiyorum.",
     "en": "I can't add that up.",
     "es": null,
@@ -5908,9 +5908,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_hi_y_zemem",
+    "id": "b1_food_ben_hi_y_zemem",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ben hiç yüzemem.",
     "en": "I can't swim at all.",
     "es": null,
@@ -5936,9 +5936,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_lmek_i_in_sab_rs_zlan_yorum",
+    "id": "b1_food_lmek_i_in_sab_rs_zlan_yorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Ölmek için sabırsızlanıyorum.",
     "en": "I can't wait to die.",
     "es": null,
@@ -5964,9 +5964,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_h_ng_r_h_ng_r_a_lad_m",
+    "id": "b1_feelings_h_ng_r_h_ng_r_a_lad_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Hüngür hüngür ağladım.",
     "en": "I cried my eyes out.",
     "es": null,
@@ -5992,9 +5992,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_un_i_eri_girmesine_izin_vermedim",
+    "id": "b1_food_tom_un_i_eri_girmesine_izin_vermedim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tom'un içeri girmesine izin vermedim.",
     "en": "I didn't let Tom in.",
     "es": null,
@@ -6048,9 +6048,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_hi_umursam_yorum",
+    "id": "b1_food_hi_umursam_yorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Hiç umursamıyorum.",
     "en": "I don't care at all.",
     "es": null,
@@ -6062,9 +6062,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_hi_hay_r_demem",
+    "id": "b1_food_hi_hay_r_demem",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Hiç hayır demem.",
     "en": "I don't ever say no.",
     "es": null,
@@ -6090,9 +6090,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_hi_umurumda_de_il",
+    "id": "b1_food_hi_umurumda_de_il",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Hiç umurumda değil.",
     "en": "I don't mind at all.",
     "es": null,
@@ -6132,9 +6132,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_bir_gezintiye_ihtiyac_m_yok",
+    "id": "b1_food_bir_gezintiye_ihtiyac_m_yok",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Bir gezintiye ihtiyacım yok.",
     "en": "I don't need a ride.",
     "es": null,
@@ -6188,9 +6188,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_biraz_hasta_hissediyorum",
+    "id": "b1_health_biraz_hasta_hissediyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "health",
     "tr": "Biraz hasta hissediyorum.",
     "en": "I feel kind of sick.",
     "es": null,
@@ -6328,9 +6328,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ans_y_z_me_g_ld",
+    "id": "b1_feelings_ans_y_z_me_g_ld",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Şans yüzüme güldü.",
     "en": "I got a lucky break.",
     "es": null,
@@ -6384,9 +6384,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tekneye_bindim",
+    "id": "b1_food_tekneye_bindim",
     "level": "B1",
-    "category": "phrases",
+    "category": "food",
     "tr": "Tekneye bindim.",
     "en": "I got into the boat.",
     "es": "Me subí a la barca.",
@@ -6412,9 +6412,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_yakla_k_be_te_kalkt_m",
+    "id": "b1_family_ben_yakla_k_be_te_kalkt_m",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Ben yaklaşık beşte kalktım.",
     "en": "I got up about five.",
     "es": "Me levanté hacia las cinco.",
@@ -6454,9 +6454,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_san_r_m_tom_hasta",
+    "id": "b1_health_san_r_m_tom_hasta",
     "level": "B1",
-    "category": "phrases",
+    "category": "health",
     "tr": "Sanırım Tom hasta.",
     "en": "I guess Tom is sick.",
     "es": null,
@@ -6468,9 +6468,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_patron_olmaktan_nefret_ediyorum",
+    "id": "b1_jobs_patron_olmaktan_nefret_ediyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "jobs",
     "tr": "Patron olmaktan nefret ediyorum.",
     "en": "I hate being a boss.",
     "es": null,
@@ -6510,9 +6510,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_un_hasta_oldu_unu_duydum",
+    "id": "b1_health_tom_un_hasta_oldu_unu_duydum",
     "level": "B1",
-    "category": "phrases",
+    "category": "health",
     "tr": "Tom'un hasta olduğunu duydum.",
     "en": "I heard Tom is sick.",
     "es": "He oído que Tom está enfermo.",
@@ -6636,9 +6636,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_un_beni_sevdi_ini_umuyorum",
+    "id": "b1_feelings_tom_un_beni_sevdi_ini_umuyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Tom'un beni sevdiğini umuyorum.",
     "en": "I hope Tom likes me.",
     "es": null,
@@ -6678,9 +6678,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_onun_hasta_olmad_n_umuyorum",
+    "id": "b1_health_onun_hasta_olmad_n_umuyorum",
     "level": "B1",
-    "category": "phrases",
+    "category": "health",
     "tr": "Onun hasta olmadığını umuyorum.",
     "en": "I hope he isn't ill.",
     "es": "Espero que no esté enfermo.",
@@ -6776,9 +6776,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_ben_tom_u_biraz_sevdim",
+    "id": "b1_feelings_ben_tom_u_biraz_sevdim",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Ben Tom'u biraz sevdim.",
     "en": "I kind of liked Tom.",
     "es": "Creo que me gustaba Tom.",
@@ -6832,9 +6832,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_tom_un_me_gul_oldu_unu_biliyordum",
+    "id": "b1_family_tom_un_me_gul_oldu_unu_biliyordum",
     "level": "B1",
-    "category": "phrases",
+    "category": "family",
     "tr": "Tom'un meşgul olduğunu biliyordum.",
     "en": "I knew Tom was busy.",
     "es": null,
@@ -6888,9 +6888,9 @@
     "examples": []
   },
   {
-    "id": "b1_phrases_k_zaca_n_biliyordum",
+    "id": "b1_feelings_k_zaca_n_biliyordum",
     "level": "B1",
-    "category": "phrases",
+    "category": "feelings",
     "tr": "Kızacağını biliyordum.",
     "en": "I knew you'd be mad.",
     "es": null,

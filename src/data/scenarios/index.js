@@ -16,6 +16,7 @@ export const DOMAINS = {
   health:   { label: 'Sağlık',               emoji: '🏥' },
   daily:    { label: 'Günlük Hayat',         emoji: '☀️' },
   work:     { label: 'İş & Meslek',          emoji: '💼' },
+  finance:  { label: 'Banka & Para',         emoji: '🏦' },
 }
 
 export const SCENARIOS = [
@@ -29,4 +30,6 @@ export const SCENARIOS = [
   { id: 'doctor',     title: 'Doktorda',            emoji: '🩺', domain: 'health',   level: 'A2' },
   { id: 'emergency',  title: 'Acil Durum',          emoji: '🚨', domain: 'daily',    level: 'A2' },
   { id: 'phone',      title: 'Telefon Konuşması',   emoji: '📞', domain: 'daily',    level: 'A2' },
+  { id: 'job',        title: 'İş Görüşmesi',        emoji: '💼', domain: 'work',     level: 'B1' },
+  { id: 'bank',       title: 'Bankada',             emoji: '🏦', domain: 'finance',  level: 'B1' },
 ]
