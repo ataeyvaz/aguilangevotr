@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "be",
+    "tr": "olmak",
+    "en": "be",
+    "es": "ser / estar",
+    "pt": "ser",
+    "de": "sein",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💫",
+    "ipa": {
+      "en": "biː"
+    }
+  },
+  {
+    "id": "have",
+    "tr": "sahip olmak",
+    "en": "have",
+    "es": "tener",
+    "pt": "ter",
+    "de": "haben",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🤲",
+    "ipa": {
+      "en": "hæv"
+    }
+  },
+  {
+    "id": "do",
+    "tr": "yapmak",
+    "en": "do",
+    "es": "hacer",
+    "pt": "fazer",
+    "de": "tun",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "⚙️",
+    "ipa": {
+      "en": "duː"
+    }
+  },
+  {
+    "id": "go",
+    "tr": "gitmek",
+    "en": "go",
+    "es": "ir",
+    "pt": "ir",
+    "de": "gehen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🚶",
+    "ipa": {
+      "en": "ɡəʊ"
+    }
+  },
+  {
+    "id": "come",
+    "tr": "gelmek",
+    "en": "come",
+    "es": "venir",
+    "pt": "vir",
+    "de": "kommen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏃",
+    "ipa": {
+      "en": "kʌm"
+    }
+  },
+  {
+    "id": "see",
+    "tr": "görmek",
+    "en": "see",
+    "es": "ver",
+    "pt": "ver",
+    "de": "sehen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👀",
+    "ipa": {
+      "en": "siː"
+    }
+  },
+  {
+    "id": "know",
+    "tr": "bilmek",
+    "en": "know",
+    "es": "saber",
+    "pt": "saber",
+    "de": "wissen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🧠",
+    "ipa": {
+      "en": "nəʊ"
+    }
+  },
+  {
+    "id": "get",
+    "tr": "almak",
+    "en": "get",
+    "es": "obtener",
+    "pt": "conseguir",
+    "de": "bekommen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📦",
+    "ipa": {
+      "en": "ɡɛt"
+    }
+  },
+  {
+    "id": "give",
+    "tr": "vermek",
+    "en": "give",
+    "es": "dar",
+    "pt": "dar",
+    "de": "geben",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎁",
+    "ipa": {
+      "en": "ɡɪv"
+    }
+  },
+  {
+    "id": "take",
+    "tr": "almak",
+    "en": "take",
+    "es": "tomar",
+    "pt": "tomar",
+    "de": "nehmen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "✋",
+    "ipa": {
+      "en": "teɪk"
+    }
+  },
+  {
+    "id": "make",
+    "tr": "yapmak",
+    "en": "make",
+    "es": "hacer",
+    "pt": "fazer",
+    "de": "machen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🛠️",
+    "ipa": {
+      "en": "meɪk"
+    }
+  },
+  {
+    "id": "say",
+    "tr": "söylemek",
+    "en": "say",
+    "es": "decir",
+    "pt": "dizer",
+    "de": "sagen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💬",
+    "ipa": {
+      "en": "seɪ"
+    }
+  },
+  {
+    "id": "think",
+    "tr": "düşünmek",
+    "en": "think",
+    "es": "pensar",
+    "pt": "pensar",
+    "de": "denken",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💭",
+    "ipa": {
+      "en": "θɪŋk"
+    }
+  },
+  {
+    "id": "look",
+    "tr": "bakmak",
+    "en": "look",
+    "es": "mirar",
+    "pt": "olhar",
+    "de": "schauen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👁️",
+    "ipa": {
+      "en": "lʊk"
+    }
+  },
+  {
+    "id": "want",
+    "tr": "istemek",
+    "en": "want",
+    "es": "querer",
+    "pt": "querer",
+    "de": "wollen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🙏",
+    "ipa": {
+      "en": "wɒnt"
+    }
+  },
+  {
+    "id": "use",
+    "tr": "kullanmak",
+    "en": "use",
+    "es": "usar",
+    "pt": "usar",
+    "de": "benutzen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔧",
+    "ipa": {
+      "en": "juːz"
+    }
+  },
+  {
+    "id": "find",
+    "tr": "bulmak",
+    "en": "find",
+    "es": "encontrar",
+    "pt": "encontrar",
+    "de": "finden",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔍",
+    "ipa": {
+      "en": "faɪnd"
+    }
+  },
+  {
+    "id": "tell",
+    "tr": "anlatmak",
+    "en": "tell",
+    "es": "contar",
+    "pt": "dizer",
+    "de": "erzählen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📢",
+    "ipa": {
+      "en": "tɛl"
+    }
+  },
+  {
+    "id": "ask",
+    "tr": "sormak",
+    "en": "ask",
+    "es": "preguntar",
+    "pt": "perguntar",
+    "de": "fragen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "❓",
+    "ipa": {
+      "en": "ɑːsk"
+    }
+  },
+  {
+    "id": "work",
+    "tr": "çalışmak",
+    "en": "work",
+    "es": "trabajar",
+    "pt": "trabalhar",
+    "de": "arbeiten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💼",
+    "ipa": {
+      "en": "wɜːk"
+    }
+  },
+  {
+    "id": "feel",
+    "tr": "hissetmek",
+    "en": "feel",
+    "es": "sentir",
+    "pt": "sentir",
+    "de": "fühlen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💝",
+    "ipa": {
+      "en": "fiːl"
+    }
+  },
+  {
+    "id": "try",
+    "tr": "denemek",
+    "en": "try",
+    "es": "intentar",
+    "pt": "tentar",
+    "de": "versuchen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💪",
+    "ipa": {
+      "en": "traɪ"
+    }
+  },
+  {
+    "id": "leave",
+    "tr": "ayrılmak",
+    "en": "leave",
+    "es": "dejar",
+    "pt": "sair",
+    "de": "verlassen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🚪",
+    "ipa": {
+      "en": "liːv"
+    }
+  },
+  {
+    "id": "call",
+    "tr": "aramak",
+    "en": "call",
+    "es": "llamar",
+    "pt": "ligar",
+    "de": "anrufen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📞",
+    "ipa": {
+      "en": "kɔːl"
+    }
+  },
+  {
+    "id": "keep",
+    "tr": "tutmak",
+    "en": "keep",
+    "es": "guardar",
+    "pt": "manter",
+    "de": "behalten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📌",
+    "ipa": {
+      "en": "kiːp"
+    }
+  },
+  {
+    "id": "let",
+    "tr": "izin vermek",
+    "en": "let",
+    "es": "dejar",
+    "pt": "deixar",
+    "de": "lassen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔓",
+    "ipa": {
+      "en": "lɛt"
+    }
+  },
+  {
+    "id": "run",
+    "tr": "koşmak",
+    "en": "run",
+    "es": "correr",
+    "pt": "correr",
+    "de": "rennen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏃",
+    "ipa": {
+      "en": "rʌn"
+    }
+  },
+  {
+    "id": "put",
+    "tr": "koymak",
+    "en": "put",
+    "es": "poner",
+    "pt": "colocar",
+    "de": "legen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📥",
+    "ipa": {
+      "en": "pʊt"
+    }
+  },
+  {
+    "id": "mean",
+    "tr": "anlamına gelmek",
+    "en": "mean",
+    "es": "significar",
+    "pt": "significar",
+    "de": "bedeuten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💡",
+    "ipa": {
+      "en": "miːn"
+    }
+  },
+  {
+    "id": "become",
+    "tr": "olmak",
+    "en": "become",
+    "es": "convertirse",
+    "pt": "tornar-se",
+    "de": "werden",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🌟",
+    "ipa": {
+      "en": "bɪˈkʌm"
+    }
+  },
+  {
+    "id": "show",
+    "tr": "göstermek",
+    "en": "show",
+    "es": "mostrar",
+    "pt": "mostrar",
+    "de": "zeigen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📺",
+    "ipa": {
+      "en": "ʃəʊ"
+    }
+  },
+  {
+    "id": "play",
+    "tr": "oynamak",
+    "en": "play",
+    "es": "jugar",
+    "pt": "jogar",
+    "de": "spielen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎮",
+    "ipa": {
+      "en": "pleɪ"
+    }
+  },
+  {
+    "id": "move",
+    "tr": "hareket etmek",
+    "en": "move",
+    "es": "mover",
+    "pt": "mover",
+    "de": "bewegen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔄",
+    "ipa": {
+      "en": "muːv"
+    }
+  },
+  {
+    "id": "live",
+    "tr": "yaşamak",
+    "en": "live",
+    "es": "vivir",
+    "pt": "viver",
+    "de": "leben",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏠",
+    "ipa": {
+      "en": "lɪv"
+    }
+  },
+  {
+    "id": "pay",
+    "tr": "ödemek",
+    "en": "pay",
+    "es": "pagar",
+    "pt": "pagar",
+    "de": "bezahlen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💳",
+    "ipa": {
+      "en": "peɪ"
+    }
+  },
+  {
+    "id": "hear",
+    "tr": "duymak",
+    "en": "hear",
+    "es": "escuchar",
+    "pt": "ouvir",
+    "de": "hören",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👂",
+    "ipa": {
+      "en": "hɪər"
+    }
+  },
+  {
+    "id": "sit",
+    "tr": "oturmak",
+    "en": "sit",
+    "es": "sentarse",
+    "pt": "sentar-se",
+    "de": "sitzen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🪑",
+    "ipa": {
+      "en": "sɪt"
+    }
+  },
+  {
+    "id": "stand",
+    "tr": "ayakta durmak",
+    "en": "stand",
+    "es": "estar de pie",
+    "pt": "ficar de pé",
+    "de": "stehen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🧍",
+    "ipa": {
+      "en": "stænd"
+    }
+  },
+  {
+    "id": "lose",
+    "tr": "kaybetmek",
+    "en": "lose",
+    "es": "perder",
+    "pt": "perder",
+    "de": "verlieren",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "😔",
+    "ipa": {
+      "en": "luːz"
+    }
+  },
+  {
+    "id": "bring",
+    "tr": "getirmek",
+    "en": "bring",
+    "es": "traer",
+    "pt": "trazer",
+    "de": "bringen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎒",
+    "ipa": {
+      "en": "brɪŋ"
+    }
+  },
+  {
+    "id": "begin",
+    "tr": "başlamak",
+    "en": "begin",
+    "es": "empezar",
+    "pt": "começar",
+    "de": "beginnen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🚀",
+    "ipa": {
+      "en": "bɪˈɡɪn"
+    }
+  },
+  {
+    "id": "walk",
+    "tr": "yürümek",
+    "en": "walk",
+    "es": "caminar",
+    "pt": "caminhar",
+    "de": "laufen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🚶",
+    "ipa": {
+      "en": "wɔːk"
+    }
+  },
+  {
+    "id": "write",
+    "tr": "yazmak",
+    "en": "write",
+    "es": "escribir",
+    "pt": "escrever",
+    "de": "schreiben",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "✍️",
+    "ipa": {
+      "en": "raɪt"
+    }
+  },
+  {
+    "id": "read",
+    "tr": "okumak",
+    "en": "read",
+    "es": "leer",
+    "pt": "ler",
+    "de": "lesen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📖",
+    "ipa": {
+      "en": "riːd"
+    }
+  },
+  {
+    "id": "eat",
+    "tr": "yemek",
+    "en": "eat",
+    "es": "comer",
+    "pt": "comer",
+    "de": "essen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🍽️",
+    "ipa": {
+      "en": "iːt"
+    }
+  },
+  {
+    "id": "drink",
+    "tr": "içmek",
+    "en": "drink",
+    "es": "beber",
+    "pt": "beber",
+    "de": "trinken",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🥤",
+    "ipa": {
+      "en": "drɪŋk"
+    }
+  },
+  {
+    "id": "sleep",
+    "tr": "uyumak",
+    "en": "sleep",
+    "es": "dormir",
+    "pt": "dormir",
+    "de": "schlafen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "😴",
+    "ipa": {
+      "en": "sliːp"
+    }
+  },
+  {
+    "id": "swim",
+    "tr": "yüzmek",
+    "en": "swim",
+    "es": "nadar",
+    "pt": "nadar",
+    "de": "schwimmen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏊",
+    "ipa": {
+      "en": "swɪm"
+    }
+  },
+  {
+    "id": "jump",
+    "tr": "zıplamak",
+    "en": "jump",
+    "es": "saltar",
+    "pt": "pular",
+    "de": "springen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🦘",
+    "ipa": {
+      "en": "dʒʌmp"
+    }
+  },
+  {
+    "id": "fly",
+    "tr": "uçmak",
+    "en": "fly",
+    "es": "volar",
+    "pt": "voar",
+    "de": "fliegen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "✈️",
+    "ipa": {
+      "en": "flaɪ"
+    }
+  },
+  {
+    "id": "sing",
+    "tr": "şarkı söylemek",
+    "en": "sing",
+    "es": "cantar",
+    "pt": "cantar",
+    "de": "singen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎤",
+    "ipa": {
+      "en": "sɪŋ"
+    }
+  },
+  {
+    "id": "dance",
+    "tr": "dans etmek",
+    "en": "dance",
+    "es": "bailar",
+    "pt": "dançar",
+    "de": "tanzen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💃",
+    "ipa": {
+      "en": "dɑːns"
+    }
+  },
+  {
+    "id": "buy",
+    "tr": "satın almak",
+    "en": "buy",
+    "es": "comprar",
+    "pt": "comprar",
+    "de": "kaufen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🛒",
+    "ipa": {
+      "en": "baɪ"
+    }
+  },
+  {
+    "id": "sell",
+    "tr": "satmak",
+    "en": "sell",
+    "es": "vender",
+    "pt": "vender",
+    "de": "verkaufen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💰",
+    "ipa": {
+      "en": "sɛl"
+    }
+  },
+  {
+    "id": "open",
+    "tr": "açmak",
+    "en": "open",
+    "es": "abrir",
+    "pt": "abrir",
+    "de": "öffnen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🚪",
+    "ipa": {
+      "en": "ˈəʊpən"
+    }
+  },
+  {
+    "id": "close",
+    "tr": "kapatmak",
+    "en": "close",
+    "es": "cerrar",
+    "pt": "fechar",
+    "de": "schließen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔒",
+    "ipa": {
+      "en": "kləʊz"
+    }
+  },
+  {
+    "id": "help",
+    "tr": "yardım etmek",
+    "en": "help",
+    "es": "ayudar",
+    "pt": "ajudar",
+    "de": "helfen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🤝",
+    "ipa": {
+      "en": "hɛlp"
+    }
+  },
+  {
+    "id": "learn",
+    "tr": "öğrenmek",
+    "en": "learn",
+    "es": "aprender",
+    "pt": "aprender",
+    "de": "lernen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📚",
+    "ipa": {
+      "en": "lɜːn"
+    }
+  },
+  {
+    "id": "teach",
+    "tr": "öğretmek",
+    "en": "teach",
+    "es": "enseñar",
+    "pt": "ensinar",
+    "de": "lehren",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏫",
+    "ipa": {
+      "en": "tiːtʃ"
+    }
+  },
+  {
+    "id": "turn",
+    "tr": "dönmek",
+    "en": "turn",
+    "es": "girar",
+    "pt": "girar",
+    "de": "drehen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔄",
+    "ipa": {
+      "en": "tɜːn"
+    }
+  },
+  {
+    "id": "start",
+    "tr": "başlamak",
+    "en": "start",
+    "es": "empezar",
+    "pt": "começar",
+    "de": "starten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🚀",
+    "ipa": {
+      "en": "stɑːt"
+    }
+  },
+  {
+    "id": "stop",
+    "tr": "durmak",
+    "en": "stop",
+    "es": "parar",
+    "pt": "parar",
+    "de": "stoppen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🛑",
+    "ipa": {
+      "en": "stɒp"
+    }
+  },
+  {
+    "id": "finish",
+    "tr": "bitirmek",
+    "en": "finish",
+    "es": "terminar",
+    "pt": "terminar",
+    "de": "beenden",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏁",
+    "ipa": {
+      "en": "ˈfɪnɪʃ"
+    }
+  },
+  {
+    "id": "love",
+    "tr": "sevmek",
+    "en": "love",
+    "es": "amar",
+    "pt": "amar",
+    "de": "lieben",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "❤️",
+    "ipa": {
+      "en": "lʌv"
+    }
+  },
+  {
+    "id": "like",
+    "tr": "hoşlanmak",
+    "en": "like",
+    "es": "gustar",
+    "pt": "gostar",
+    "de": "mögen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👍",
+    "ipa": {
+      "en": "laɪk"
+    }
+  },
+  {
+    "id": "hate",
+    "tr": "nefret etmek",
+    "en": "hate",
+    "es": "odiar",
+    "pt": "odiar",
+    "de": "hassen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "😡",
+    "ipa": {
+      "en": "heɪt"
+    }
+  },
+  {
+    "id": "achieve",
+    "tr": "başarmak",
+    "en": "achieve",
+    "es": "lograr",
+    "pt": "alcançar",
+    "de": "erreichen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏆",
+    "ipa": {
+      "en": "əˈtʃiːv"
+    }
+  },
+  {
+    "id": "agree",
+    "tr": "katılmak",
+    "en": "agree",
+    "es": "estar de acuerdo",
+    "pt": "concordar",
+    "de": "zustimmen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🤝",
+    "ipa": {
+      "en": "əˈɡriː"
+    }
+  },
+  {
+    "id": "allow",
+    "tr": "izin vermek",
+    "en": "allow",
+    "es": "permitir",
+    "pt": "permitir",
+    "de": "erlauben",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "✅",
+    "ipa": {
+      "en": "əˈlaʊ"
+    }
+  },
+  {
+    "id": "appear",
+    "tr": "görünmek",
+    "en": "appear",
+    "es": "aparecer",
+    "pt": "aparecer",
+    "de": "erscheinen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👁️",
+    "ipa": {
+      "en": "əˈpɪər"
+    }
+  },
+  {
+    "id": "arrange",
+    "tr": "düzenlemek",
+    "en": "arrange",
+    "es": "organizar",
+    "pt": "organizar",
+    "de": "arrangieren",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📋",
+    "ipa": {
+      "en": "əˈreɪndʒ"
+    }
+  },
+  {
+    "id": "arrive",
+    "tr": "varmak",
+    "en": "arrive",
+    "es": "llegar",
+    "pt": "chegar",
+    "de": "ankommen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🛬",
+    "ipa": {
+      "en": "əˈraɪv"
+    }
+  },
+  {
+    "id": "borrow",
+    "tr": "ödünç almak",
+    "en": "borrow",
+    "es": "pedir prestado",
+    "pt": "pedir emprestado",
+    "de": "leihen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📚",
+    "ipa": {
+      "en": "ˈbɒrəʊ"
+    }
+  },
+  {
+    "id": "break",
+    "tr": "kırmak",
+    "en": "break",
+    "es": "romper",
+    "pt": "quebrar",
+    "de": "brechen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💔",
+    "ipa": {
+      "en": "breɪk"
+    }
+  },
+  {
+    "id": "build",
+    "tr": "inşa etmek",
+    "en": "build",
+    "es": "construir",
+    "pt": "construir",
+    "de": "bauen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏗️",
+    "ipa": {
+      "en": "bɪld"
+    }
+  },
+  {
+    "id": "carry",
+    "tr": "taşımak",
+    "en": "carry",
+    "es": "llevar",
+    "pt": "carregar",
+    "de": "tragen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎒",
+    "ipa": {
+      "en": "ˈkæri"
+    }
+  },
+  {
+    "id": "catch",
+    "tr": "yakalamak",
+    "en": "catch",
+    "es": "atrapar",
+    "pt": "pegar",
+    "de": "fangen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎣",
+    "ipa": {
+      "en": "kætʃ"
+    }
+  },
+  {
+    "id": "change",
+    "tr": "değiştirmek",
+    "en": "change",
+    "es": "cambiar",
+    "pt": "mudar",
+    "de": "ändern",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔄",
+    "ipa": {
+      "en": "tʃeɪndʒ"
+    }
+  },
+  {
+    "id": "check",
+    "tr": "kontrol etmek",
+    "en": "check",
+    "es": "revisar",
+    "pt": "verificar",
+    "de": "prüfen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "✔️",
+    "ipa": {
+      "en": "tʃɛk"
+    }
+  },
+  {
+    "id": "choose",
+    "tr": "seçmek",
+    "en": "choose",
+    "es": "elegir",
+    "pt": "escolher",
+    "de": "wählen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎯",
+    "ipa": {
+      "en": "tʃuːz"
+    }
+  },
+  {
+    "id": "collect",
+    "tr": "toplamak",
+    "en": "collect",
+    "es": "coleccionar",
+    "pt": "coletar",
+    "de": "sammeln",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🗂️",
+    "ipa": {
+      "en": "kəˈlɛkt"
+    }
+  },
+  {
+    "id": "contain",
+    "tr": "içermek",
+    "en": "contain",
+    "es": "contener",
+    "pt": "conter",
+    "de": "enthalten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📦",
+    "ipa": {
+      "en": "kənˈteɪn"
+    }
+  },
+  {
+    "id": "continue",
+    "tr": "devam etmek",
+    "en": "continue",
+    "es": "continuar",
+    "pt": "continuar",
+    "de": "fortsetzen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "▶️",
+    "ipa": {
+      "en": "kənˈtɪnjuː"
+    }
+  },
+  {
+    "id": "cook",
+    "tr": "pişirmek",
+    "en": "cook",
+    "es": "cocinar",
+    "pt": "cozinhar",
+    "de": "kochen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🍳",
+    "ipa": {
+      "en": "kʊk"
+    }
+  },
+  {
+    "id": "count",
+    "tr": "saymak",
+    "en": "count",
+    "es": "contar",
+    "pt": "contar",
+    "de": "zählen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔢",
+    "ipa": {
+      "en": "kaʊnt"
+    }
+  },
+  {
+    "id": "decide",
+    "tr": "karar vermek",
+    "en": "decide",
+    "es": "decidir",
+    "pt": "decidir",
+    "de": "entscheiden",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🤔",
+    "ipa": {
+      "en": "dɪˈsaɪd"
+    }
+  },
+  {
+    "id": "describe",
+    "tr": "tanımlamak",
+    "en": "describe",
+    "es": "describir",
+    "pt": "descrever",
+    "de": "beschreiben",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📝",
+    "ipa": {
+      "en": "dɪˈskraɪb"
+    }
+  },
+  {
+    "id": "discover",
+    "tr": "keşfetmek",
+    "en": "discover",
+    "es": "descubrir",
+    "pt": "descobrir",
+    "de": "entdecken",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔭",
+    "ipa": {
+      "en": "dɪˈskʌvər"
+    }
+  },
+  {
+    "id": "draw",
+    "tr": "çizmek",
+    "en": "draw",
+    "es": "dibujar",
+    "pt": "desenhar",
+    "de": "zeichnen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎨",
+    "ipa": {
+      "en": "drɔː"
+    }
+  },
+  {
+    "id": "dream",
+    "tr": "hayal kurmak",
+    "en": "dream",
+    "es": "soñar",
+    "pt": "sonhar",
+    "de": "träumen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💭",
+    "ipa": {
+      "en": "driːm"
+    }
+  },
+  {
+    "id": "drive",
+    "tr": "araba sürmek",
+    "en": "drive",
+    "es": "conducir",
+    "pt": "dirigir",
+    "de": "fahren",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🚗",
+    "ipa": {
+      "en": "draɪv"
+    }
+  },
+  {
+    "id": "drop",
+    "tr": "düşürmek",
+    "en": "drop",
+    "es": "dejar caer",
+    "pt": "soltar",
+    "de": "fallen lassen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "⬇️",
+    "ipa": {
+      "en": "drɒp"
+    }
+  },
+  {
+    "id": "enjoy",
+    "tr": "keyif almak",
+    "en": "enjoy",
+    "es": "disfrutar",
+    "pt": "desfrutar",
+    "de": "genießen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "😊",
+    "ipa": {
+      "en": "ɪnˈdʒɔɪ"
+    }
+  },
+  {
+    "id": "exist",
+    "tr": "var olmak",
+    "en": "exist",
+    "es": "existir",
+    "pt": "existir",
+    "de": "existieren",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🌍",
+    "ipa": {
+      "en": "ɪɡˈzɪst"
+    }
+  },
+  {
+    "id": "explain",
+    "tr": "açıklamak",
+    "en": "explain",
+    "es": "explicar",
+    "pt": "explicar",
+    "de": "erklären",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💡",
+    "ipa": {
+      "en": "ɪkˈspleɪn"
+    }
+  },
+  {
+    "id": "fall",
+    "tr": "düşmek",
+    "en": "fall",
+    "es": "caer",
+    "pt": "cair",
+    "de": "fallen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🍂",
+    "ipa": {
+      "en": "fɔːl"
+    }
+  },
+  {
+    "id": "follow",
+    "tr": "takip etmek",
+    "en": "follow",
+    "es": "seguir",
+    "pt": "seguir",
+    "de": "folgen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👣",
+    "ipa": {
+      "en": "ˈfɒləʊ"
+    }
+  },
+  {
+    "id": "forget",
+    "tr": "unutmak",
+    "en": "forget",
+    "es": "olvidar",
+    "pt": "esquecer",
+    "de": "vergessen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🧠",
+    "ipa": {
+      "en": "fəˈɡɛt"
+    }
+  },
+  {
+    "id": "grow",
+    "tr": "büyümek",
+    "en": "grow",
+    "es": "crecer",
+    "pt": "crescer",
+    "de": "wachsen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🌱",
+    "ipa": {
+      "en": "ɡrəʊ"
+    }
+  },
+  {
+    "id": "happen",
+    "tr": "gerçekleşmek",
+    "en": "happen",
+    "es": "suceder",
+    "pt": "acontecer",
+    "de": "geschehen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "❓",
+    "ipa": {
+      "en": "ˈhæpən"
+    }
+  },
+  {
+    "id": "hope",
+    "tr": "ummak",
+    "en": "hope",
+    "es": "esperar",
+    "pt": "esperar",
+    "de": "hoffen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🌟",
+    "ipa": {
+      "en": "həʊp"
+    }
+  },
+  {
+    "id": "join",
+    "tr": "katılmak",
+    "en": "join",
+    "es": "unirse",
+    "pt": "juntar-se",
+    "de": "beitreten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🤝",
+    "ipa": {
+      "en": "dʒɔɪn"
+    }
+  },
+  {
+    "id": "laugh",
+    "tr": "gülmek",
+    "en": "laugh",
+    "es": "reír",
+    "pt": "rir",
+    "de": "lachen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "😄",
+    "ipa": {
+      "en": "lɑːf"
+    }
+  },
+  {
+    "id": "listen",
+    "tr": "dinlemek",
+    "en": "listen",
+    "es": "escuchar",
+    "pt": "ouvir",
+    "de": "zuhören",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👂",
+    "ipa": {
+      "en": "ˈlɪsən"
+    }
+  },
+  {
+    "id": "mention",
+    "tr": "bahsetmek",
+    "en": "mention",
+    "es": "mencionar",
+    "pt": "mencionar",
+    "de": "erwähnen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💬",
+    "ipa": {
+      "en": "ˈmɛnʃən"
+    }
+  },
+  {
+    "id": "miss",
+    "tr": "özlemek",
+    "en": "miss",
+    "es": "extrañar",
+    "pt": "sentir saudades",
+    "de": "vermissen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "😢",
+    "ipa": {
+      "en": "mɪs"
+    }
+  },
+  {
+    "id": "need",
+    "tr": "ihtiyaç duymak",
+    "en": "need",
+    "es": "necesitar",
+    "pt": "precisar",
+    "de": "brauchen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📌",
+    "ipa": {
+      "en": "niːd"
+    }
+  },
+  {
+    "id": "offer",
+    "tr": "teklif etmek",
+    "en": "offer",
+    "es": "ofrecer",
+    "pt": "oferecer",
+    "de": "anbieten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🎁",
+    "ipa": {
+      "en": "ˈɒfər"
+    }
+  },
+  {
+    "id": "order",
+    "tr": "sipariş vermek",
+    "en": "order",
+    "es": "ordenar",
+    "pt": "pedir",
+    "de": "bestellen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📋",
+    "ipa": {
+      "en": "ˈɔːdər"
+    }
+  },
+  {
+    "id": "prefer",
+    "tr": "tercih etmek",
+    "en": "prefer",
+    "es": "preferir",
+    "pt": "preferir",
+    "de": "bevorzugen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🌟",
+    "ipa": {
+      "en": "prɪˈfɜː"
+    }
+  },
+  {
+    "id": "prepare",
+    "tr": "hazırlamak",
+    "en": "prepare",
+    "es": "preparar",
+    "pt": "preparar",
+    "de": "vorbereiten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🍳",
+    "ipa": {
+      "en": "prɪˈpɛər"
+    }
+  },
+  {
+    "id": "produce",
+    "tr": "üretmek",
+    "en": "produce",
+    "es": "producir",
+    "pt": "produzir",
+    "de": "produzieren",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏭",
+    "ipa": {
+      "en": "prəˈdjuːs"
+    }
+  },
+  {
+    "id": "promise",
+    "tr": "söz vermek",
+    "en": "promise",
+    "es": "prometer",
+    "pt": "prometer",
+    "de": "versprechen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🤞",
+    "ipa": {
+      "en": "ˈprɒmɪs"
+    }
+  },
+  {
+    "id": "prove",
+    "tr": "kanıtlamak",
+    "en": "prove",
+    "es": "probar",
+    "pt": "provar",
+    "de": "beweisen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔬",
+    "ipa": {
+      "en": "pruːv"
+    }
+  },
+  {
+    "id": "receive",
+    "tr": "almak",
+    "en": "receive",
+    "es": "recibir",
+    "pt": "receber",
+    "de": "erhalten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📬",
+    "ipa": {
+      "en": "rɪˈsiːv"
+    }
+  },
+  {
+    "id": "remember",
+    "tr": "hatırlamak",
+    "en": "remember",
+    "es": "recordar",
+    "pt": "lembrar",
+    "de": "sich erinnern",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💭",
+    "ipa": {
+      "en": "rɪˈmɛmbər"
+    }
+  },
+  {
+    "id": "repeat",
+    "tr": "tekrarlamak",
+    "en": "repeat",
+    "es": "repetir",
+    "pt": "repetir",
+    "de": "wiederholen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🔄",
+    "ipa": {
+      "en": "rɪˈpiːt"
+    }
+  },
+  {
+    "id": "return",
+    "tr": "geri dönmek",
+    "en": "return",
+    "es": "regresar",
+    "pt": "voltar",
+    "de": "zurückkehren",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "↩️",
+    "ipa": {
+      "en": "rɪˈtɜːn"
+    }
+  },
+  {
+    "id": "send",
+    "tr": "göndermek",
+    "en": "send",
+    "es": "enviar",
+    "pt": "enviar",
+    "de": "senden",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "📤",
+    "ipa": {
+      "en": "sɛnd"
+    }
+  },
+  {
+    "id": "share",
+    "tr": "paylaşmak",
+    "en": "share",
+    "es": "compartir",
+    "pt": "compartilhar",
+    "de": "teilen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🤝",
+    "ipa": {
+      "en": "ʃɛər"
+    }
+  },
+  {
+    "id": "smell",
+    "tr": "koklamak",
+    "en": "smell",
+    "es": "oler",
+    "pt": "cheirar",
+    "de": "riechen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👃",
+    "ipa": {
+      "en": "smɛl"
+    }
+  },
+  {
+    "id": "spend",
+    "tr": "harcamak",
+    "en": "spend",
+    "es": "gastar",
+    "pt": "gastar",
+    "de": "ausgeben",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💸",
+    "ipa": {
+      "en": "spɛnd"
+    }
+  },
+  {
+    "id": "suggest",
+    "tr": "önermek",
+    "en": "suggest",
+    "es": "sugerir",
+    "pt": "sugerir",
+    "de": "vorschlagen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "💡",
+    "ipa": {
+      "en": "səˈdʒɛst"
+    }
+  },
+  {
+    "id": "taste",
+    "tr": "tatmak",
+    "en": "taste",
+    "es": "probar",
+    "pt": "provar",
+    "de": "schmecken",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "👅",
+    "ipa": {
+      "en": "teɪst"
+    }
+  },
+  {
+    "id": "throw",
+    "tr": "atmak",
+    "en": "throw",
+    "es": "lanzar",
+    "pt": "jogar",
+    "de": "werfen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "⚾",
+    "ipa": {
+      "en": "θrəʊ"
+    }
+  },
+  {
+    "id": "travel",
+    "tr": "seyahat etmek",
+    "en": "travel",
+    "es": "viajar",
+    "pt": "viajar",
+    "de": "reisen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "✈️",
+    "ipa": {
+      "en": "ˈtrævəl"
+    }
+  },
+  {
+    "id": "understand",
+    "tr": "anlamak",
+    "en": "understand",
+    "es": "entender",
+    "pt": "entender",
+    "de": "verstehen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🧠",
+    "ipa": {
+      "en": "ˌʌndəˈstænd"
+    }
+  },
+  {
+    "id": "visit",
+    "tr": "ziyaret etmek",
+    "en": "visit",
+    "es": "visitar",
+    "pt": "visitar",
+    "de": "besuchen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🗺️",
+    "ipa": {
+      "en": "ˈvɪzɪt"
+    }
+  },
+  {
+    "id": "wait",
+    "tr": "beklemek",
+    "en": "wait",
+    "es": "esperar",
+    "pt": "esperar",
+    "de": "warten",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "⏳",
+    "ipa": {
+      "en": "weɪt"
+    }
+  },
+  {
+    "id": "win",
+    "tr": "kazanmak",
+    "en": "win",
+    "es": "ganar",
+    "pt": "ganhar",
+    "de": "gewinnen",
+    "level": "A1",
+    "category": "verbs",
+    "emoji": "🏆",
+    "ipa": {
+      "en": "wɪn"
+    }
+  }
+]

@@ -256,7 +256,7 @@ export default function GrammarLessonPage() {
             <button
               onClick={goNextStep}
               style={{ marginTop: '8px', width: '100%', padding: '14px', background: '#0891B2', color: 'white', border: 'none', borderRadius: '12px', fontSize: '15px', fontWeight: '700', cursor: 'pointer', fontFamily: "'Plus Jakarta Sans', sans-serif" }}
-            >Continue →</button>
+            >Devam →</button>
           </div>
         )}
 
@@ -313,8 +313,8 @@ export default function GrammarLessonPage() {
         {step === 2 && ex && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: '14px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '12px', color: '#94A3B8' }}>
-              <span>Exercise {exIndex + 1} / {lesson.outputExercises.length}</span>
-              <span style={{ fontWeight: '700', color: '#0891B2' }}>{ex.type === 'fill' ? 'Fill in the Blank' : 'Build Sentence'}</span>
+              <span>Alıştırma {exIndex + 1} / {lesson.outputExercises.length}</span>
+              <span style={{ fontWeight: '700', color: '#0891B2' }}>{ex.type === 'fill' ? 'Boşluğu Doldur' : 'Cümle Kur'}</span>
             </div>
 
             {/* Fill */}
@@ -380,7 +380,7 @@ export default function GrammarLessonPage() {
                       fontSize: '14px', fontWeight: '700', cursor: 'pointer',
                       fontFamily: "'Plus Jakarta Sans', sans-serif",
                     }}
-                  >{exResult === 'correct' ? (exIndex + 1 < lesson.outputExercises.length ? 'Next →' : 'Next Step →') : 'Check'}</button>
+                  >{exResult === 'correct' ? (exIndex + 1 < lesson.outputExercises.length ? 'Sonraki →' : 'Sonraki Adım →') : 'Kontrol Et'}</button>
                 </div>
               </>
             )}
@@ -450,7 +450,7 @@ export default function GrammarLessonPage() {
                     border: 'none', borderRadius: '12px', fontSize: '15px', fontWeight: '700', cursor: 'pointer',
                     fontFamily: "'Plus Jakarta Sans', sans-serif",
                   }}
-                >{exResult === 'correct' ? (exIndex + 1 < lesson.outputExercises.length ? 'Next →' : 'Next Step →') : 'Check'}</button>
+                >{exResult === 'correct' ? (exIndex + 1 < lesson.outputExercises.length ? 'Sonraki →' : 'Sonraki Adım →') : 'Kontrol Et'}</button>
               </>
             )}
           </div>

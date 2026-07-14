@@ -1,0 +1,159 @@
+{
+  "id": "market-a1",
+  "title": "Markette Alışveriş",
+  "emoji": "🛒",
+  "level": "A1",
+  "category": "daily",
+  "roles": { "child": "Kartal", "bot": "Satıcı" },
+  "pattern": {
+    "tr": "Kaç tane ___ istersin?",
+    "en": "How many ___ do you want?",
+    "es": "¿Cuántas ___ quieres?",
+    "pt": "Quantas ___ você quer?",
+    "de": "Wie viele ___ möchtest du?"
+  },
+  "teach": [
+    {
+      "tr": "Kaç tane elma istersin?",
+      "en": "How many apples do you want?",
+      "es": "¿Cuántas manzanas quieres?",
+      "pt": "Quantas maçãs você quer?",
+      "de": "Wie viele Äpfel möchtest du?"
+    },
+    {
+      "tr": "Kaç tane muz istersin?",
+      "en": "How many bananas do you want?",
+      "es": "¿Cuántos plátanos quieres?",
+      "pt": "Quantas bananas você quer?",
+      "de": "Wie viele Bananen möchtest du?"
+    },
+    {
+      "tr": "Kaç tane portakal istersin?",
+      "en": "How many oranges do you want?",
+      "es": "¿Cuántas naranjas quieres?",
+      "pt": "Quantas laranjas você quer?",
+      "de": "Wie viele Orangen möchtest du?"
+    }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Kaç tane elma istersin?",
+        "en": "How many apples do you want?",
+        "es": "¿Cuántas manzanas quieres?",
+        "pt": "Quantas maçãs você quer?",
+        "de": "Wie viele Äpfel möchtest du?"
+      },
+      "answer": {
+        "tr": "Beş elma, lütfen.",
+        "en": "Five apples, please.",
+        "es": "Cinco manzanas, por favor.",
+        "pt": "Cinco maçãs, por favor.",
+        "de": "Fünf Äpfel, bitte.",
+        "alts": {
+          "en": ["five apples", "5 apples", "five apples please"],
+          "es": ["cinco manzanas"],
+          "pt": ["cinco maçãs", "cinco macas"],
+          "de": ["fünf äpfel", "funf apfel"]
+        }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Kaç tane muz istersin?",
+        "en": "How many bananas do you want?",
+        "es": "¿Cuántos plátanos quieres?",
+        "pt": "Quantas bananas você quer?",
+        "de": "Wie viele Bananen möchtest du?",
+        "alts": {
+          "en": ["how many bananas do you want", "how many bananas"],
+          "es": ["cuántos plátanos quieres", "cuantos platanos"],
+          "pt": ["quantas bananas você quer", "quantas bananas"],
+          "de": ["wie viele bananen möchtest du", "wie viele bananen"]
+        }
+      },
+      "answer": {
+        "tr": "Üç muz, lütfen.",
+        "en": "Three bananas, please.",
+        "es": "Tres plátanos, por favor.",
+        "pt": "Três bananas, por favor.",
+        "de": "Drei Bananen, bitte."
+      }
+    },
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Başka bir şey ister misin?",
+        "en": "Do you want anything else?",
+        "es": "¿Quieres algo más?",
+        "pt": "Você quer mais alguma coisa?",
+        "de": "Möchtest du noch etwas?"
+      },
+      "answer": {
+        "tr": "Evet, biraz su lütfen.",
+        "en": "Yes, some water please.",
+        "es": "Sí, un poco de agua por favor.",
+        "pt": "Sim, um pouco de água por favor.",
+        "de": "Ja, etwas Wasser bitte.",
+        "alts": {
+          "en": ["some water", "water please", "yes water"],
+          "es": ["agua", "un poco de agua"],
+          "pt": ["água", "agua"],
+          "de": ["wasser", "etwas wasser"]
+        }
+      }
+    }
+  ],
+  "generate": [
+    {
+      "frame": {
+        "tr": "İstiyorum ___ ___",
+        "en": "I want ___ ___",
+        "es": "Quiero ___ ___",
+        "pt": "Eu quero ___ ___",
+        "de": "Ich möchte ___ ___"
+      },
+      "hint": {
+        "tr": "Bir sayı + bir meyve söyle (örn: altı portakal)."
+      },
+      "answer": {
+        "en": "I want six oranges",
+        "es": "Quiero seis naranjas",
+        "pt": "Eu quero seis laranjas",
+        "de": "Ich möchte sechs Orangen"
+      },
+      "wordBank": {
+        "en": ["I", "want", "six", "oranges", "apples", "two"],
+        "es": ["Quiero", "seis", "naranjas", "manzanas", "dos"],
+        "pt": ["Eu", "quero", "seis", "laranjas", "maçãs", "duas"],
+        "de": ["Ich", "möchte", "sechs", "Orangen", "Äpfel", "zwei"]
+      }
+    },
+    {
+      "frame": {
+        "tr": "___ tane ___ istiyorum",
+        "en": "I want ___ ___",
+        "es": "Quiero ___ ___",
+        "pt": "Eu quero ___ ___",
+        "de": "Ich möchte ___ ___"
+      },
+      "hint": {
+        "tr": "Başka bir sayı + meyve dene (örn: dört elma)."
+      },
+      "answer": {
+        "en": "I want four apples",
+        "es": "Quiero cuatro manzanas",
+        "pt": "Eu quero quatro maçãs",
+        "de": "Ich möchte vier Äpfel"
+      },
+      "wordBank": {
+        "en": ["I", "want", "four", "apples", "bananas", "five"],
+        "es": ["Quiero", "cuatro", "manzanas", "plátanos", "cinco"],
+        "pt": ["Eu", "quero", "quatro", "maçãs", "bananas", "cinco"],
+        "de": ["Ich", "möchte", "vier", "Äpfel", "Bananen", "fünf"]
+      }
+    }
+  ]
+}

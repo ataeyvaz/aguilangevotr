@@ -13,16 +13,11 @@
  */
 
 import { createContext, useContext, useState, useCallback } from 'react'
-import {
-  getNextStudyWords,
-  recordStudyAnswer,
-  computeStudyStats,
-} from '../services/studyService'
 
 const PROFILE_KEY  = 'aguilang_active_profile'
 const PAIR_KEY     = 'aguilang_active_pair'
 const UI_LANG_KEY  = 'aguilang_ui_language'
-const DEFAULT_PAIR = 1   // en→es
+const DEFAULT_PAIR = 5   // tr→en (TR uygulaması)
 
 const AppContext = createContext(null)
 
@@ -37,8 +32,8 @@ function loadPair() {
 }
 
 function loadUiLanguage() {
-  try { const s = localStorage.getItem(UI_LANG_KEY); return s ? JSON.parse(s) : 'en' }
-  catch { return 'en' }
+  try { const s = localStorage.getItem(UI_LANG_KEY); return s ? JSON.parse(s) : 'tr' }
+  catch { return 'tr' }
 }
 
 export function AppProvider({ children }) {
@@ -77,28 +72,11 @@ export function AppProvider({ children }) {
     setUiLanguageState(lang)
   }, [])
 
-  // ── Study bridge (browser: localStorage / TODO: Electron → srsEngine) ──
-  const getStudyWords = useCallback((allWords, targetLang = 'es', limit = 10) => {
-    // TODO (Electron/Capacitor): getNextWords(profile.id, currentPair, limit)
-    return getNextStudyWords(allWords, targetLang, limit)
-  }, [])
-
-  const recordAnswer = useCallback((wordId, isCorrect, quality) => {
-    // TODO (Electron/Capacitor): recordAnswer(profile.id, wordId, currentPair, isCorrect, quality)
-    return recordStudyAnswer(wordId, isCorrect, quality)
-  }, [])
-
-  const getStats = useCallback((allWords) => {
-    // TODO (Electron/Capacitor): getProgressStats(profile.id, currentPair)
-    return computeStudyStats(allWords)
-  }, [])
-
   return (
     <AppContext.Provider value={{
       profile, saveProfile, clearProfile,
       currentPair, setCurrentPair,
       uiLanguage, setUiLanguage,
-      getStudyWords, recordAnswer, getStats,
     }}>
       {children}
     </AppContext.Provider>

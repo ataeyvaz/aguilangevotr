@@ -1,0 +1,50 @@
+{
+  "id": "school",
+  "title": "Okulda İlk Gün",
+  "emoji": "🏫",
+  "level": "A1",
+  "domain": "school",
+  "roles": { "child": "Kartal", "bot": "Öğretmen" },
+  "pattern": {
+    "tr": "Bir ___ istiyorum.",
+    "en": "I need a ___.",
+    "es": "Necesito un ___.",
+    "pt": "Eu preciso de um ___.",
+    "de": "Ich brauche einen ___."
+  },
+  "teach": [
+    { "tr": "Bu benim kalemim.", "en": "This is my pencil.", "es": "Este es mi lápiz.", "pt": "Este é o meu lápis.", "de": "Das ist mein Bleistift." },
+    { "tr": "Bir kitap istiyorum.", "en": "I need a book.", "es": "Necesito un libro.", "pt": "Eu preciso de um livro.", "de": "Ich brauche ein Buch." }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Neye ihtiyacın var?", "en": "What do you need?", "es": "¿Qué necesitas?", "pt": "O que você precisa?", "de": "Was brauchst du?" },
+      "answer": {
+        "tr": "Bir kaleme ihtiyacım var.", "en": "I need a pencil.", "es": "Necesito un lápiz.", "pt": "Eu preciso de um lápis.", "de": "Ich brauche einen Bleistift.",
+        "alts": { "en": ["a pencil", "i need a pencil", "pencil"], "es": ["un lápiz", "necesito un lápiz"], "pt": ["um lápis", "preciso de um lápis"], "de": ["einen bleistift", "bleistift"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Bu ne?", "en": "What is this?", "es": "¿Qué es esto?", "pt": "O que é isto?", "de": "Was ist das?",
+        "alts": { "en": ["what is this", "what's this"], "es": ["qué es esto", "que es esto"], "pt": ["o que é isto", "o que e isto"], "de": ["was ist das"] }
+      },
+      "answer": { "tr": "Bu bir defter.", "en": "This is a notebook.", "es": "Esto es un cuaderno.", "pt": "Isto é um caderno.", "de": "Das ist ein Heft." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "Bir ___ istiyorum.", "en": "I need a ___.", "es": "Necesito un ___.", "pt": "Eu preciso de um ___.", "de": "Ich brauche einen ___." },
+      "hint": { "tr": "Bir okul eşyası söyle (örn: silgi)." },
+      "answer": { "en": "I need an eraser", "es": "Necesito una goma", "pt": "Eu preciso de uma borracha", "de": "Ich brauche einen Radiergummi" },
+      "wordBank": {
+        "en": ["I", "need", "an", "eraser", "a", "ruler"],
+        "es": ["Necesito", "una", "goma", "regla"],
+        "pt": ["Eu", "preciso", "de", "uma", "borracha", "régua"],
+        "de": ["Ich", "brauche", "einen", "Radiergummi", "Lineal"]
+      }
+    }
+  ]
+}

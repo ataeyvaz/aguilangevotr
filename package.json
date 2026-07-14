@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "content": "node scripts/gen-verbs-tr.cjs && node scripts/build-content.cjs && node scripts/build-phrases.cjs",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",

@@ -1,0 +1,50 @@
+{
+  "id": "directions",
+  "title": "Yol Sorma",
+  "emoji": "🧭",
+  "level": "A1",
+  "domain": "travel",
+  "roles": { "child": "Kartal", "bot": "Yerel" },
+  "pattern": {
+    "tr": "___ nerede?",
+    "en": "Where is the ___?",
+    "es": "¿Dónde está el ___?",
+    "pt": "Onde fica o ___?",
+    "de": "Wo ist der ___?"
+  },
+  "teach": [
+    { "tr": "Tuvalet nerede?", "en": "Where is the toilet?", "es": "¿Dónde está el baño?", "pt": "Onde fica o banheiro?", "de": "Wo ist die Toilette?" },
+    { "tr": "Sağa dön.", "en": "Turn right.", "es": "Gira a la derecha.", "pt": "Vire à direita.", "de": "Biege rechts ab." }
+  ],
+  "qa": [
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Park nerede?", "en": "Where is the park?", "es": "¿Dónde está el parque?", "pt": "Onde fica o parque?", "de": "Wo ist der Park?",
+        "alts": { "en": ["where is the park", "where's the park"], "es": ["dónde está el parque", "donde esta el parque"], "pt": ["onde fica o parque"], "de": ["wo ist der park"] }
+      },
+      "answer": { "tr": "Düz git, sonra sola dön.", "en": "Go straight, then turn left.", "es": "Sigue recto, luego gira a la izquierda.", "pt": "Siga em frente, depois vire à esquerda.", "de": "Geh geradeaus, dann links." }
+    },
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Yardıma mı ihtiyacın var?", "en": "Do you need help?", "es": "¿Necesitas ayuda?", "pt": "Você precisa de ajuda?", "de": "Brauchst du Hilfe?" },
+      "answer": {
+        "tr": "Evet, okul nerede?", "en": "Yes, where is the school?", "es": "Sí, ¿dónde está la escuela?", "pt": "Sim, onde fica a escola?", "de": "Ja, wo ist die Schule?",
+        "alts": { "en": ["where is the school", "the school"], "es": ["dónde está la escuela", "la escuela"], "pt": ["onde fica a escola", "a escola"], "de": ["wo ist die schule", "die schule"] }
+      }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "___ nerede?", "en": "Where is the ___?", "es": "¿Dónde está el ___?", "pt": "Onde fica o ___?", "de": "Wo ist der ___?" },
+      "hint": { "tr": "Bir yer sor (örn: hastane)." },
+      "answer": { "en": "Where is the hospital", "es": "Dónde está el hospital", "pt": "Onde fica o hospital", "de": "Wo ist das Krankenhaus" },
+      "wordBank": {
+        "en": ["Where", "is", "the", "hospital", "station"],
+        "es": ["Dónde", "está", "el", "hospital", "estación"],
+        "pt": ["Onde", "fica", "o", "hospital", "estação"],
+        "de": ["Wo", "ist", "das", "Krankenhaus", "der", "Bahnhof"]
+      }
+    }
+  ]
+}

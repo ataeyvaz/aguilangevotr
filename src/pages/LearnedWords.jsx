@@ -1,11 +1,8 @@
 import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
-
-const ALL_CAT_IDS = [
-  'animals','colors','numbers','fruits','vegetables','body','family',
-  'school','food','greetings','questions','clothing','home','transport',
-  'time','jobs','sports','places','adjectives','verbs',
-]
+import { load as loadProgress } from '../core/progressStore'
+import { loadUpToLevel } from '../core/contentStore'
+import { getLang } from '../core/langState'
 
 function getLevel(correct, wrong) {
   if (correct >= 3 && correct > wrong) return 3
@@ -20,26 +17,19 @@ export default function LearnedWords() {
   const [search, setSearch]           = useState('')
 
   useEffect(() => {
-    const lang = (() => {
-      try { return JSON.parse(localStorage.getItem('aguilang_active_lang') || '{"id":"en"}') }
-      catch { return { id: 'en' } }
-    })()
-    const stats = (() => {
-      try { return JSON.parse(localStorage.getItem('aguilang_word_stats') || '{}') }
-      catch { return {} }
-    })()
+    const lang = getLang()
+    const prog = loadProgress().words   // { [id]: {correct_count, wrong_count, status} }
 
-    Promise.all(ALL_CAT_IDS.map(async catId => {
-      try {
-        const m = await import(`../data/${catId}-a1.json`)
-        return m.default.translations?.[lang.id]?.words ?? []
-      } catch { return [] }
-    })).then(arrays => {
+    loadUpToLevel('B2').then(words => {
       const detailMap = {}
-      arrays.flat().forEach(w => { detailMap[w.id] = { word: w.word, tr: w.tr, emoji: w.emoji } })
+      words.forEach(w => { detailMap[w.id] = { word: w[lang] || w.en, tr: w.tr, emoji: w.emoji } })
       const enriched = {}
-      Object.entries(stats).forEach(([id, s]) => {
-        enriched[id] = { ...(detailMap[id] ?? { word: id, tr: '—', emoji: '📝' }), ...s }
+      Object.entries(prog).forEach(([id, s]) => {
+        enriched[id] = {
+          ...(detailMap[id] ?? { word: id, tr: '—', emoji: '📝' }),
+          correct: s.correct_count || 0,
+          wrong:   s.wrong_count || 0,
+        }
       })
       setWordMap(enriched)
       setLoading(false)
@@ -128,10 +118,10 @@ export default function LearnedWords() {
                 fontFamily: "'Plus Jakarta Sans', sans-serif",
                 fontSize: '20px', fontWeight: '800', color: '#0F172A',
               }}>
-                🎯 My Words
+                🎯 Kelimelerim
               </div>
               <div style={{ fontSize: '12px', color: '#94A3B8', marginTop: '1px' }}>
-                {loading ? 'Loading...' : `${total} words tracked`}
+                {loading ? 'Yükleniyor...' : `${total} kelime takip ediliyor`}
               </div>
             </div>
           </div>
@@ -144,7 +134,7 @@ export default function LearnedWords() {
             }}>🔍</span>
             <input
               type="text"
-              placeholder="Search word or translation..."
+              placeholder="Kelime veya çeviri ara..."
               value={search}
               onChange={e => setSearch(e.target.value)}
               style={{
@@ -164,13 +154,13 @@ export default function LearnedWords() {
 
         {loading ? (
           <div style={{ textAlign: 'center', padding: '60px', color: '#94A3B8', fontSize: '15px' }}>
-            Loading words...
+            Kelimeler yükleniyor...
           </div>
         ) : total === 0 ? (
           <div style={{ textAlign: 'center', padding: '60px' }}>
             <div style={{ fontSize: '48px', marginBottom: '16px' }}>📭</div>
             <div style={{ fontSize: '16px', color: '#64748B' }}>
-              No words studied yet.
+              Henüz kelime çalışılmadı.
             </div>
             <button
               onClick={() => navigate('/categories')}
@@ -181,7 +171,7 @@ export default function LearnedWords() {
                 fontSize: '14px', fontWeight: '700', cursor: 'pointer',
               }}
             >
-              Start Learning →
+              Öğrenmeye Başla →
             </button>
           </div>
         ) : (
@@ -192,9 +182,9 @@ export default function LearnedWords() {
               gap: '10px', marginBottom: '24px',
             }}>
               {[
-                { label: '⭐⭐⭐ Mastered',     count: mastered.length, color: '#15803D', bg: '#F0FDF4', border: '#BBF7D0' },
-                { label: '⭐⭐ Learned',        count: learned.length,  color: '#0891B2', bg: '#EFF8FF', border: '#BAE6FD' },
-                { label: '🔄 Needs Review',   count: needWork.length,  color: '#EA580C', bg: '#FFF7ED', border: '#FED7AA' },
+                { label: '⭐⭐⭐ Ustalaşılan',     count: mastered.length, color: '#15803D', bg: '#F0FDF4', border: '#BBF7D0' },
+                { label: '⭐⭐ Öğrenilen',        count: learned.length,  color: '#0891B2', bg: '#EFF8FF', border: '#BAE6FD' },
+                { label: '🔄 Tekrar Gerek',   count: needWork.length,  color: '#EA580C', bg: '#FFF7ED', border: '#FED7AA' },
               ].map((s, i) => (
                 <div key={i} style={{
                   background: s.bg, border: `1px solid ${s.border}`,
@@ -214,13 +204,13 @@ export default function LearnedWords() {
 
             {filtered.length === 0 ? (
               <div style={{ textAlign: 'center', padding: '40px', color: '#94A3B8', fontSize: '14px' }}>
-                No results for "{search}".
+                "{search}" için sonuç yok.
               </div>
             ) : (
               <>
-                <Section label="⭐⭐⭐ Mastered"   color="#15803D" items={mastered} />
-                <Section label="⭐⭐ Learned"      color="#0891B2" items={learned}  />
-                <Section label="🔄 Needs Review" color="#EA580C" items={needWork}  />
+                <Section label="⭐⭐⭐ Ustalaşılan"   color="#15803D" items={mastered} />
+                <Section label="⭐⭐ Öğrenilen"      color="#0891B2" items={learned}  />
+                <Section label="🔄 Tekrar Gerek" color="#EA580C" items={needWork}  />
               </>
             )}
           </>

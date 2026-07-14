@@ -3,28 +3,24 @@ import { useNavigate } from 'react-router-dom'
 import { getDailyStats } from '../hooks/useDailyStats'
 import { useTranslation } from '../i18n/translations'
 import { getConvStats } from '../services/conversationService'
-
-const ALL_CAT_IDS = [
-  'animals','colors','numbers','fruits','vegetables','body','family',
-  'school','food','greetings','questions','clothing','home','transport',
-  'time','jobs','sports','places','adjectives','verbs',
-]
+import { load as loadProgress } from '../core/progressStore'
+import { loadUpToLevel } from '../core/contentStore'
 
 const CAT_LABELS = {
-  animals:'Animals', colors:'Colors', numbers:'Numbers',
-  fruits:'Fruits', vegetables:'Vegetables', body:'Body',
-  family:'Family', school:'School', food:'Food',
-  greetings:'Greetings', questions:'Questions', clothing:'Clothing',
-  home:'Home', transport:'Transport', time:'Time',
-  jobs:'Jobs', sports:'Sports', places:'Places',
-  adjectives:'Adjectives', verbs:'Verbs',
+  animals:'Hayvanlar', colors:'Renkler', numbers:'Sayılar',
+  fruits:'Meyveler', vegetables:'Sebzeler', body:'Vücut',
+  family:'Aile', school:'Okul', food:'Yiyecek',
+  greetings:'Selamlaşma', questions:'Sorular', clothing:'Kıyafet',
+  home:'Ev', transport:'Ulaşım', time:'Zaman',
+  jobs:'Meslekler', sports:'Spor', places:'Yerler',
+  adjectives:'Sıfatlar', verbs:'Fiiller', phrases:'İfadeler',
 }
 
 const CAT_EMOJIS = {
   animals:'🐾', colors:'🎨', numbers:'🔢', fruits:'🍎', vegetables:'🥦',
   body:'🫀', family:'👨‍👩‍👧', school:'🏫', food:'🍽️', greetings:'👋',
   questions:'❓', clothing:'👕', home:'🏠', transport:'🚗', time:'⏰',
-  jobs:'💼', sports:'⚽', places:'📍', adjectives:'📝', verbs:'🏃',
+  jobs:'💼', sports:'⚽', places:'📍', adjectives:'📝', verbs:'🏃', phrases:'💬',
 }
 
 function getLongestStreak(dailyStatsArr) {
@@ -51,10 +47,7 @@ export default function StatsPage() {
   const todayKey   = new Date().toISOString().split('T')[0]
   const maxSeen    = Math.max(...weekStats.map(d => d.seen), 1)
 
-  const wordStats = (() => {
-    try { return JSON.parse(localStorage.getItem('aguilang_word_stats') || '{}') }
-    catch { return {} }
-  })()
+  const wordStats = loadProgress().words   // { [id]: {correct_count, wrong_count, status} }
 
   const allDailyArr = (() => {
     try {
@@ -67,8 +60,8 @@ export default function StatsPage() {
   })()
 
   const totalWords    = Object.keys(wordStats).length
-  const totalCorrect  = Object.values(wordStats).reduce((s, w) => s + (w.correct || 0), 0)
-  const totalWrong    = Object.values(wordStats).reduce((s, w) => s + (w.wrong   || 0), 0)
+  const totalCorrect  = Object.values(wordStats).reduce((s, w) => s + (w.correct_count || 0), 0)
+  const totalWrong    = Object.values(wordStats).reduce((s, w) => s + (w.wrong_count   || 0), 0)
   const totalInteract = totalCorrect + totalWrong
   const successRate   = totalInteract > 0 ? Math.round((totalCorrect / totalInteract) * 100) : 0
   const longestStreak = getLongestStreak(allDailyArr)
@@ -81,22 +74,17 @@ export default function StatsPage() {
   }, [])
 
   useEffect(() => {
-    const lang = (() => {
-      try { return JSON.parse(localStorage.getItem('aguilang_active_lang') || '{"id":"en"}') }
-      catch { return { id: 'en' } }
-    })()
-
-    Promise.all(ALL_CAT_IDS.map(async catId => {
-      try {
-        const m = await import(`../data/${catId}-a1.json`)
-        const words = m.default.translations?.[lang.id]?.words ?? []
-        const wordIds = new Set(words.map(w => w.id))
-        const seen = Object.keys(wordStats).filter(id => wordIds.has(id)).length
-        return { catId, total: words.length, seen }
-      } catch { return { catId, total: 0, seen: 0 } }
-    })).then(results => {
+    const trackedIds = new Set(Object.keys(wordStats))
+    loadUpToLevel('B2').then(words => {
+      const byCat = {}   // catId → { total, seen }
+      for (const w of words) {
+        const c = (byCat[w.category] ||= { total: 0, seen: 0 })
+        c.total++
+        if (trackedIds.has(w.id)) c.seen++
+      }
       setCatProgress(
-        results
+        Object.entries(byCat)
+          .map(([catId, v]) => ({ catId, ...v }))
           .filter(r => r.seen > 0 && r.total > 0)
           .sort((a, b) => (b.seen / b.total) - (a.seen / a.total))
       )
@@ -226,7 +214,7 @@ export default function StatsPage() {
               {[
                 { icon: '🎯', label: 'Sessions', value: convStats.totalSessions },
                 { icon: '💬', label: 'Exchanges', value: convStats.totalExchanges },
-                { icon: '⭐', label: 'Pts', value: convStats.totalScore },
+                { icon: '⭐', label: 'Puan', value: convStats.totalScore },
               ].map((s, i) => (
                 <div key={i} style={{
                   background: '#F8FAFC', borderRadius: '12px',

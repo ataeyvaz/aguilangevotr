@@ -3,41 +3,12 @@ import { useNavigate } from 'react-router-dom'
 import { useApp } from '../context/AppContext'
 import { getTodayStats, getDailyStats } from '../hooks/useDailyStats'
 import { useTranslation } from '../i18n/translations'
+import { loadUpToLevel } from '../core/contentStore'
+import { getStats as coreStats, getHardWords as coreHardWords } from '../core/progressStore'
+import { getLang } from '../core/langState'
+import { TARGET_LANGS } from '../core/languages'
 
 const DAILY_GOAL = 10
-
-// SRS istatistikleri — browser context (localStorage)
-// TODO (Electron/Capacitor): getProgressStats(profileId, pairId) from srsEngine.js
-function getSRSStats() {
-  try {
-    return JSON.parse(localStorage.getItem('aguilang_srs_stats') || 'null') ||
-           { new: 130, learning: 0, review: 0, mastered: 0, todayDue: 0 }
-  } catch {
-    return { new: 130, learning: 0, review: 0, mastered: 0, todayDue: 0 }
-  }
-}
-
-function getHardWords() {
-  try {
-    const stats = JSON.parse(localStorage.getItem('aguilang_word_stats') || '{}')
-    return Object.entries(stats)
-      .filter(([, s]) => s.wrong >= 2 && s.correct <= s.wrong)
-      .map(([id, s]) => ({ id, ...s }))
-      .sort((a, b) => b.wrong - a.wrong)
-      .slice(0, 5)
-  } catch { return [] }
-}
-
-function getLiveStreak() {
-  try {
-    const p = JSON.parse(localStorage.getItem('aguilang_progress_v2') || '{}')
-    const today = new Date().toISOString().split('T')[0]
-    if (!p.lastPlayed) return 0
-    const diff = Math.round((new Date(today) - new Date(p.lastPlayed)) / 86400000)
-    if (diff > 1) return 0
-    return p.streak || 0
-  } catch { return 0 }
-}
 
 function getTodayConvStats() {
   try {
@@ -64,29 +35,38 @@ const LEVEL_COLORS = {
   A2: { bg: 'rgba(139,92,246,0.3)',  text: 'white' },
 }
 
-// pairId → { from, to, label }
-const PAIR_INFO = {
-  1: { label: '🇺🇸 → 🇪🇸', desc: 'EN → ES' },
-  2: { label: '🇺🇸 → 🇧🇷', desc: 'EN → PT' },
-  3: { label: '🇪🇸 → 🇺🇸', desc: 'ES → EN' },
-  4: { label: '🇧🇷 → 🇺🇸', desc: 'PT → EN' },
-}
-
 export default function Dashboard() {
   const navigate                    = useNavigate()
   const { profile, currentPair }    = useApp()
   const { t } = useTranslation()
 
-  const [hardWords, setHardWords] = useState(getHardWords)
-  const [srsStats]                = useState(getSRSStats)
+  // ── Çekirdek: tek ilerleme kaynağı (progressStore) ──
+  const [srsStats, setSrsStats]   = useState({ new: 0, learning: 0, review: 0, mastered: 0, todayDue: 0, xp: 0, streakDays: 0 })
+  const [hardIds, setHardIds]     = useState(() => coreHardWords())
+  const [wordMap, setWordMap]     = useState({})
   const [convToday]               = useState(getTodayConvStats)
-  const [liveStreak]              = useState(getLiveStreak)
+  const lang = getLang()
 
   useEffect(() => {
-    const refresh = () => setHardWords(getHardWords())
+    let alive = true
+    loadUpToLevel('B2').then(words => {
+      if (!alive) return
+      setSrsStats(coreStats(words))
+      setWordMap(Object.fromEntries(words.map(w => [w.id, w])))
+    })
+    const refresh = () => setHardIds(coreHardWords())
     window.addEventListener('wordStatsUpdated', refresh)
-    return () => window.removeEventListener('wordStatsUpdated', refresh)
+    return () => { alive = false; window.removeEventListener('wordStatsUpdated', refresh) }
   }, [])
+
+  // Zor kelimeleri gösterim için içerikle eşle
+  const hardWords = hardIds.map(h => ({
+    id: h.id,
+    wrong: h.wrong_count, correct: h.correct_count,
+    word: wordMap[h.id]?.tr || h.id,
+    target: wordMap[h.id]?.[lang] || '',
+  }))
+  const liveStreak = srsStats.streakDays || 0
 
   const todayStats = getTodayStats()
   const weekStats  = getDailyStats(7).slice(-4)
@@ -147,10 +127,10 @@ export default function Dashboard() {
                   {level}
                 </div>
               )}
-              {/* Pair badge */}
-              {PAIR_INFO[currentPair] && (
+              {/* Dil rozeti — TR → hedef dil (langState) */}
+              {TARGET_LANGS[lang] && (
                 <div
-                  onClick={() => navigate('/setup')}
+                  onClick={() => navigate('/language')}
                   style={{
                     background: 'rgba(255,255,255,0.15)',
                     borderRadius: '20px', padding: '3px 10px',
@@ -158,9 +138,9 @@ export default function Dashboard() {
                     border: '1px solid rgba(255,255,255,0.25)',
                     cursor: 'pointer', letterSpacing: '0.01em',
                   }}
-                  title={PAIR_INFO[currentPair].desc}
+                  title={`Türkçe → ${TARGET_LANGS[lang].native}`}
                 >
-                  {PAIR_INFO[currentPair].label}
+                  🇹🇷 → {TARGET_LANGS[lang].flag}
                 </div>
               )}
             </div>
@@ -211,7 +191,7 @@ export default function Dashboard() {
               fontFamily: "'Plus Jakarta Sans', sans-serif",
               fontSize: '15px', fontWeight: '700', color: '#0F172A',
             }}>
-              🗂️ Vocabulary Progress
+              🗂️ Kelime İlerlemen
             </div>
             {srsStats.todayDue > 0 && (
               <div style={{
@@ -219,7 +199,7 @@ export default function Dashboard() {
                 borderRadius: '20px', padding: '2px 10px',
                 fontSize: '11px', fontWeight: '700',
               }}>
-                {srsStats.todayDue} due today
+                {srsStats.todayDue} bugün
               </div>
             )}
           </div>
@@ -353,9 +333,9 @@ export default function Dashboard() {
             })}
           </div>
           <div style={{ fontSize: '12px', color: '#94A3B8', marginTop: '10px' }}>
-            Today: <strong style={{ color: '#0F172A' }}>{todayStats.seen}</strong> words ·
-            Correct: <strong style={{ color: '#10B981' }}>{todayStats.correct}</strong> ·
-            Wrong: <strong style={{ color: '#EF4444' }}>{todayStats.wrong}</strong>
+            Bugün: <strong style={{ color: '#0F172A' }}>{todayStats.seen}</strong> kelime ·
+            Doğru: <strong style={{ color: '#10B981' }}>{todayStats.correct}</strong> ·
+            Yanlış: <strong style={{ color: '#EF4444' }}>{todayStats.wrong}</strong>
           </div>
         </div>
 
@@ -376,9 +356,9 @@ export default function Dashboard() {
                 <div style={{
                   fontFamily: "'Plus Jakarta Sans', sans-serif",
                   fontSize: '16px', fontWeight: '700', color: '#0F172A',
-                }}>Difficult Words</div>
+                }}>Zor Kelimeler</div>
                 <div style={{ fontSize: '13px', color: '#64748B' }}>
-                  Practice these again
+                  Bunları tekrar çalış
                 </div>
               </div>
             </div>
@@ -392,7 +372,7 @@ export default function Dashboard() {
                   <div style={{
                     fontFamily: "'Plus Jakarta Sans', sans-serif",
                     fontSize: '14px', fontWeight: '700', color: '#9C4600',
-                  }}>{w.id}</div>
+                  }}>{w.word}{w.target ? ` · ${w.target}` : ''}</div>
                   <div style={{ display: 'flex', gap: '12px' }}>
                     <span style={{ fontSize: '12px', color: '#EF4444', fontWeight: '600' }}>❌ {w.wrong}</span>
                     <span style={{ fontSize: '12px', color: '#10B981', fontWeight: '600' }}>✅ {w.correct}</span>
@@ -410,7 +390,7 @@ export default function Dashboard() {
                 fontSize: '14px', fontWeight: '700', cursor: 'pointer',
               }}
             >
-              🔄 Review These Words
+              🔄 Bu Kelimeleri Tekrar Et
             </button>
           </div>
         )}
@@ -429,13 +409,13 @@ export default function Dashboard() {
               fontFamily: "'Plus Jakarta Sans', sans-serif",
               fontSize: '14px', fontWeight: '700', color: '#0F172A', marginBottom: '12px',
             }}>
-              💬 Today's Conversation
+              💬 Bugünkü Sohbet
             </div>
             <div style={{ display: 'flex', gap: '12px' }}>
               {[
-                { icon: '🎯', label: 'Sessions', value: convToday.count },
-                { icon: '💬', label: 'Exchanges', value: convToday.exchanges },
-                { icon: '⭐', label: 'Points', value: convToday.totalScore },
+                { icon: '🎯', label: 'Oturum', value: convToday.count },
+                { icon: '💬', label: 'Değişim', value: convToday.exchanges },
+                { icon: '⭐', label: 'Puan', value: convToday.totalScore },
               ].map((s, i) => (
                 <div key={i} style={{
                   flex: 1, background: '#F8FAFC', borderRadius: '12px',

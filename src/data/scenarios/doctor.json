@@ -1,0 +1,50 @@
+{
+  "id": "doctor",
+  "title": "Doktorda",
+  "emoji": "🩺",
+  "level": "A2",
+  "domain": "health",
+  "roles": { "child": "Kartal", "bot": "Doktor" },
+  "pattern": {
+    "tr": "___ ağrıyor.",
+    "en": "My ___ hurts.",
+    "es": "Me duele el ___.",
+    "pt": "O meu ___ dói.",
+    "de": "Mein ___ tut weh."
+  },
+  "teach": [
+    { "tr": "Başım ağrıyor.", "en": "My head hurts.", "es": "Me duele la cabeza.", "pt": "A minha cabeça dói.", "de": "Mein Kopf tut weh." },
+    { "tr": "Kendimi iyi hissetmiyorum.", "en": "I don't feel well.", "es": "No me siento bien.", "pt": "Não me sinto bem.", "de": "Ich fühle mich nicht gut." }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Neyin var?", "en": "What is wrong?", "es": "¿Qué te pasa?", "pt": "O que há de errado?", "de": "Was ist los?" },
+      "answer": {
+        "tr": "Boğazım ağrıyor.", "en": "My throat hurts.", "es": "Me duele la garganta.", "pt": "A minha garganta dói.", "de": "Mein Hals tut weh.",
+        "alts": { "en": ["my throat hurts", "throat hurts", "my throat"], "es": ["me duele la garganta", "la garganta"], "pt": ["a minha garganta dói", "minha garganta"], "de": ["mein hals tut weh", "mein hals"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "İlaç var mı?", "en": "Do you have medicine?", "es": "¿Tiene medicina?", "pt": "Você tem remédio?", "de": "Haben Sie Medizin?",
+        "alts": { "en": ["do you have medicine", "medicine"], "es": ["tiene medicina", "medicina"], "pt": ["você tem remédio", "remédio"], "de": ["haben sie medizin", "medizin"] }
+      },
+      "answer": { "tr": "Evet, bu ilacı iç.", "en": "Yes, take this medicine.", "es": "Sí, toma esta medicina.", "pt": "Sim, tome este remédio.", "de": "Ja, nimm diese Medizin." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "___ ağrıyor.", "en": "My ___ hurts.", "es": "Me duele el ___.", "pt": "O meu ___ dói.", "de": "Mein ___ tut weh." },
+      "hint": { "tr": "Bir vücut bölümü söyle (örn: karnım)." },
+      "answer": { "en": "My stomach hurts", "es": "Me duele el estómago", "pt": "O meu estômago dói", "de": "Mein Bauch tut weh" },
+      "wordBank": {
+        "en": ["My", "stomach", "hurts", "tooth"],
+        "es": ["Me", "duele", "el", "estómago", "diente"],
+        "pt": ["O", "meu", "estômago", "dói", "dente"],
+        "de": ["Mein", "Bauch", "tut", "weh", "Zahn"]
+      }
+    }
+  ]
+}

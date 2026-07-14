@@ -188,6 +188,29 @@ AguiLangEvo ile aynı şema — sadece:
 
 ---
 
+## 🧩 ÇEKİRDEK MİMARİ (src/core) — Yeni Standart
+
+> Temmuz 2026'da "temiz çekirdek" refaktörü başladı. **Yeni kod bu modülleri kullanır**,
+> eski dağınık yollar (useWordStore, studyService, categories.js, doğrudan JSON import,
+> AppContext pair mantığı) kademeli olarak bunlarla değiştirilir.
+
+| Modül | Görev | Değiştirdiği eski yapı |
+|---|---|---|
+| `core/levels.js` | CEFR A1–C2 tanımları | dataSchema LEVELS (A1–C1) |
+| `core/languages.js` | TR kaynak + EN/ES/PT/DE hedef | "pair" (sayısal çift) mantığı |
+| `core/contentStore.js` | TEK kelime yükleyici + sorgu | useWordStore, oxford, categories.js |
+| `core/langState.js` | TEK aktif dil (`aguilang_lang`) | active_pair / active_lang / lang_settings |
+| `core/progressStore.js` | TEK ilerleme (`aguilang_progress`, SM-2+XP) | srs_progress / aguilangevo_progress / word_stats |
+| `core/quizEngine.js` | mcq/written/audio üretimi | QuizScreen içi phase mantığı |
+| `core/chatEngine.js` | senaryo/serbest chatbot motoru | ChatBot içi mantık |
+
+**İçerik konumu:** `src/content/words/{A1..C2}.json` (düz 5-dilli şema).
+Derleyici: `node scripts/build-content.cjs` (eski `src/data/*-a1.json` → birleşik).
+Şu an: A1.json = 454 kelime. `_gaps.json` = 130 fiil (TR karşılığı eksik, doldurulacak).
+
+**Göç (migration):** progressStore ve langState ilk açılışta eski localStorage
+anahtarlarından veriyi otomatik taşır — kullanıcı ilerlemesi KORUNUR.
+
 ## 🚀 KOMUTLAR
 ```powershell
 cd C:\Users\Ata\Desktop\aguilangevotr

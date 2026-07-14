@@ -1,0 +1,50 @@
+{
+  "id": "airport",
+  "title": "Havaalanında",
+  "emoji": "🛫",
+  "level": "A2",
+  "domain": "travel",
+  "roles": { "child": "Kartal", "bot": "Görevli" },
+  "pattern": {
+    "tr": "___ nerede?",
+    "en": "Where is the ___?",
+    "es": "¿Dónde está la ___?",
+    "pt": "Onde fica o ___?",
+    "de": "Wo ist das ___?"
+  },
+  "teach": [
+    { "tr": "Biletim burada.", "en": "Here is my ticket.", "es": "Aquí está mi billete.", "pt": "Aqui está o meu bilhete.", "de": "Hier ist mein Ticket." },
+    { "tr": "Kapı nerede?", "en": "Where is the gate?", "es": "¿Dónde está la puerta?", "pt": "Onde fica o portão?", "de": "Wo ist das Gate?" }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Biletiniz var mı?", "en": "Do you have your ticket?", "es": "¿Tiene su billete?", "pt": "Você tem o seu bilhete?", "de": "Haben Sie Ihr Ticket?" },
+      "answer": {
+        "tr": "Evet, biletim burada.", "en": "Yes, here is my ticket.", "es": "Sí, aquí está mi billete.", "pt": "Sim, aqui está o meu bilhete.", "de": "Ja, hier ist mein Ticket.",
+        "alts": { "en": ["here is my ticket", "my ticket", "yes here it is"], "es": ["aquí está mi billete", "mi billete"], "pt": ["aqui está o meu bilhete", "meu bilhete"], "de": ["hier ist mein ticket", "mein ticket"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Kapı nerede?", "en": "Where is the gate?", "es": "¿Dónde está la puerta?", "pt": "Onde fica o portão?", "de": "Wo ist das Gate?",
+        "alts": { "en": ["where is the gate", "the gate"], "es": ["dónde está la puerta", "la puerta"], "pt": ["onde fica o portão", "o portão"], "de": ["wo ist das gate", "das gate"] }
+      },
+      "answer": { "tr": "Kapı beş, sağda.", "en": "Gate five, on the right.", "es": "Puerta cinco, a la derecha.", "pt": "Portão cinco, à direita.", "de": "Gate fünf, rechts." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "___ nerede?", "en": "Where is the ___?", "es": "¿Dónde está la ___?", "pt": "Onde fica o ___?", "de": "Wo ist das ___?" },
+      "hint": { "tr": "Havaalanında bir yer sor (örn: bagaj)." },
+      "answer": { "en": "Where is the baggage", "es": "Dónde está el equipaje", "pt": "Onde fica a bagagem", "de": "Wo ist das Gepäck" },
+      "wordBank": {
+        "en": ["Where", "is", "the", "baggage", "exit"],
+        "es": ["Dónde", "está", "el", "equipaje", "la", "salida"],
+        "pt": ["Onde", "fica", "a", "bagagem", "saída"],
+        "de": ["Wo", "ist", "das", "Gepäck", "der", "Ausgang"]
+      }
+    }
+  ]
+}

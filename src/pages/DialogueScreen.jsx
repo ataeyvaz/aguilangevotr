@@ -3,12 +3,12 @@ import { useNavigate } from 'react-router-dom'
 import { useSpeech } from '../hooks/useSpeech'
 
 const DIALOGUES_META = [
-  { id: 'home',       title: 'Home Conversation',    emoji: '🏠', lines: 10 },
-  { id: 'market',     title: 'Market Shopping',      emoji: '🛒', lines: 10 },
-  { id: 'park',       title: 'Park Games',          emoji: '🌳', lines: 10 },
-  { id: 'restaurant', title: 'Restaurant Order',    emoji: '🍽️', lines: 10 },
-  { id: 'school',     title: 'School Introduction',  emoji: '🏫', lines: 10 },
-  { id: 'travel',     title: 'Travel Questions',   emoji: '🗺️', lines: 10 },
+  { id: 'home',       title: 'Evde Konuşma',       emoji: '🏠', lines: 10 },
+  { id: 'market',     title: 'Markette',           emoji: '🛒', lines: 10 },
+  { id: 'park',       title: 'Parkta Oyun',        emoji: '🌳', lines: 10 },
+  { id: 'restaurant', title: 'Restoranda Sipariş', emoji: '🍽️', lines: 10 },
+  { id: 'school',     title: 'Okulda Tanışma',     emoji: '🏫', lines: 10 },
+  { id: 'travel',     title: 'Seyahat Soruları',   emoji: '🗺️', lines: 10 },
 ]
 
 export default function DialogueScreen() {
@@ -104,14 +104,14 @@ export default function DialogueScreen() {
               fontFamily: "'Plus Jakarta Sans', sans-serif",
               fontSize: '20px', fontWeight: '800', color: '#0F172A',
             }}>
-              🎮 Dialogues
+              🎮 Diyaloglar
             </div>
           </div>
         </div>
 
         <div style={{ maxWidth: '600px', margin: '0 auto', padding: '20px 24px 40px' }}>
           <p style={{ fontSize: '14px', color: '#64748B', marginBottom: '20px' }}>
-            Select a dialogue and practice speaking!
+            Bir diyalog seç ve konuşarak pratik yap!
           </p>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
             {DIALOGUES_META.map(d => (
@@ -142,7 +142,7 @@ export default function DialogueScreen() {
                     fontSize: '16px', fontWeight: '700', color: '#0F172A',
                   }}>{d.title}</div>
                   <div style={{ fontSize: '13px', color: '#94A3B8', marginTop: '3px' }}>
-                    {d.lines} lines
+                    {d.lines} replik
                   </div>
                 </div>
                 <div style={{
@@ -171,7 +171,7 @@ export default function DialogueScreen() {
         flexDirection: 'column', gap: '12px', fontFamily: 'Inter, sans-serif',
       }}>
         <div style={{ fontSize: '32px' }}>⏳</div>
-        <div style={{ fontSize: '14px', color: '#94A3B8' }}>Loading...</div>
+        <div style={{ fontSize: '14px', color: '#94A3B8' }}>Yükleniyor...</div>
       </div>
     )
   }
@@ -194,18 +194,18 @@ export default function DialogueScreen() {
           fontFamily: "'Plus Jakarta Sans', sans-serif",
           fontSize: '26px', fontWeight: '800', color: '#0F172A',
         }}>
-          Great job!
+          Harika iş!
         </div>
         <div style={{ fontSize: '15px', color: '#64748B', maxWidth: '320px', lineHeight: '1.7' }}>
-          <strong>{meta?.emoji} {meta?.title}</strong> dialogue completed.
-          <br />{dialogue.lines.length} lines spoken! 💬
+          <strong>{meta?.emoji} {meta?.title}</strong> diyaloğu tamamlandı.
+          <br />{dialogue.lines.length} replik konuşuldu! 💬
         </div>
         <div style={{
           background: '#FEF3C7', border: '1px solid #FDE68A',
           borderRadius: '16px', padding: '16px 28px',
           fontSize: '14px', color: '#92400E', fontWeight: '600',
         }}>
-          ⭐ Congratulations, {childRole}! Your language practice is improving.
+          ⭐ Tebrikler {childRole}! Konuşma pratiğin gelişiyor.
         </div>
         <button
           onClick={handleBack}
@@ -217,7 +217,7 @@ export default function DialogueScreen() {
             marginTop: '8px',
           }}
         >
-          🔙 Back to List
+          🔙 Listeye Dön
         </button>
       </div>
     )
@@ -356,7 +356,7 @@ export default function DialogueScreen() {
                       fontSize: '13px', color: '#94A3B8',
                       fontStyle: 'italic', lineHeight: '1.5',
                     }}>
-                      {line.translation}
+                      {line.tr}
                     </div>
                     {line.hint && (
                       <div style={{ fontSize: '11px', color: '#CBD5E1', marginTop: '2px' }}>
@@ -373,7 +373,7 @@ export default function DialogueScreen() {
                       fontSize: '13px', color: '#94A3B8',
                       fontStyle: 'italic', lineHeight: '1.5',
                     }}>
-                      {line.translation}
+                      {line.tr}
                     </div>
                   </div>
                 )}
@@ -406,7 +406,7 @@ export default function DialogueScreen() {
                   transition: 'all 0.15s',
                 }}
               >
-                {isSpeaking ? '🔴 Listening...' : '🎤 Say it'}
+                {isSpeaking ? '🔴 Dinleniyor...' : '🎤 Söyle'}
               </button>
               <button
                 onClick={advanceLine}
@@ -418,7 +418,7 @@ export default function DialogueScreen() {
                   fontFamily: "'Plus Jakarta Sans', sans-serif",
                 }}
               >
-                I Said It ✓
+                Söyledim ✓
               </button>
             </div>
           ) : (
@@ -428,7 +428,7 @@ export default function DialogueScreen() {
               fontSize: '14px', color: '#94A3B8', fontWeight: '600',
             }}>
               <span style={{ fontSize: '18px' }}>🔊</span>
-              {currentLine?.speaker} is speaking...
+              {currentLine?.speaker} konuşuyor...
             </div>
           )}
         </div>

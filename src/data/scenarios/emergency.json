@@ -1,0 +1,50 @@
+{
+  "id": "emergency",
+  "title": "Acil Durum",
+  "emoji": "🚨",
+  "level": "A2",
+  "domain": "daily",
+  "roles": { "child": "Kartal", "bot": "Görevli" },
+  "pattern": {
+    "tr": "Yardım edin, ___!",
+    "en": "Help, ___!",
+    "es": "¡Ayuda, ___!",
+    "pt": "Socorro, ___!",
+    "de": "Hilfe, ___!"
+  },
+  "teach": [
+    { "tr": "Yardım edin!", "en": "Help!", "es": "¡Ayuda!", "pt": "Socorro!", "de": "Hilfe!" },
+    { "tr": "Kayboldum.", "en": "I am lost.", "es": "Estoy perdido.", "pt": "Estou perdido.", "de": "Ich habe mich verlaufen." }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Ne oldu?", "en": "What happened?", "es": "¿Qué pasó?", "pt": "O que aconteceu?", "de": "Was ist passiert?" },
+      "answer": {
+        "tr": "Kayboldum, yardım edin.", "en": "I am lost, help me.", "es": "Estoy perdido, ayúdame.", "pt": "Estou perdido, me ajude.", "de": "Ich habe mich verlaufen, hilf mir.",
+        "alts": { "en": ["i am lost", "i'm lost", "help me", "lost"], "es": ["estoy perdido", "ayúdame"], "pt": ["estou perdido", "me ajude"], "de": ["ich habe mich verlaufen", "hilf mir"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Anneni gördün mü?", "en": "Have you seen my mother?", "es": "¿Has visto a mi madre?", "pt": "Você viu a minha mãe?", "de": "Hast du meine Mutter gesehen?",
+        "alts": { "en": ["have you seen my mother", "my mother"], "es": ["has visto a mi madre", "mi madre"], "pt": ["você viu a minha mãe", "minha mãe"], "de": ["hast du meine mutter gesehen", "meine mutter"] }
+      },
+      "answer": { "tr": "Merak etme, onu bulalım.", "en": "Don't worry, let's find her.", "es": "No te preocupes, vamos a encontrarla.", "pt": "Não se preocupe, vamos encontrá-la.", "de": "Keine Sorge, wir finden sie." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "___ arayın, lütfen!", "en": "Please call the ___!", "es": "¡Llame a la ___, por favor!", "pt": "Por favor, chame a ___!", "de": "Bitte rufen Sie die ___!" },
+      "hint": { "tr": "Bir acil servis söyle (örn: polis)." },
+      "answer": { "en": "Please call the police", "es": "Llame a la policía por favor", "pt": "Por favor chame a polícia", "de": "Bitte rufen Sie die Polizei" },
+      "wordBank": {
+        "en": ["Please", "call", "the", "police", "doctor"],
+        "es": ["Llame", "a", "la", "policía", "por", "favor", "médico"],
+        "pt": ["Por", "favor", "chame", "a", "polícia", "médico"],
+        "de": ["Bitte", "rufen", "Sie", "die", "Polizei", "den", "Arzt"]
+      }
+    }
+  ]
+}

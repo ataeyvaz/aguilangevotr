@@ -103,32 +103,27 @@ export default function LearnHub() {
           <div style={{ fontSize: '22px', color: '#F59E0B', flexShrink: 0 }}>›</div>
         </button>
 
-        {/* Hızlı linkler */}
-        <div style={{ display: 'flex', gap: '10px', marginTop: '4px' }}>
-          <button
-            onClick={() => navigate('/dialogue')}
-            style={{
-              flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '8px',
-              background: 'white', border: '1.5px solid #E2E8F0', borderRadius: '14px',
-              padding: '16px 12px', cursor: 'pointer',
-            }}
-          >
-            <span style={{ fontSize: '24px' }}>💬</span>
-            <div style={{ fontFamily: "'Plus Jakarta Sans', sans-serif", fontSize: '13px', fontWeight: '700', color: '#0F172A' }}>{t('dialogues')}</div>
-            <div style={{ fontSize: '11px', color: '#94A3B8' }}>{t('conversation scenarios')}</div>
-          </button>
-          <button
-            onClick={() => navigate('/quiz')}
-            style={{
-              flex: 1, display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '8px',
-              background: 'white', border: '1.5px solid #E2E8F0', borderRadius: '14px',
-              padding: '16px 12px', cursor: 'pointer',
-            }}
-          >
-            <span style={{ fontSize: '24px' }}>🎯</span>
-            <div style={{ fontFamily: "'Plus Jakarta Sans', sans-serif", fontSize: '13px', fontWeight: '700', color: '#0F172A' }}>{t('quiz')}</div>
-            <div style={{ fontSize: '11px', color: '#94A3B8' }}>{t('test your knowledge')}</div>
-          </button>
+        {/* Hızlı linkler — 2x2 */}
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px', marginTop: '4px' }}>
+          {[
+            { to: '/scenarios', emoji: '🎬', title: 'Senaryolar',  sub: 'Rol değişimli pratik' },
+            { to: '/chatbot',   emoji: '🤖', title: 'Sohbet',      sub: 'Seç · Yaz · Konuş' },
+            { to: '/dialogue',  emoji: '💬', title: t('dialogues'), sub: t('conversation scenarios') },
+            { to: '/quiz',      emoji: '🎯', title: t('quiz'),      sub: t('test your knowledge') },
+          ].map(c => (
+            <button key={c.to}
+              onClick={() => navigate(c.to)}
+              style={{
+                display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '8px',
+                background: 'white', border: '1.5px solid #E2E8F0', borderRadius: '14px',
+                padding: '16px 12px', cursor: 'pointer',
+              }}
+            >
+              <span style={{ fontSize: '24px' }}>{c.emoji}</span>
+              <div style={{ fontFamily: "'Plus Jakarta Sans', sans-serif", fontSize: '13px', fontWeight: '700', color: '#0F172A' }}>{c.title}</div>
+              <div style={{ fontSize: '11px', color: '#94A3B8', textAlign: 'center' }}>{c.sub}</div>
+            </button>
+          ))}
         </div>
       </div>
     </div>

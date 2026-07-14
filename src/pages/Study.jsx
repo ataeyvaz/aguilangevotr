@@ -1,10 +1,9 @@
 import { useState, useMemo, useCallback, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { useApp } from '../context/AppContext'
 import { useTranslation } from '../i18n/translations'
-import trA1Data from '../data/words-tr-a1.json'
-
-const PAIR_LANG = { 1: 'es', 2: 'pt', 3: 'en', 4: 'en', 5: 'en', 6: 'es', 7: 'pt', 8: 'de' }
+import { loadUpToLevel } from '../core/contentStore'
+import { getDue, recordAnswer as coreRecord, getStats as coreStats } from '../core/progressStore'
+import { useLang } from '../core/langState'
 
 const CATEGORIES = [
   'all', 'food', 'animals', 'colors', 'numbers',
@@ -39,53 +38,82 @@ function audioFilename(text) {
   return (text || '').trim().toLowerCase().replace(/\s+/g, '_')
 }
 
-function playAudio(path) {
+const SPEECH_LANGS = { tr: 'tr-TR', en: 'en-GB', es: 'es-ES', pt: 'pt-BR', de: 'de-DE' }
+
+// MP3 yoksa tarayıcı TTS'i ile seslendir (yedek)
+function speakTTS(text, lang) {
+  if (!text || typeof window === 'undefined' || !window.speechSynthesis) return
+  const u = new SpeechSynthesisUtterance(text)
+  u.lang = SPEECH_LANGS[lang] || 'en-GB'
+  u.rate = 0.85
+  const pick = () => {
+    const voices = window.speechSynthesis.getVoices()
+    const v = voices.find(x => x.lang.startsWith(u.lang.split('-')[0]))
+    if (v) u.voice = v
+    window.speechSynthesis.speak(u)
+  }
+  window.speechSynthesis.cancel()
+  if (window.speechSynthesis.getVoices().length) pick()
+  else window.speechSynthesis.onvoiceschanged = pick
+}
+
+// Önce MP3 dener; bulunamazsa TTS yedeğine düşer
+function playAudio(path, text, lang) {
   if (import.meta.env.DEV) console.log('[Audio] oynatılıyor:', path)
+  let fellBack = false
+  const fallback = () => {
+    if (fellBack) return
+    fellBack = true
+    if (import.meta.env.DEV) console.warn('[Audio] MP3 yok → TTS:', text, lang)
+    speakTTS(text, lang)
+  }
   try {
     const a = new Audio(path)
-    a.onerror = () => {
-      if (import.meta.env.DEV) console.warn('[Audio] dosya bulunamadı:', path)
-    }
-    a.play().catch(() => {})
-  } catch (_) {}
+    a.onerror = fallback
+    a.play().catch(fallback)
+  } catch (_) { fallback() }
 }
 
 // ─────────────────────────────────────────────────────────
 export default function Study() {
   const navigate = useNavigate()
-  const { currentPair, getStudyWords, recordAnswer, getStats } = useApp()
+  const [targetLang] = useLang()
   const { t } = useTranslation()
 
-  const targetLang = PAIR_LANG[currentPair] ?? 'en'
-
+  const [allWords, setAllWords] = useState([])
   const [selectedCategory, setSelectedCategory] = useState('all')
   const [phase,   setPhase]   = useState('front')
   const [idx,     setIdx]     = useState(0)
   const [answers, setAnswers] = useState([])
   const [stats,   setStats]   = useState(null)
 
+  // Çekirdek: A1 kelimelerini tek kaynaktan yükle
+  useEffect(() => {
+    loadUpToLevel('B2').then(setAllWords)
+  }, [])
+
   const filteredWords = useMemo(() => {
     const base = selectedCategory === 'all'
-      ? trA1Data
-      : trA1Data.filter(w => w.category === selectedCategory)
+      ? allWords
+      : allWords.filter(w => w.category === selectedCategory)
     return base.map(w => ({ ...w, word: w.tr, translation: w[targetLang] ?? '—' }))
-  }, [selectedCategory, targetLang])
+  }, [allWords, selectedCategory, targetLang])
 
   const sessionWords = useMemo(
-    () => getStudyWords(filteredWords, targetLang, 10),
+    () => getDue(filteredWords, 10),
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    [selectedCategory, targetLang]
+    [allWords, selectedCategory, targetLang]
   )
   const TOTAL = sessionWords.length
 
-  // Kategori veya dil değişince oturumu sıfırla
+  // Kategori/dil değişince veya kelimeler yüklenince oturumu sıfırla
   useEffect(() => {
     setIdx(0)
     setAnswers([])
     setStats(null)
-    setPhase(sessionWords.length === 0 ? 'empty' : 'front')
+    setPhase(allWords.length === 0 ? 'empty' : sessionWords.length === 0 ? 'empty' : 'front')
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [selectedCategory, targetLang])
+  }, [selectedCategory, targetLang, allWords])
 
   const word        = sessionWords[idx] ?? null
   const progressPct = TOTAL > 0 ? Math.round((idx / TOTAL) * 100) : 0
@@ -100,23 +128,23 @@ export default function Study() {
           translation: word[targetLang],
         })
       }
-      playAudio(`/audio/tr/${audioFilename(word.tr)}.mp3`)
+      playAudio(`/audio/tr/${audioFilename(word.tr)}.mp3`, word.tr, 'tr')
     }
   }, [phase, idx, word, targetLang])
 
   const handleAnswer = useCallback((isCorrect, quality) => {
     if (!word) return
-    const srs = recordAnswer(word.id, isCorrect, quality)
+    const srs = coreRecord(word.id, isCorrect, quality)
     const next = [...answers, { word: word.tr, isCorrect, wasNewMastered: srs.status === 'mastered' }]
     setAnswers(next)
     if (idx + 1 < TOTAL) {
       setIdx(i => i + 1)
       setPhase('front')
     } else {
-      setStats(getStats(filteredWords))
+      setStats(coreStats(filteredWords))
       setPhase('summary')
     }
-  }, [word, answers, idx, TOTAL, recordAnswer, getStats, filteredWords])
+  }, [word, answers, idx, TOTAL, filteredWords])
 
   // ── Kategori filtresi ──────────────────────────────────
   const CategoryBar = () => (
@@ -348,7 +376,8 @@ export default function Study() {
                 <button
                   onClick={e => {
                     e.stopPropagation()
-                    word && playAudio(`/audio/${targetLang}/${audioFilename(word[targetLang])}.mp3`)
+                    // mp3 varsa çalar, yoksa TTS'e düşer (EN dosyaları eksik olsa bile ses gelir)
+                    word && playAudio(`/audio/${targetLang}/${audioFilename(word[targetLang])}.mp3`, word[targetLang], targetLang)
                   }}
                   className="w-12 h-12 rounded-full bg-teal-500 hover:bg-teal-600
                              flex items-center justify-center text-xl text-white

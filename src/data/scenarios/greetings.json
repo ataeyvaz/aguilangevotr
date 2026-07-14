@@ -1,0 +1,50 @@
+{
+  "id": "greetings",
+  "title": "Tanışma & Selam",
+  "emoji": "🙋",
+  "level": "A1",
+  "domain": "social",
+  "roles": { "child": "Kartal", "bot": "Yeni Arkadaş" },
+  "pattern": {
+    "tr": "Benim adım ___.",
+    "en": "My name is ___.",
+    "es": "Me llamo ___.",
+    "pt": "Meu nome é ___.",
+    "de": "Ich heiße ___."
+  },
+  "teach": [
+    { "tr": "Merhaba, benim adım Kartal.", "en": "Hello, my name is Kartal.", "es": "Hola, me llamo Kartal.", "pt": "Olá, meu nome é Kartal.", "de": "Hallo, ich heiße Kartal." },
+    { "tr": "Nasılsın?", "en": "How are you?", "es": "¿Cómo estás?", "pt": "Como você está?", "de": "Wie geht es dir?" }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Merhaba! Adın ne?", "en": "Hello! What is your name?", "es": "¡Hola! ¿Cómo te llamas?", "pt": "Olá! Qual é o seu nome?", "de": "Hallo! Wie heißt du?" },
+      "answer": {
+        "tr": "Benim adım Kartal.", "en": "My name is Kartal.", "es": "Me llamo Kartal.", "pt": "Meu nome é Kartal.", "de": "Ich heiße Kartal.",
+        "alts": { "en": ["my name is kartal", "i am kartal", "i'm kartal"], "es": ["me llamo kartal", "soy kartal"], "pt": ["meu nome é kartal", "eu sou kartal"], "de": ["ich heiße kartal", "ich bin kartal"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Nasılsın?", "en": "How are you?", "es": "¿Cómo estás?", "pt": "Como você está?", "de": "Wie geht es dir?",
+        "alts": { "en": ["how are you"], "es": ["cómo estás", "como estas"], "pt": ["como você está", "como voce esta"], "de": ["wie geht es dir"] }
+      },
+      "answer": { "tr": "İyiyim, teşekkürler!", "en": "I am fine, thank you!", "es": "Estoy bien, ¡gracias!", "pt": "Estou bem, obrigado!", "de": "Mir geht es gut, danke!" }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "Benim adım ___ ve ___ yaşındayım.", "en": "My name is ___ and I am ___.", "es": "Me llamo ___ y tengo ___ años.", "pt": "Meu nome é ___ e tenho ___ anos.", "de": "Ich heiße ___ und ich bin ___ Jahre alt." },
+      "hint": { "tr": "Adını ve yaşını söyle." },
+      "answer": { "en": "My name is Kartal and I am seven", "es": "Me llamo Kartal y tengo siete años", "pt": "Meu nome é Kartal e tenho sete anos", "de": "Ich heiße Kartal und ich bin sieben Jahre alt" },
+      "wordBank": {
+        "en": ["My", "name", "is", "Kartal", "and", "I", "am", "seven"],
+        "es": ["Me", "llamo", "Kartal", "y", "tengo", "siete", "años"],
+        "pt": ["Meu", "nome", "é", "Kartal", "e", "tenho", "sete", "anos"],
+        "de": ["Ich", "heiße", "Kartal", "und", "bin", "sieben", "Jahre", "alt"]
+      }
+    }
+  ]
+}

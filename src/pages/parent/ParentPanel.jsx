@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useParentControls, ENERGY_PRESETS, readSpeechQuiz } from '../../hooks/useParentControls'
 import { useTranslation } from '../../i18n/translations'
+import { resetProgress, load as loadProgress } from '../../core/progressStore'
 
 // ── Constants ─────────────────────────────────────────────────────
 
@@ -205,9 +206,15 @@ export default function ParentPanel() {
     catch { return null }
   })()
 
+  // Çekirdek ilerlemeden türet (seen = correct + wrong)
   const wordStats = (() => {
-    try { return JSON.parse(localStorage.getItem('aguilang_word_stats') || '{}') }
-    catch { return {} }
+    const words = loadProgress().words
+    const out = {}
+    for (const [id, s] of Object.entries(words)) {
+      const correct = s.correct_count || 0, wrong = s.wrong_count || 0
+      out[id] = { seen: correct + wrong, correct, wrong }
+    }
+    return out
   })()
 
   const hardWords = Object.entries(wordStats)
@@ -260,7 +267,7 @@ export default function ParentPanel() {
         <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px', marginBottom: '16px' }}>
           {[
             { label: 'Total Seen', value: totalSeen },
-            { label: 'Correct',    value: totalCorrect },
+            { label: 'Doğru',    value: totalCorrect },
             { label: 'Difficult',  value: hardWords.length },
           ].map((s, i) => (
             <div key={i} style={{
@@ -720,7 +727,7 @@ export default function ParentPanel() {
             </div>
             <div style={{ display: 'flex', gap: '8px' }}>
               <button onClick={() => setResetStep({})} style={{ flex: 1, padding: '9px', background: '#F1F5F9', border: 'none', borderRadius: '8px', cursor: 'pointer', fontWeight: '600', color: '#475569' }}>Cancel</button>
-              <button onClick={() => { localStorage.setItem('aguilang_word_stats', '{}'); recordReset('Quiz statistics') }} style={{ flex: 1, padding: '9px', background: '#EF4444', border: 'none', borderRadius: '8px', cursor: 'pointer', fontWeight: '700', color: 'white' }}>Yes, Delete</button>
+              <button onClick={() => { localStorage.setItem('aguilang_word_stats', '{}'); resetProgress(); recordReset('Quiz statistics') }} style={{ flex: 1, padding: '9px', background: '#EF4444', border: 'none', borderRadius: '8px', cursor: 'pointer', fontWeight: '700', color: 'white' }}>Yes, Delete</button>
             </div>
           </div>
         )}
@@ -812,6 +819,9 @@ export default function ParentPanel() {
                   localStorage.setItem('aguilang_daily_stats', '{}')
                   localStorage.removeItem('aguilang_active_category')
                   localStorage.removeItem('aguilang_active_lang')
+                  resetProgress()                                    // çekirdek ilerleme
+                  localStorage.removeItem('aguilang_srs_progress')   // eski depolar
+                  localStorage.removeItem('aguilangevo_progress')
                   recordReset('All progress')
                 }}
                 style={{ flex: 1, padding: '9px', background: '#EF4444', border: 'none', borderRadius: '8px', cursor: 'pointer', fontWeight: '700', color: 'white' }}

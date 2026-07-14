@@ -7,7 +7,6 @@ import LanguageSelect from '../pages/LanguageSelect'
 import CategorySelect from '../pages/CategorySelect'
 import FlashCards     from '../pages/FlashCards'
 import Dashboard      from '../pages/Dashboard'
-import QuizScreen     from '../pages/QuizScreen'
 import ParentGate     from '../pages/parent/ParentGate'
 import ParentPanel    from '../pages/parent/ParentPanel'
 import LearnedWords   from '../pages/LearnedWords'
@@ -25,6 +24,8 @@ import Study          from '../pages/Study'
 import Practice       from '../pages/Practice'
 import ChatBot        from '../pages/ChatBot'
 import ScenariosPage from '../pages/ScenariosPage'
+import ScenarioRunner from '../pages/ScenarioRunner'
+import QuizCore from '../pages/QuizCore'
 
 // ── Akıllı yönlendirme (root "/") ────────────────────────
 function SmartRoot() {
@@ -50,6 +51,8 @@ export default function AppRouter() {
         <Route path="/chatbot"         element={<ChatBot />} />
         <Route path="/ChatBot" element={<Navigate to="/chatbot" replace />} />
         <Route path="/scenarios"       element={<ScenariosPage />} />
+        <Route path="/scenario"        element={<ScenarioRunner />} />
+        <Route path="/quiz-core"       element={<QuizCore />} />
         <Route path="/language"        element={<LanguageSelect />} />
         <Route path="/settings"          element={<ParentGate />} />
         <Route path="/settings/panel"  element={<ParentPanel />} />
@@ -59,7 +62,7 @@ export default function AppRouter() {
           <Route path="/dashboard"   element={<Dashboard />} />
           <Route path="/categories"  element={<CategorySelect />} />
           <Route path="/learn"       element={<FlashCards />} />
-          <Route path="/quiz"        element={<QuizScreen />} />
+          <Route path="/quiz"        element={<QuizCore />} />
           <Route path="/learn-hub"   element={<LearnHub />} />
           <Route path="/grammar"     element={<GrammarPage />} />
           <Route path="/grammar/:lessonId" element={<GrammarLessonPage />} />

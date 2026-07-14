@@ -4,7 +4,7 @@ import { speak } from '../utils/audioManager'
 import { recordDaily } from '../hooks/useDailyStats'
 import { CATEGORIES } from '../data/categories'
 import { useSpeech } from '../hooks/useSpeech'
-import { useWordStore } from '../store/useWordStore'
+import { loadUpToLevel } from '../core/contentStore'
 import { useTranslation } from '../i18n/translations'
 
 const LEVELS = ['A1', 'A2', 'B1', 'B2']
@@ -54,7 +54,7 @@ export default function FlashCards() {
     JSON.parse(localStorage.getItem('aguilang_active_lang') || '{ "id": "en" }')
   )
 
-  const { getByLevel, loading: storeLoading } = useWordStore()
+  const [storeLoading, setStoreLoading] = useState(true)
 
   const {
     startListening, stopListening, isListening,
@@ -98,15 +98,15 @@ export default function FlashCards() {
     sttTimerRef.current = setTimeout(() => stopListening(), 3000)
   }
 
-  // ── Reset on level change & load words ──
+  // ── Reset on level change & load words (çekirdek: contentStore) ──
   useEffect(() => {
     setFlipped(false)
     setIndex(0)
     setShowGrammar(false)
+    setStoreLoading(true)
 
-    if (selectedLevel === 'A1') {
-      if (!category.id) return
-
+    // A1'de ebeveyn kategori kilidi kontrolü
+    if (selectedLevel === 'A1' && category.id) {
       const saved = localStorage.getItem('aguilang_active_categories')
       if (saved) {
         try {
@@ -114,48 +114,28 @@ export default function FlashCards() {
           if (!allowed.includes(category.id)) { navigate('/categories'); return }
         } catch { /* invalid JSON */ }
       }
-
-      let cancelled = false
-      ;(async () => {
-        try {
-          const module = await import(`../data/${category.id}-a1.json`)
-          if (cancelled) return
-          const data = module.default
-          const langData = data.translations?.[lang.id]
-          let loadedWords = langData?.words ?? []
-          const nativeLangId = getNativeLangId()
-          const transLangId = nativeLangId !== lang.id ? nativeLangId
-                            : lang.id !== 'en' ? 'en' : 'es'
-          const transMap = {}
-          ;(data.translations?.[transLangId]?.words ?? []).forEach(w => { if (w.id) transMap[w.id] = w.word })
-          loadedWords = loadedWords.map(w => ({ ...w, tr: transMap[w.id] || '' }))
-          setWords(loadedWords)
-        } catch {
-          if (!cancelled) setWords([])
-        }
-      })()
-      return () => { cancelled = true }
-    } else {
-      if (storeLoading) return
-      const nativeLangId = getNativeLangId()
-      const raw = getByLevel(selectedLevel, lang.id)
-      let result = raw.filter(w => w.language === lang.id).map(normalizeWord)
-      if (lang.id === 'en' && nativeLangId !== 'en') {
-        // Oxford words have Turkish translations — reverse-map from native-lang store
-        const nativeRaw = getByLevel(selectedLevel, nativeLangId)
-        const reverseMap = {}
-        nativeRaw.forEach(w => {
-          const key = (w.translation || '').toLowerCase().trim()
-          if (key) reverseMap[key] = w.word
-        })
-        result = result.map(w => ({
-          ...w,
-          tr: reverseMap[(w.word || '').toLowerCase().trim()] || '',
-        }))
-      }
-      setWords(result)
     }
-  }, [selectedLevel, category.id, lang.id, storeLoading]) // eslint-disable-line react-hooks/exhaustive-deps
+
+    let cancelled = false
+    loadUpToLevel(selectedLevel).then(all => {
+      if (cancelled) return
+      const lvWords = all.filter(w => w.level === selectedLevel)
+      // A1'de kategoriye göre filtrele; üst seviyeler (ifadeler) tümü
+      const filtered = selectedLevel === 'A1' && category.id
+        ? lvWords.filter(w => w.category === category.id)
+        : lvWords
+      const pool = filtered.length ? filtered : lvWords
+      setWords(pool.map(w => ({
+        id: w.id,
+        word: w[lang.id] || w.en,
+        tr: w.tr,
+        pron: w.ipa?.[lang.id] || '',
+        emoji: w.emoji || null,
+      })))
+      setStoreLoading(false)
+    })
+    return () => { cancelled = true }
+  }, [selectedLevel, category.id, lang.id]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const current = words[index]
   const catMeta   = CATEGORIES.find(c => c.id === category.id)
@@ -183,14 +163,14 @@ export default function FlashCards() {
   }
 
   // ── Loading (store not ready yet) ──
-  if (selectedLevel !== 'A1' && storeLoading) return (
+  if (storeLoading) return (
     <div style={{
       minHeight: '100vh', background: '#F8FAFC',
       display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column', gap: '16px',
       fontFamily: 'Inter, sans-serif',
     }}>
       <div style={{ fontSize: '40px' }}>⏳</div>
-      <div style={{ fontSize: '15px', color: '#64748B' }}>Loading words...</div>
+      <div style={{ fontSize: '15px', color: '#64748B' }}>Kelimeler yükleniyor...</div>
     </div>
   )
 
@@ -203,7 +183,7 @@ export default function FlashCards() {
     }}>
       <div style={{ fontSize: '48px' }}>📭</div>
       <div style={{ fontSize: '16px', color: '#64748B' }}>
-        No words found for {selectedLevel}
+        {selectedLevel} için kelime bulunamadı
       </div>
       <button
         onClick={() => navigate('/categories')}
@@ -213,7 +193,7 @@ export default function FlashCards() {
           cursor: 'pointer', fontSize: '14px', fontWeight: '600',
         }}
       >
-        Go Back
+        Geri Dön
       </button>
     </div>
   )
@@ -237,7 +217,7 @@ export default function FlashCards() {
             ? '0 4px 16px rgba(16,185,129,0.35)' : '0 4px 16px rgba(245,158,11,0.35)',
           zIndex: 100, whiteSpace: 'nowrap', pointerEvents: 'none',
         }}>
-          {toastType === 'correct' ? 'Great! 🌟' : 'Try again! 🎤'}
+          {toastType === 'correct' ? 'Harika! 🌟' : 'Tekrar dene! 🎤'}
         </div>
       )}
 

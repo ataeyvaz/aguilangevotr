@@ -1,0 +1,50 @@
+{
+  "id": "hotel",
+  "title": "Otelde",
+  "emoji": "🏨",
+  "level": "A2",
+  "domain": "travel",
+  "roles": { "child": "Kartal", "bot": "Resepsiyonist" },
+  "pattern": {
+    "tr": "Bir ___ istiyorum.",
+    "en": "I would like a ___.",
+    "es": "Quiero una ___.",
+    "pt": "Eu quero um ___.",
+    "de": "Ich möchte ein ___."
+  },
+  "teach": [
+    { "tr": "Bir oda istiyorum.", "en": "I would like a room.", "es": "Quiero una habitación.", "pt": "Eu quero um quarto.", "de": "Ich möchte ein Zimmer." },
+    { "tr": "Rezervasyonum var.", "en": "I have a reservation.", "es": "Tengo una reserva.", "pt": "Eu tenho uma reserva.", "de": "Ich habe eine Reservierung." }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Size nasıl yardımcı olabilirim?", "en": "How can I help you?", "es": "¿Cómo puedo ayudarle?", "pt": "Como posso ajudá-lo?", "de": "Wie kann ich Ihnen helfen?" },
+      "answer": {
+        "tr": "Bir oda istiyorum, lütfen.", "en": "I would like a room, please.", "es": "Quiero una habitación, por favor.", "pt": "Eu quero um quarto, por favor.", "de": "Ich möchte ein Zimmer, bitte.",
+        "alts": { "en": ["a room", "i would like a room", "room please"], "es": ["una habitación", "quiero una habitación"], "pt": ["um quarto", "quero um quarto"], "de": ["ein zimmer", "ich möchte ein zimmer"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Kahvaltı dahil mi?", "en": "Is breakfast included?", "es": "¿El desayuno está incluido?", "pt": "O café da manhã está incluído?", "de": "Ist das Frühstück inklusive?",
+        "alts": { "en": ["is breakfast included", "breakfast included"], "es": ["el desayuno está incluido", "desayuno incluido"], "pt": ["o café da manhã está incluído", "café incluído"], "de": ["ist das frühstück inklusive", "frühstück inklusive"] }
+      },
+      "answer": { "tr": "Evet, kahvaltı dahil.", "en": "Yes, breakfast is included.", "es": "Sí, el desayuno está incluido.", "pt": "Sim, o café da manhã está incluído.", "de": "Ja, das Frühstück ist inklusive." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "___ gece kalmak istiyorum.", "en": "I want to stay ___ nights.", "es": "Quiero quedarme ___ noches.", "pt": "Eu quero ficar ___ noites.", "de": "Ich möchte ___ Nächte bleiben." },
+      "hint": { "tr": "Kaç gece kalacağını söyle (örn: iki)." },
+      "answer": { "en": "I want to stay two nights", "es": "Quiero quedarme dos noches", "pt": "Eu quero ficar duas noites", "de": "Ich möchte zwei Nächte bleiben" },
+      "wordBank": {
+        "en": ["I", "want", "to", "stay", "two", "nights", "three"],
+        "es": ["Quiero", "quedarme", "dos", "noches", "tres"],
+        "pt": ["Eu", "quero", "ficar", "duas", "noites", "três"],
+        "de": ["Ich", "möchte", "zwei", "Nächte", "bleiben", "drei"]
+      }
+    }
+  ]
+}

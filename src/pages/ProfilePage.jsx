@@ -258,9 +258,9 @@ export default function ProfilePage() {
 
           <div style={{ display: 'flex', gap: '10px', marginTop: '14px' }}>
             {[
-              { icon: '⭐', label: 'Points', value: profile.points || 0 },
-              { icon: '🏆', label: 'Level',  value: profile.level  || 1 },
-              { icon: '🔥', label: 'Streak', value: `${profile.streak || 0} days` },
+              { icon: '⭐', label: 'Puan', value: profile.points || 0 },
+              { icon: '🏆', label: 'Seviye',  value: profile.level  || 1 },
+              { icon: '🔥', label: 'Seri', value: `${profile.streak || 0} gün` },
             ].map((s, i) => (
               <div key={i} style={{
                 flex: 1, background: '#F8FAFC', border: '1px solid #E2E8F0',
@@ -345,7 +345,7 @@ export default function ProfilePage() {
           <div style={{ display: 'flex', gap: '10px', marginBottom: '16px' }}>
             {[
               { icon: '🎯', label: 'Sessions', value: convSummary.totalSessions },
-              { icon: '⭐', label: 'Total pts', value: convSummary.totalScore },
+              { icon: '⭐', label: 'Toplam puan', value: convSummary.totalScore },
             ].map((s, i) => (
               <div key={i} style={{
                 flex: 1, background: '#F8FAFC', borderRadius: '12px',
@@ -367,7 +367,7 @@ export default function ProfilePage() {
             color: '#64748B', marginBottom: '8px',
             textTransform: 'uppercase', letterSpacing: '0.05em',
           }}>
-            🏆 Most Practiced Words
+            🏆 En Çok Çalışılan Kelimeler
           </div>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
             {convSummary.topWords.map((w, i) => (
@@ -454,7 +454,7 @@ export default function ProfilePage() {
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '18px', marginTop: '16px' }}>
             <div>
               <div style={{ fontWeight: '600', color: '#0F172A', fontSize: '14px' }}>Text to Speech (TTS)</div>
-              <div style={{ fontSize: '12px', color: '#94A3B8', marginTop: '2px' }}>Words are automatically read aloud</div>
+              <div style={{ fontSize: '12px', color: '#94A3B8', marginTop: '2px' }}>Kelimeler otomatik sesli okunur</div>
             </div>
             <div
               onClick={() => save({ ttsEnabled: !settings.ttsEnabled })}

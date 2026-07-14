@@ -1,0 +1,50 @@
+{
+  "id": "restaurant-a1",
+  "title": "Restoranda Sipariş",
+  "emoji": "🍽️",
+  "level": "A1",
+  "domain": "food",
+  "roles": { "child": "Kartal", "bot": "Garson" },
+  "pattern": {
+    "tr": "___ istiyorum, lütfen.",
+    "en": "I would like ___, please.",
+    "es": "Quiero ___, por favor.",
+    "pt": "Eu quero ___, por favor.",
+    "de": "Ich möchte ___, bitte."
+  },
+  "teach": [
+    { "tr": "Bir pizza istiyorum, lütfen.", "en": "I would like a pizza, please.", "es": "Quiero una pizza, por favor.", "pt": "Eu quero uma pizza, por favor.", "de": "Ich möchte eine Pizza, bitte." },
+    { "tr": "Bir su istiyorum, lütfen.", "en": "I would like a water, please.", "es": "Quiero un agua, por favor.", "pt": "Eu quero uma água, por favor.", "de": "Ich möchte ein Wasser, bitte." }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Ne yemek istersin?", "en": "What would you like to eat?", "es": "¿Qué quieres comer?", "pt": "O que você quer comer?", "de": "Was möchtest du essen?" },
+      "answer": {
+        "tr": "Bir hamburger istiyorum.", "en": "I would like a hamburger.", "es": "Quiero una hamburguesa.", "pt": "Eu quero um hambúrguer.", "de": "Ich möchte einen Hamburger.",
+        "alts": { "en": ["a hamburger", "hamburger please", "i want a hamburger"], "es": ["una hamburguesa"], "pt": ["um hambúrguer", "hamburguer"], "de": ["einen hamburger", "hamburger"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Ne içmek istersin?", "en": "What would you like to drink?", "es": "¿Qué quieres beber?", "pt": "O que você quer beber?", "de": "Was möchtest du trinken?",
+        "alts": { "en": ["what would you like to drink", "what do you want to drink"], "es": ["qué quieres beber"], "pt": ["o que você quer beber"], "de": ["was möchtest du trinken"] }
+      },
+      "answer": { "tr": "Bir portakal suyu, lütfen.", "en": "An orange juice, please.", "es": "Un zumo de naranja, por favor.", "pt": "Um suco de laranja, por favor.", "de": "Einen Orangensaft, bitte." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "___ istiyorum, lütfen.", "en": "I would like ___, please.", "es": "Quiero ___, por favor.", "pt": "Eu quero ___, por favor.", "de": "Ich möchte ___, bitte." },
+      "hint": { "tr": "Bir yemek söyle (örn: bir salata)." },
+      "answer": { "en": "I would like a salad please", "es": "Quiero una ensalada por favor", "pt": "Eu quero uma salada por favor", "de": "Ich möchte einen Salat bitte" },
+      "wordBank": {
+        "en": ["I", "would", "like", "a", "salad", "please", "soup"],
+        "es": ["Quiero", "una", "ensalada", "por", "favor", "sopa"],
+        "pt": ["Eu", "quero", "uma", "salada", "por", "favor", "sopa"],
+        "de": ["Ich", "möchte", "einen", "Salat", "bitte", "Suppe"]
+      }
+    }
+  ]
+}

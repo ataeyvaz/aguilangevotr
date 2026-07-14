@@ -869,7 +869,7 @@ export default function Practice() {
                            shadow-lg shadow-cyan-600/25"
                 style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}
               >
-                {exchIdx + 1 < exchanges.length ? 'Next →' : 'See Results 🎯'}
+                {exchIdx + 1 < exchanges.length ? 'Sonraki →' : 'Sonuçları Gör 🎯'}
               </button>
             </div>
           )}

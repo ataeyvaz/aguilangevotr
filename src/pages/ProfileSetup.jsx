@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useApp } from '../context/AppContext'
 import { useTranslation } from '../i18n/translations'
+import { setLang } from '../core/langState'
 
 // ── Sabitler ───────────────────────────────────────────────
 
@@ -80,6 +81,7 @@ export default function ProfileSetup() {
     if (!canStart) return
     const pairId = getPairId(uiLanguage, learnLang)
     setCurrentPair(pairId)
+    setLang(learnLang)   // çekirdek hedef dili (tüm içerik bunu okur)
 
     const base = isReturning
       ? existingProfile

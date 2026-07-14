@@ -1,0 +1,50 @@
+{
+  "id": "phone",
+  "title": "Telefon Konuşması",
+  "emoji": "📞",
+  "level": "A2",
+  "domain": "daily",
+  "roles": { "child": "Kartal", "bot": "Arkadaş" },
+  "pattern": {
+    "tr": "Alo, ben ___.",
+    "en": "Hello, this is ___.",
+    "es": "Hola, soy ___.",
+    "pt": "Alô, é o ___.",
+    "de": "Hallo, hier ist ___."
+  },
+  "teach": [
+    { "tr": "Alo, ben Kartal.", "en": "Hello, this is Kartal.", "es": "Hola, soy Kartal.", "pt": "Alô, é o Kartal.", "de": "Hallo, hier ist Kartal." },
+    { "tr": "Nasılsın?", "en": "How are you?", "es": "¿Cómo estás?", "pt": "Como você está?", "de": "Wie geht es dir?" }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": { "tr": "Alo, kim arıyor?", "en": "Hello, who is calling?", "es": "Hola, ¿quién llama?", "pt": "Alô, quem está ligando?", "de": "Hallo, wer ruft an?" },
+      "answer": {
+        "tr": "Alo, ben Kartal.", "en": "Hello, this is Kartal.", "es": "Hola, soy Kartal.", "pt": "Alô, é o Kartal.", "de": "Hallo, hier ist Kartal.",
+        "alts": { "en": ["this is kartal", "it's kartal", "i'm kartal"], "es": ["soy kartal"], "pt": ["é o kartal", "sou o kartal"], "de": ["hier ist kartal", "ich bin kartal"] }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Bugün oynayabilir miyiz?", "en": "Can we play today?", "es": "¿Podemos jugar hoy?", "pt": "Podemos brincar hoje?", "de": "Können wir heute spielen?",
+        "alts": { "en": ["can we play today", "can we play"], "es": ["podemos jugar hoy", "podemos jugar"], "pt": ["podemos brincar hoje", "podemos brincar"], "de": ["können wir heute spielen", "können wir spielen"] }
+      },
+      "answer": { "tr": "Evet, saat üçte gel.", "en": "Yes, come at three o'clock.", "es": "Sí, ven a las tres.", "pt": "Sim, venha às três horas.", "de": "Ja, komm um drei Uhr." }
+    }
+  ],
+  "generate": [
+    {
+      "frame": { "tr": "Alo, ben ___.", "en": "Hello, this is ___.", "es": "Hola, soy ___.", "pt": "Alô, é o ___.", "de": "Hallo, hier ist ___." },
+      "hint": { "tr": "Kendini tanıt (adını söyle)." },
+      "answer": { "en": "Hello this is Kartal", "es": "Hola soy Kartal", "pt": "Alô é o Kartal", "de": "Hallo hier ist Kartal" },
+      "wordBank": {
+        "en": ["Hello", "this", "is", "Kartal", "who"],
+        "es": ["Hola", "soy", "Kartal", "quién"],
+        "pt": ["Alô", "é", "o", "Kartal", "quem"],
+        "de": ["Hallo", "hier", "ist", "Kartal", "wer"]
+      }
+    }
+  ]
+}
