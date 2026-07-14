@@ -26,7 +26,7 @@ const addDays = (n) => { const d = new Date(); d.setDate(d.getDate() + n); retur
 let _store = null
 
 function blank() {
-  return { version: VERSION, words: {}, meta: { xp: 0, streakDays: 0, lastActiveDate: null, daily: {} } }
+  return { version: VERSION, words: {}, meta: { xp: 0, streakDays: 0, lastActiveDate: null, daily: {}, scenarios: {} } }
 }
 
 function migrateLegacy(store) {
@@ -224,4 +224,24 @@ export function getHardWords(limit = 5) {
 export function resetProgress() {
   _store = blank()
   save()
+}
+
+// ─── Senaryo tamamlama (ödül döngüsü) ─────────────────────
+/** Senaryoyu tamamlandı işaretle. İlk kez ise +25 XP. */
+export function markScenarioDone(id) {
+  const store = load()
+  if (!store.meta.scenarios) store.meta.scenarios = {}
+  if (!store.meta.scenarios[id]) {
+    store.meta.scenarios[id] = new Date().toISOString()
+    store.meta.xp += 25
+    bumpDaily(store)
+    save()
+    return true   // yeni tamamlama
+  }
+  return false     // zaten tamamlanmış
+}
+
+/** Tamamlanan senaryo id'lerinin kümesi. */
+export function getDoneScenarios() {
+  return load().meta.scenarios || {}
 }

@@ -3,6 +3,7 @@ import { useNavigate, useSearchParams } from 'react-router-dom'
 import { useSpeech } from '../hooks/useSpeech'
 import { checkAnswer, getPronunciationScore } from '../utils/fuzzyMatch'
 import { useLang } from '../core/langState'
+import { markScenarioDone } from '../core/progressStore'
 
 const T = (obj, langId) => obj?.[langId] || obj?.en || ''
 
@@ -308,6 +309,8 @@ function GenerateStage({ data, lang, speak, onDone }) {
 // BİTİŞ
 // ══════════════════════════════════════════════════════
 function DoneStage({ data, onBack }) {
+  const [isNew, setIsNew] = useState(false)
+  useEffect(() => { setIsNew(markScenarioDone(data.id)) }, []) // eslint-disable-line
   return (
     <div style={{ ...S.body, alignItems: 'center', textAlign: 'center', paddingTop: '48px' }}>
       <div style={{ fontSize: '72px' }}>🏆</div>
@@ -315,6 +318,14 @@ function DoneStage({ data, onBack }) {
       <div style={{ fontSize: '15px', color: '#64748B', maxWidth: '300px', lineHeight: 1.7 }}>
         <strong>{data.emoji} {data.title}</strong> senaryosunu tamamladın.
         Dinledin, konuştun ve kendi cümleni kurdun! 💪
+      </div>
+      <div style={{
+        background: isNew ? '#FEF3C7' : '#F0FDF4',
+        border: `1px solid ${isNew ? '#FDE68A' : '#BBF7D0'}`,
+        borderRadius: 14, padding: '12px 22px',
+        fontSize: 15, fontWeight: 700, color: isNew ? '#92400E' : '#15803D',
+      }}>
+        {isNew ? '⭐ +25 XP kazandın!' : '✅ Bu senaryo zaten tamamlanmıştı'}
       </div>
       <button onClick={onBack} style={{ ...S.primaryBtn, maxWidth: '240px' }}>
         🔙 Senaryolara Dön

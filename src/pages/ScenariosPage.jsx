@@ -6,10 +6,13 @@ import { useNavigate } from 'react-router-dom'
 import { SCENARIOS, DOMAINS } from '../data/scenarios/index'
 import { useLang } from '../core/langState'
 import { TARGET_LANGS } from '../core/languages'
+import { getDoneScenarios } from '../core/progressStore'
 
 export default function ScenariosPage() {
   const navigate = useNavigate()
   const [lang] = useLang()
+  const done = getDoneScenarios()
+  const doneCount = SCENARIOS.filter(s => done[s.id]).length
 
   // domaine göre grupla
   const byDomain = {}
@@ -27,7 +30,7 @@ export default function ScenariosPage() {
           <div style={{ flex: 1 }}>
             <div style={{ fontSize: 20, fontWeight: 800, color: '#0F172A' }}>🎬 Senaryolar</div>
             <div style={{ fontSize: 13, color: '#94A3B8' }}>
-              Türkçe → {TARGET_LANGS[lang]?.native} · konuşarak öğren
+              Türkçe → {TARGET_LANGS[lang]?.native} · {doneCount}/{SCENARIOS.length} tamamlandı
             </div>
           </div>
         </div>
@@ -54,6 +57,11 @@ export default function ScenariosPage() {
                     display: 'flex', flexDirection: 'column', gap: 8,
                     boxShadow: s.planned ? 'none' : '0 1px 3px rgba(0,0,0,0.04)',
                   }}>
+                  {done[s.id] && (
+                    <div style={{ position: 'absolute', top: 10, right: 10, fontSize: 12, fontWeight: 800,
+                                  color: 'white', background: '#16A34A', borderRadius: 999,
+                                  width: 22, height: 22, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>✓</div>
+                  )}
                   <div style={{ fontSize: 30 }}>{s.emoji}</div>
                   <div style={{ fontSize: 14, fontWeight: 700, color: '#0F172A', lineHeight: 1.25 }}>{s.title}</div>
                   <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
