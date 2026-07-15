@@ -4,7 +4,10 @@
   "emoji": "🏫",
   "level": "A1",
   "category": "school",
-  "roles": ["Kartal", "Emir"],
+  "roles": [
+    "Kartal",
+    "Emir"
+  ],
   "lines": [
     {
       "speaker": "Kartal",
@@ -12,6 +15,7 @@
       "tr": "Merhaba! Benim adım Kartal. Senin adın ne?",
       "de": "Hallo! Ich heiße Kartal. Wie heißt du?",
       "es": "¡Hola! Me llamo Kartal. ¿Cómo te llamas?",
+      "pt": "Oi! Meu nome é Kartal. Qual é o seu nome?",
       "hint": "Kendini tanıt ve sor"
     },
     {
@@ -20,6 +24,7 @@
       "tr": "Merhaba! Benim adım Emir. Tanıştığımıza memnun oldum!",
       "de": "Hallo! Ich heiße Emir. Schön, dich kennenzulernen!",
       "es": "¡Hola! Me llamo Emir. ¡Encantado de conocerte!",
+      "pt": "Oi! Meu nome é Emir. Prazer em conhecer você!",
       "hint": "Adını söyle ve memnuniyetini belirt"
     },
     {
@@ -28,6 +33,7 @@
       "tr": "Kaç yaşındasın, Emir?",
       "de": "Wie alt bist du, Emir?",
       "es": "¿Cuántos años tienes, Emir?",
+      "pt": "Quantos anos você tem, Emir?",
       "hint": "Yaşı sor"
     },
     {
@@ -36,6 +42,7 @@
       "tr": "Ben dokuz yaşındayım. Ya sen?",
       "de": "Ich bin neun Jahre alt. Und du?",
       "es": "Tengo nueve años. ¿Y tú?",
+      "pt": "Eu tenho nove anos. E você?",
       "hint": "Yaşını söyle ve geri sor"
     },
     {
@@ -44,6 +51,7 @@
       "tr": "Ben de dokuzundayım! Hangi sınıftasın?",
       "de": "Ich auch! In welche Klasse gehst du?",
       "es": "¡Yo también tengo nueve! ¿En qué clase estás?",
+      "pt": "Eu também tenho nove! Em que turma você está?",
       "hint": "Ortak noktayı vurgula ve sor"
     },
     {
@@ -52,6 +60,7 @@
       "tr": "3B sınıfındayım. Ya sen?",
       "de": "Ich bin in Klasse drei B. Und du?",
       "es": "Estoy en la clase tres B. ¿Y tú?",
+      "pt": "Eu estou na turma três B. E você?",
       "hint": "Sınıfını söyle ve sor"
     },
     {
@@ -60,6 +69,7 @@
       "tr": "Ben 3A sınıfındayım. Okulu seviyor musun?",
       "de": "Ich bin in Klasse drei A. Magst du die Schule?",
       "es": "Estoy en la clase tres A. ¿Te gusta la escuela?",
+      "pt": "Eu estou na turma três A. Você gosta da escola?",
       "hint": "Sınıfını söyle ve fikir sor"
     },
     {
@@ -68,6 +78,7 @@
       "tr": "Evet, okulu seviyorum! Favori dersim resim.",
       "de": "Ja, ich mag die Schule! Mein Lieblingsfach ist Kunst.",
       "es": "¡Sí, me gusta la escuela! Mi asignatura favorita es arte.",
+      "pt": "Sim, eu gosto da escola! Minha matéria favorita é arte.",
       "hint": "Evet de ve favori dersini söyle"
     },
     {
@@ -76,6 +87,7 @@
       "tr": "Harika! Benim favori dersim matematik.",
       "de": "Cool! Mein Lieblingsfach ist Mathematik.",
       "es": "¡Genial! Mi asignatura favorita es matemáticas.",
+      "pt": "Legal! Minha matéria favorita é matemática.",
       "hint": "Tepki ver ve favori dersini söyle"
     },
     {
@@ -84,6 +96,7 @@
       "tr": "Arkadaş olalım! Birlikte oturalım mı?",
       "de": "Lass uns Freunde sein! Wollen wir zusammen sitzen?",
       "es": "¡Seamos amigos! ¿Nos sentamos juntos?",
+      "pt": "Vamos ser amigos! Vamos sentar juntos?",
       "hint": "Arkadaşlık teklif et"
     }
   ]

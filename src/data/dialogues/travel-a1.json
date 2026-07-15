@@ -4,7 +4,10 @@
   "emoji": "🗺️",
   "level": "A1",
   "category": "travel",
-  "roles": ["Kartal", "Emir"],
+  "roles": [
+    "Kartal",
+    "Emir"
+  ],
   "lines": [
     {
       "speaker": "Kartal",
@@ -12,6 +15,7 @@
       "tr": "Affedersiniz! Kayboldum. Yardım edebilir misiniz?",
       "de": "Entschuldigung! Ich habe mich verlaufen. Können Sie mir helfen?",
       "es": "¡Perdone! Estoy perdido. ¿Puede ayudarme?",
+      "pt": "Com licença! Estou perdido. Você pode me ajudar?",
       "hint": "Yardım iste"
     },
     {
@@ -20,6 +24,7 @@
       "tr": "Tabii ki! Nereye gitmek istiyorsunuz?",
       "de": "Natürlich! Wohin möchten Sie gehen?",
       "es": "¡Por supuesto! ¿Adónde quiere ir?",
+      "pt": "Claro! Aonde você quer ir?",
       "hint": "Hedefi sor"
     },
     {
@@ -28,6 +33,7 @@
       "tr": "Tren istasyonuna gitmek istiyorum. Uzak mı?",
       "de": "Ich möchte zum Bahnhof gehen. Ist es weit?",
       "es": "Quiero ir a la estación de tren. ¿Está lejos?",
+      "pt": "Eu quero ir para a estação de trem. É longe?",
       "hint": "Hedefi belirt ve mesafeyi sor"
     },
     {
@@ -36,6 +42,7 @@
       "tr": "Hayır, uzak değil. Yürüyerek yaklaşık on dakika.",
       "de": "Nein, es ist nicht weit. Es ist ungefähr zehn Minuten zu Fuß.",
       "es": "No, no está lejos. Son unos diez minutos a pie.",
+      "pt": "Não, não é longe. São cerca de dez minutos a pé.",
       "hint": "Mesafeyi açıkla"
     },
     {
@@ -44,6 +51,7 @@
       "tr": "Yolu gösterebilir misiniz, lütfen?",
       "de": "Können Sie mir den Weg zeigen, bitte?",
       "es": "¿Puede enseñarme el camino, por favor?",
+      "pt": "Você pode me mostrar o caminho, por favor?",
       "hint": "Yol tarifi iste"
     },
     {
@@ -52,6 +60,7 @@
       "tr": "Evet! Düz gidin. Sonra büyük okulda sola dönün.",
       "de": "Ja! Gehen Sie geradeaus. Dann biegen Sie an der großen Schule links ab.",
       "es": "¡Sí! Vaya recto. Luego gire a la izquierda en la escuela grande.",
+      "pt": "Sim! Vá em frente. Depois vire à esquerda na escola grande.",
       "hint": "Yolu tarif et"
     },
     {
@@ -60,6 +69,7 @@
       "tr": "Tamam. Düz git ve okulda sola dön.",
       "de": "Okay. Geradeaus und an der Schule links abbiegen.",
       "es": "De acuerdo. Recto y girar a la izquierda en la escuela.",
+      "pt": "Está bem. Ir em frente e virar à esquerda na escola.",
       "hint": "Tarifi tekrar et"
     },
     {
@@ -68,6 +78,7 @@
       "tr": "Evet, doğru! Sonra bir park göreceksiniz. İstasyon parkın yanında.",
       "de": "Ja, richtig! Dann sehen Sie einen Park. Der Bahnhof ist neben dem Park.",
       "es": "¡Sí, correcto! Entonces verá un parque. La estación está al lado del parque.",
+      "pt": "Sim, isso mesmo! Depois você verá um parque. A estação fica ao lado do parque.",
       "hint": "Onay ver ve devamını anlat"
     },
     {
@@ -76,6 +87,7 @@
       "tr": "Anladım! Çok teşekkür ederim. Çok naziksiniz.",
       "de": "Ich verstehe! Vielen Dank. Sie sind sehr nett.",
       "es": "¡Entiendo! Muchas gracias. Es usted muy amable.",
+      "pt": "Eu entendo! Muito obrigado. Você é muito gentil.",
       "hint": "Teşekkür et ve iltifat et"
     },
     {
@@ -84,6 +96,7 @@
       "tr": "Rica ederim! Güvenli yolculuklar. Güle güle!",
       "de": "Bitte sehr! Gute Reise. Auf Wiedersehen!",
       "es": "¡De nada! Buen viaje. ¡Adiós!",
+      "pt": "De nada! Boa viagem. Tchau!",
       "hint": "Karşılık ver ve uğurla"
     }
   ]

@@ -4,7 +4,10 @@
   "emoji": "🌳",
   "level": "A1",
   "category": "leisure",
-  "roles": ["Kartal", "Emir"],
+  "roles": [
+    "Kartal",
+    "Emir"
+  ],
   "lines": [
     {
       "speaker": "Kartal",
@@ -12,6 +15,7 @@
       "tr": "Emir, futbol oynamak istiyor musun?",
       "de": "Emir, möchtest du Fußball spielen?",
       "es": "Emir, ¿quieres jugar al fútbol?",
+      "pt": "Emir, você quer jogar futebol?",
       "hint": "Oyun teklif et"
     },
     {
@@ -20,6 +24,7 @@
       "tr": "Evet! Futbolu çok seviyorum! Oynayalım!",
       "de": "Ja! Ich liebe Fußball! Lass uns spielen!",
       "es": "¡Sí! ¡Me encanta el fútbol! ¡Vamos a jugar!",
+      "pt": "Sim! Eu adoro futebol! Vamos jogar!",
       "hint": "Hevesle kabul et"
     },
     {
@@ -28,6 +33,7 @@
       "tr": "Park bugün çok büyük ve güzel.",
       "de": "Der Park ist heute sehr groß und schön.",
       "es": "El parque es muy grande y bonito hoy.",
+      "pt": "O parque está muito grande e bonito hoje.",
       "hint": "Parkı tanımla"
     },
     {
@@ -36,6 +42,7 @@
       "tr": "Evet! Ve hava güneşli ve sıcak.",
       "de": "Ja! Und das Wetter ist sonnig und warm.",
       "es": "¡Sí! Y el tiempo es soleado y cálido.",
+      "pt": "Sim! E o tempo está ensolarado e quente.",
       "hint": "Havayı tanımla"
     },
     {
@@ -44,6 +51,7 @@
       "tr": "Şimdi yorgunum. Durup dinlenebilir miyiz?",
       "de": "Ich bin jetzt müde. Können wir aufhören und uns ausruhen?",
       "es": "Ahora estoy cansado. ¿Podemos parar y descansar?",
+      "pt": "Agora estou cansado. Podemos parar e descansar?",
       "hint": "Durdurmak istediğini söyle"
     },
     {
@@ -52,6 +60,7 @@
       "tr": "Tamam! Bankta oturalım. Susadım.",
       "de": "Okay! Lass uns auf die Bank setzen. Ich bin durstig.",
       "es": "¡De acuerdo! Sentémonos en el banco. Tengo sed.",
+      "pt": "Está bem! Vamos sentar no banco. Estou com sede.",
       "hint": "Kabul et ve ihtiyacını söyle"
     },
     {
@@ -60,6 +69,7 @@
       "tr": "Çantamda su var. Biraz ister misin?",
       "de": "Ich habe Wasser in meiner Tasche. Möchtest du etwas?",
       "es": "Tengo agua en mi mochila. ¿Quieres un poco?",
+      "pt": "Eu tenho água na minha mochila. Você quer um pouco?",
       "hint": "Su teklif et"
     },
     {
@@ -68,6 +78,7 @@
       "tr": "Evet, lütfen! Teşekkürler, çok naziksin.",
       "de": "Ja, bitte! Danke, du bist sehr nett.",
       "es": "¡Sí, por favor! Gracias, eres muy amable.",
+      "pt": "Sim, por favor! Obrigado, você é muito gentil.",
       "hint": "Teşekkür et ve iltifat et"
     },
     {
@@ -76,6 +87,7 @@
       "tr": "Bak! Orada bir köpek var. Çok sevimli!",
       "de": "Schau! Da ist ein Hund. Er ist so süß!",
       "es": "¡Mira! Hay un perro allí. ¡Es muy bonito!",
+      "pt": "Olha! Tem um cachorro ali. Ele é tão fofo!",
       "hint": "Bir şeye dikkat çek"
     },
     {
@@ -84,6 +96,7 @@
       "tr": "Oh, ne güzel! Ben de bir köpek istiyorum. Şimdi eve gidelim.",
       "de": "Oh, wie schön! Ich möchte auch einen Hund. Lass uns jetzt nach Hause gehen.",
       "es": "¡Oh, qué bonito! Yo también quiero un perro. Vamos a casa ahora.",
+      "pt": "Oh, que lindo! Eu também quero um cachorro. Vamos para casa agora.",
       "hint": "Tepki ver ve eve dönmeyi öner"
     }
   ]

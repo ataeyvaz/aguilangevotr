@@ -4,7 +4,10 @@
   "emoji": "🏠",
   "level": "A1",
   "category": "daily",
-  "roles": ["Kartal", "Emir"],
+  "roles": [
+    "Kartal",
+    "Emir"
+  ],
   "lines": [
     {
       "speaker": "Emir",
@@ -12,6 +15,7 @@
       "tr": "Günaydın, Kartal! İyi uyudun mu?",
       "de": "Guten Morgen, Kartal! Hast du gut geschlafen?",
       "es": "¡Buenos días, Kartal! ¿Dormiste bien?",
+      "pt": "Bom dia, Kartal! Você dormiu bem?",
       "hint": "Sabah selam ver ve sor"
     },
     {
@@ -20,6 +24,7 @@
       "tr": "Günaydın! Evet, çok iyi uyudum. Şimdi açım.",
       "de": "Guten Morgen! Ja, ich habe sehr gut geschlafen. Jetzt bin ich hungrig.",
       "es": "¡Buenos días! Sí, dormí muy bien. Ahora tengo hambre.",
+      "pt": "Bom dia! Sim, dormi muito bem. Agora estou com fome.",
       "hint": "Cevap ver ve durumunu belirt"
     },
     {
@@ -28,6 +33,7 @@
       "tr": "Ben de! Kahvaltıda ne istersin?",
       "de": "Ich auch! Was möchtest du zum Frühstück?",
       "es": "¡Yo también! ¿Qué quieres para el desayuno?",
+      "pt": "Eu também! O que você quer no café da manhã?",
       "hint": "Aynı hissettiğini söyle ve sor"
     },
     {
@@ -36,6 +42,7 @@
       "tr": "Ekmek, peynir ve bir bardak süt istiyorum.",
       "de": "Ich möchte Brot, Käse und ein Glas Milch.",
       "es": "Quiero pan, queso y un vaso de leche.",
+      "pt": "Eu quero pão, queijo e um copo de leite.",
       "hint": "Kahvaltı isteklerini say"
     },
     {
@@ -44,6 +51,7 @@
       "tr": "Güzel fikir! Ben yumurta ve portakal suyu istiyorum.",
       "de": "Gute Idee! Ich möchte Eier und Orangensaft.",
       "es": "¡Buena idea! Yo quiero huevos y zumo de naranja.",
+      "pt": "Boa ideia! Eu quero ovos e suco de laranja.",
       "hint": "Onay ver ve ne istediğini söyle"
     },
     {
@@ -52,6 +60,7 @@
       "tr": "Kahvaltıdan sonra film izleyelim mi?",
       "de": "Nach dem Frühstück, wollen wir einen Film schauen?",
       "es": "Después del desayuno, ¿vemos una película?",
+      "pt": "Depois do café da manhã, vamos assistir a um filme?",
       "hint": "Plan öner"
     },
     {
@@ -60,6 +69,7 @@
       "tr": "Evet! Hangi filmi izlemek istiyorsun?",
       "de": "Ja! Welchen Film möchtest du schauen?",
       "es": "¡Sí! ¿Qué película quieres ver?",
+      "pt": "Sim! Que filme você quer assistir?",
       "hint": "Kabul et ve sor"
     },
     {
@@ -68,6 +78,7 @@
       "tr": "Komik bir film izlemek istiyorum. Komik filmleri seviyorum.",
       "de": "Ich möchte einen lustigen Film schauen. Ich mag lustige Filme.",
       "es": "Quiero ver una película divertida. Me gustan las películas divertidas.",
+      "pt": "Eu quero assistir a um filme engraçado. Eu gosto de filmes engraçados.",
       "hint": "Tercihini ve nedenini söyle"
     },
     {
@@ -76,6 +87,7 @@
       "tr": "Harika! Film sonrasında oyun oynayalım mı?",
       "de": "Super! Und nach dem Film, sollen wir ein Spiel spielen?",
       "es": "¡Genial! Y después de la película, ¿jugamos un juego?",
+      "pt": "Ótimo! E depois do filme, vamos jogar um jogo?",
       "hint": "Onay ver ve yeni plan öner"
     },
     {
@@ -84,6 +96,7 @@
       "tr": "Tabii ki! Bugün harika bir gün. Çok mutluyum!",
       "de": "Klar! Heute ist ein toller Tag. Ich bin sehr glücklich!",
       "es": "¡Claro! Hoy es un día genial. ¡Estoy muy feliz!",
+      "pt": "Claro! Hoje é um dia ótimo. Estou muito feliz!",
       "hint": "Hevesle kabul et ve duygunu ifade et"
     }
   ]

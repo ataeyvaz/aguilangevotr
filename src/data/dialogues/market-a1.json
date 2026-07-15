@@ -4,7 +4,10 @@
   "emoji": "🛒",
   "level": "A1",
   "category": "daily",
-  "roles": ["Kartal", "Emir"],
+  "roles": [
+    "Kartal",
+    "Emir"
+  ],
   "lines": [
     {
       "speaker": "Kartal",
@@ -12,6 +15,7 @@
       "tr": "Merhaba! Günaydın!",
       "de": "Hallo! Guten Morgen!",
       "es": "¡Hola! ¡Buenos días!",
+      "pt": "Olá! Bom dia!",
       "hint": "Günaydın diye selamla"
     },
     {
@@ -20,6 +24,7 @@
       "tr": "Günaydın! Sana nasıl yardımcı olabilirim?",
       "de": "Guten Morgen! Wie kann ich dir helfen?",
       "es": "¡Buenos días! ¿Cómo puedo ayudarte?",
+      "pt": "Bom dia! Como posso ajudar você?",
       "hint": "Yardım teklif et"
     },
     {
@@ -28,6 +33,7 @@
       "tr": "Biraz elma satın almak istiyorum, lütfen.",
       "de": "Ich möchte ein paar Äpfel kaufen, bitte.",
       "es": "Quiero comprar algunas manzanas, por favor.",
+      "pt": "Eu quero comprar algumas maçãs, por favor.",
       "hint": "Ne istediğini söyle"
     },
     {
@@ -36,6 +42,7 @@
       "tr": "Kaç tane elma istiyorsun?",
       "de": "Wie viele Äpfel möchtest du?",
       "es": "¿Cuántas manzanas quieres?",
+      "pt": "Quantas maçãs você quer?",
       "hint": "Kaç tane diye sor"
     },
     {
@@ -44,6 +51,7 @@
       "tr": "Beş elma, lütfen. Ve bir muz.",
       "de": "Fünf Äpfel, bitte. Und eine Banane.",
       "es": "Cinco manzanas, por favor. Y un plátano.",
+      "pt": "Cinco maçãs, por favor. E uma banana.",
       "hint": "Sayıyı ve ikinci ürünü söyle"
     },
     {
@@ -52,6 +60,7 @@
       "tr": "Tamam! Başka bir şey istiyor musun?",
       "de": "Okay! Möchtest du noch etwas?",
       "es": "¡De acuerdo! ¿Quieres algo más?",
+      "pt": "Está bem! Você quer mais alguma coisa?",
       "hint": "Başka ihtiyaç var mı diye sor"
     },
     {
@@ -60,6 +69,7 @@
       "tr": "Evet, biraz suya da ihtiyacım var.",
       "de": "Ja, ich brauche auch etwas Wasser.",
       "es": "Sí, también necesito agua.",
+      "pt": "Sim, eu também preciso de água.",
       "hint": "Evet, bir şey daha ekle"
     },
     {
@@ -68,6 +78,7 @@
       "tr": "Bu üç elli lira olur, lütfen.",
       "de": "Das macht drei Euro fünfzig, bitte.",
       "es": "Son tres euros cincuenta, por favor.",
+      "pt": "São três euros e cinquenta, por favor.",
       "hint": "Fiyatı söyle"
     },
     {
@@ -76,6 +87,7 @@
       "tr": "Buyrun. Çok teşekkür ederim!",
       "de": "Hier bitte. Vielen Dank!",
       "es": "Aquí tienes. ¡Muchas gracias!",
+      "pt": "Aqui está. Muito obrigado!",
       "hint": "Parayı ver ve teşekkür et"
     },
     {
@@ -84,6 +96,7 @@
       "tr": "Rica ederim! İyi günler!",
       "de": "Bitte sehr! Einen schönen Tag noch!",
       "es": "¡De nada! ¡Que tengas un buen día!",
+      "pt": "De nada! Tenha um bom dia!",
       "hint": "Karşılık ver ve iyi günler dile"
     }
   ]

@@ -4,7 +4,10 @@
   "emoji": "🍽️",
   "level": "A1",
   "category": "daily",
-  "roles": ["Kartal", "Emir"],
+  "roles": [
+    "Kartal",
+    "Emir"
+  ],
   "lines": [
     {
       "speaker": "Emir",
@@ -12,6 +15,7 @@
       "tr": "Merhaba! Hoş geldiniz! Lütfen oturun.",
       "de": "Hallo! Willkommen! Bitte setzen Sie sich.",
       "es": "¡Hola! ¡Bienvenido! Por favor, siéntate.",
+      "pt": "Olá! Bem-vindo! Por favor, sente-se.",
       "hint": "Müşteriyi karşıla"
     },
     {
@@ -20,6 +24,7 @@
       "tr": "Teşekkürler! Menüyü görebilir miyim, lütfen?",
       "de": "Danke! Kann ich bitte die Speisekarte sehen?",
       "es": "¡Gracias! ¿Puedo ver el menú, por favor?",
+      "pt": "Obrigado! Posso ver o cardápio, por favor?",
       "hint": "Menü iste"
     },
     {
@@ -28,6 +33,7 @@
       "tr": "Tabii ki! Menü burada. Ne istersiniz?",
       "de": "Natürlich! Hier ist die Speisekarte. Was möchten Sie?",
       "es": "¡Por supuesto! Aquí está el menú. ¿Qué le gustaría?",
+      "pt": "Claro! Aqui está o cardápio. O que você gostaria?",
       "hint": "Menüyü ver ve sipariş al"
     },
     {
@@ -36,6 +42,7 @@
       "tr": "Bir pizza ve bir salata istiyorum, lütfen.",
       "de": "Ich möchte eine Pizza und einen Salat, bitte.",
       "es": "Me gustaría una pizza y una ensalada, por favor.",
+      "pt": "Eu gostaria de uma pizza e uma salada, por favor.",
       "hint": "Siparişini ver"
     },
     {
@@ -44,6 +51,7 @@
       "tr": "Güzel seçim! İçmek için bir şey ister misiniz?",
       "de": "Gute Wahl! Möchten Sie etwas trinken?",
       "es": "¡Buena elección! ¿Le gustaría algo para beber?",
+      "pt": "Boa escolha! Você gostaria de algo para beber?",
       "hint": "Seçimini onayla ve içecek sor"
     },
     {
@@ -52,6 +60,7 @@
       "tr": "Evet, lütfen. Portakal suyu istiyorum. Soğuk mu?",
       "de": "Ja, bitte. Ich möchte Orangensaft. Ist er kalt?",
       "es": "Sí, por favor. Quiero zumo de naranja. ¿Está frío?",
+      "pt": "Sim, por favor. Eu quero suco de laranja. Está gelado?",
       "hint": "İçeceği söyle ve sor"
     },
     {
@@ -60,6 +69,7 @@
       "tr": "Evet, çok soğuk ve taze! Sıcak bir gün için mükemmel.",
       "de": "Ja, er ist sehr kalt und frisch! Perfekt für einen heißen Tag.",
       "es": "¡Sí, está muy frío y fresco! Perfecto para un día caluroso.",
+      "pt": "Sim, está muito gelado e fresco! Perfeito para um dia quente.",
       "hint": "Onayla ve tanımla"
     },
     {
@@ -68,6 +78,7 @@
       "tr": "Yemek çok güzel! Artık aç değilim.",
       "de": "Das Essen ist sehr gut! Ich bin jetzt nicht mehr hungrig.",
       "es": "¡La comida está muy buena! Ya no tengo hambre.",
+      "pt": "A comida está muito boa! Agora não estou com fome.",
       "hint": "Yemekle ilgili görüşünü belirt"
     },
     {
@@ -76,6 +87,7 @@
       "tr": "Beğenmenize sevindim! Başka bir şey getirebilir miyim?",
       "de": "Es freut mich, dass es Ihnen gefällt! Kann ich noch etwas bringen?",
       "es": "¡Me alegra que le haya gustado! ¿Puedo traerle algo más?",
+      "pt": "Fico feliz que você gostou! Posso trazer mais alguma coisa?",
       "hint": "Memnuniyetini belirt ve sor"
     },
     {
@@ -84,6 +96,7 @@
       "tr": "Hayır, teşekkürler. Hesabı alabilir miyim, lütfen?",
       "de": "Nein, danke. Kann ich bitte die Rechnung haben?",
       "es": "No, gracias. ¿Me puede traer la cuenta, por favor?",
+      "pt": "Não, obrigado. Pode me trazer a conta, por favor?",
       "hint": "Reddet ve hesap iste"
     }
   ]
