@@ -1,0 +1,82 @@
+{
+  "id": "zoo-a1",
+  "title": "Hayvanat Bahçesinde",
+  "emoji": "🦁",
+  "level": "A1",
+  "category": "leisure",
+  "roles": ["Kartal", "Emir"],
+  "lines": [
+    {
+      "speaker": "Kartal",
+      "en": "Look, Emir! There is a big lion!",
+      "tr": "Bak, Emir! Kocaman bir aslan var!",
+      "de": "Schau, Emir! Da ist ein großer Löwe!",
+      "es": "¡Mira, Emir! ¡Hay un león grande!",
+      "pt": "Olha, Emir! Tem um leão grande!",
+      "hint": "Bir hayvana dikkat çek"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Wow! It is very big. Is it dangerous?",
+      "tr": "Vay! Çok büyük. Tehlikeli mi?",
+      "de": "Wow! Er ist sehr groß. Ist er gefährlich?",
+      "es": "¡Guau! Es muy grande. ¿Es peligroso?",
+      "pt": "Uau! É muito grande. É perigoso?",
+      "hint": "Şaşır ve sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Yes, but it is behind the fence. We are safe.",
+      "tr": "Evet, ama çitin arkasında. Biz güvendeyiz.",
+      "de": "Ja, aber er ist hinter dem Zaun. Wir sind sicher.",
+      "es": "Sí, pero está detrás de la valla. Estamos a salvo.",
+      "pt": "Sim, mas está atrás da cerca. Estamos seguros.",
+      "hint": "Açıkla ve rahatlat"
+    },
+    {
+      "speaker": "Emir",
+      "en": "What animal do you want to see now?",
+      "tr": "Şimdi hangi hayvanı görmek istiyorsun?",
+      "de": "Welches Tier möchtest du jetzt sehen?",
+      "es": "¿Qué animal quieres ver ahora?",
+      "pt": "Que animal você quer ver agora?",
+      "hint": "Tercih sor"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I want to see the monkeys. They are funny!",
+      "tr": "Maymunları görmek istiyorum. Çok komikler!",
+      "de": "Ich möchte die Affen sehen. Sie sind lustig!",
+      "es": "Quiero ver los monos. ¡Son divertidos!",
+      "pt": "Eu quero ver os macacos. Eles são engraçados!",
+      "hint": "Tercihini ve nedenini söyle"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Me too! Look, they are eating bananas.",
+      "tr": "Ben de! Bak, muz yiyorlar.",
+      "de": "Ich auch! Schau, sie essen Bananen.",
+      "es": "¡Yo también! Mira, están comiendo plátanos.",
+      "pt": "Eu também! Olha, eles estão comendo bananas.",
+      "hint": "Aynı fikirde ol ve gözlem yap"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I am hungry too. Shall we buy some ice cream?",
+      "tr": "Ben de açım. Dondurma alalım mı?",
+      "de": "Ich habe auch Hunger. Sollen wir ein Eis kaufen?",
+      "es": "Yo también tengo hambre. ¿Compramos un helado?",
+      "pt": "Eu também estou com fome. Vamos comprar um sorvete?",
+      "hint": "Durumunu söyle ve öneri yap"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Yes, please! This is a wonderful day at the zoo.",
+      "tr": "Evet, lütfen! Hayvanat bahçesinde harika bir gün.",
+      "de": "Ja, bitte! Das ist ein wunderbarer Tag im Zoo.",
+      "es": "¡Sí, por favor! Es un día maravilloso en el zoológico.",
+      "pt": "Sim, por favor! Este é um dia maravilhoso no zoológico.",
+      "hint": "Kabul et ve günü değerlendir"
+    }
+  ]
+}

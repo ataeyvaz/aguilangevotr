@@ -9,6 +9,8 @@ const DIALOGUES_META = [
   { id: 'restaurant', title: 'Restoranda Sipariş', emoji: '🍽️', lines: 10 },
   { id: 'school',     title: 'Okulda Tanışma',     emoji: '🏫', lines: 10 },
   { id: 'travel',     title: 'Seyahat Soruları',   emoji: '🗺️', lines: 10 },
+  { id: 'birthday',   title: 'Doğum Günü Partisi', emoji: '🎂', lines: 8  },
+  { id: 'zoo',        title: 'Hayvanat Bahçesinde', emoji: '🦁', lines: 8  },
 ]
 
 export default function DialogueScreen() {

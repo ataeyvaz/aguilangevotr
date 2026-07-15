@@ -1,0 +1,82 @@
+{
+  "id": "birthday-a1",
+  "title": "Doğum Günü Partisi",
+  "emoji": "🎂",
+  "level": "A1",
+  "category": "leisure",
+  "roles": ["Kartal", "Emir"],
+  "lines": [
+    {
+      "speaker": "Emir",
+      "en": "Happy birthday, Kartal! This is for you.",
+      "tr": "Doğum günün kutlu olsun, Kartal! Bu senin için.",
+      "de": "Alles Gute zum Geburtstag, Kartal! Das ist für dich.",
+      "es": "¡Feliz cumpleaños, Kartal! Esto es para ti.",
+      "pt": "Feliz aniversário, Kartal! Isto é para você.",
+      "hint": "Kutla ve hediye ver"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Thank you so much! What is it?",
+      "tr": "Çok teşekkür ederim! Bu ne?",
+      "de": "Vielen Dank! Was ist das?",
+      "es": "¡Muchas gracias! ¿Qué es?",
+      "pt": "Muito obrigado! O que é?",
+      "hint": "Teşekkür et ve merak et"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Open it! It is a big red ball.",
+      "tr": "Aç bakalım! Büyük kırmızı bir top.",
+      "de": "Mach es auf! Es ist ein großer roter Ball.",
+      "es": "¡Ábrelo! Es una pelota roja y grande.",
+      "pt": "Abra! É uma bola vermelha e grande.",
+      "hint": "Açmasını iste ve söyle"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "I love it! Let us play in the garden.",
+      "tr": "Bayıldım! Bahçede oynayalım.",
+      "de": "Ich liebe ihn! Lass uns im Garten spielen.",
+      "es": "¡Me encanta! Vamos a jugar en el jardín.",
+      "pt": "Eu adorei! Vamos brincar no jardim.",
+      "hint": "Sevdiğini söyle ve öner"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Great idea! But first, let us eat the cake.",
+      "tr": "Harika fikir! Ama önce pastayı yiyelim.",
+      "de": "Tolle Idee! Aber zuerst essen wir den Kuchen.",
+      "es": "¡Buena idea! Pero primero, comamos el pastel.",
+      "pt": "Ótima ideia! Mas primeiro, vamos comer o bolo.",
+      "hint": "Onayla ve yeni öneri yap"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "Yes! The cake is chocolate. It is my favourite.",
+      "tr": "Evet! Pasta çikolatalı. En sevdiğim.",
+      "de": "Ja! Der Kuchen ist Schokolade. Er ist mein Lieblingskuchen.",
+      "es": "¡Sí! El pastel es de chocolate. Es mi favorito.",
+      "pt": "Sim! O bolo é de chocolate. É o meu favorito.",
+      "hint": "Onayla ve tercihini söyle"
+    },
+    {
+      "speaker": "Emir",
+      "en": "Let us sing a song and blow the candles!",
+      "tr": "Bir şarkı söyleyelim ve mumları üfleyelim!",
+      "de": "Lass uns ein Lied singen und die Kerzen auspusten!",
+      "es": "¡Cantemos una canción y soplemos las velas!",
+      "pt": "Vamos cantar uma música e apagar as velas!",
+      "hint": "Kutlama öner"
+    },
+    {
+      "speaker": "Kartal",
+      "en": "This is the best birthday! Thank you, my friend.",
+      "tr": "Bu en güzel doğum günü! Teşekkürler, dostum.",
+      "de": "Das ist der beste Geburtstag! Danke, mein Freund.",
+      "es": "¡Este es el mejor cumpleaños! Gracias, amigo.",
+      "pt": "Este é o melhor aniversário! Obrigado, meu amigo.",
+      "hint": "Duygunu ifade et ve teşekkür et"
+    }
+  ]
+}
