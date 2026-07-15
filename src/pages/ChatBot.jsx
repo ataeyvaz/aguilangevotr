@@ -150,6 +150,19 @@ export default function ChatBot() {
             style={{ ...S.primary, opacity: loading || !cards.length ? 0.5 : 1 }}>
             {loading ? 'Yükleniyor...' : `Sohbete Başla (${cards.length} kelime)`}
           </button>
+
+          {/* Cümle Zinciri kısayolu */}
+          <button onClick={() => navigate('/chain')}
+            style={{ display: 'flex', alignItems: 'center', gap: 12, width: '100%',
+                     background: '#EFF8FF', border: '1.5px solid #BAE6FD', borderRadius: 14,
+                     padding: '14px 16px', cursor: 'pointer', textAlign: 'left', marginTop: 4 }}>
+            <span style={{ fontSize: 26 }}>🔗</span>
+            <div style={{ flex: 1 }}>
+              <div style={{ fontSize: 14, fontWeight: 800, color: '#0F172A' }}>Cümle Zinciri</div>
+              <div style={{ fontSize: 12, color: '#0891B2' }}>Botla adım adım cümle büyüt</div>
+            </div>
+            <span style={{ fontSize: 20, color: '#0891B2' }}>›</span>
+          </button>
         </div>
       </div>
     )
