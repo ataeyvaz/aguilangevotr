@@ -35,7 +35,7 @@ async function buildRounds(lang) {
       rounds.push({
         title: `${d.emoji || '💬'} ${d.title || ''}`,
         context: lines.slice(Math.max(0, bi - 2), bi).map((l, i) => ({
-          speaker: l.speaker, text: l[lang], me: l.speaker === d.roles?.[0],
+          speaker: l.speaker, text: l[lang], tr: l.tr, me: l.speaker === d.roles?.[0],
         })),
         blankSpeaker: lines[bi].speaker,
         blankMe: lines[bi].speaker === d.roles?.[0],
@@ -117,13 +117,13 @@ export default function DialogueComplete() {
         {/* Sohbet bağlamı */}
         <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
           {r.context.map((l, i) => (
-            <Bubble key={i} me={l.me} text={l.text} />
+            <Bubble key={i} me={l.me} text={l.text} tr={l.tr} />
           ))}
           {/* Boşluk */}
-          <Bubble me={r.blankMe} text="❓ ???" blank />
+          <Bubble me={r.blankMe} text="❓ ???" tr={r.tr} blank />
         </div>
 
-        {!picked && <div style={S.hint}>👇 Eksik repliği seç</div>}
+        {!picked && <div style={S.hint}>👇 "{r.tr}" anlamına gelen repliği seç</div>}
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
           {r.options.map((opt, i) => {
@@ -155,7 +155,7 @@ export default function DialogueComplete() {
   )
 }
 
-function Bubble({ me, text, blank }) {
+function Bubble({ me, text, tr, blank }) {
   return (
     <div style={{ display: 'flex', flexDirection: me ? 'row-reverse' : 'row', alignItems: 'flex-end', gap: 8 }}>
       <div style={S.avatar}>{me ? '🦅' : '🧑'}</div>
@@ -164,9 +164,11 @@ function Bubble({ me, text, blank }) {
         background: blank ? '#FFFBEB' : (me ? '#FEF3C7' : '#F1F5F9'),
         border: `1px solid ${blank ? '#FDE68A' : (me ? '#FDE68A' : '#E2E8F0')}`,
         borderRadius: me ? '16px 4px 16px 16px' : '4px 16px 16px 16px',
-        padding: '10px 14px', fontSize: 15, fontWeight: 600,
-        color: blank ? '#92400E' : '#0F172A',
-      }}>{text}</div>
+        padding: '10px 14px',
+      }}>
+        <div style={{ fontSize: 15, fontWeight: 600, color: blank ? '#92400E' : '#0F172A' }}>{text}</div>
+        {tr && <div style={{ fontSize: 12, color: '#94A3B8', marginTop: 3, fontStyle: 'italic' }}>{tr}</div>}
+      </div>
     </div>
   )
 }

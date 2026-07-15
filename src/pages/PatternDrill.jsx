@@ -84,15 +84,22 @@ export default function PatternDrill() {
           {p.slots.map((slot, i) => {
             const done = made.includes(i)
             const filled = skeleton.replace('___', T(slot, lang))
+            const filledTr = p.tr.replace('___', slot.tr)
             return (
               <button key={i} onClick={() => done ? speak(filled) : produce(slot, i)}
                 style={{ ...S.slotBtn, ...(done ? S.slotDone : {}) }}>
-                <span style={{ fontWeight: 800, color: done ? '#15803D' : '#0891B2' }}>
+                <span style={{ fontWeight: 800, color: done ? '#15803D' : '#0891B2', flexShrink: 0 }}>
                   {T(slot, lang)}
                 </span>
                 {done
-                  ? <span style={{ flex: 1, textAlign: 'left', color: '#334155' }}>→ {filled} 🔊</span>
-                  : <span style={{ flex: 1, textAlign: 'left', color: '#94A3B8' }}>dokun ve cümle kur</span>}
+                  ? <span style={{ flex: 1, textAlign: 'left' }}>
+                      <span style={{ color: '#0F172A', fontWeight: 600 }}>{filled}</span> 🔊
+                      <span style={{ display: 'block', fontSize: 12, color: '#94A3B8', fontStyle: 'italic' }}>{filledTr}</span>
+                    </span>
+                  : <span style={{ flex: 1, textAlign: 'left', color: '#94A3B8' }}>
+                      dokun ve cümle kur
+                      <span style={{ display: 'block', fontSize: 12, color: '#CBD5E1' }}>{filledTr}</span>
+                    </span>}
               </button>
             )
           })}
