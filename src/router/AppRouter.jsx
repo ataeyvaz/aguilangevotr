@@ -28,6 +28,7 @@ import ScenarioRunner from '../pages/ScenarioRunner'
 import QuizCore from '../pages/QuizCore'
 import SentenceBuilder from '../pages/SentenceBuilder'
 import Shadowing from '../pages/Shadowing'
+import FillBlank from '../pages/FillBlank'
 
 // ── Akıllı yönlendirme (root "/") ────────────────────────
 function SmartRoot() {
@@ -57,6 +58,7 @@ export default function AppRouter() {
         <Route path="/quiz-core"       element={<QuizCore />} />
         <Route path="/sentence"        element={<SentenceBuilder />} />
         <Route path="/shadow"          element={<Shadowing />} />
+        <Route path="/fill-blank"      element={<FillBlank />} />
         <Route path="/language"        element={<LanguageSelect />} />
         <Route path="/settings"          element={<ParentGate />} />
         <Route path="/settings/panel"  element={<ParentPanel />} />

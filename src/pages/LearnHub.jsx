@@ -104,10 +104,11 @@ export default function LearnHub() {
         </button>
 
         {/* Hızlı linkler — 2x2 */}
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px', marginTop: '4px' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))', gap: '10px', marginTop: '4px' }}>
           {[
             { to: '/sentence',  emoji: '🧩', title: 'Cümle Kur',   sub: 'Kelimeleri sıraya diz' },
             { to: '/shadow',    emoji: '🗣️', title: 'Söyle',       sub: 'Dinle & tekrarla' },
+            { to: '/fill-blank',emoji: '✏️', title: 'Boşluk Doldur', sub: 'Eksik kelimeyi bul' },
             { to: '/scenarios', emoji: '🎬', title: 'Senaryolar',  sub: 'Rol değişimli pratik' },
             { to: '/chatbot',   emoji: '🤖', title: 'Sohbet',      sub: 'Seç · Yaz · Konuş' },
             { to: '/dialogue',  emoji: '💬', title: t('dialogues'), sub: t('conversation scenarios') },
