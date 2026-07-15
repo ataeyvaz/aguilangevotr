@@ -26,6 +26,7 @@ import ChatBot        from '../pages/ChatBot'
 import ScenariosPage from '../pages/ScenariosPage'
 import ScenarioRunner from '../pages/ScenarioRunner'
 import QuizCore from '../pages/QuizCore'
+import SentenceBuilder from '../pages/SentenceBuilder'
 
 // ── Akıllı yönlendirme (root "/") ────────────────────────
 function SmartRoot() {
@@ -53,6 +54,7 @@ export default function AppRouter() {
         <Route path="/scenarios"       element={<ScenariosPage />} />
         <Route path="/scenario"        element={<ScenarioRunner />} />
         <Route path="/quiz-core"       element={<QuizCore />} />
+        <Route path="/sentence"        element={<SentenceBuilder />} />
         <Route path="/language"        element={<LanguageSelect />} />
         <Route path="/settings"          element={<ParentGate />} />
         <Route path="/settings/panel"  element={<ParentPanel />} />

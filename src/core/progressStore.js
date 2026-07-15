@@ -169,6 +169,14 @@ function bumpLegacyDaily(isCorrect) {
   } catch { /* yoksay */ }
 }
 
+/** Kelimeye bağlı olmayan XP ekle (cümle kurma, konuşma vb.). */
+export function addXp(n = 5) {
+  const store = load()
+  store.meta.xp += n
+  bumpDaily(store)
+  save()
+}
+
 function bumpDaily(store) {
   const t = today()
   store.meta.daily[t] = (store.meta.daily[t] || 0) + 1
