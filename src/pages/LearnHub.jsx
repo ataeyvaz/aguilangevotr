@@ -106,12 +106,14 @@ export default function LearnHub() {
         {/* Hızlı linkler — 2x2 */}
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(150px, 1fr))', gap: '10px', marginTop: '4px' }}>
           {[
+            { to: '/pattern',   emoji: '🔧', title: 'Kalıp',       sub: 'Cümle yapısını öğren' },
             { to: '/sentence',  emoji: '🧩', title: 'Cümle Kur',   sub: 'Kelimeleri sıraya diz' },
-            { to: '/shadow',    emoji: '🗣️', title: 'Söyle',       sub: 'Dinle & tekrarla' },
+            { to: '/chain',     emoji: '🔗', title: 'Cümle Zinciri', sub: 'Cümleyi uzat' },
             { to: '/fill-blank',emoji: '✏️', title: 'Boşluk Doldur', sub: 'Eksik kelimeyi bul' },
+            { to: '/shadow',    emoji: '🗣️', title: 'Söyle',       sub: 'Dinle & tekrarla' },
+            { to: '/complete',  emoji: '💬', title: 'Diyalog Tamamla', sub: 'Eksik repliği seç' },
             { to: '/scenarios', emoji: '🎬', title: 'Senaryolar',  sub: 'Rol değişimli pratik' },
             { to: '/chatbot',   emoji: '🤖', title: 'Sohbet',      sub: 'Seç · Yaz · Konuş' },
-            { to: '/dialogue',  emoji: '💬', title: t('dialogues'), sub: t('conversation scenarios') },
             { to: '/quiz',      emoji: '🎯', title: t('quiz'),      sub: t('test your knowledge') },
           ].map(c => (
             <button key={c.to}

@@ -29,6 +29,9 @@ import QuizCore from '../pages/QuizCore'
 import SentenceBuilder from '../pages/SentenceBuilder'
 import Shadowing from '../pages/Shadowing'
 import FillBlank from '../pages/FillBlank'
+import PatternDrill from '../pages/PatternDrill'
+import ChainMode from '../pages/ChainMode'
+import DialogueComplete from '../pages/DialogueComplete'
 
 // ── Akıllı yönlendirme (root "/") ────────────────────────
 function SmartRoot() {
@@ -59,6 +62,9 @@ export default function AppRouter() {
         <Route path="/sentence"        element={<SentenceBuilder />} />
         <Route path="/shadow"          element={<Shadowing />} />
         <Route path="/fill-blank"      element={<FillBlank />} />
+        <Route path="/pattern"         element={<PatternDrill />} />
+        <Route path="/chain"           element={<ChainMode />} />
+        <Route path="/complete"        element={<DialogueComplete />} />
         <Route path="/language"        element={<LanguageSelect />} />
         <Route path="/settings"          element={<ParentGate />} />
         <Route path="/settings/panel"  element={<ParentPanel />} />
