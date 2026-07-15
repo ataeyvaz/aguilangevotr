@@ -12,41 +12,10 @@ import { TARGET_LANGS } from '../core/languages'
 import { useSpeech } from '../hooks/useSpeech'
 import { checkAnswer } from '../utils/fuzzyMatch'
 import { addXp } from '../core/progressStore'
+import { collectSentences } from '../data/sentenceBank'
 import * as sfx from '../core/sfx'
 
-const dialogueMods = import.meta.glob('../data/dialogues/*.json')
-const scenarioMods = import.meta.glob('../data/scenarios/*.json')
-
 const words = (s) => (s || '').trim().split(/\s+/).filter(Boolean)
-
-// Cümleleri diyalog + senaryolardan topla (aktif dil için)
-async function collectSentences(lang) {
-  const out = []
-  const push = (tr, target) => {
-    if (!tr || !target) return
-    const w = words(target)
-    if (w.length < 2 || w.length > 8) return   // çocuk için 2–8 kelime
-    out.push({ tr, target })
-  }
-
-  const dlgs = await Promise.all(Object.values(dialogueMods).map(fn => fn()))
-  for (const m of dlgs) {
-    for (const line of (m.default?.lines || [])) push(line.tr, line[lang])
-  }
-  const scns = await Promise.all(Object.values(scenarioMods).map(fn => fn()))
-  for (const m of scns) {
-    const s = m.default
-    for (const ex of (s?.teach || [])) push(ex.tr, ex[lang])
-    for (const qa of (s?.qa || [])) {
-      push(qa.prompt?.tr, qa.prompt?.[lang])
-      push(qa.answer?.tr, qa.answer?.[lang])
-    }
-  }
-  // benzersiz (hedefe göre)
-  const seen = new Set()
-  return out.filter(s => { const k = s.target.toLowerCase(); if (seen.has(k)) return false; seen.add(k); return true })
-}
-
 const shuffle = (a) => [...a].sort(() => Math.random() - 0.5)
 
 export default function SentenceBuilder() {
@@ -65,7 +34,7 @@ export default function SentenceBuilder() {
   useEffect(() => {
     let alive = true
     setLoading(true)
-    collectSentences(lang).then(s => { if (alive) { setPool(s); setLoading(false) } })
+    collectSentences(lang, { maxW: 8 }).then(s => { if (alive) { setPool(s); setLoading(false) } })
     return () => { alive = false }
   }, [lang])
 
