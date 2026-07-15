@@ -16,7 +16,7 @@ export default function GrammarLessonPage() {
   const lang            = JSON.parse(localStorage.getItem('aguilang_active_lang') || '{"id":"en"}')
 
   const profile   = JSON.parse(localStorage.getItem('aguilang_active_profile') || '{}')
-  const { recordGrammar } = useProgress(profile.id || profile.name || 'default')
+  const { recordGrammar } = useProgress()
 
   const [lesson,    setLesson]    = useState(null)
   const [loading,   setLoading]   = useState(true)

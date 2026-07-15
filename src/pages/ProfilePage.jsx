@@ -56,7 +56,7 @@ export default function ProfilePage() {
   const profile   = JSON.parse(localStorage.getItem('aguilang_active_profile') || '{}')
   const profileId = profile.id || profile.name || 'default'
 
-  const { earnedBadges } = useProgress(profileId)
+  const { earnedBadges } = useProgress()
   const { settings, save } = useSettings()
   const { uiLanguage, setUiLanguage } = useApp()
   const { t } = useTranslation()
@@ -279,7 +279,7 @@ export default function ProfilePage() {
 
         {/* ── 2. Badges ───────────────────────────────────── */}
         <div style={card}>
-          <div style={sectionTitle}>🏅 Badges</div>
+          <div style={sectionTitle}>🏅 Rozetler ({earnedBadges.length}/{BADGE_DEFS.length})</div>
           <div style={{
             display: 'grid',
             gridTemplateColumns: 'repeat(4, 1fr)',

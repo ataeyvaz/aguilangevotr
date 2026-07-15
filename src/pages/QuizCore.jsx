@@ -13,7 +13,7 @@ import { useWords, availableLevels } from '../core/contentStore'
 import { useLang } from '../core/langState'
 import { TARGET_LANGS } from '../core/languages'
 import { buildQuiz, grade, QUIZ_MODES } from '../core/quizEngine'
-import { getDue, recordAnswer } from '../core/progressStore'
+import { getDue, recordAnswer, recordQuizDone } from '../core/progressStore'
 import { useSpeech } from '../hooks/useSpeech'
 import * as sfx from '../core/sfx'
 
@@ -76,7 +76,11 @@ export default function QuizCore() {
   }
 
   const next = () => {
-    if (qi + 1 >= questions.length) { sfx.reward(); setStarted(false); setQuestions([]) }
+    if (qi + 1 >= questions.length) {
+      sfx.reward()
+      recordQuizDone(score >= questions.length)   // tam puan → perfect
+      setStarted(false); setQuestions([])
+    }
     else { setQi(i => i + 1); setPicked(null); setTyped(''); setResult(null) }
   }
 

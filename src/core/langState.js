@@ -9,6 +9,7 @@
  */
 import { useState, useEffect } from 'react'
 import { DEFAULT_TARGET, isValidTarget } from './languages'
+import { recordLangUsed } from './progressStore'
 
 const KEY = 'aguilang_lang'          // ikincil (senkron tutulur)
 const ACTIVE = 'aguilang_active_lang' // ana anahtar (eski + yeni sayfalar)
@@ -45,6 +46,7 @@ export function setLang(id) {
   if (!isValidTarget(id)) return
   localStorage.setItem(KEY, id)
   localStorage.setItem(ACTIVE, JSON.stringify({ id }))
+  try { recordLangUsed(id) } catch { /* yoksay */ }
   listeners.forEach(fn => fn(id))
   // Eski sayfaların dinlediği olayı da tetikle (QuizScreen/FlashCards sync)
   try { window.dispatchEvent(new Event('aguilang_lang_changed')) } catch { /* yoksay */ }

@@ -26,7 +26,10 @@ const addDays = (n) => { const d = new Date(); d.setDate(d.getDate() + n); retur
 let _store = null
 
 function blank() {
-  return { version: VERSION, words: {}, meta: { xp: 0, streakDays: 0, lastActiveDate: null, daily: {}, scenarios: {} } }
+  return { version: VERSION, words: {}, meta: {
+    xp: 0, streakDays: 0, lastActiveDate: null, daily: {}, scenarios: {},
+    quizzes: 0, perfectQuizzes: 0, langsUsed: [], grammarDone: 0, badges: [],
+  } }
 }
 
 function migrateLegacy(store) {
@@ -244,4 +247,60 @@ export function markScenarioDone(id) {
 /** Tamamlanan senaryo id'lerinin kümesi. */
 export function getDoneScenarios() {
   return load().meta.scenarios || {}
+}
+
+// ─── Rozet için sayaçlar ──────────────────────────────────
+function m(store) {
+  // eski depolarda eksik alanları tamamla
+  const d = store.meta
+  if (d.quizzes == null) d.quizzes = 0
+  if (d.perfectQuizzes == null) d.perfectQuizzes = 0
+  if (!Array.isArray(d.langsUsed)) d.langsUsed = []
+  if (d.grammarDone == null) d.grammarDone = 0
+  if (!Array.isArray(d.badges)) d.badges = []
+  return d
+}
+
+export function recordQuizDone(perfect = false) {
+  const store = load(); const d = m(store)
+  d.quizzes += 1
+  if (perfect) d.perfectQuizzes += 1
+  save()
+}
+
+export function recordLangUsed(id) {
+  const store = load(); const d = m(store)
+  if (id && !d.langsUsed.includes(id)) { d.langsUsed.push(id); save() }
+}
+
+export function recordGrammarDone() {
+  const store = load(); const d = m(store)
+  d.grammarDone += 1
+  save()
+}
+
+/** BADGE_DEFS.check(...) için birleşik istatistik nesnesi. */
+export function getBadgeStats() {
+  const store = load(); const d = m(store)
+  return {
+    totalPoints:     d.xp,
+    totalCards:      Object.keys(store.words).length,
+    totalQuizzes:    d.quizzes,
+    perfectQuizzes:  d.perfectQuizzes,
+    streak:          d.streakDays,
+    languagesUsed:   d.langsUsed,
+    grammarCompleted: d.grammarDone,
+    scenariosDone:   Object.keys(store.meta.scenarios || {}).length,
+    gamesPlayed:     [],
+    earnedBadges:    d.badges,
+  }
+}
+
+/** Yeni kazanılan rozet id'lerini kaydet. */
+export function awardBadges(ids) {
+  if (!ids || !ids.length) return
+  const store = load(); const d = m(store)
+  let changed = false
+  for (const id of ids) if (!d.badges.includes(id)) { d.badges.push(id); changed = true }
+  if (changed) save()
 }
