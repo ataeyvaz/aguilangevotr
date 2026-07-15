@@ -4,6 +4,7 @@ const SETTINGS_KEY = 'aguilang_settings'
 
 export const DEFAULT_SETTINGS = {
   ttsEnabled:     true,
+  sfxEnabled:     true,   // ses efektleri (doğru/yanlış/ödül)
   ttsRate:        0.9,    // 0.5 – 1.5
   dailyCardGoal:  10,     // hedef kart sayısı
   dailyQuizGoal:  1,      // hedef quiz sayısı

@@ -15,6 +15,7 @@ import { TARGET_LANGS } from '../core/languages'
 import { buildQuiz, grade, QUIZ_MODES } from '../core/quizEngine'
 import { getDue, recordAnswer } from '../core/progressStore'
 import { useSpeech } from '../hooks/useSpeech'
+import * as sfx from '../core/sfx'
 
 const CAT_LABELS = {
   all: 'Tümü', food: 'Yiyecek', animals: 'Hayvanlar', colors: 'Renkler', numbers: 'Sayılar',
@@ -70,12 +71,12 @@ export default function QuizCore() {
     if (result) return
     const g = grade(q, given)
     setResult(g)
-    if (g.correct) setScore(s => s + 1)
+    if (g.correct) { setScore(s => s + 1); sfx.correct() } else sfx.wrong()
     recordAnswer(q.id, g.correct, g.correct ? 4 : 0)
   }
 
   const next = () => {
-    if (qi + 1 >= questions.length) { setStarted(false); setQuestions([]) }
+    if (qi + 1 >= questions.length) { sfx.reward(); setStarted(false); setQuestions([]) }
     else { setQi(i => i + 1); setPicked(null); setTyped(''); setResult(null) }
   }
 

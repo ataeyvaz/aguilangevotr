@@ -4,6 +4,7 @@ import { useTranslation } from '../i18n/translations'
 import { loadUpToLevel } from '../core/contentStore'
 import { getDue, recordAnswer as coreRecord, getStats as coreStats } from '../core/progressStore'
 import { useLang } from '../core/langState'
+import * as sfx from '../core/sfx'
 
 const CATEGORIES = [
   'all', 'food', 'animals', 'colors', 'numbers',
@@ -134,6 +135,7 @@ export default function Study() {
 
   const handleAnswer = useCallback((isCorrect, quality) => {
     if (!word) return
+    if (isCorrect) sfx.correct(); else sfx.wrong()
     const srs = coreRecord(word.id, isCorrect, quality)
     const next = [...answers, { word: word.tr, isCorrect, wasNewMastered: srs.status === 'mastered' }]
     setAnswers(next)

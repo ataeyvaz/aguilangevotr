@@ -4,6 +4,7 @@ import { useSpeech } from '../hooks/useSpeech'
 import { checkAnswer, getPronunciationScore } from '../utils/fuzzyMatch'
 import { useLang } from '../core/langState'
 import { markScenarioDone } from '../core/progressStore'
+import * as sfx from '../core/sfx'
 
 const T = (obj, langId) => obj?.[langId] || obj?.en || ''
 
@@ -135,6 +136,7 @@ function QAStage({ data, lang, speak, isSpeaking, startListening, stopListening,
     })
     const level = best >= 80 ? 'excellent' : best >= 55 ? 'good' : 'tryagain'
     setResult({ score: best, level })
+    if (best >= 55) sfx.correct(); else sfx.wrong()
     // Doğruysa: çocuk sorduysa botun cevabını seslendir
     if (best >= 55 && childAsks) {
       setTimeout(() => speak(T(item.answer, lang.id)), 500)
@@ -223,7 +225,7 @@ function GenerateStage({ data, lang, speak, onDone }) {
     // Türetmecede tam eşleşme şart değil — anlamlı bir cümle kabul
     const ok = r.match || r.score >= 0.6
     setResult({ ok, score: Math.round((r.score || 0) * 100) })
-    if (ok) setTimeout(() => speak(text), 300)
+    if (ok) { sfx.correct(); setTimeout(() => speak(text), 300) } else sfx.wrong()
   }
 
   const next = () => {
@@ -310,7 +312,7 @@ function GenerateStage({ data, lang, speak, onDone }) {
 // ══════════════════════════════════════════════════════
 function DoneStage({ data, onBack }) {
   const [isNew, setIsNew] = useState(false)
-  useEffect(() => { setIsNew(markScenarioDone(data.id)) }, []) // eslint-disable-line
+  useEffect(() => { setIsNew(markScenarioDone(data.id)); sfx.reward() }, []) // eslint-disable-line
   return (
     <div style={{ ...S.body, alignItems: 'center', textAlign: 'center', paddingTop: '48px' }}>
       <div style={{ fontSize: '72px' }}>🏆</div>

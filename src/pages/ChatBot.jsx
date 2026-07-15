@@ -17,6 +17,7 @@ import { TARGET_LANGS } from '../core/languages'
 import { buildQuestion, grade } from '../core/quizEngine'
 import { recordAnswer } from '../core/progressStore'
 import { useSpeech } from '../hooks/useSpeech'
+import * as sfx from '../core/sfx'
 
 const PRAISE = ['Harika! 🎉', 'Süper! 👏', 'Çok iyi! ⭐', 'Mükemmel! 💪', 'Aferin! 🌟']
 const RETRY  = ['Az kaldı 🙂', 'Neredeyse! ', 'Yaklaştın 💡']
@@ -99,7 +100,7 @@ export default function ChatBot() {
     if (!q || answered) return
     const g = grade(q, given)
     setAnswered(true)
-    if (g.correct) setScore(s => s + 1)
+    if (g.correct) { setScore(s => s + 1); sfx.correct() } else sfx.wrong()
     recordAnswer(q.id, g.correct, g.correct ? 4 : 0)
     setMessages(prev => [...prev,
       { from: 'user', text: given, correct: g.correct },
@@ -109,7 +110,7 @@ export default function ChatBot() {
   }
 
   const next = () => {
-    if (qi + 1 >= queue.length) setPhase('summary')
+    if (qi + 1 >= queue.length) { sfx.reward(); setPhase('summary') }
     else setQi(i => i + 1)
   }
 

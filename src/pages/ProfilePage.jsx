@@ -453,7 +453,7 @@ export default function ProfilePage() {
           {/* TTS Toggle */}
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '18px', marginTop: '16px' }}>
             <div>
-              <div style={{ fontWeight: '600', color: '#0F172A', fontSize: '14px' }}>Text to Speech (TTS)</div>
+              <div style={{ fontWeight: '600', color: '#0F172A', fontSize: '14px' }}>Sesli Okuma</div>
               <div style={{ fontSize: '12px', color: '#94A3B8', marginTop: '2px' }}>Kelimeler otomatik sesli okunur</div>
             </div>
             <div
@@ -468,6 +468,32 @@ export default function ProfilePage() {
                 width: '18px', height: '18px', borderRadius: '50%', background: 'white',
                 position: 'absolute', top: '3px',
                 left: settings.ttsEnabled ? '23px' : '3px',
+                transition: 'left 0.2s',
+                boxShadow: '0 1px 3px rgba(0,0,0,0.2)',
+              }} />
+            </div>
+          </div>
+
+          <Divider />
+
+          {/* Ses Efektleri Toggle */}
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '18px', marginTop: '16px' }}>
+            <div>
+              <div style={{ fontWeight: '600', color: '#0F172A', fontSize: '14px' }}>Ses Efektleri 🔔</div>
+              <div style={{ fontSize: '12px', color: '#94A3B8', marginTop: '2px' }}>Doğru/yanlış/ödül sesleri</div>
+            </div>
+            <div
+              onClick={() => save({ sfxEnabled: settings.sfxEnabled === false })}
+              style={{
+                width: '44px', height: '24px', borderRadius: '12px', cursor: 'pointer',
+                background: settings.sfxEnabled !== false ? '#0891B2' : '#E2E8F0',
+                position: 'relative', transition: 'background 0.2s', flexShrink: 0,
+              }}
+            >
+              <div style={{
+                width: '18px', height: '18px', borderRadius: '50%', background: 'white',
+                position: 'absolute', top: '3px',
+                left: settings.sfxEnabled !== false ? '23px' : '3px',
                 transition: 'left 0.2s',
                 boxShadow: '0 1px 3px rgba(0,0,0,0.2)',
               }} />
