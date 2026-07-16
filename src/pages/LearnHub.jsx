@@ -97,7 +97,7 @@ export default function LearnHub() {
               background: '#FFFBEB', borderRadius: '8px', padding: '3px 10px',
               fontSize: '12px', fontWeight: '600', color: '#92400E',
             }}>
-              {lang.name || lang.id.toUpperCase()} · 6 lessons
+              {lang.name || (lang.id || 'en').toUpperCase()} · 6 lessons
             </div>
           </div>
           <div style={{ fontSize: '22px', color: '#F59E0B', flexShrink: 0 }}>›</div>

@@ -121,8 +121,12 @@ export function useSpeech(langId) {
   }, [ttsSupported])
 
   useEffect(() => {
-    return () => { if (ttsSupported) window.speechSynthesis.cancel() }
-  }, [ttsSupported])
+    return () => {
+      // Native'de speechSynthesis YOKtur; sadece web'de ve varsa iptal et.
+      if (isNative()) { _tts?.stop?.().catch(() => {}) }
+      else if (typeof window !== 'undefined' && window.speechSynthesis) window.speechSynthesis.cancel()
+    }
+  }, [])
 
   // ── STT ──────────────────────────────────────────────
   const WebSpeechRecognition =

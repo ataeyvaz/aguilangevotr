@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useMemo } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { speak } from '../utils/audioManager'
 import { recordDaily } from '../hooks/useDailyStats'
@@ -6,6 +6,8 @@ import { CATEGORIES } from '../data/categories'
 import { useSpeech } from '../hooks/useSpeech'
 import { loadUpToLevel } from '../core/contentStore'
 import { useTranslation } from '../i18n/translations'
+import SentenceMini from '../components/SentenceMini'
+import { makeSentenceForWord } from '../core/wordSentence'
 
 const LEVELS = ['A1', 'A2', 'B1', 'B2']
 const LEVEL_COLORS = {
@@ -45,6 +47,7 @@ export default function FlashCards() {
   const [showWordList, setShowWordList] = useState(false)
   const [toastType, setToastType] = useState(null)
   const [selectedLevel, setSelectedLevel] = useState('A1')
+  const [showMini, setShowMini] = useState(false)
   const sttTimerRef = useRef(null)
 
   const [category, setCategory] = useState(() =>
@@ -126,6 +129,7 @@ export default function FlashCards() {
         : lvWords
       const pool = filtered.length ? filtered : lvWords
       setWords(pool.map(w => ({
+        ...w,   // pos/category/en/es/pt/de korunur (cümle üretimi için)
         id: w.id,
         word: w[lang.id] || w.en,
         tr: w.tr,
@@ -138,6 +142,8 @@ export default function FlashCards() {
   }, [selectedLevel, category.id, lang.id]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const current = words[index]
+  const miniSentence = useMemo(() => current ? makeSentenceForWord(current, lang.id) : null, [current, lang.id])
+  useEffect(() => { setShowMini(false) }, [index])
   const catMeta   = CATEGORIES.find(c => c.id === category.id)
   const grammarNote = selectedLevel === 'A1' ? catMeta?.grammarNote : null
   const grammarSentences = grammarNote?.sentences?.[lang.id] ?? grammarNote?.sentences?.en ?? []
@@ -476,6 +482,27 @@ export default function FlashCards() {
                 }}
               >
                 {isListening ? `🔴 ${t('listening')}...` : `🎤 ${t('say it')}`}
+              </button>
+            )}
+          </div>
+        )}
+
+        {/* Kelimeyle cümle kur (kart çevrilince) */}
+        {!showGrammar && flipped && current && miniSentence && (
+          <div style={{ width: '100%', maxWidth: '420px', margin: '0 auto' }}>
+            {showMini ? (
+              <SentenceMini tr={miniSentence.tr} target={miniSentence.target} lang={lang.id} fn={miniSentence.fn} />
+            ) : (
+              <button
+                onClick={() => setShowMini(true)}
+                style={{
+                  width: '100%', marginTop: '10px', padding: '12px',
+                  background: 'white', border: '1.5px solid #BAE6FD', borderRadius: '14px',
+                  cursor: 'pointer', fontFamily: "'Plus Jakarta Sans', sans-serif",
+                  fontSize: '14px', fontWeight: '700', color: '#0891B2',
+                }}
+              >
+                🔗 Bu kelimeyle cümle kur
               </button>
             )}
           </div>
