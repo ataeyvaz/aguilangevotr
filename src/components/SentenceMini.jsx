@@ -13,7 +13,7 @@ import * as sfx from '../core/sfx'
 const words = (s) => (s || '').trim().split(/\s+/).filter(Boolean)
 const shuffle = (a) => [...a].sort(() => Math.random() - 0.5)
 
-export default function SentenceMini({ tr, target, lang }) {
+export default function SentenceMini({ tr, target, lang, fn }) {
   const { speak, startListening, stopListening, isListening, transcript, sttSupported } = useSpeech(lang)
   const [picked, setPicked] = useState([])
   const [result, setResult] = useState(null)   // null | 'ok' | 'wrong'
@@ -21,6 +21,9 @@ export default function SentenceMini({ tr, target, lang }) {
   const heardRef = useRef(false)
   const bank = useMemo(() => shuffle(words(target)), [target])
   const built = picked.join(' ')
+
+  // Hedef cümle değişince (yeni kelime veya "başka cümle") paneli sıfırla
+  useEffect(() => { setPicked([]); setResult(null); setSayResult(null); heardRef.current = false }, [target])
 
   const check = () => {
     if (result === 'ok') return
@@ -48,7 +51,7 @@ export default function SentenceMini({ tr, target, lang }) {
 
   return (
     <div style={S.wrap}>
-      <div style={S.head}>🔗 Bu kelimeyle cümle kur</div>
+      <div style={S.head}>🔗 Bu kelimeyle cümle kur{fn ? ` · ${fn}` : ''}</div>
       <div style={S.tr}>“{tr}”</div>
 
       {/* Dinle & Söyle — modeli duy, sonra tekrarla */}

@@ -90,6 +90,7 @@ export default function Study() {
   const [answers, setAnswers] = useState([])
   const [stats,   setStats]   = useState(null)
   const [showMini, setShowMini] = useState(false)   // "cümle kur" paneli açık mı
+  const [miniSeed, setMiniSeed] = useState(0)        // farklı cümle yapısı için
 
   // Çekirdek: A1 kelimelerini tek kaynaktan yükle
   useEffect(() => {
@@ -121,7 +122,7 @@ export default function Study() {
 
   const word        = sessionWords[idx] ?? null
   const progressPct = TOTAL > 0 ? Math.round((idx / TOTAL) * 100) : 0
-  const miniSentence = useMemo(() => word ? makeSentenceForWord(word, targetLang) : null, [word, targetLang])
+  const miniSentence = useMemo(() => word ? makeSentenceForWord(word, targetLang) : null, [word, targetLang, miniSeed])
 
   // Yeni kelimeye geçince cümle panelini kapat
   useEffect(() => { setShowMini(false) }, [idx])
@@ -431,7 +432,14 @@ export default function Study() {
             {/* ── Kelimeyle cümle kur (bölümden çıkmadan) ── */}
             {miniSentence && (
               showMini ? (
-                <SentenceMini tr={miniSentence.tr} target={miniSentence.target} lang={targetLang} />
+                <>
+                  <SentenceMini tr={miniSentence.tr} target={miniSentence.target} lang={targetLang} fn={miniSentence.fn} />
+                  <button onClick={() => setMiniSeed(s => s + 1)}
+                    className="w-full py-2 mb-3 text-cyan-600 text-sm font-bold"
+                    style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}>
+                    🔄 Başka bir cümle dene
+                  </button>
+                </>
               ) : (
                 <button
                   onClick={() => setShowMini(true)}
