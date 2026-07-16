@@ -5,6 +5,8 @@ import { loadUpToLevel } from '../core/contentStore'
 import { getDue, recordAnswer as coreRecord, getStats as coreStats } from '../core/progressStore'
 import { useLang } from '../core/langState'
 import * as sfx from '../core/sfx'
+import SentenceMini from '../components/SentenceMini'
+import { makeSentenceForWord } from '../core/wordSentence'
 
 const CATEGORIES = [
   'all', 'food', 'animals', 'colors', 'numbers',
@@ -87,6 +89,7 @@ export default function Study() {
   const [idx,     setIdx]     = useState(0)
   const [answers, setAnswers] = useState([])
   const [stats,   setStats]   = useState(null)
+  const [showMini, setShowMini] = useState(false)   // "cümle kur" paneli açık mı
 
   // Çekirdek: A1 kelimelerini tek kaynaktan yükle
   useEffect(() => {
@@ -118,6 +121,10 @@ export default function Study() {
 
   const word        = sessionWords[idx] ?? null
   const progressPct = TOTAL > 0 ? Math.round((idx / TOTAL) * 100) : 0
+  const miniSentence = useMemo(() => word ? makeSentenceForWord(word, targetLang) : null, [word, targetLang])
+
+  // Yeni kelimeye geçince cümle panelini kapat
+  useEffect(() => { setShowMini(false) }, [idx])
 
   // Ön yüze geçince TR sesini otomatik çal
   useEffect(() => {
@@ -420,6 +427,23 @@ export default function Study() {
                 ✅ {t('easy')}
               </button>
             </div>
+
+            {/* ── Kelimeyle cümle kur (bölümden çıkmadan) ── */}
+            {miniSentence && (
+              showMini ? (
+                <SentenceMini tr={miniSentence.tr} target={miniSentence.target} lang={targetLang} />
+              ) : (
+                <button
+                  onClick={() => setShowMini(true)}
+                  className="w-full py-3 mb-3 bg-white border-2 border-cyan-200 hover:bg-cyan-50
+                             text-cyan-700 font-bold text-sm rounded-2xl transition-all active:scale-95
+                             flex items-center justify-center gap-2"
+                  style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}
+                >
+                  🔗 Bu kelimeyle cümle kur
+                </button>
+              )
+            )}
 
             <button
               onClick={() => navigate('/scenarios')}
