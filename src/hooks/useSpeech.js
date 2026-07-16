@@ -35,6 +35,20 @@ function isNative() {
   }
 }
 
+// ── Native TTS eklentisi (lazy) ─────────────────────────────
+let _tts = null
+let _ttsReady = false
+let _ttsLoadPromise = null
+function ensureTts() {
+  if (_ttsReady) return Promise.resolve()
+  if (_ttsLoadPromise) return _ttsLoadPromise
+  _ttsLoadPromise = import('@capacitor-community/text-to-speech')
+    .then(mod => { _tts = mod.TextToSpeech })
+    .catch(() => { _tts = null })
+    .finally(() => { _ttsReady = true; _ttsLoadPromise = null })
+  return _ttsLoadPromise
+}
+
 /**
  * useSpeech — TTS + STT tek hook
  * Native (Android/iOS): @capacitor-community/speech-recognition
@@ -46,15 +60,35 @@ export function useSpeech(langId) {
 
   // ── TTS ──────────────────────────────────────────────
   const [isSpeaking, setIsSpeaking] = useState(false)
-  const ttsSupported = typeof window !== 'undefined' && 'speechSynthesis' in window
+  const ttsSupported = isNative() || (typeof window !== 'undefined' && 'speechSynthesis' in window)
 
   const speak = useCallback((text, { rate, pitch = 1.1, lang } = {}) => {
-    if (!ttsSupported) return
     const settings = readSettings()
     if (settings.ttsEnabled === false) return
     const finalRate = rate ?? settings.ttsRate ?? 0.85
     const finalLang = lang ?? locale
 
+    // ── Native (Android/iOS): Capacitor TTS eklentisi ──
+    // WebView'de window.speechSynthesis çalışmaz; native motoru kullan.
+    if (isNative()) {
+      setIsSpeaking(true)
+      ensureTts().then(() => {
+        if (!_tts) { setIsSpeaking(false); return }
+        _tts.stop().catch(() => {})
+        _tts.speak({
+          text,
+          lang: finalLang,
+          rate: finalRate,
+          pitch,
+          volume: 1.0,
+          category: 'playback',
+        }).catch(() => {}).finally(() => setIsSpeaking(false))
+      })
+      return
+    }
+
+    // ── Web: Web Speech API ──
+    if (!ttsSupported) return
     const trySpeak = () => {
       const voices = window.speechSynthesis.getVoices()
       if (voices.length === 0) {
@@ -81,7 +115,8 @@ export function useSpeech(langId) {
   }, [locale, ttsSupported])
 
   const stopSpeaking = useCallback(() => {
-    if (ttsSupported) window.speechSynthesis.cancel()
+    if (isNative()) { _tts?.stop?.().catch(() => {}) }
+    else if (ttsSupported) window.speechSynthesis.cancel()
     setIsSpeaking(false)
   }, [ttsSupported])
 
