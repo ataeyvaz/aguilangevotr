@@ -24,7 +24,8 @@ const shuffle = (a) => [...a].sort(() => Math.random() - 0.5)
 export default function Dictation() {
   const navigate = useNavigate()
   const [lang] = useLang()
-  const { speak, startListening, stopListening, isListening, transcript, sttSupported } = useSpeech(lang)
+  const [dictLang, setDictLang] = useState(lang)   // hangi dilde konuşuyorum (STT tanıma dili)
+  const { speak, startListening, stopListening, isListening, transcript, sttSupported } = useSpeech(dictLang)
 
   const [pool, setPool]   = useState([])
   const [loading, setLoading] = useState(true)
@@ -44,6 +45,11 @@ export default function Dictation() {
   }, [lang])
 
   const item = queue[qi]
+  // Dikte edilecek metin, seçilen dile göre: TR (kaynak) veya hedef dil
+  const dictText = item ? (dictLang === 'tr' ? item.tr : item.target) : ''
+  const dictInfo = dictLang === 'tr'
+    ? { flag: '🇹🇷', label: 'Türkçe' }
+    : { flag: TARGET_LANGS[dictLang]?.flag || '🏳️', label: TARGET_LANGS[dictLang]?.label || dictLang }
 
   const start = () => {
     setQueue(shuffle(pool).slice(0, 10)); setQi(0)
@@ -52,12 +58,15 @@ export default function Dictation() {
 
   // Yeni cümlede sıfırla
   useEffect(() => { setDictResult(null); setRecUrl(null); setListenedFlag(false) }, [qi])
+  // Dil değişince dikte sonucunu sıfırla
+  useEffect(() => { setDictResult(null); setListenedFlag(false) }, [dictLang])
 
-  // ── Dikte: STT sonucu geldiğinde değerlendir ──
+  // ── Dikte: STT sonucu geldiğinde değerlendir (seçilen dile göre) ──
   useEffect(() => {
     if (!transcript || isListening || !item || listenedFlag) return
     setListenedFlag(true)
-    const r = getPronunciationScore(transcript, item.target)
+    const target = dictLang === 'tr' ? item.tr : item.target
+    const r = getPronunciationScore(transcript, target)
     setDictResult({ score: r.score, text: transcript })
     if (r.score >= 55) { sfx.correct(); addXp(4) } else sfx.wrong()
   }, [transcript, isListening]) // eslint-disable-line
@@ -117,19 +126,30 @@ export default function Dictation() {
       <div style={S.body}>
         {/* Hedef cümle */}
         <div style={S.card}>
-          <button onClick={() => speak(item.target)} style={S.play}>🔊 Doğru sesi dinle</button>
-          <div style={S.target}>{item.target}</div>
-          <div style={S.tr}>{item.tr}</div>
+          <button onClick={() => speak(dictText)} style={S.play}>🔊 Doğru sesi dinle</button>
+          <div style={S.target}>{dictText}</div>
+          <div style={S.tr}>{dictLang === 'tr' ? item.target : item.tr}</div>
         </div>
 
         {/* 1) DİKTE (STT → metin) */}
         <div style={S.section}>
-          <div style={S.secLabel}>🎤 Dikte et — söyle, yazıya dönüşsün</div>
+          <div style={S.secLabel}>🎤 Hangi dilde konuşacaksın?</div>
+          <div style={{ display: 'flex', gap: 8 }}>
+            {[{ id: 'tr', flag: '🇹🇷', label: 'Türkçe' },
+              { id: lang, flag: TARGET_LANGS[lang]?.flag, label: TARGET_LANGS[lang]?.label }].map(o => (
+              <button key={o.id} onClick={() => setDictLang(o.id)}
+                style={{ ...S.langChip, ...(dictLang === o.id ? S.langChipOn : {}) }}>
+                {o.flag} {o.label}
+              </button>
+            ))}
+          </div>
+          <div style={{ fontSize: 12, color: '#94A3B8' }}>
+            {dictInfo.flag} <b>{dictInfo.label}</b> söyle — söylediğin yazıya dönüşecek</div>
           {sttSupported ? (
             <button onClick={handleDictate}
               style={{ ...S.act, background: isListening ? '#FEE2E2' : '#0891B2',
                        color: isListening ? '#DC2626' : 'white' }}>
-              {isListening ? '🔴 Dinliyorum... (durdurmak için dokun)' : '🎤 Dikte Et'}
+              {isListening ? '🔴 Dinliyorum... (durdurmak için dokun)' : `🎤 ${dictInfo.label} Dikte Et`}
             </button>
           ) : (
             <div style={S.warn}>⚠️ Bu cihazda ses tanıma desteklenmiyor</div>
@@ -197,6 +217,8 @@ const S = {
   tr: { fontSize: 14, color: '#94A3B8' },
   section: { background: 'white', border: '1px solid #E2E8F0', borderRadius: 14, padding: 14, display: 'flex', flexDirection: 'column', gap: 10 },
   secLabel: { fontSize: 12, fontWeight: 800, color: '#475569' },
+  langChip: { flex: 1, height: 40, border: '1.5px solid #E2E8F0', borderRadius: 10, background: 'white', color: '#475569', fontSize: 14, fontWeight: 700, cursor: 'pointer' },
+  langChipOn: { background: '#0891B2', borderColor: '#0891B2', color: 'white' },
   act: { height: 48, border: 'none', borderRadius: 12, fontSize: 14, fontWeight: 700, cursor: 'pointer', width: '100%' },
   live: { fontSize: 15, color: '#0891B2', fontStyle: 'italic', textAlign: 'center', fontWeight: 600 },
   result: { border: '1px solid', borderRadius: 10, padding: '10px 12px', textAlign: 'center' },
