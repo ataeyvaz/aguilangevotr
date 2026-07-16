@@ -4,9 +4,9 @@
  * Kelime öğrenme sırasında, o kelimeyle AYNI YERDE cümle kurmak için.
  * Kelimeleri sıraya diz → doğruysa ses + XP.
  */
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect, useRef } from 'react'
 import { useSpeech } from '../hooks/useSpeech'
-import { checkAnswer } from '../utils/fuzzyMatch'
+import { checkAnswer, getPronunciationScore } from '../utils/fuzzyMatch'
 import { addXp } from '../core/progressStore'
 import * as sfx from '../core/sfx'
 
@@ -14,9 +14,11 @@ const words = (s) => (s || '').trim().split(/\s+/).filter(Boolean)
 const shuffle = (a) => [...a].sort(() => Math.random() - 0.5)
 
 export default function SentenceMini({ tr, target, lang }) {
-  const { speak } = useSpeech(lang)
+  const { speak, startListening, stopListening, isListening, transcript, sttSupported } = useSpeech(lang)
   const [picked, setPicked] = useState([])
   const [result, setResult] = useState(null)   // null | 'ok' | 'wrong'
+  const [sayResult, setSayResult] = useState(null)  // { score } | null
+  const heardRef = useRef(false)
   const bank = useMemo(() => shuffle(words(target)), [target])
   const built = picked.join(' ')
 
@@ -30,10 +32,48 @@ export default function SentenceMini({ tr, target, lang }) {
 
   const reset = () => { setPicked([]); setResult(null) }
 
+  // ── Söyle: mikrofon → telaffuz puanı ──
+  const handleMic = () => {
+    if (isListening) { stopListening(); return }
+    setSayResult(null); heardRef.current = false
+    startListening()
+  }
+  useEffect(() => {
+    if (!transcript || isListening || heardRef.current) return
+    heardRef.current = true
+    const r = getPronunciationScore(transcript, target)
+    setSayResult(r)
+    if (r.score >= 55) { sfx.correct(); addXp(3) } else sfx.wrong()
+  }, [transcript, isListening]) // eslint-disable-line
+
   return (
     <div style={S.wrap}>
       <div style={S.head}>🔗 Bu kelimeyle cümle kur</div>
       <div style={S.tr}>“{tr}”</div>
+
+      {/* Dinle & Söyle — modeli duy, sonra tekrarla */}
+      <div style={{ display: 'flex', gap: 8, marginBottom: 10 }}>
+        <button onClick={() => speak(target)} style={{ ...S.act, background: '#EFF8FF', color: '#0891B2', borderColor: '#BAE6FD' }}>
+          🔊 Dinle
+        </button>
+        {sttSupported && (
+          <button onClick={handleMic}
+            style={{ ...S.act, background: isListening ? '#FEE2E2' : '#F0FDF4',
+                     color: isListening ? '#DC2626' : '#15803D',
+                     borderColor: isListening ? '#FCA5A5' : '#BBF7D0' }}>
+            {isListening ? '🔴 Dinliyorum...' : '🎤 Söyle'}
+          </button>
+        )}
+      </div>
+      {sayResult && (
+        <div style={{ ...S.sayBox,
+          background: sayResult.score >= 55 ? '#F0FDF4' : '#FEF3C7',
+          borderColor: sayResult.score >= 55 ? '#BBF7D0' : '#FDE68A',
+          color: sayResult.score >= 55 ? '#15803D' : '#92400E' }}>
+          {sayResult.score >= 80 ? '🎉 Mükemmel telaffuz' : sayResult.score >= 55 ? '👍 Güzel söyledin' : '🙂 Tekrar dene'} · %{sayResult.score}
+          {sayResult.score >= 55 ? ' +3 XP' : ''}
+        </div>
+      )}
 
       <div style={{ ...S.built, borderColor: result === 'wrong' ? '#FCA5A5' : result === 'ok' ? '#BBF7D0' : '#CBD5E1' }}>
         {picked.length === 0
@@ -90,4 +130,6 @@ const S = {
   btn: { flex: 1, height: 42, border: 'none', borderRadius: 10, fontSize: 14, fontWeight: 700, cursor: 'pointer' },
   banner: { border: '1px solid', borderRadius: 10, padding: '10px 12px', fontSize: 13, fontWeight: 700, display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 8 },
   mini: { background: 'none', border: 'none', cursor: 'pointer', fontSize: 15 },
+  act: { flex: 1, height: 40, border: '1.5px solid', borderRadius: 10, fontSize: 13, fontWeight: 700, cursor: 'pointer' },
+  sayBox: { border: '1px solid', borderRadius: 10, padding: '8px 12px', fontSize: 13, fontWeight: 700, textAlign: 'center', marginBottom: 8 },
 }
