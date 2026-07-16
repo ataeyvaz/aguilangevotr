@@ -111,6 +111,7 @@ export default function LearnHub() {
             { to: '/chain',     emoji: '🔗', title: 'Cümle Zinciri', sub: 'Botla cümle büyüt' },
             { to: '/fill-blank',emoji: '✏️', title: 'Boşluk Doldur', sub: 'Eksik kelimeyi bul' },
             { to: '/shadow',    emoji: '🗣️', title: 'Söyle',       sub: 'Dinle & tekrarla' },
+            { to: '/dictation', emoji: '📝', title: 'Dikte & Kayıt', sub: 'Söyle, yazıya dönüşsün' },
             { to: '/complete',  emoji: '💬', title: 'Diyalog Tamamla', sub: 'Eksik repliği seç' },
             { to: '/scenarios', emoji: '🎬', title: 'Senaryolar',  sub: 'Rol değişimli pratik' },
             { to: '/chatbot',   emoji: '🤖', title: 'Sohbet',      sub: 'Seç · Yaz · Konuş' },

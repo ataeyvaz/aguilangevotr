@@ -32,6 +32,7 @@ import FillBlank from '../pages/FillBlank'
 import PatternDrill from '../pages/PatternDrill'
 import ChainMode from '../pages/ChainMode'
 import DialogueComplete from '../pages/DialogueComplete'
+import Dictation from '../pages/Dictation'
 
 // ── Akıllı yönlendirme (root "/") ────────────────────────
 function SmartRoot() {
@@ -65,6 +66,7 @@ export default function AppRouter() {
         <Route path="/pattern"         element={<PatternDrill />} />
         <Route path="/chain"           element={<ChainMode />} />
         <Route path="/complete"        element={<DialogueComplete />} />
+        <Route path="/dictation"       element={<Dictation />} />
         <Route path="/language"        element={<LanguageSelect />} />
         <Route path="/settings"          element={<ParentGate />} />
         <Route path="/settings/panel"  element={<ParentPanel />} />
