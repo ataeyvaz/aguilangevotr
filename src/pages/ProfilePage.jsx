@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import { useProgress, BADGE_DEFS } from '../hooks/useProgress'
 import { useSettings } from '../hooks/useSettings'
 import { useApp } from '../context/AppContext'
@@ -53,6 +54,7 @@ const UI_LANG_OPTIONS = [
 ]
 
 export default function ProfilePage() {
+  const navigate  = useNavigate()
   const profile   = JSON.parse(localStorage.getItem('aguilang_active_profile') || '{}')
   const profileId = profile.id || profile.name || 'default'
 
@@ -275,6 +277,20 @@ export default function ProfilePage() {
               </div>
             ))}
           </div>
+
+          {/* Seviye testi — ölç veya yeniden ölç */}
+          <button
+            onClick={() => navigate('/placement-test')}
+            style={{
+              width: '100%', marginTop: '14px', padding: '13px',
+              display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px',
+              background: '#EFF8FF', border: '1.5px solid #BAE6FD', borderRadius: '12px',
+              cursor: 'pointer', fontFamily: "'Plus Jakarta Sans', sans-serif",
+              fontSize: '14px', fontWeight: '700', color: '#0891B2',
+            }}
+          >
+            📊 Seviyeni Ölç{profile.current_level ? ` (şu an: ${profile.current_level})` : ''}
+          </button>
         </div>
 
         {/* ── 2. Badges ───────────────────────────────────── */}

@@ -1,35 +1,38 @@
-import { useState, useMemo, useCallback } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { useNavigate } from 'react-router-dom'
-import { getPreparedQuestions } from '../data/placementQuestionsTR'
 import { useTranslation } from '../i18n/translations'
+import { generatePlacement, computeLevelFromAnswers } from '../core/placementEngine'
+import { getLang } from '../core/langState'
+import { TARGET_LANGS } from '../core/languages'
 
-// ── Seviye hesapla (%70+ → A2) ────────────────────────────
-function computeLevel(correct, total) {
-  const pct = (correct / total) * 100
-  return pct >= 70 ? 'A2' : 'A1'
-}
-
-// ── Sonucu kaydet (localStorage) ─────────────────────────
-function saveResult(correct, total, answers) {
-  const level = computeLevel(correct, total)
-  const score = Math.round((correct / total) * 100)
-  const result = { level, score, correct, total, takenAt: new Date().toISOString(), answers }
-
+// ── Profili işaretle (test veya atlama) ───────────────────
+function markPlacement(level, extra = null) {
   try {
     const profile = JSON.parse(localStorage.getItem('aguilang_active_profile') || '{}')
     profile.current_level  = level
     profile.placement_done = true
     localStorage.setItem('aguilang_active_profile', JSON.stringify(profile))
   } catch { /* ignore */ }
+  if (extra) localStorage.setItem('aguilang_placement_result', JSON.stringify(extra))
+}
 
-  localStorage.setItem('aguilang_placement_result', JSON.stringify(result))
+// ── Sonucu kaydet ─────────────────────────────────────────
+function saveResult(answers) {
+  const level = computeLevelFromAnswers(answers)
+  const correct = answers.filter(a => a.correct).length
+  const total = answers.length
+  const score = total ? Math.round((correct / total) * 100) : 0
+  const result = { level, score, correct, total, takenAt: new Date().toISOString() }
+  markPlacement(level, result)
   return result
 }
 
-// ── Level Badge renkleri ──────────────────────────────────
+// ── Level Badge renkleri (A1–B2) ──────────────────────────
 const LEVEL_COLORS = {
-  A1: { bg: 'bg-blue-50',   border: 'border-blue-200',   text: 'text-blue-700',   badge: 'bg-blue-600'   },
-  A2: { bg: 'bg-violet-50', border: 'border-violet-200', text: 'text-violet-700', badge: 'bg-violet-600' },
+  A1: { bg: 'bg-blue-50',    border: 'border-blue-200',    text: 'text-blue-700',    badge: 'bg-blue-600'   },
+  A2: { bg: 'bg-violet-50',  border: 'border-violet-200',  text: 'text-violet-700',  badge: 'bg-violet-600' },
+  B1: { bg: 'bg-amber-50',   border: 'border-amber-200',   text: 'text-amber-700',   badge: 'bg-amber-600'  },
+  B2: { bg: 'bg-emerald-50', border: 'border-emerald-200', text: 'text-emerald-700', badge: 'bg-emerald-600'},
 }
 
 // ─────────────────────────────────────────────────────────
@@ -37,16 +40,31 @@ export default function PlacementTest() {
   const navigate = useNavigate()
   const { t } = useTranslation()
 
-  const questions = useMemo(() => getPreparedQuestions(), [])
-  const TOTAL     = questions.length
+  const lang = getLang()
+  const langLabel = TARGET_LANGS[lang]?.label || 'İngilizce'
+  const langFlag  = TARGET_LANGS[lang]?.flag || '🇬🇧'
 
+  const [questions, setQuestions] = useState([])
+  const [loading,  setLoading]  = useState(true)
   const [phase,    setPhase]    = useState('intro')   // intro | question | result
   const [current,  setCurrent]  = useState(0)
   const [selected, setSelected] = useState(null)
   const [answers,  setAnswers]  = useState([])
   const [result,   setResult]   = useState(null)
 
+  // Seçili hedef dile göre soruları üret
+  useEffect(() => {
+    generatePlacement(lang).then(qs => { setQuestions(qs); setLoading(false) })
+  }, [lang])
+
+  const TOTAL = questions.length
   const q = questions[current]
+
+  // Testi atla (isteğe bağlı) — A1 varsay ve panele geç
+  const skipTest = useCallback(() => {
+    markPlacement('A1')
+    navigate('/dashboard')
+  }, [navigate])
 
   // ── Cevap seçildi ─────────────────────────────────────
   const handleSelect = useCallback((optionIndex) => {
@@ -59,7 +77,7 @@ export default function PlacementTest() {
     const isCorrect  = selected === q.correctIndex
     const newAnswers = [
       ...answers,
-      { id: q.id, chosen: q.options[selected], correct: isCorrect },
+      { id: q.id, cefr_level: q.cefr_level, correct: isCorrect },
     ]
     setAnswers(newAnswers)
 
@@ -67,8 +85,7 @@ export default function PlacementTest() {
       setCurrent(c => c + 1)
       setSelected(null)
     } else {
-      const correct = newAnswers.filter(a => a.correct).length
-      const r = saveResult(correct, TOTAL, newAnswers)
+      const r = saveResult(newAnswers)
       setResult(r)
       setPhase('result')
     }
@@ -93,12 +110,12 @@ export default function PlacementTest() {
           {/* Info card */}
           <div className="bg-white rounded-2xl border border-slate-200 p-6 shadow-sm mb-4">
             <div className="flex items-center gap-3 mb-5 pb-5 border-b border-slate-100">
-              <span className="text-3xl">🇹🇷</span>
+              <span className="text-3xl">🇹🇷 → {langFlag}</span>
               <div>
                 <div className="font-bold text-slate-800 text-base">
-                  Türkçe → İngilizce / İspanyolca / Portekizce
+                  Türkçe → {langLabel}
                 </div>
-                <div className="text-slate-400 text-xs">TR → EN / ES / PT</div>
+                <div className="text-slate-400 text-xs">Sorular {langLabel} için</div>
               </div>
             </div>
 
@@ -115,22 +132,31 @@ export default function PlacementTest() {
               ))}
             </div>
 
-            <div className="mt-5 bg-amber-50 border border-amber-200 rounded-xl p-3">
-              <p className="text-amber-800 text-xs font-medium leading-relaxed">
-                ⚠️ Tüm soruları tek oturumda yanıtla.
-                Başladıktan sonra geri dönemezsin.
+            <div className="mt-5 bg-cyan-50 border border-cyan-200 rounded-xl p-3">
+              <p className="text-cyan-800 text-xs font-medium leading-relaxed">
+                💡 İstersen bu testi atlayıp doğrudan başlayabilirsin. Seviyeni
+                sonra profilinden de ölçebilirsin.
               </p>
             </div>
           </div>
 
           <button
             onClick={() => setPhase('question')}
+            disabled={loading || TOTAL === 0}
             className="w-full py-4 bg-cyan-600 hover:bg-cyan-700 active:bg-cyan-800
-                       text-white font-bold text-lg rounded-2xl transition-colors
+                       disabled:opacity-50 text-white font-bold text-lg rounded-2xl transition-colors
                        shadow-lg shadow-cyan-600/30"
             style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}
           >
-            {t('start test')} →
+            {loading ? 'Sorular hazırlanıyor...' : `${t('start test')} →`}
+          </button>
+
+          <button
+            onClick={skipTest}
+            className="w-full py-3 mt-3 text-slate-500 hover:text-slate-700 font-bold text-sm"
+            style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}
+          >
+            Şimdilik atla →
           </button>
         </div>
       </div>
@@ -162,9 +188,12 @@ export default function PlacementTest() {
             </div>
 
             <div className="text-slate-500 text-sm mt-3">
-              {result.level === 'A2'
-                ? 'Başlangıç — temelleri biliyorsun!'
-                : 'Yeni başlayan — harika bir başlangıç noktası!'}
+              {{
+                A1: 'Yeni başlayan — harika bir başlangıç noktası!',
+                A2: 'Temel seviye — temelleri biliyorsun!',
+                B1: 'Orta seviye — güzel ilerliyorsun!',
+                B2: 'Orta-üstü — çok iyisin!',
+              }[result.level] || 'Harika bir başlangıç!'}
             </div>
           </div>
 
@@ -202,9 +231,8 @@ export default function PlacementTest() {
               />
             </div>
             <div className="flex justify-between mt-1.5 text-xs text-slate-400">
-              <span>0%</span>
-              <span className="font-semibold text-slate-600">70% → A2</span>
-              <span>100%</span>
+              <span>Seviye: <span className="font-semibold text-slate-600">{result.level}</span></span>
+              <span>{result.correct}/{result.total} doğru</span>
             </div>
           </div>
 
