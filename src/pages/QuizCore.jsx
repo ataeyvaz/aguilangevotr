@@ -36,6 +36,14 @@ export default function QuizCore() {
   const [started, setStarted]   = useState(false)
   const levels = availableLevels()
 
+  // Rapor'dan gelen tekrar-testi: tüm seviyeleri kapsasın diye en üst seviyeyi yükle
+  useEffect(() => {
+    try {
+      const raw = JSON.parse(localStorage.getItem('aguilang_review_ids') || 'null')
+      if (Array.isArray(raw) && raw.length && levels.length) setLevel(levels[levels.length - 1])
+    } catch { /* yoksay */ }
+  }, []) // eslint-disable-line react-hooks/exhaustive-deps
+
   const { cards, loading, categories } = useWords({ maxLevel: level, category, lang })
   const allCards = useWords({ maxLevel: level, lang }).cards   // distractor havuzu
 
@@ -50,8 +58,20 @@ export default function QuizCore() {
   const [score, setScore]   = useState(0)
 
   const start = () => {
+    // Rapor sayfasından "zorlandığım kelimelerden test" → tek seferlik odak
+    let focus = null
+    try {
+      const raw = JSON.parse(localStorage.getItem('aguilang_review_ids') || 'null')
+      if (Array.isArray(raw) && raw.length) {
+        const ids = new Set(raw)
+        focus = allCards.filter(c => ids.has(c.id))
+      }
+    } catch { /* yoksay */ }
+    localStorage.removeItem('aguilang_review_ids')
+
     const due = getDue(cards, 10)
-    const qs = buildQuiz(due.length ? due : cards, { modes, pool: allCards, count: 10 })
+    const base = focus && focus.length ? focus : (due.length ? due : cards)
+    const qs = buildQuiz(base, { modes, pool: allCards, count: 10 })
     setQuestions(qs); setQi(0); setScore(0)
     setPicked(null); setTyped(''); setResult(null)
     setStarted(true)

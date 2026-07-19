@@ -1,0 +1,159 @@
+{
+  "id": "electronics-a2",
+  "title": "Teknoloji Marketi",
+  "emoji": "📱",
+  "level": "A2",
+  "category": "shopping",
+  "roles": { "child": "Kartal", "bot": "Tezgahtar" },
+  "pattern": {
+    "tr": "Yeni bir ___ almak istiyorum",
+    "en": "I want to buy a new ___",
+    "es": "Quiero comprar un nuevo ___",
+    "pt": "Eu quero comprar um novo ___",
+    "de": "Ich möchte ein neues ___ kaufen"
+  },
+  "teach": [
+    {
+      "tr": "Yeni bir telefon almak istiyorum.",
+      "en": "I want to buy a new phone.",
+      "es": "Quiero comprar un nuevo teléfono.",
+      "pt": "Eu quero comprar um novo telefone.",
+      "de": "Ich möchte ein neues Telefon kaufen."
+    },
+    {
+      "tr": "Yeni bir bilgisayar almak istiyorum.",
+      "en": "I want to buy a new computer.",
+      "es": "Quiero comprar una nueva computadora.",
+      "pt": "Eu quero comprar um novo computador.",
+      "de": "Ich möchte einen neuen Computer kaufen."
+    },
+    {
+      "tr": "Yeni bir kulaklık almak istiyorum.",
+      "en": "I want to buy new headphones.",
+      "es": "Quiero comprar nuevos auriculares.",
+      "pt": "Eu quero comprar novos fones de ouvido.",
+      "de": "Ich möchte neue Kopfhörer kaufen."
+    }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Ne almak istersiniz?",
+        "en": "What would you like to buy?",
+        "es": "¿Qué quiere comprar?",
+        "pt": "O que você quer comprar?",
+        "de": "Was möchten Sie kaufen?"
+      },
+      "answer": {
+        "tr": "Bir telefon almak istiyorum.",
+        "en": "I want to buy a phone.",
+        "es": "Quiero comprar un teléfono.",
+        "pt": "Eu quero comprar um telefone.",
+        "de": "Ich möchte ein Telefon kaufen.",
+        "alts": {
+          "en": ["i want to buy a phone", "a phone please", "i want a phone"],
+          "es": ["quiero comprar un teléfono", "un teléfono", "quiero un telefono"],
+          "pt": ["eu quero comprar um telefone", "um telefone", "quero um telefone"],
+          "de": ["ich möchte ein telefon kaufen", "ein telefon bitte"]
+        }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Garantisi var mı?",
+        "en": "Does it have a warranty?",
+        "es": "¿Tiene garantía?",
+        "pt": "Tem garantia?",
+        "de": "Hat es eine Garantie?",
+        "alts": {
+          "en": ["does it have a warranty", "is there a warranty"],
+          "es": ["tiene garantía", "tiene garantia"],
+          "pt": ["tem garantia", "ele tem garantia"],
+          "de": ["hat es eine garantie", "gibt es eine garantie"]
+        }
+      },
+      "answer": {
+        "tr": "Evet, iki yıl garantili.",
+        "en": "Yes, it has a two-year warranty.",
+        "es": "Sí, tiene dos años de garantía.",
+        "pt": "Sim, tem dois anos de garantia.",
+        "de": "Ja, es hat zwei Jahre Garantie."
+      }
+    },
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Kredi kartıyla mı ödeyeceksiniz?",
+        "en": "Will you pay by credit card?",
+        "es": "¿Pagará con tarjeta de crédito?",
+        "pt": "Você vai pagar com cartão de crédito?",
+        "de": "Zahlen Sie mit Kreditkarte?"
+      },
+      "answer": {
+        "tr": "Evet, kredi kartıyla.",
+        "en": "Yes, by credit card.",
+        "es": "Sí, con tarjeta de crédito.",
+        "pt": "Sim, com cartão de crédito.",
+        "de": "Ja, mit Kreditkarte.",
+        "alts": {
+          "en": ["yes by credit card", "by credit card", "credit card please"],
+          "es": ["sí con tarjeta de crédito", "con tarjeta", "tarjeta de credito"],
+          "pt": ["sim com cartão de crédito", "com cartão", "cartão de credito"],
+          "de": ["ja mit kreditkarte", "mit kreditkarte", "kreditkarte"]
+        }
+      }
+    }
+  ],
+  "generate": [
+    {
+      "frame": {
+        "tr": "___ almak istiyorum",
+        "en": "I want to buy ___",
+        "es": "Quiero comprar ___",
+        "pt": "Eu quero comprar ___",
+        "de": "Ich möchte ___ kaufen"
+      },
+      "hint": {
+        "tr": "Bir teknoloji ürünü söyle (örn: bir tablet)."
+      },
+      "answer": {
+        "en": "I want to buy a tablet",
+        "es": "Quiero comprar una tableta",
+        "pt": "Eu quero comprar um tablet",
+        "de": "Ich möchte ein Tablet kaufen"
+      },
+      "wordBank": {
+        "en": ["I", "want", "to", "buy", "a", "tablet", "camera"],
+        "es": ["Quiero", "comprar", "una", "tableta", "cámara"],
+        "pt": ["Eu", "quero", "comprar", "um", "tablet", "câmera"],
+        "de": ["Ich", "möchte", "ein", "Tablet", "kaufen", "eine", "Kamera"]
+      }
+    },
+    {
+      "frame": {
+        "tr": "Bu ___ ne kadar?",
+        "en": "How much is this ___?",
+        "es": "¿Cuánto cuesta este ___?",
+        "pt": "Quanto custa este ___?",
+        "de": "Wie viel kostet dieses ___?"
+      },
+      "hint": {
+        "tr": "Fiyatını sormak istediğin ürünü söyle (örn: telefon)."
+      },
+      "answer": {
+        "en": "How much is this phone",
+        "es": "Cuánto cuesta este teléfono",
+        "pt": "Quanto custa este telefone",
+        "de": "Wie viel kostet dieses Telefon"
+      },
+      "wordBank": {
+        "en": ["How", "much", "is", "this", "phone", "laptop"],
+        "es": ["Cuánto", "cuesta", "este", "teléfono", "portátil"],
+        "pt": ["Quanto", "custa", "este", "telefone", "notebook"],
+        "de": ["Wie", "viel", "kostet", "dieses", "Telefon", "Laptop"]
+      }
+    }
+  ]
+}

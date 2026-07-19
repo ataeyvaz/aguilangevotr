@@ -12,6 +12,7 @@ import { TARGET_LANGS } from '../core/languages'
 import { useSpeech } from '../hooks/useSpeech'
 import { checkAnswer } from '../utils/fuzzyMatch'
 import { addXp } from '../core/progressStore'
+import { recordSentence } from '../core/sentenceStore'
 import { collectSentences } from '../data/sentenceBank'
 import * as sfx from '../core/sfx'
 
@@ -53,6 +54,7 @@ export default function SentenceBuilder() {
     const r = checkAnswer(built, item.target)
     const ok = r.match || r.score >= 0.85
     setResult({ ok, target: item.target })
+    recordSentence({ tr: item.tr, target: item.target, fn: item.fn, lang }, ok)
     if (ok) { sfx.correct(); setScore(s => s + 1); addXp(5); setTimeout(() => speak(item.target), 250) }
     else sfx.wrong()
   }

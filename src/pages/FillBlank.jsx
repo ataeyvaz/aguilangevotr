@@ -11,6 +11,7 @@ import { TARGET_LANGS } from '../core/languages'
 import { useSpeech } from '../hooks/useSpeech'
 import { collectSentences } from '../data/sentenceBank'
 import { addXp } from '../core/progressStore'
+import { recordSentence } from '../core/sentenceStore'
 import * as sfx from '../core/sfx'
 
 const clean = (w) => w.replace(/[.,!?;:¡¿"]/g, '')
@@ -66,6 +67,7 @@ export default function FillBlank() {
     if (picked) return
     setPicked(opt)
     const ok = opt.toLowerCase() === q.answer.toLowerCase()
+    recordSentence({ tr: q.tr, target: q.full, fn: 'cümle', lang }, ok)
     if (ok) { sfx.correct(); setScore(s => s + 1); addXp(4); setTimeout(() => speak(q.full), 250) }
     else sfx.wrong()
   }

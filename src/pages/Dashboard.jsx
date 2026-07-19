@@ -243,6 +243,82 @@ export default function Dashboard() {
           </button>
         </div>
 
+        {/* Öğrenme Raporu girişi */}
+        <button
+          onClick={() => navigate('/report')}
+          style={{
+            width: '100%', marginBottom: '16px',
+            background: 'linear-gradient(135deg, #6366F1 0%, #0891B2 100%)',
+            border: 'none', borderRadius: '16px', padding: '18px 20px',
+            display: 'flex', alignItems: 'center', gap: '14px',
+            cursor: 'pointer', transition: 'opacity 0.15s',
+          }}
+          onMouseEnter={e => { e.currentTarget.style.opacity = '0.92' }}
+          onMouseLeave={e => { e.currentTarget.style.opacity = '1' }}
+        >
+          <span style={{ fontSize: '30px' }}>📊</span>
+          <div style={{ textAlign: 'left' }}>
+            <div style={{
+              fontFamily: "'Plus Jakarta Sans', sans-serif",
+              fontSize: '15px', fontWeight: '800', color: 'white', marginBottom: '2px',
+            }}>Öğrenme Raporum</div>
+            <div style={{ fontSize: '12px', color: 'rgba(255,255,255,0.85)' }}>
+              Öğrendiğin & zorlandığın kelime ve cümleler
+            </div>
+          </div>
+          <div style={{ marginLeft: 'auto', color: 'white', fontSize: '18px' }}>→</div>
+        </button>
+
+        {/* Zorlandıklarını Pekiştir */}
+        <button
+          onClick={() => navigate('/reinforce')}
+          style={{
+            width: '100%', marginBottom: '16px',
+            background: 'white', border: '1.5px solid #FED7AA', borderRadius: '16px',
+            padding: '16px 20px', display: 'flex', alignItems: 'center', gap: '14px',
+            cursor: 'pointer', transition: 'transform 0.15s', boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
+          }}
+          onMouseEnter={e => { e.currentTarget.style.transform = 'translateY(-2px)' }}
+          onMouseLeave={e => { e.currentTarget.style.transform = 'translateY(0)' }}
+        >
+          <span style={{ fontSize: '30px' }}>🎯</span>
+          <div style={{ textAlign: 'left' }}>
+            <div style={{
+              fontFamily: "'Plus Jakarta Sans', sans-serif",
+              fontSize: '15px', fontWeight: '800', color: '#9C4600', marginBottom: '2px',
+            }}>Zorlandıklarını Pekiştir</div>
+            <div style={{ fontSize: '12px', color: '#B45309' }}>
+              Zor kelime & cümleleri öğret + soruyla pekiştir
+            </div>
+          </div>
+          <div style={{ marginLeft: 'auto', color: '#EA580C', fontSize: '18px' }}>→</div>
+        </button>
+
+        {/* Dikte & Kayıt — ana ekrandan doğrudan erişim */}
+        <button
+          onClick={() => navigate('/dictation')}
+          style={{
+            width: '100%', marginBottom: '16px',
+            background: 'white', border: '1.5px solid #DDD6FE', borderRadius: '16px',
+            padding: '16px 20px', display: 'flex', alignItems: 'center', gap: '14px',
+            cursor: 'pointer', transition: 'transform 0.15s', boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
+          }}
+          onMouseEnter={e => { e.currentTarget.style.transform = 'translateY(-2px)' }}
+          onMouseLeave={e => { e.currentTarget.style.transform = 'translateY(0)' }}
+        >
+          <span style={{ fontSize: '30px' }}>📝</span>
+          <div style={{ textAlign: 'left' }}>
+            <div style={{
+              fontFamily: "'Plus Jakarta Sans', sans-serif",
+              fontSize: '15px', fontWeight: '800', color: '#5B21B6', marginBottom: '2px',
+            }}>Dikte & Kayıt</div>
+            <div style={{ fontSize: '12px', color: '#7C3AED' }}>
+              Söyle, yazıya dönüşsün · telaffuz pratiği
+            </div>
+          </div>
+          <div style={{ marginLeft: 'auto', color: '#7C3AED', fontSize: '18px' }}>→</div>
+        </button>
+
         {/* Daily Goal */}
         <div style={{
           background: 'white', borderRadius: '16px',
@@ -382,7 +458,11 @@ export default function Dashboard() {
               ))}
             </div>
             <button
-              onClick={() => navigate('/categories')}
+              onClick={() => {
+                const ids = hardWords.map(w => w.id)
+                if (ids.length) localStorage.setItem('aguilang_review_ids', JSON.stringify(ids))
+                navigate('/quiz')
+              }}
               style={{
                 width: '100%', marginTop: '12px', padding: '11px',
                 background: '#FFF7ED', color: '#9C4600',

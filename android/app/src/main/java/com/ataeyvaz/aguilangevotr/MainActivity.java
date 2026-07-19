@@ -1,4 +1,4 @@
-package com.aguilangevo.app;
+package com.ataeyvaz.aguilangevotr;
 
 import com.getcapacitor.BridgeActivity;
 

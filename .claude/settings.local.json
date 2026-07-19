@@ -31,7 +31,20 @@
       "Bash(awk '{print $NF}')",
       "PowerShell(python C:\\\\Users\\\\Ata\\\\Desktop\\\\aguilangevotr\\\\chk2.py | Out-String)",
       "Bash(git commit *)",
-      "Bash(PYTHONIOENCODING=utf-8 python *)"
+      "Bash(PYTHONIOENCODING=utf-8 python *)",
+      "Bash(ls -d android)",
+      "Bash(cat capacitor.config.json)",
+      "Bash(cat capacitor.config.ts)",
+      "Bash(git check-ignore *)",
+      "Bash(echo \"ignored: $?\")",
+      "Bash(./gradlew assembleDebug --console=plain)",
+      "Read(//c/Program Files/Android/Android Studio/jbr/bin/**)",
+      "Read(//c/Program Files/**)",
+      "Bash(JAVA_HOME=\"C:\\\\Program Files\\\\Android\\\\Android Studio\\\\jbr\" ./gradlew assembleDebug --console=plain)",
+      "Bash(echo \"EXIT=$?\")",
+      "Bash(npm pack *)",
+      "Skill(artifact-design)",
+      "Artifact"
     ]
   }
 }

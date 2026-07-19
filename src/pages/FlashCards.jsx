@@ -587,17 +587,30 @@ export default function FlashCards() {
           maxWidth: '420px', width: '100%', margin: '0 auto',
         }}>
           {showGrammar ? (
-            <button
-              onClick={() => navigate('/quiz')}
-              style={{
-                flex: 1, height: '52px', background: '#0891B2', border: 'none',
-                borderRadius: '12px', fontSize: '15px', fontWeight: '700',
-                color: 'white', cursor: 'pointer',
-                fontFamily: "'Plus Jakarta Sans', sans-serif",
-              }}
-            >
-              Go to Quiz →
-            </button>
+            <>
+              <button
+                onClick={() => navigate('/reinforce?src=level')}
+                style={{
+                  flex: 1, height: '52px', background: 'white', border: '1.5px solid #FED7AA',
+                  borderRadius: '12px', fontSize: '15px', fontWeight: '700',
+                  color: '#9C4600', cursor: 'pointer',
+                  fontFamily: "'Plus Jakarta Sans', sans-serif",
+                }}
+              >
+                🎯 Zorlandıklarını Pekiştir
+              </button>
+              <button
+                onClick={() => navigate('/quiz')}
+                style={{
+                  flex: 1, height: '52px', background: '#0891B2', border: 'none',
+                  borderRadius: '12px', fontSize: '15px', fontWeight: '700',
+                  color: 'white', cursor: 'pointer',
+                  fontFamily: "'Plus Jakarta Sans', sans-serif",
+                }}
+              >
+                Quiz →
+              </button>
+            </>
           ) : (
             <>
               <button

@@ -8,6 +8,7 @@ import { useState, useMemo, useEffect, useRef } from 'react'
 import { useSpeech } from '../hooks/useSpeech'
 import { checkAnswer, getPronunciationScore } from '../utils/fuzzyMatch'
 import { addXp } from '../core/progressStore'
+import { recordSentence } from '../core/sentenceStore'
 import * as sfx from '../core/sfx'
 
 const words = (s) => (s || '').trim().split(/\s+/).filter(Boolean)
@@ -28,7 +29,9 @@ export default function SentenceMini({ tr, target, lang, fn }) {
   const check = () => {
     if (result === 'ok') return
     const r = checkAnswer(built, target)
-    if (r.match || r.score >= 0.85) {
+    const ok = r.match || r.score >= 0.85
+    recordSentence({ tr, target, fn, lang }, ok)
+    if (ok) {
       setResult('ok'); sfx.correct(); addXp(3); speak(target)
     } else { setResult('wrong'); sfx.wrong() }
   }

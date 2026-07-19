@@ -1,0 +1,159 @@
+{
+  "id": "beauty-a2",
+  "title": "Güzellik Ürünleri",
+  "emoji": "💄",
+  "level": "A2",
+  "category": "shopping",
+  "roles": { "child": "Kartal", "bot": "Satıcı" },
+  "pattern": {
+    "tr": "___ arıyorum",
+    "en": "I'm looking for ___",
+    "es": "Estoy buscando ___",
+    "pt": "Estou procurando ___",
+    "de": "Ich suche ___"
+  },
+  "teach": [
+    {
+      "tr": "Bir ruj arıyorum.",
+      "en": "I'm looking for a lipstick.",
+      "es": "Estoy buscando un lápiz labial.",
+      "pt": "Estou procurando um batom.",
+      "de": "Ich suche einen Lippenstift."
+    },
+    {
+      "tr": "Bir şampuan arıyorum.",
+      "en": "I'm looking for a shampoo.",
+      "es": "Estoy buscando un champú.",
+      "pt": "Estou procurando um shampoo.",
+      "de": "Ich suche ein Shampoo."
+    },
+    {
+      "tr": "Bir parfüm arıyorum.",
+      "en": "I'm looking for a perfume.",
+      "es": "Estoy buscando un perfume.",
+      "pt": "Estou procurando um perfume.",
+      "de": "Ich suche ein Parfüm."
+    }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Size nasıl yardımcı olabilirim?",
+        "en": "How can I help you?",
+        "es": "¿Cómo puedo ayudarle?",
+        "pt": "Como posso ajudar?",
+        "de": "Wie kann ich Ihnen helfen?"
+      },
+      "answer": {
+        "tr": "Bir yüz kremi arıyorum.",
+        "en": "I'm looking for a face cream.",
+        "es": "Estoy buscando una crema facial.",
+        "pt": "Estou procurando um creme facial.",
+        "de": "Ich suche eine Gesichtscreme.",
+        "alts": {
+          "en": ["i'm looking for a face cream", "a face cream", "looking for a cream"],
+          "es": ["estoy buscando una crema facial", "una crema facial", "una crema"],
+          "pt": ["estou procurando um creme facial", "um creme facial", "um creme"],
+          "de": ["ich suche eine gesichtscreme", "eine creme"]
+        }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Bu ne kadar?",
+        "en": "How much is this?",
+        "es": "¿Cuánto cuesta esto?",
+        "pt": "Quanto custa isto?",
+        "de": "Wie viel kostet das?",
+        "alts": {
+          "en": ["how much is this", "how much does this cost"],
+          "es": ["cuánto cuesta esto", "cuanto cuesta"],
+          "pt": ["quanto custa isto", "quanto custa"],
+          "de": ["wie viel kostet das", "was kostet das"]
+        }
+      },
+      "answer": {
+        "tr": "Yüz elli lira.",
+        "en": "A hundred and fifty liras.",
+        "es": "Ciento cincuenta liras.",
+        "pt": "Cento e cinquenta liras.",
+        "de": "Hundertfünfzig Lira."
+      }
+    },
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Başka bir renk ister misiniz?",
+        "en": "Would you like another color?",
+        "es": "¿Quiere otro color?",
+        "pt": "Você quer outra cor?",
+        "de": "Möchten Sie eine andere Farbe?"
+      },
+      "answer": {
+        "tr": "Evet, kırmızı olsun lütfen.",
+        "en": "Yes, red please.",
+        "es": "Sí, rojo por favor.",
+        "pt": "Sim, vermelho por favor.",
+        "de": "Ja, rot bitte.",
+        "alts": {
+          "en": ["yes red please", "red please", "the red one"],
+          "es": ["sí rojo por favor", "rojo por favor", "el rojo"],
+          "pt": ["sim vermelho por favor", "vermelho por favor", "o vermelho"],
+          "de": ["ja rot bitte", "rot bitte", "das rote"]
+        }
+      }
+    }
+  ],
+  "generate": [
+    {
+      "frame": {
+        "tr": "Bir ___ istiyorum",
+        "en": "I want a ___",
+        "es": "Quiero un ___",
+        "pt": "Eu quero um ___",
+        "de": "Ich möchte einen ___"
+      },
+      "hint": {
+        "tr": "Bir güzellik ürünü söyle (örn: sabun, ayna)."
+      },
+      "answer": {
+        "en": "I want a red lipstick",
+        "es": "Quiero un lápiz labial rojo",
+        "pt": "Eu quero um batom vermelho",
+        "de": "Ich möchte einen roten Lippenstift"
+      },
+      "wordBank": {
+        "en": ["I", "want", "a", "red", "lipstick", "soap"],
+        "es": ["Quiero", "un", "lápiz", "labial", "rojo", "jabón"],
+        "pt": ["Eu", "quero", "um", "batom", "vermelho", "sabonete"],
+        "de": ["Ich", "möchte", "einen", "roten", "Lippenstift", "Seife"]
+      }
+    },
+    {
+      "frame": {
+        "tr": "___ arıyorum",
+        "en": "I'm looking for ___",
+        "es": "Estoy buscando ___",
+        "pt": "Estou procurando ___",
+        "de": "Ich suche ___"
+      },
+      "hint": {
+        "tr": "Aradığın ürünü söyle (örn: bir parfüm)."
+      },
+      "answer": {
+        "en": "I'm looking for a perfume",
+        "es": "Estoy buscando un perfume",
+        "pt": "Estou procurando um perfume",
+        "de": "Ich suche ein Parfüm"
+      },
+      "wordBank": {
+        "en": ["I'm", "looking", "for", "a", "perfume", "mirror"],
+        "es": ["Estoy", "buscando", "un", "perfume", "espejo"],
+        "pt": ["Estou", "procurando", "um", "perfume", "espelho"],
+        "de": ["Ich", "suche", "ein", "Parfüm", "einen", "Spiegel"]
+      }
+    }
+  ]
+}

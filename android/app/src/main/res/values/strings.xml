@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">AguiLangEvo</string>
-    <string name="title_activity_main">AguiLangEvo</string>
-    <string name="package_name">com.aguilangevo.app</string>
-    <string name="custom_url_scheme">com.aguilangevo.app</string>
+    <string name="app_name">AguiLangEvoTR</string>
+    <string name="title_activity_main">AguiLangEvoTR</string>
+    <string name="package_name">com.ataeyvaz.aguilangevotr</string>
+    <string name="custom_url_scheme">com.ataeyvaz.aguilangevotr</string>
 </resources>

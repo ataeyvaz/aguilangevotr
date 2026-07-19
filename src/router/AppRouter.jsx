@@ -10,6 +10,8 @@ import Dashboard      from '../pages/Dashboard'
 import ParentGate     from '../pages/parent/ParentGate'
 import ParentPanel    from '../pages/parent/ParentPanel'
 import LearnedWords   from '../pages/LearnedWords'
+import LearningReport from '../pages/LearningReport'
+import Reinforce      from '../pages/Reinforce'
 import StatsPage      from '../pages/StatsPage'
 import DialogueScreen from '../pages/DialogueScreen'
 import ProfilePage    from '../pages/ProfilePage'
@@ -83,6 +85,8 @@ export default function AppRouter() {
           <Route path="/dialogue"    element={<DialogueScreen />} />
           <Route path="/profile"     element={<ProfilePage />} />
           <Route path="/learned"     element={<LearnedWords />} />
+          <Route path="/report"      element={<LearningReport />} />
+          <Route path="/reinforce"   element={<Reinforce />} />
           <Route path="/stats"       element={<StatsPage />} />
           <Route path="/dictionary"  element={<DictionaryPage />} />
           <Route path="/levels"      element={<LevelsPage />} />

@@ -1,0 +1,159 @@
+{
+  "id": "greengrocer-a1",
+  "title": "Manavda Alışveriş",
+  "emoji": "🥬",
+  "level": "A1",
+  "category": "shopping",
+  "roles": { "child": "Kartal", "bot": "Manav" },
+  "pattern": {
+    "tr": "Bir kilo ___, lütfen",
+    "en": "One kilo of ___, please",
+    "es": "Un kilo de ___, por favor",
+    "pt": "Um quilo de ___, por favor",
+    "de": "Ein Kilo ___, bitte"
+  },
+  "teach": [
+    {
+      "tr": "Bir kilo domates, lütfen.",
+      "en": "One kilo of tomatoes, please.",
+      "es": "Un kilo de tomates, por favor.",
+      "pt": "Um quilo de tomates, por favor.",
+      "de": "Ein Kilo Tomaten, bitte."
+    },
+    {
+      "tr": "Bir kilo patates, lütfen.",
+      "en": "One kilo of potatoes, please.",
+      "es": "Un kilo de patatas, por favor.",
+      "pt": "Um quilo de batatas, por favor.",
+      "de": "Ein Kilo Kartoffeln, bitte."
+    },
+    {
+      "tr": "Yarım kilo çilek, lütfen.",
+      "en": "Half a kilo of strawberries, please.",
+      "es": "Medio kilo de fresas, por favor.",
+      "pt": "Meio quilo de morangos, por favor.",
+      "de": "Ein halbes Kilo Erdbeeren, bitte."
+    }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Ne almak istersin?",
+        "en": "What would you like to buy?",
+        "es": "¿Qué quieres comprar?",
+        "pt": "O que você quer comprar?",
+        "de": "Was möchtest du kaufen?"
+      },
+      "answer": {
+        "tr": "Bir kilo elma, lütfen.",
+        "en": "One kilo of apples, please.",
+        "es": "Un kilo de manzanas, por favor.",
+        "pt": "Um quilo de maçãs, por favor.",
+        "de": "Ein Kilo Äpfel, bitte.",
+        "alts": {
+          "en": ["one kilo of apples", "a kilo of apples", "one kilo apples please"],
+          "es": ["un kilo de manzanas"],
+          "pt": ["um quilo de maçãs", "um quilo de macas"],
+          "de": ["ein kilo äpfel", "ein kilo apfel"]
+        }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Domatesler taze mi?",
+        "en": "Are the tomatoes fresh?",
+        "es": "¿Los tomates están frescos?",
+        "pt": "Os tomates estão frescos?",
+        "de": "Sind die Tomaten frisch?",
+        "alts": {
+          "en": ["are the tomatoes fresh", "are these tomatoes fresh"],
+          "es": ["los tomates están frescos", "estan frescos los tomates"],
+          "pt": ["os tomates estão frescos", "os tomates estao frescos"],
+          "de": ["sind die tomaten frisch"]
+        }
+      },
+      "answer": {
+        "tr": "Evet, çok taze.",
+        "en": "Yes, very fresh.",
+        "es": "Sí, muy frescos.",
+        "pt": "Sim, muito frescos.",
+        "de": "Ja, sehr frisch."
+      }
+    },
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Başka bir şey ister misin?",
+        "en": "Do you want anything else?",
+        "es": "¿Quieres algo más?",
+        "pt": "Você quer mais alguma coisa?",
+        "de": "Möchtest du noch etwas?"
+      },
+      "answer": {
+        "tr": "Hayır, teşekkürler. Hepsi bu kadar.",
+        "en": "No, thank you. That's all.",
+        "es": "No, gracias. Eso es todo.",
+        "pt": "Não, obrigado. É só isso.",
+        "de": "Nein, danke. Das ist alles.",
+        "alts": {
+          "en": ["that's all", "no thanks that's all", "thats all thank you"],
+          "es": ["eso es todo", "no gracias eso es todo"],
+          "pt": ["é só isso", "e so isso", "não obrigado"],
+          "de": ["das ist alles", "nein danke"]
+        }
+      }
+    }
+  ],
+  "generate": [
+    {
+      "frame": {
+        "tr": "İstiyorum ___ ___",
+        "en": "I want ___ ___",
+        "es": "Quiero ___ ___",
+        "pt": "Eu quero ___ ___",
+        "de": "Ich möchte ___ ___"
+      },
+      "hint": {
+        "tr": "Bir sayı + bir sebze söyle (örn: iki salatalık)."
+      },
+      "answer": {
+        "en": "I want two cucumbers",
+        "es": "Quiero dos pepinos",
+        "pt": "Eu quero dois pepinos",
+        "de": "Ich möchte zwei Gurken"
+      },
+      "wordBank": {
+        "en": ["I", "want", "two", "cucumbers", "onions", "three"],
+        "es": ["Quiero", "dos", "pepinos", "cebollas", "tres"],
+        "pt": ["Eu", "quero", "dois", "pepinos", "cebolas", "três"],
+        "de": ["Ich", "möchte", "zwei", "Gurken", "Zwiebeln", "drei"]
+      }
+    },
+    {
+      "frame": {
+        "tr": "Bir kilo ___ istiyorum",
+        "en": "I want one kilo of ___",
+        "es": "Quiero un kilo de ___",
+        "pt": "Eu quero um quilo de ___",
+        "de": "Ich möchte ein Kilo ___"
+      },
+      "hint": {
+        "tr": "Bir meyve söyle (örn: üzüm)."
+      },
+      "answer": {
+        "en": "I want one kilo of grapes",
+        "es": "Quiero un kilo de uvas",
+        "pt": "Eu quero um quilo de uvas",
+        "de": "Ich möchte ein Kilo Trauben"
+      },
+      "wordBank": {
+        "en": ["I", "want", "one", "kilo", "of", "grapes", "cherries"],
+        "es": ["Quiero", "un", "kilo", "de", "uvas", "cerezas"],
+        "pt": ["Eu", "quero", "um", "quilo", "de", "uvas", "cerejas"],
+        "de": ["Ich", "möchte", "ein", "Kilo", "Trauben", "Kirschen"]
+      }
+    }
+  ]
+}

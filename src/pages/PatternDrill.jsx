@@ -12,6 +12,7 @@ import { TARGET_LANGS } from '../core/languages'
 import { useSpeech } from '../hooks/useSpeech'
 import { PATTERNS } from '../data/patterns'
 import { addXp } from '../core/progressStore'
+import { recordSentence } from '../core/sentenceStore'
 import * as sfx from '../core/sfx'
 
 const T = (o, l) => o?.[l] || o?.en || ''
@@ -32,6 +33,8 @@ export default function PatternDrill() {
   const produce = (slot, i) => {
     if (made.includes(i)) return
     const filled = skeleton.replace('___', T(slot, lang))
+    const filledTr = p.tr.replace('___', slot.tr)
+    recordSentence({ tr: filledTr, target: filled, fn: 'kalıp', lang }, true)
     sfx.correct(); addXp(3)
     speak(filled)
     setMade(m => [...m, i])

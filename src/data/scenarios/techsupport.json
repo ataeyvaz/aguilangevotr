@@ -1,0 +1,159 @@
+{
+  "id": "techsupport-b1",
+  "title": "Teknik Destek",
+  "emoji": "🛠️",
+  "level": "B1",
+  "category": "tech",
+  "roles": { "child": "Kartal", "bot": "Teknisyen" },
+  "pattern": {
+    "tr": "___ çalışmıyor",
+    "en": "My ___ is not working",
+    "es": "Mi ___ no funciona",
+    "pt": "Meu ___ não está funcionando",
+    "de": "Mein ___ funktioniert nicht"
+  },
+  "teach": [
+    {
+      "tr": "Telefonum çalışmıyor.",
+      "en": "My phone is not working.",
+      "es": "Mi teléfono no funciona.",
+      "pt": "Meu telefone não está funcionando.",
+      "de": "Mein Telefon funktioniert nicht."
+    },
+    {
+      "tr": "İnternetim çalışmıyor.",
+      "en": "My internet is not working.",
+      "es": "Mi internet no funciona.",
+      "pt": "Minha internet não está funcionando.",
+      "de": "Mein Internet funktioniert nicht."
+    },
+    {
+      "tr": "Ekran açılmıyor.",
+      "en": "The screen does not turn on.",
+      "es": "La pantalla no se enciende.",
+      "pt": "A tela não liga.",
+      "de": "Der Bildschirm geht nicht an."
+    }
+  ],
+  "qa": [
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Sorun nedir?",
+        "en": "What is the problem?",
+        "es": "¿Cuál es el problema?",
+        "pt": "Qual é o problema?",
+        "de": "Was ist das Problem?"
+      },
+      "answer": {
+        "tr": "Bilgisayarım çok yavaş.",
+        "en": "My computer is very slow.",
+        "es": "Mi computadora es muy lenta.",
+        "pt": "Meu computador está muito lento.",
+        "de": "Mein Computer ist sehr langsam.",
+        "alts": {
+          "en": ["my computer is very slow", "the computer is slow", "my computer is slow"],
+          "es": ["mi computadora es muy lenta", "la computadora es lenta", "es muy lenta"],
+          "pt": ["meu computador está muito lento", "o computador está lento", "está muito lento"],
+          "de": ["mein computer ist sehr langsam", "der computer ist langsam"]
+        }
+      }
+    },
+    {
+      "childRole": "ask",
+      "prompt": {
+        "tr": "Onu tamir edebilir misiniz?",
+        "en": "Can you fix it?",
+        "es": "¿Puede arreglarlo?",
+        "pt": "Você pode consertar?",
+        "de": "Können Sie es reparieren?",
+        "alts": {
+          "en": ["can you fix it", "can you repair it", "are you able to fix it"],
+          "es": ["puede arreglarlo", "puede repararlo", "lo puede arreglar"],
+          "pt": ["você pode consertar", "pode consertar", "você pode reparar"],
+          "de": ["können sie es reparieren", "kannst du es reparieren"]
+        }
+      },
+      "answer": {
+        "tr": "Evet, yarın hazır olacak.",
+        "en": "Yes, it will be ready tomorrow.",
+        "es": "Sí, estará listo mañana.",
+        "pt": "Sim, estará pronto amanhã.",
+        "de": "Ja, es ist morgen fertig."
+      }
+    },
+    {
+      "childRole": "answer",
+      "prompt": {
+        "tr": "Sorun ne zaman başladı?",
+        "en": "When did the problem start?",
+        "es": "¿Cuándo empezó el problema?",
+        "pt": "Quando o problema começou?",
+        "de": "Wann hat das Problem angefangen?"
+      },
+      "answer": {
+        "tr": "Dün gece başladı.",
+        "en": "It started last night.",
+        "es": "Empezó anoche.",
+        "pt": "Começou ontem à noite.",
+        "de": "Es hat gestern Abend angefangen.",
+        "alts": {
+          "en": ["it started last night", "last night", "started yesterday night"],
+          "es": ["empezó anoche", "anoche", "comenzó anoche"],
+          "pt": ["começou ontem à noite", "ontem à noite", "comecou ontem a noite"],
+          "de": ["es hat gestern abend angefangen", "gestern abend"]
+        }
+      }
+    }
+  ],
+  "generate": [
+    {
+      "frame": {
+        "tr": "___ çalışmıyor",
+        "en": "My ___ is not working",
+        "es": "Mi ___ no funciona",
+        "pt": "Meu ___ não está funcionando",
+        "de": "Mein ___ funktioniert nicht"
+      },
+      "hint": {
+        "tr": "Bozulan bir cihaz söyle (örn: yazıcı)."
+      },
+      "answer": {
+        "en": "My printer is not working",
+        "es": "Mi impresora no funciona",
+        "pt": "Minha impressora não está funcionando",
+        "de": "Mein Drucker funktioniert nicht"
+      },
+      "wordBank": {
+        "en": ["My", "printer", "is", "not", "working", "keyboard"],
+        "es": ["Mi", "impresora", "no", "funciona", "teclado"],
+        "pt": ["Minha", "impressora", "não", "está", "funcionando", "teclado"],
+        "de": ["Mein", "Drucker", "funktioniert", "nicht", "Tastatur"]
+      }
+    },
+    {
+      "frame": {
+        "tr": "Bir ___ lazım",
+        "en": "I need a ___",
+        "es": "Necesito un ___",
+        "pt": "Eu preciso de um ___",
+        "de": "Ich brauche einen ___"
+      },
+      "hint": {
+        "tr": "İhtiyacın olan kişiyi/şeyi söyle (örn: teknisyen)."
+      },
+      "answer": {
+        "en": "I need a technician",
+        "es": "Necesito un técnico",
+        "pt": "Eu preciso de um técnico",
+        "de": "Ich brauche einen Techniker"
+      },
+      "wordBank": {
+        "en": ["I", "need", "a", "technician", "new", "cable"],
+        "es": ["Necesito", "un", "técnico", "nuevo", "cable"],
+        "pt": ["Eu", "preciso", "de", "um", "técnico", "cabo"],
+        "de": ["Ich", "brauche", "einen", "Techniker", "ein", "Kabel"]
+      }
+    }
+  ]
+}

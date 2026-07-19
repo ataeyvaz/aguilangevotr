@@ -4,6 +4,8 @@ import { useProgress, BADGE_DEFS } from '../hooks/useProgress'
 import { useSettings } from '../hooks/useSettings'
 import { useApp } from '../context/AppContext'
 import { useTranslation } from '../i18n/translations'
+import { resetProgress } from '../core/progressStore'
+import { resetSentences } from '../core/sentenceStore'
 
 function getConvSummary() {
   try {
@@ -104,33 +106,49 @@ export default function ProfilePage() {
     save({ ttsRate: type === 'child' ? 0.6 : 0.9 })
   }
 
-  const confirmReset = (msg, fn) => {
-    if (window.confirm(msg)) {
-      fn()
-      setResetMsg('Reset ✓')
-      setTimeout(() => setResetMsg(''), 2500)
-      window.dispatchEvent(new Event('wordStatsUpdated'))
-    }
+  // Eski + ara depoların tümü (yeni core dışı, göç artıkları dahil)
+  const LEGACY_KEYS = [
+    'aguilang_word_stats', 'aguilang_daily_stats', 'aguilang_last_reset',
+    'aguilang_review_ids', 'aguilang_srs_progress', 'aguilang_srs_stats',
+    'aguilangevo_progress', 'aguilang_progress_v2',
+  ]
+
+  const notifyReset = () => {
+    setResetMsg('Sıfırlandı ✓')
+    setTimeout(() => setResetMsg(''), 2500)
+    window.dispatchEvent(new Event('wordStatsUpdated'))
+    window.dispatchEvent(new Event('sentenceStatsUpdated'))
   }
 
+  const confirmReset = (msg, fn) => {
+    if (window.confirm(msg)) { fn(); notifyReset() }
+  }
+
+  // Kelime + cümle öğrenme ilerlemesi (core dahil)
   const resetWords = () => confirmReset(
-    'All word stats will be deleted. Are you sure?',
-    () => localStorage.setItem('aguilang_word_stats', '{}')
+    'Tüm kelime ve cümle istatistikleri silinecek. Emin misin?',
+    () => {
+      resetProgress()      // aguilang_progress (core)
+      resetSentences()     // aguilang_sentences (core)
+      localStorage.removeItem('aguilang_word_stats')
+      localStorage.removeItem('aguilang_srs_progress')
+    }
   )
 
   const resetDaily = () => confirmReset(
-    'All daily data will be deleted. Are you sure?',
-    () => localStorage.setItem('aguilang_daily_stats', '{}')
+    'Tüm günlük veriler silinecek. Emin misin?',
+    () => localStorage.removeItem('aguilang_daily_stats')
   )
 
+  // Her şey — profil ve dil korunur
   const resetAll = () => {
-    if (!window.confirm('All word stats and daily data will be deleted. Your profile will be kept. Are you sure?')) return
-    if (!window.confirm('Final confirmation: This action cannot be undone.')) return
-    const RESET_KEYS = ['aguilang_word_stats', 'aguilang_daily_stats', 'aguilang_last_reset']
-    RESET_KEYS.forEach(k => localStorage.removeItem(k))
-    window.dispatchEvent(new Event('wordStatsUpdated'))
-    setResetMsg('Reset ✓')
-    setTimeout(() => setResetMsg(''), 2500)
+    if (!window.confirm('Tüm öğrenme geçmişin silinecek (kelimeler, cümleler, günlük istatistik, sohbet, XP, seri). Profil adın ve seçili dilin korunur. Emin misin?')) return
+    if (!window.confirm('Son onay: Bu işlem geri alınamaz.')) return
+    resetProgress()                                   // aguilang_progress (core)
+    resetSentences()                                  // aguilang_sentences (core)
+    localStorage.removeItem('aguilang_conv_sessions') // sohbet oturumları
+    LEGACY_KEYS.forEach(k => localStorage.removeItem(k))
+    notifyReset()
   }
 
   const card = {
@@ -554,7 +572,7 @@ export default function ProfilePage() {
               <Divider />
               <div style={{ marginTop: '16px' }}>
                 <div style={{ fontWeight: '700', color: '#EF4444', fontSize: '14px', marginBottom: '12px' }}>
-                  Reset Data
+                  Verileri Sıfırla
                 </div>
                 {resetMsg && (
                   <div style={{
@@ -576,7 +594,7 @@ export default function ProfilePage() {
                       color: '#9C4600', textAlign: 'left',
                     }}
                   >
-                    📊 Reset word statistics
+                    📊 Kelime & cümle istatistiklerini sıfırla
                   </button>
                   <button
                     onClick={resetDaily}
@@ -587,7 +605,7 @@ export default function ProfilePage() {
                       color: '#9C4600', textAlign: 'left',
                     }}
                   >
-                    📅 Reset daily data
+                    📅 Günlük verileri sıfırla
                   </button>
                   <button
                     onClick={resetAll}
@@ -598,7 +616,7 @@ export default function ProfilePage() {
                       color: '#DC2626', textAlign: 'left',
                     }}
                   >
-                    🗑️ Reset All Learning Data
+                    🗑️ Tüm Geçmişi Temizle
                   </button>
                 </div>
               </div>

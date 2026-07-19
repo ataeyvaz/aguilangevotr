@@ -154,6 +154,66 @@ export const PATTERNS = [
       { tr: 'güzel',    en: 'beautiful', es: 'bonito',     pt: 'bonito',     de: 'schöner' },
     ],
   },
+  {
+    id: 'need',
+    note: 'İhtiyaç: özne + ihtiyaç duymak + nesne',
+    tr: '___ ihtiyacım var',
+    skeleton: { en: 'I need ___', es: 'Necesito ___', pt: 'Eu preciso de ___', de: 'Ich brauche ___' },
+    slots: [
+      { tr: 'yardım',   en: 'help',   es: 'ayuda',   pt: 'ajuda',   de: 'Hilfe' },
+      { tr: 'para',     en: 'money',  es: 'dinero',  pt: 'dinheiro', de: 'Geld' },
+      { tr: 'zaman',    en: 'time',   es: 'tiempo',  pt: 'tempo',   de: 'Zeit' },
+      { tr: 'mola',     en: 'a break', es: 'un descanso', pt: 'uma pausa', de: 'eine Pause' },
+    ],
+  },
+  {
+    id: 'going_to',
+    note: 'Gitme: özne + gitmek + yer',
+    tr: '___ gidiyorum',
+    skeleton: { en: 'I am going to the ___', es: 'Voy al ___', pt: 'Eu vou ao ___', de: 'Ich gehe zum ___' },
+    slots: [
+      { tr: 'markete',  en: 'market',   es: 'mercado',   pt: 'mercado',   de: 'Markt' },
+      { tr: 'parka',    en: 'park',     es: 'parque',    pt: 'parque',    de: 'Park' },
+      { tr: 'doktora',  en: 'doctor',   es: 'médico',    pt: 'médico',    de: 'Arzt' },
+      { tr: 'okula',    en: 'school',   es: 'colegio',   pt: 'colégio',   de: 'Schule' },
+    ],
+  },
+  {
+    id: 'how_much',
+    note: 'Fiyat sorma: soru + nesne + ne kadar',
+    tr: '___ ne kadar?',
+    skeleton: { en: 'How much is the ___?', es: '¿Cuánto cuesta el ___?', pt: 'Quanto custa o ___?', de: 'Wie viel kostet der ___?' },
+    slots: [
+      { tr: 'bilet',    en: 'ticket',  es: 'billete', pt: 'bilhete', de: 'Fahrschein' },
+      { tr: 'kahve',    en: 'coffee',  es: 'café',    pt: 'café',    de: 'Kaffee' },
+      { tr: 'kitap',    en: 'book',    es: 'libro',   pt: 'livro',   de: 'Buch' },
+      { tr: 'oda',      en: 'room',    es: 'cuarto',  pt: 'quarto',  de: 'Zimmer' },
+    ],
+  },
+  {
+    id: 'i_am',
+    note: 'Durum: özne + olmak + sıfat',
+    tr: 'Ben ___',
+    skeleton: { en: 'I am ___', es: 'Estoy ___', pt: 'Eu estou ___', de: 'Ich bin ___' },
+    slots: [
+      { tr: 'mutlu',    en: 'happy',   es: 'feliz',     pt: 'feliz',     de: 'glücklich' },
+      { tr: 'yorgun',   en: 'tired',   es: 'cansado',   pt: 'cansado',   de: 'müde' },
+      { tr: 'hasta',    en: 'sick',    es: 'enfermo',   pt: 'doente',    de: 'krank' },
+      { tr: 'hazır',    en: 'ready',   es: 'listo',     pt: 'pronto',    de: 'bereit' },
+    ],
+  },
+  {
+    id: 'like_to',
+    note: 'Hoşlanma: özne + sevmek + fiil',
+    tr: '___ sevmem/severim',
+    skeleton: { en: 'I like to ___', es: 'Me gusta ___', pt: 'Eu gosto de ___', de: 'Ich ___ gern' },
+    slots: [
+      { tr: 'okumak',   en: 'read',    es: 'leer',      pt: 'ler',       de: 'lese' },
+      { tr: 'yemek',    en: 'cook',    es: 'cocinar',   pt: 'cozinhar',  de: 'koche' },
+      { tr: 'dans etmek', en: 'dance', es: 'bailar',    pt: 'dançar',    de: 'tanze' },
+      { tr: 'seyahat etmek', en: 'travel', es: 'viajar', pt: 'viajar',   de: 'reise' },
+    ],
+  },
 ]
 
 export const CHAINS = [

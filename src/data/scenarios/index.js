@@ -17,11 +17,15 @@ export const DOMAINS = {
   daily:    { label: 'Günlük Hayat',         emoji: '☀️' },
   work:     { label: 'İş & Meslek',          emoji: '💼' },
   finance:  { label: 'Banka & Para',         emoji: '🏦' },
+  tech:     { label: 'Teknoloji & Destek',   emoji: '💻' },
 }
 
 export const SCENARIOS = [
   { id: 'greetings',  title: 'Tanışma & Selam',     emoji: '🙋', domain: 'social',   level: 'A1' },
   { id: 'market',     title: 'Markette Alışveriş',  emoji: '🛒', domain: 'shopping', level: 'A1' },
+  { id: 'greengrocer',title: 'Manavda Alışveriş',   emoji: '🥬', domain: 'shopping', level: 'A1' },
+  { id: 'beauty',     title: 'Güzellik Ürünleri',   emoji: '💄', domain: 'shopping', level: 'A2' },
+  { id: 'electronics',title: 'Teknoloji Marketi',   emoji: '📱', domain: 'shopping', level: 'A2' },
   { id: 'restaurant', title: 'Restoranda Sipariş',  emoji: '🍽️', domain: 'food',     level: 'A1' },
   { id: 'school',     title: 'Okulda İlk Gün',      emoji: '🏫', domain: 'school',   level: 'A1' },
   { id: 'directions', title: 'Yol Sorma',           emoji: '🧭', domain: 'travel',   level: 'A1' },
@@ -32,4 +36,5 @@ export const SCENARIOS = [
   { id: 'phone',      title: 'Telefon Konuşması',   emoji: '📞', domain: 'daily',    level: 'A2' },
   { id: 'job',        title: 'İş Görüşmesi',        emoji: '💼', domain: 'work',     level: 'B1' },
   { id: 'bank',       title: 'Bankada',             emoji: '🏦', domain: 'finance',  level: 'B1' },
+  { id: 'techsupport',title: 'Teknik Destek',       emoji: '🛠️', domain: 'tech',     level: 'B1' },
 ]
