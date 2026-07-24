@@ -222,6 +222,11 @@ export function getStats(words = []) {
   }
 }
 
+/** Kelime yüklemeden doğrudan XP (seviye hesabı için). */
+export function getXP() {
+  return load().meta.xp || 0
+}
+
 /** Zor kelimeler (çok yanlış). */
 export function getHardWords(limit = 5) {
   const store = load()

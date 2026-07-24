@@ -4,8 +4,9 @@ import { useProgress, BADGE_DEFS } from '../hooks/useProgress'
 import { useSettings } from '../hooks/useSettings'
 import { useApp } from '../context/AppContext'
 import { useTranslation } from '../i18n/translations'
-import { resetProgress } from '../core/progressStore'
+import { resetProgress, getXP } from '../core/progressStore'
 import { resetSentences } from '../core/sentenceStore'
+import { getUserLevel } from '../core/levels'
 
 function getConvSummary() {
   try {
@@ -307,7 +308,7 @@ export default function ProfilePage() {
               fontSize: '14px', fontWeight: '700', color: '#0891B2',
             }}
           >
-            📊 Seviyeni Ölç{profile.current_level ? ` (şu an: ${profile.current_level})` : ''}
+            📊 Seviyeni Ölç (şu an: {getUserLevel(getXP())})
           </button>
         </div>
 

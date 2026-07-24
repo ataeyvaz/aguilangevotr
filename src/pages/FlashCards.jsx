@@ -5,6 +5,8 @@ import { recordDaily } from '../hooks/useDailyStats'
 import { CATEGORIES } from '../data/categories'
 import { useSpeech } from '../hooks/useSpeech'
 import { loadUpToLevel } from '../core/contentStore'
+import { getUserLevel } from '../core/levels'
+import { getXP } from '../core/progressStore'
 import { useTranslation } from '../i18n/translations'
 import SentenceMini from '../components/SentenceMini'
 import { makeSentenceForWord } from '../core/wordSentence'
@@ -46,7 +48,11 @@ export default function FlashCards() {
   const [showGrammar, setShowGrammar] = useState(false)
   const [showWordList, setShowWordList] = useState(false)
   const [toastType, setToastType] = useState(null)
-  const [selectedLevel, setSelectedLevel] = useState('A1')
+  // Açılış seviyesi Dashboard ile AYNI (tutarlılık): kullanıcı seviyesi, A1–B2'ye kırpılı
+  const [selectedLevel, setSelectedLevel] = useState(() => {
+    const lvl = getUserLevel(getXP())
+    return LEVELS.includes(lvl) ? lvl : 'A1'
+  })
   const [showMini, setShowMini] = useState(false)
   const sttTimerRef = useRef(null)
 

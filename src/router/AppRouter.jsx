@@ -39,9 +39,10 @@ import Dictation from '../pages/Dictation'
 // ── Akıllı yönlendirme (root "/") ────────────────────────
 function SmartRoot() {
   const { profile } = useApp()
-  if (!profile)                  return <Navigate to="/setup"           replace />
-  if (!profile.placement_done)   return <Navigate to="/placement-test"  replace />
-  return                                <Navigate to="/dashboard"        replace />
+  // Seviye testi artık ZORUNLU DEĞİL — eğitim akışına müdahale etmez.
+  // İsteğe bağlı olarak Profil > "Seviyeni Ölç" üzerinden çalışır.
+  if (!profile) return <Navigate to="/setup"     replace />
+  return               <Navigate to="/dashboard" replace />
 }
 
 // ── Router ───────────────────────────────────────────────

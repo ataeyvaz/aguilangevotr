@@ -7,7 +7,7 @@ import { loadUpToLevel } from '../core/contentStore'
 import { getStats as coreStats, getHardWords as coreHardWords } from '../core/progressStore'
 import { getLang } from '../core/langState'
 import { TARGET_LANGS } from '../core/languages'
-import { levelFromXP } from '../core/levels'
+import { getUserLevel } from '../core/levels'
 
 const DAILY_GOAL = 10
 
@@ -78,7 +78,8 @@ export default function Dashboard() {
   const hour     = new Date().getHours()
   const greeting = hour < 12 ? t('good morning') : hour < 18 ? t('good afternoon') : t('good evening')
 
-  const level = profile?.current_level
+  // TEK tutarlı seviye: eğitim ilerlemesi (XP) + varsa test sonucu
+  const level = getUserLevel(srsStats.xp || 0)
   const lc    = LEVEL_COLORS[level] ?? LEVEL_COLORS.A1
 
   return (
@@ -152,7 +153,7 @@ export default function Dashboard() {
               {[
                 { icon: '🔥', value: liveStreak,                 label: t('streak') },
                 { icon: '⭐', value: srsStats.xp || 0,           label: 'XP' },
-                { icon: '🏆', value: levelFromXP(srsStats.xp || 0), label: t('level') },
+                { icon: '🏆', value: level, label: t('level') },
               ].map((s, i) => (
               <div key={i} style={{
                 display: 'flex', alignItems: 'center', gap: '8px',

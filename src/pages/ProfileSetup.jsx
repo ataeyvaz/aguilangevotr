@@ -54,7 +54,8 @@ export default function ProfileSetup() {
     try { const s = localStorage.getItem(PROFILE_KEY); return s ? JSON.parse(s) : null }
     catch { return null }
   })()
-  const isReturning = !!(existingProfile?.placement_done)
+  // Daha önce kurulum yapmış mı? (dil seçimi var → dönen kullanıcı)
+  const isReturning = !!(existingProfile?.learn_lang)
 
   const [ageMode, setAgeMode] = useState(existingProfile?.type || 'adult')
 
@@ -95,7 +96,8 @@ export default function ProfileSetup() {
       learn_lang:  learnLang,
       pair_id:     pairId,
     })
-    navigate(isReturning ? '/dashboard' : '/placement-test')
+    // Seviye testi kaldırıldı — herkes doğrudan eğitime başlar.
+    navigate('/dashboard')
   }
 
   // ── "Öğrenmek istediğim dil" bölümü ────────────────────

@@ -25,3 +25,24 @@ export function nextLevel(id) {
   const i = LEVEL_ORDER.indexOf(id)
   return i >= 0 && i < LEVEL_ORDER.length - 1 ? LEVEL_ORDER[i + 1] : null
 }
+
+/** İsteğe bağlı seviye testinin sonucu (profilde saklı). Yoksa null. */
+export function placementLevel() {
+  try {
+    const p = JSON.parse(localStorage.getItem('aguilang_active_profile') || '{}')
+    return LEVEL_ORDER.includes(p.current_level) ? p.current_level : null
+  } catch { return null }
+}
+
+/**
+ * TEK tutarlı kullanıcı seviyesi.
+ * Kaynaklar: eğitim ilerlemesi (XP → öğrenilen kelime/pratik) + varsa test sonucu.
+ * Kural: ikisinden YÜKSEK olanı. Seviye testi eğitimi GEÇMEZ, yalnızca yukarı çekebilir.
+ * @param {number} xp  progressStore XP'si
+ */
+export function getUserLevel(xp = 0) {
+  const xpL = levelFromXP(xp)
+  const pL  = placementLevel()
+  if (!pL) return xpL
+  return LEVEL_ORDER.indexOf(pL) > LEVEL_ORDER.indexOf(xpL) ? pL : xpL
+}

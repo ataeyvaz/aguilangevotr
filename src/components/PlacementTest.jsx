@@ -60,10 +60,9 @@ export default function PlacementTest() {
   const TOTAL = questions.length
   const q = questions[current]
 
-  // Testi atla (isteğe bağlı) — A1 varsay ve panele geç
+  // Testten vazgeç — seviyeyi DEĞİŞTİRME (eğitim ilerlemesi korunur), geri dön
   const skipTest = useCallback(() => {
-    markPlacement('A1')
-    navigate('/dashboard')
+    navigate(-1)
   }, [navigate])
 
   // ── Cevap seçildi ─────────────────────────────────────
@@ -134,8 +133,9 @@ export default function PlacementTest() {
 
             <div className="mt-5 bg-cyan-50 border border-cyan-200 rounded-xl p-3">
               <p className="text-cyan-800 text-xs font-medium leading-relaxed">
-                💡 İstersen bu testi atlayıp doğrudan başlayabilirsin. Seviyeni
-                sonra profilinden de ölçebilirsin.
+                💡 Bu test isteğe bağlıdır ve eğitimini etkilemez. Öğrendikçe
+                seviyen zaten kendiliğinden yükselir; bu test yalnızca mevcut
+                seviyeni ölçer ve gerekiyorsa yukarı çeker.
               </p>
             </div>
           </div>
@@ -156,7 +156,7 @@ export default function PlacementTest() {
             className="w-full py-3 mt-3 text-slate-500 hover:text-slate-700 font-bold text-sm"
             style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}
           >
-            Şimdilik atla →
+            ← Vazgeç
           </button>
         </div>
       </div>
