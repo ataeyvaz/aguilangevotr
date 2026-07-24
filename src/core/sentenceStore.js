@@ -55,7 +55,9 @@ export const FN_LABELS = {
   oynama: 'Oynama',
   sayma: 'Sayma',
   yaş: 'Yaş',
+  renk: 'Renk',
   // genel bucket'lar
+  ifade: 'Hazır İfade',
   cümle: 'Genel Cümle',
   kalıp: 'Cümle Kalıbı',
 }
